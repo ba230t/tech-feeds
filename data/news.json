@@ -1,7 +1,120 @@
 {
-  "updated_at": "2026-10-24T20:06:57.027751+00:00",
-  "count": 105,
+  "updated_at": "2026-10-24T20:36:04.594658+00:00",
+  "count": 118,
   "items": [
+    {
+      "id": "qiita-0bf602bcba",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "source は「源流」だった ── ER図を川の流れで読んで、中間テーブルと through を理解する",
+      "url": "https://qiita.com/mmsbox/items/f2950c2690150264353b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-24T23:50:36+09:00",
+      "severity": "critical",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-157a9e9be1",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "わからない言葉を、わからないままにしない。React基礎用語の学び直し！",
+      "url": "https://qiita.com/jota9613/items/138c3a90bd981659844f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-24T22:53:48+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-0deddd40a9",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "MetaのMuseが日本で開始したのでMuse Gadgetsで遊ぼう",
+      "url": "https://qiita.com/moritalous/items/840ed6c78ba0508142ef?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-24T19:54:53+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-be824b9a55",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "Anthropic公式の「データアナリスト用スキル」を読んで、分析の進め方を5段に整理してみた",
+      "url": "https://qiita.com/ktdatascience/items/8f1756519016c6f64ea0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-24T17:30:50+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-7e2df95003",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "エラーは出ないのに数字が間違っている——データ分析で間違えやすい8つのポイントと見つけ方",
+      "url": "https://qiita.com/ktdatascience/items/590daa27d9752a9f38fd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-24T17:16:33+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-373a813302",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "【書評】プロフェッショナルAI駆動開発を読んだ",
+      "url": "https://qiita.com/tetsuro731/items/c673cf947c3724cd5493?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-24T16:39:50+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-183bdb507a",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "AIエージェント専用の技術ブログ基盤をHonoとCloudflare無料枠で作った",
+      "url": "https://qiita.com/y-moriya/items/5181ec40e2180348565c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-24T16:32:10+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-15f4ca4cb7",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "【S3 Files】ファイルシステムと S3 バケットの同期にかかる時間を測ってみた",
+      "url": "https://qiita.com/ryu-ki/items/ac1152359bcf1217c1f5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-24T15:39:32+09:00",
+      "hatena_count": 0
+    },
     {
       "id": "qiita-b0370a5195",
       "source": "sns",
@@ -14,6 +127,20 @@
         "Qiita"
       ],
       "date": "2026-10-24T11:35:12+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-099c3df519",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "医療従事者からIT業界へ。1年目エンジニアの自己紹介と、Pythonで目視作業を自動化して感動した話",
+      "url": "https://qiita.com/L-Avenir/items/921c343d8e6ffe15ab79?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-24T11:15:34+09:00",
       "hatena_count": 0
     },
     {
@@ -45,6 +172,20 @@
       "hatena_count": 0
     },
     {
+      "id": "qiita-c2bb63a966",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "ReActとPlan-Executeを実装して比較する — タスク特性ごとの向き不向き【TypeScript】",
+      "url": "https://qiita.com/joinclass/items/21ec0a1cb73de7a270e0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-24T08:30:02+09:00",
+      "hatena_count": 0
+    },
+    {
       "id": "qiita-cce032bf74",
       "source": "sns",
       "sub_source": "Qiita",
@@ -56,6 +197,20 @@
         "Qiita"
       ],
       "date": "2026-10-24T08:16:55+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-a31e125948",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "AIの報告「約5時間止まっていた」は約2分だった：Claude Code の JSONL で照合",
+      "url": "https://qiita.com/kaiyaku_iyada/items/cbadd82923bd7fcee3b3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-24T07:58:51+09:00",
       "hatena_count": 0
     },
     {
@@ -98,6 +253,20 @@
         "Qiita"
       ],
       "date": "2026-10-24T01:35:39+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-d7023aa68b",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "dev-orchestra に自作のエージェントを繋いでみた（ローカルLLM編）",
+      "url": "https://qiita.com/istb16/items/076d39eec03d02352da7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-23T23:20:33+09:00",
       "hatena_count": 0
     },
     {
@@ -282,6 +451,21 @@
         "Qiita"
       ],
       "date": "2026-10-23T09:11:28+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-00dac1e3d6",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "顧客説明で「高市さんが言ってたから！」と言えるのが強すぎる！ PHPの緊急メンテで見えたトップダウンとAI時代の脆弱性対応",
+      "url": "https://qiita.com/shinkai_/items/a45455b514bf9d32275a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-22T19:20:29+09:00",
+      "severity": "critical",
       "hatena_count": 0
     },
     {
