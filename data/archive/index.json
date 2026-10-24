@@ -28,6 +28,14 @@
       "month": "2026-07",
       "total_articles": 3,
       "summary": "# 2026-07の技術動向レポート\n\n**セキュリティ動向 (3件)**\n\n1. WordPressの脆弱性対策について(CVE-2026-60137、CVE-2026-63030：wp2shell)\n\n2. Oracle Java の脆弱性対策について(2026年7月)\n\n3. Microsoft 製品の脆弱性対策について(2026年7月)",
+      "file": "2026-07.json",
+      "html_file": "2026-07.html",
+      "compressed": false
+    },
+    {
+      "month": "2026-07",
+      "total_articles": 3,
+      "summary": "# 2026-07の技術動向レポート\n\n**セキュリティ動向 (3件)**\n\n1. WordPressの脆弱性対策について(CVE-2026-60137、CVE-2026-63030：wp2shell)\n\n2. Oracle Java の脆弱性対策について(2026年7月)\n\n3. Microsoft 製品の脆弱性対策について(2026年7月)",
       "file": "2026-07.json.gz",
       "html_file": "2026-07.html",
       "compressed": true
@@ -36,9 +44,25 @@
       "month": "2026-06",
       "total_articles": 4,
       "summary": "# 2026-06の技術動向レポート\n\n**セキュリティ動向 (2件)**\n\n1. Microsoft 製品の脆弱性対策について(2026年6月)\n\n2. Check Point Software Technologies製品の脆弱性対策について(CVE-2026-50751)\n\n**技術トレンド (1件)**\n\n1. 更新：Windows 10のサポート終了に伴う注意喚起",
+      "file": "2026-06.json",
+      "html_file": "2026-06.html",
+      "compressed": false
+    },
+    {
+      "month": "2026-06",
+      "total_articles": 4,
+      "summary": "# 2026-06の技術動向レポート\n\n**セキュリティ動向 (2件)**\n\n1. Microsoft 製品の脆弱性対策について(2026年6月)\n\n2. Check Point Software Technologies製品の脆弱性対策について(CVE-2026-50751)\n\n**技術トレンド (1件)**\n\n1. 更新：Windows 10のサポート終了に伴う注意喚起",
       "file": "2026-06.json.gz",
       "html_file": "2026-06.html",
       "compressed": true
+    },
+    {
+      "month": "2026-05",
+      "total_articles": 3,
+      "summary": "# 2026-05の技術動向レポート\n\n**セキュリティ動向 (1件)**\n\n1. Palo Alto Networks製PAN-OSの脆弱性対策について(CVE-2026-0300)",
+      "file": "2026-05.json",
+      "html_file": "2026-05.html",
+      "compressed": false
     },
     {
       "month": "2026-05",

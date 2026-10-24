@@ -1,0 +1,59 @@
+{
+  "month": "2026-07",
+  "total_articles": 3,
+  "summary": "# 2026-07の技術動向レポート\n\n**セキュリティ動向 (3件)**\n\n1. WordPressの脆弱性対策について(CVE-2026-60137、CVE-2026-63030：wp2shell)\n\n2. Oracle Java の脆弱性対策について(2026年7月)\n\n3. Microsoft 製品の脆弱性対策について(2026年7月)",
+  "source_counts": {
+    "ipa": 3
+  },
+  "severity_counts": {
+    "medium": 3
+  },
+  "top_articles": [
+    {
+      "id": "ipa-4eeaa570b7",
+      "source": "ipa",
+      "title": "WordPressの脆弱性対策について(CVE-2026-60137、CVE-2026-63030：wp2shell)",
+      "url": "https://www.ipa.go.jp/security/security-alert/2026/alert20260722.html",
+      "score": 5,
+      "author": "IPA",
+      "tags": [
+        "IPA",
+        "セキュリティ"
+      ],
+      "severity": "medium",
+      "date": "2026-07-22T00:00:00+09:00",
+      "hatena_count": 5
+    },
+    {
+      "id": "ipa-8c22c4c822",
+      "source": "ipa",
+      "title": "Oracle Java の脆弱性対策について(2026年7月)",
+      "url": "https://www.ipa.go.jp/security/security-alert/2026/0722-jre.html",
+      "score": 2,
+      "author": "IPA",
+      "tags": [
+        "IPA",
+        "セキュリティ"
+      ],
+      "severity": "medium",
+      "date": "2026-07-22T00:00:00+09:00",
+      "hatena_count": 2
+    },
+    {
+      "id": "ipa-e24281ea83",
+      "source": "ipa",
+      "title": "Microsoft 製品の脆弱性対策について(2026年7月)",
+      "url": "https://www.ipa.go.jp/security/security-alert/2026/0715-ms.html",
+      "score": 1,
+      "author": "IPA",
+      "tags": [
+        "IPA",
+        "セキュリティ"
+      ],
+      "severity": "medium",
+      "date": "2026-07-15T00:00:00+09:00",
+      "hatena_count": 1
+    }
+  ],
+  "security_highlights": []
+}

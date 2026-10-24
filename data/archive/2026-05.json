@@ -1,0 +1,59 @@
+{
+  "month": "2026-05",
+  "total_articles": 3,
+  "summary": "# 2026-05の技術動向レポート\n\n**セキュリティ動向 (1件)**\n\n1. Palo Alto Networks製PAN-OSの脆弱性対策について(CVE-2026-0300)",
+  "source_counts": {
+    "ipa": 3
+  },
+  "severity_counts": {
+    "medium": 3
+  },
+  "top_articles": [
+    {
+      "id": "ipa-2f301420a2",
+      "source": "ipa",
+      "title": "Palo Alto Networks製PAN-OSの脆弱性対策について(CVE-2026-0300)",
+      "url": "https://www.ipa.go.jp/security/security-alert/2026/alert20260508.html",
+      "score": 1,
+      "author": "IPA",
+      "tags": [
+        "IPA",
+        "セキュリティ"
+      ],
+      "severity": "medium",
+      "date": "2026-05-08T00:00:00+09:00",
+      "hatena_count": 1
+    },
+    {
+      "id": "ipa-60ac46e80e",
+      "source": "ipa",
+      "title": "「GUARDIANWALL MailSuite」におけるスタックベースのバッファオーバーフローの脆弱性について（JVN#35567473）",
+      "url": "https://www.ipa.go.jp/security/security-alert/2026/20260513-jvn.html",
+      "score": 0,
+      "author": "IPA",
+      "tags": [
+        "IPA",
+        "セキュリティ"
+      ],
+      "severity": "medium",
+      "date": "2026-05-13T00:00:00+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "ipa-c0a35c6308",
+      "source": "ipa",
+      "title": "Microsoft 製品の脆弱性対策について(2026年5月)",
+      "url": "https://www.ipa.go.jp/security/security-alert/2026/0513-ms.html",
+      "score": 0,
+      "author": "IPA",
+      "tags": [
+        "IPA",
+        "セキュリティ"
+      ],
+      "severity": "medium",
+      "date": "2026-05-13T00:00:00+09:00",
+      "hatena_count": 0
+    }
+  ],
+  "security_highlights": []
+}
