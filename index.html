@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>tech-feeds</title>
+  <link rel="stylesheet" href="./assets/app.css">
+</head>
+<body>
+  <!-- ヘッダー -->
+  <header class="header">
+    <div class="header-content">
+      <div class="logo">
+        <span>🐙</span>
+        <span>tech-feeds</span>
+      </div>
+      <div class="search-box">
+        <input type="text" placeholder="キーワードで検索..." id="searchInput">
+      </div>
+      <div class="header-stats" id="headerStats">
+        読み込み中...
+      </div>
+    </div>
+  </header>
+
+  <!-- ナビゲーション -->
+  <nav class="nav">
+    <div class="nav-content">
+      <button class="nav-btn active" data-filter="all">すべて</button>
+      <button class="nav-btn" data-filter="top">Top 20</button>
+      <button class="nav-btn" data-filter="security">セキュリティ</button>
+      <button class="nav-btn" data-filter="ai">AI</button>
+      <button class="nav-btn" data-filter="tech">技術</button>
+      <button class="nav-btn" data-filter="archive">月次まとめ</button>
+    </div>
+  </nav>
+
+  <!-- メインコンテンツ -->
+  <div class="container">
+    <!-- Topランキングセクション -->
+    <div class="top-section" id="topSection" style="display:none;">
+      <h2>🏆 Top 20 人気記事</h2>
+      <div class="top-list" id="topList"></div>
+    </div>
+
+    <!-- ニュースグリッド -->
+    <div id="newsContainer">
+      <div class="loading">ニュースを読み込んでいます</div>
+    </div>
+  </div>
+
+  <script src="./assets/app.js"></script>
+</body>
+</html>
