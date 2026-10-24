@@ -1,0 +1,1542 @@
+{
+  "updated_at": "2026-10-24T12:09:54.849495+00:00",
+  "count": 105,
+  "items": [
+    {
+      "id": "qiita-b0370a5195",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "日本と同じ条件の国は何をしたか ― 財政政策の国際比較実証研究 : システム設計視点の行動経済学 (48)",
+      "url": "https://qiita.com/maskot1977/items/faa29f9bdce4dab79040?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-24T11:35:12+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-36fb0d80f8",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "Databricks の ai_decide で「個人情報が入っているか」だけ先に判定して、LLM のマスクを減らす",
+      "url": "https://qiita.com/kamo-shika/items/6e2223296543af9a7c9e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-24T11:09:43+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-4053fddc82",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "2026年10月24日 今日のQiitaトレンド記事をポッドキャストで聴こう！",
+      "url": "https://qiita.com/ennagara128/items/a6fedbfb8bafd9b24b25?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-24T10:40:42+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-cce032bf74",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "AIに美容室の社長を演じてもらい、コアドメインを探すヒアリング練習をしたら「強み」を掴めなかった話",
+      "url": "https://qiita.com/ken_risu_dev/items/c2e392bdb0d8ffd50fc6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-24T08:16:55+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-d945c3a553",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "定期タスクの1行の $( ) で、誰もいない朝に止まった：Claude Code の承認待ちと日付の取り方",
+      "url": "https://qiita.com/vellum_office/items/923da31d9b8f287caf78?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-24T07:47:16+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-d6e62e48c0",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "耳で聞く！Python で学ぶ マクロ経済学 入門 34",
+      "url": "https://qiita.com/maskot1977/items/3c68b2af16850b86253c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-24T02:06:19+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-d31b6cb503",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "Claude Code の routine とローカル定期実行で、承認待ちで止まった AI 会社を動かし直した話",
+      "url": "https://qiita.com/berrylove/items/e5ae1c4b9ca20e1f34ce?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-24T01:35:39+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-84c25f3bc6",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "なぜAIは1回の出力上限を超えて巨大コードを書けるのか？コーディングエージェント徹底解剖",
+      "url": "https://qiita.com/lumichy/items/fa63c052c502f3713006?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-23T21:39:15+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-c42c9a0ab3",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "Claude Code + OpenRouter で実現する「ゼロ円 AI コーディング環境」— 無料モデル 5 選と設定手順",
+      "url": "https://qiita.com/locallab/items/0a10af8cb0d50592b98b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-23T21:01:10+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-4c1d75a6d9",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "3KBしか使えない！奇妙で素敵なゲームエンジン「Playload」のご紹介",
+      "url": "https://qiita.com/kitao/items/7fac93e8a7ad6015b0b0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-23T18:11:47+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-8f1450fde7",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "PHP2Shell緊急対策：日本国内向けサイトで海外IPを全部弾く、即効性のあるIPフィルタ防御",
+      "url": "https://qiita.com/Hiro884/items/27a98c86ef17b70df7ed?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-23T16:44:20+09:00",
+      "severity": "critical",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-41f1cac688",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "【合格体験記】🐍Python 3 エンジニア認定基礎試験_勉強法、注意点まとめ📝【Python】",
+      "url": "https://qiita.com/saito_next/items/dc22d3f447bec13e1dd5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-23T16:31:14+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-abd0491548",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "【速報】VS Code 1.142 に Canvas が来た！チャットの横でエージェントと同じ画面を触れる「Interactive Canvases」を整理してみた",
+      "url": "https://qiita.com/shahin0809/items/81e6a6737b2254bdc6ed?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-23T15:50:22+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-ab24099f31",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "Obsidian でタブが散らかる人へ：見落とされがちなコアプラグイン「ワークスペース」で複数案件を切り替える",
+      "url": "https://qiita.com/ito-y/items/b3f19402b56a44141dd9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-23T15:26:36+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-62df0dc6c0",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "作って終わりじゃない。PHP騒動から考えるAI時代のモノづくり",
+      "url": "https://qiita.com/benjuwan/items/dfdf178488106c6dcb70?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-23T14:30:13+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-a7f913a6f9",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "【ノーコード業務改善】棚卸を「QRコード×Googleフォーム×スプレッドシート」で劇的に効率化した話",
+      "url": "https://qiita.com/dohwan_kim/items/21266e799ed4bb2993f3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-23T14:12:12+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-615a68eef6",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "Codexに「承認待ちをDiscordに通知してほしい」と相談して、通知ツールを作ってみた",
+      "url": "https://qiita.com/shota_hirano/items/5aa037294434003db2db?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-23T14:03:31+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "jpcert-16ed91e989",
+      "source": "jpcert",
+      "title": "注意喚起: 直近で相次いでいる国内組織における不正アクセスに関する注意喚起  (更新)",
+      "url": "https://www.jpcert.or.jp/at/2026/at260030.html",
+      "score": 707,
+      "author": "JPCERT/CC",
+      "tags": [
+        "JPCERT",
+        "セキュリティ"
+      ],
+      "severity": "high",
+      "date": "2026-10-23T11:37+09:00",
+      "hatena_count": 707
+    },
+    {
+      "id": "qiita-4e32422a87",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "canvas上の文字にプロポーショナルメトリクスを適用したい！",
+      "url": "https://qiita.com/Kaitou/items/9746c5c262f994c1548c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-23T10:05:08+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-a237c80502",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "Copilot の Agent Builder が凄く進化した。何ができるようになったか、Copilot Studio（GitHub Copilot ハーネス）との違いも整理してみる",
+      "url": "https://qiita.com/Takashi_Masumori/items/c559b0291db39b2169c1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-23T09:11:28+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-7d5b5ac0fd",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "【緊急】Node.jsの重大脆弱性に対応するセキュリティアップデートを安全に適用する方法",
+      "url": "https://qiita.com/superdora-cloud/items/8cad27487cd0e67d088c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 1,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-22T13:46:40+09:00",
+      "severity": "critical",
+      "hatena_count": 1
+    },
+    {
+      "id": "jpcert-30cd0d7475",
+      "source": "jpcert",
+      "title": "注意喚起: PHPにおける複数の脆弱性（CVE-2026-109618、CVE-2026-109619）に関する注意喚起  (公開)",
+      "url": "https://www.jpcert.or.jp/at/2026/at260033.html",
+      "score": 1,
+      "author": "JPCERT/CC",
+      "tags": [
+        "JPCERT",
+        "セキュリティ"
+      ],
+      "severity": "high",
+      "date": "2026-10-22T13:11+09:00",
+      "hatena_count": 1
+    },
+    {
+      "id": "qiita-19486e2b18",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "「PHPなんて使ってるやつが悪い」と言っている輩が一番危ない",
+      "url": "https://qiita.com/kotowazaman/items/aab621d31a8501617eb4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-22T12:50:13+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-804ca66c04",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "PHP脆弱性php2shell対応、7.4本番を止めずに守った夜と実際の攻撃",
+      "url": "https://qiita.com/kenimo49/items/30f290bf0f4fff021fb3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-22T02:15:15+09:00",
+      "severity": "high",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-9af9c6ce33",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "Amazon Linux 2023 の PHP を CVE-2026-109618 修正版へ先行ビルドする",
+      "url": "https://qiita.com/amu-kuroneko/items/46f00fbe8b5bac009c1c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-22T00:02:18+09:00",
+      "severity": "high",
+      "hatena_count": 0
+    },
+    {
+      "id": "ipa-ee45d6bd49",
+      "source": "ipa",
+      "title": "PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell)",
+      "url": "https://www.ipa.go.jp/security/security-alert/2026/alert20261022.html",
+      "score": 18,
+      "author": "IPA",
+      "tags": [
+        "IPA",
+        "セキュリティ"
+      ],
+      "severity": "medium",
+      "date": "2026-10-22T00:00:00+09:00",
+      "hatena_count": 18
+    },
+    {
+      "id": "qiita-7d2b34e682",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "【緊急】PHPの重大脆弱性2件(CVE-2026-109618 / 109619)を安全にアップデートする方法",
+      "url": "https://qiita.com/superdora-cloud/items/10ddecde5fb1d032f17c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-21T23:17:51+09:00",
+      "severity": "critical",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-9e5e15aef9",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "「ドパ資料」の作り方",
+      "url": "https://qiita.com/kikuziro/items/b6a0743b070d7320c36d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-21T18:04:32+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "jpcert-c09c0b7b32",
+      "source": "jpcert",
+      "title": "Weekly Report: Microsoft Edgeに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261021.html#1",
+      "score": 0,
+      "author": "JPCERT/CC",
+      "tags": [
+        "JPCERT",
+        "セキュリティ"
+      ],
+      "severity": "info",
+      "date": "2026-10-21T09:12+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "jpcert-434b123aa3",
+      "source": "jpcert",
+      "title": "Weekly Report: 複数のJuniper Networks製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261021.html#2",
+      "score": 0,
+      "author": "JPCERT/CC",
+      "tags": [
+        "JPCERT",
+        "セキュリティ"
+      ],
+      "severity": "info",
+      "date": "2026-10-21T09:12+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "jpcert-28c01c363f",
+      "source": "jpcert",
+      "title": "Weekly Report: BeyondTrust Remote Supportになりすましによる認証回避の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261021.html#3",
+      "score": 0,
+      "author": "JPCERT/CC",
+      "tags": [
+        "JPCERT",
+        "セキュリティ"
+      ],
+      "severity": "info",
+      "date": "2026-10-21T09:12+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "jpcert-5654f2cdd2",
+      "source": "jpcert",
+      "title": "Weekly Report: 複数のNGINX製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261021.html#4",
+      "score": 0,
+      "author": "JPCERT/CC",
+      "tags": [
+        "JPCERT",
+        "セキュリティ"
+      ],
+      "severity": "info",
+      "date": "2026-10-21T09:12+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "jpcert-5c583cf474",
+      "source": "jpcert",
+      "title": "Weekly Report: Drupal coreおよび複数のモジュールに脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261021.html#5",
+      "score": 0,
+      "author": "JPCERT/CC",
+      "tags": [
+        "JPCERT",
+        "セキュリティ"
+      ],
+      "severity": "info",
+      "date": "2026-10-21T09:12+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "jpcert-c991e429bd",
+      "source": "jpcert",
+      "title": "Weekly Report: 複数のAdobe製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261021.html#6",
+      "score": 0,
+      "author": "JPCERT/CC",
+      "tags": [
+        "JPCERT",
+        "セキュリティ"
+      ],
+      "severity": "info",
+      "date": "2026-10-21T09:12+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "jpcert-ab1f0ab845",
+      "source": "jpcert",
+      "title": "Weekly Report: Google Chromeに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261021.html#7",
+      "score": 0,
+      "author": "JPCERT/CC",
+      "tags": [
+        "JPCERT",
+        "セキュリティ"
+      ],
+      "severity": "info",
+      "date": "2026-10-21T09:12+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "jpcert-22972697dd",
+      "source": "jpcert",
+      "title": "Weekly Report: Next.jsに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261021.html#8",
+      "score": 0,
+      "author": "JPCERT/CC",
+      "tags": [
+        "JPCERT",
+        "セキュリティ"
+      ],
+      "severity": "info",
+      "date": "2026-10-21T09:12+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "jpcert-3dc41fcbaa",
+      "source": "jpcert",
+      "title": "Weekly Report: EC-CUBE4系用プラグイン「AmazonPayプラグイン」に不変と想定しているWebパラメータの外部制御の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261021.html#9",
+      "score": 0,
+      "author": "JPCERT/CC",
+      "tags": [
+        "JPCERT",
+        "セキュリティ"
+      ],
+      "severity": "info",
+      "date": "2026-10-21T09:12+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "jpcert-750753b50e",
+      "source": "jpcert",
+      "title": "Weekly Report: NextcloudのCollabora Online - Built-in CODE Serverに脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261021.html#10",
+      "score": 0,
+      "author": "JPCERT/CC",
+      "tags": [
+        "JPCERT",
+        "セキュリティ"
+      ],
+      "severity": "info",
+      "date": "2026-10-21T09:12+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "jpcert-c43e3ae2d9",
+      "source": "jpcert",
+      "title": "Weekly Report: 複数のPalo Alto Networks製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261021.html#11",
+      "score": 0,
+      "author": "JPCERT/CC",
+      "tags": [
+        "JPCERT",
+        "セキュリティ"
+      ],
+      "severity": "info",
+      "date": "2026-10-21T09:12+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "jpcert-58c3c9f377",
+      "source": "jpcert",
+      "title": "Weekly Report: Cisco Secure Email Gatewayに任意のファイル書き込みの脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261021.html#12",
+      "score": 0,
+      "author": "JPCERT/CC",
+      "tags": [
+        "JPCERT",
+        "セキュリティ"
+      ],
+      "severity": "info",
+      "date": "2026-10-21T09:12+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "jpcert-68f845691d",
+      "source": "jpcert",
+      "title": "Weekly Report: 複数のZoom製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261021.html#13",
+      "score": 0,
+      "author": "JPCERT/CC",
+      "tags": [
+        "JPCERT",
+        "セキュリティ"
+      ],
+      "severity": "info",
+      "date": "2026-10-21T09:12+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "jpcert-f0e8a11a42",
+      "source": "jpcert",
+      "title": "Weekly Report: 複数のMozilla製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261021.html#14",
+      "score": 0,
+      "author": "JPCERT/CC",
+      "tags": [
+        "JPCERT",
+        "セキュリティ"
+      ],
+      "severity": "info",
+      "date": "2026-10-21T09:12+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "jpcert-f47f9a31a6",
+      "source": "jpcert",
+      "title": "Weekly Report: 複数のSAP製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261021.html#15",
+      "score": 0,
+      "author": "JPCERT/CC",
+      "tags": [
+        "JPCERT",
+        "セキュリティ"
+      ],
+      "severity": "info",
+      "date": "2026-10-21T09:12+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "jpcert-2f7894da18",
+      "source": "jpcert",
+      "title": "Weekly Report: 複数のFortinet製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261021.html#16",
+      "score": 0,
+      "author": "JPCERT/CC",
+      "tags": [
+        "JPCERT",
+        "セキュリティ"
+      ],
+      "severity": "info",
+      "date": "2026-10-21T09:12+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "jpcert-ffdab6f037",
+      "source": "jpcert",
+      "title": "Weekly Report: Ivanti Connect Secureに認証回避の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261021.html#17",
+      "score": 0,
+      "author": "JPCERT/CC",
+      "tags": [
+        "JPCERT",
+        "セキュリティ"
+      ],
+      "severity": "info",
+      "date": "2026-10-21T09:12+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "jpcert-ac745da631",
+      "source": "jpcert",
+      "title": "Weekly Report: AssetViewに重要なリソースに対する不適切なアクセス権の割り当ての脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261021.html#18",
+      "score": 0,
+      "author": "JPCERT/CC",
+      "tags": [
+        "JPCERT",
+        "セキュリティ"
+      ],
+      "severity": "info",
+      "date": "2026-10-21T09:12+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "jpcert-fe993715ab",
+      "source": "jpcert",
+      "title": "Weekly Report: ((OTRS)) Community Editionに認証回避の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261021.html#19",
+      "score": 0,
+      "author": "JPCERT/CC",
+      "tags": [
+        "JPCERT",
+        "セキュリティ"
+      ],
+      "severity": "info",
+      "date": "2026-10-21T09:12+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "jpcert-ac8c9c52b8",
+      "source": "jpcert",
+      "title": "Weekly Report: ProgressのMarkLogic Serverに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261021.html#20",
+      "score": 0,
+      "author": "JPCERT/CC",
+      "tags": [
+        "JPCERT",
+        "セキュリティ"
+      ],
+      "severity": "info",
+      "date": "2026-10-21T09:12+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "jpcert-5169c4e333",
+      "source": "jpcert",
+      "title": "Weekly Report: GitLabに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261021.html#21",
+      "score": 0,
+      "author": "JPCERT/CC",
+      "tags": [
+        "JPCERT",
+        "セキュリティ"
+      ],
+      "severity": "info",
+      "date": "2026-10-21T09:12+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "jpcert-75de934d31",
+      "source": "jpcert",
+      "title": "Weekly Report: JPCERT/CCが「連続不正アクセス事案の攻撃手法に関する調査」を公開",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261021.html#22",
+      "score": 0,
+      "author": "JPCERT/CC",
+      "tags": [
+        "JPCERT",
+        "セキュリティ"
+      ],
+      "severity": "info",
+      "date": "2026-10-21T09:12+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "jpcert-f0c12f9843",
+      "source": "jpcert",
+      "title": "Weekly Report: SiteGuard Server EditionにOSコマンドインジェクションの脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261021.html#23",
+      "score": 0,
+      "author": "JPCERT/CC",
+      "tags": [
+        "JPCERT",
+        "セキュリティ"
+      ],
+      "severity": "info",
+      "date": "2026-10-21T09:12+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "jpcert-87391d2d35",
+      "source": "jpcert",
+      "title": "Weekly Report: 複数のマイクロソフト製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261021.html#24",
+      "score": 0,
+      "author": "JPCERT/CC",
+      "tags": [
+        "JPCERT",
+        "セキュリティ"
+      ],
+      "severity": "info",
+      "date": "2026-10-21T09:12+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "ipa-6e5c697bce",
+      "source": "ipa",
+      "title": "【事前準備のお願い】PHPのセキュリティリリース公開予定について",
+      "url": "https://www.ipa.go.jp/security/security-alert/2026/pre-alert20261021.html",
+      "score": 101,
+      "author": "IPA",
+      "tags": [
+        "IPA",
+        "セキュリティ"
+      ],
+      "severity": "medium",
+      "date": "2026-10-21T00:00:00+09:00",
+      "hatena_count": 101
+    },
+    {
+      "id": "ipa-88e47602f8",
+      "source": "ipa",
+      "title": "Oracle Java の脆弱性対策について(2026年10月)",
+      "url": "https://www.ipa.go.jp/security/security-alert/2026/1021-jre.html",
+      "score": 21,
+      "author": "IPA",
+      "tags": [
+        "IPA",
+        "セキュリティ"
+      ],
+      "severity": "medium",
+      "date": "2026-10-21T00:00:00+09:00",
+      "hatena_count": 21
+    },
+    {
+      "id": "jpcert-0593ec9b1b",
+      "source": "jpcert",
+      "title": "注意喚起: SiteGuard Server EditionにおけるOSコマンドインジェクションの脆弱性（CVE-2026-106931）に関する注意喚起  (公開)",
+      "url": "https://www.jpcert.or.jp/at/2026/at260032.html",
+      "score": 4,
+      "author": "JPCERT/CC",
+      "tags": [
+        "JPCERT",
+        "セキュリティ"
+      ],
+      "severity": "high",
+      "date": "2026-10-14T14:18+09:00",
+      "hatena_count": 4
+    },
+    {
+      "id": "jpcert-027b004008",
+      "source": "jpcert",
+      "title": "注意喚起: 2026年10月マイクロソフトセキュリティ更新プログラムに関する注意喚起  (公開)",
+      "url": "https://www.jpcert.or.jp/at/2026/at260031.html",
+      "score": 0,
+      "author": "JPCERT/CC",
+      "tags": [
+        "JPCERT",
+        "セキュリティ"
+      ],
+      "severity": "high",
+      "date": "2026-10-14T11:25+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "ipa-1ab29965eb",
+      "source": "ipa",
+      "title": "Microsoft 製品の脆弱性対策について(2026年10月)",
+      "url": "https://www.ipa.go.jp/security/security-alert/2026/1014-ms.html",
+      "score": 0,
+      "author": "IPA",
+      "tags": [
+        "IPA",
+        "セキュリティ"
+      ],
+      "severity": "medium",
+      "date": "2026-10-14T00:00:00+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "ipa-a1a30e44db",
+      "source": "ipa",
+      "title": "不正アクセスによる漏えい等の事案を踏まえ、速やかに実施すべき対策等について",
+      "url": "https://www.ipa.go.jp/security/security-alert/2026/alert20261009.html",
+      "score": 513,
+      "author": "IPA",
+      "tags": [
+        "IPA",
+        "セキュリティ"
+      ],
+      "severity": "medium",
+      "date": "2026-10-09T00:00:00+09:00",
+      "hatena_count": 513
+    },
+    {
+      "id": "ipa-285b7532c9",
+      "source": "ipa",
+      "title": "「Movable Type」における複数の脆弱性について（JVN#91153973）",
+      "url": "https://www.ipa.go.jp/security/security-alert/2026/20261007-jvn.html",
+      "score": 1,
+      "author": "IPA",
+      "tags": [
+        "IPA",
+        "セキュリティ"
+      ],
+      "severity": "medium",
+      "date": "2026-10-07T00:00:00+09:00",
+      "hatena_count": 1
+    },
+    {
+      "id": "jpcert-992361585c",
+      "source": "jpcert",
+      "title": "注意喚起: NetScaler ADCおよびNetScaler Gatewayにおける複数の脆弱性（CVE-2026-88771、CVE-2026-88772等）に関する注意喚起  (更新)",
+      "url": "https://www.jpcert.or.jp/at/2026/at260029.html",
+      "score": 2,
+      "author": "JPCERT/CC",
+      "tags": [
+        "JPCERT",
+        "セキュリティ"
+      ],
+      "severity": "high",
+      "date": "2026-10-02T14:15+09:00",
+      "hatena_count": 2
+    },
+    {
+      "id": "ipa-f99d5bc18f",
+      "source": "ipa",
+      "title": "NetScaler ADCおよびNetScaler Gatewayの脆弱性について(CVE-2026-88771、CVE-2026-88772等)",
+      "url": "https://www.ipa.go.jp/security/security-alert/2026/alert20260928.html",
+      "score": 3,
+      "author": "IPA",
+      "tags": [
+        "IPA",
+        "セキュリティ"
+      ],
+      "severity": "medium",
+      "date": "2026-09-28T00:00:00+09:00",
+      "hatena_count": 3
+    },
+    {
+      "id": "jpcert-d1a73c3457",
+      "source": "jpcert",
+      "title": "注意喚起: F5 BIG-IP Access Policy Managerにおけるヒープベースのバッファオーバーフローの脆弱性（CVE-2026-94127）に関する注意喚起  (公開)",
+      "url": "https://www.jpcert.or.jp/at/2026/at260028.html",
+      "score": 2,
+      "author": "JPCERT/CC",
+      "tags": [
+        "JPCERT",
+        "セキュリティ"
+      ],
+      "severity": "high",
+      "date": "2026-09-24T16:14+09:00",
+      "hatena_count": 2
+    },
+    {
+      "id": "ipa-6fdcc35893",
+      "source": "ipa",
+      "title": "Microsoft 製品の脆弱性対策について(2026年9月)",
+      "url": "https://www.ipa.go.jp/security/security-alert/2026/0909-ms.html",
+      "score": 0,
+      "author": "IPA",
+      "tags": [
+        "IPA",
+        "セキュリティ"
+      ],
+      "severity": "medium",
+      "date": "2026-09-09T00:00:00+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "ipa-7e3a17e128",
+      "source": "ipa",
+      "title": "Adobe Acrobat および Reader の脆弱性対策について(2026年9月)",
+      "url": "https://www.ipa.go.jp/security/security-alert/2026/0909-adobereader.html",
+      "score": 1,
+      "author": "IPA",
+      "tags": [
+        "IPA",
+        "セキュリティ"
+      ],
+      "severity": "medium",
+      "date": "2026-09-09T00:00:00+09:00",
+      "hatena_count": 1
+    },
+    {
+      "id": "ipa-4cb95f11aa",
+      "source": "ipa",
+      "title": "Microsoft 製品の脆弱性対策について(2026年8月)",
+      "url": "https://www.ipa.go.jp/security/security-alert/2026/0812-ms.html",
+      "score": 1,
+      "author": "IPA",
+      "tags": [
+        "IPA",
+        "セキュリティ"
+      ],
+      "severity": "medium",
+      "date": "2026-08-12T00:00:00+09:00",
+      "hatena_count": 1
+    },
+    {
+      "id": "ipa-8c22c4c822",
+      "source": "ipa",
+      "title": "Oracle Java の脆弱性対策について(2026年7月)",
+      "url": "https://www.ipa.go.jp/security/security-alert/2026/0722-jre.html",
+      "score": 2,
+      "author": "IPA",
+      "tags": [
+        "IPA",
+        "セキュリティ"
+      ],
+      "severity": "medium",
+      "date": "2026-07-22T00:00:00+09:00",
+      "hatena_count": 2
+    },
+    {
+      "id": "ipa-4eeaa570b7",
+      "source": "ipa",
+      "title": "WordPressの脆弱性対策について(CVE-2026-60137、CVE-2026-63030：wp2shell)",
+      "url": "https://www.ipa.go.jp/security/security-alert/2026/alert20260722.html",
+      "score": 5,
+      "author": "IPA",
+      "tags": [
+        "IPA",
+        "セキュリティ"
+      ],
+      "severity": "medium",
+      "date": "2026-07-22T00:00:00+09:00",
+      "hatena_count": 5
+    },
+    {
+      "id": "ipa-e24281ea83",
+      "source": "ipa",
+      "title": "Microsoft 製品の脆弱性対策について(2026年7月)",
+      "url": "https://www.ipa.go.jp/security/security-alert/2026/0715-ms.html",
+      "score": 1,
+      "author": "IPA",
+      "tags": [
+        "IPA",
+        "セキュリティ"
+      ],
+      "severity": "medium",
+      "date": "2026-07-15T00:00:00+09:00",
+      "hatena_count": 1
+    },
+    {
+      "id": "ipa-46577b77bf",
+      "source": "ipa",
+      "title": "更新：Windows 10のサポート終了に伴う注意喚起",
+      "url": "https://www.ipa.go.jp/security/security-alert/2024/win10_eos.html",
+      "score": 38,
+      "author": "IPA",
+      "tags": [
+        "IPA",
+        "セキュリティ"
+      ],
+      "severity": "medium",
+      "date": "2026-06-26T00:00:00+09:00",
+      "hatena_count": 38
+    },
+    {
+      "id": "ipa-2d9ab9e342",
+      "source": "ipa",
+      "title": "Check Point Software Technologies製品の脆弱性対策について(CVE-2026-50751)",
+      "url": "https://www.ipa.go.jp/security/security-alert/2026/alert20260610.html",
+      "score": 1,
+      "author": "IPA",
+      "tags": [
+        "IPA",
+        "セキュリティ"
+      ],
+      "severity": "medium",
+      "date": "2026-06-10T00:00:00+09:00",
+      "hatena_count": 1
+    },
+    {
+      "id": "ipa-72c9edcbb1",
+      "source": "ipa",
+      "title": "Microsoft 製品の脆弱性対策について(2026年6月)",
+      "url": "https://www.ipa.go.jp/security/security-alert/2026/0610-ms.html",
+      "score": 2,
+      "author": "IPA",
+      "tags": [
+        "IPA",
+        "セキュリティ"
+      ],
+      "severity": "medium",
+      "date": "2026-06-10T00:00:00+09:00",
+      "hatena_count": 2
+    },
+    {
+      "id": "ipa-27c739b7cb",
+      "source": "ipa",
+      "title": "Adobe Acrobat および Reader の脆弱性対策について(2026年6月)",
+      "url": "https://www.ipa.go.jp/security/security-alert/2026/0610-adobereader.html",
+      "score": 0,
+      "author": "IPA",
+      "tags": [
+        "IPA",
+        "セキュリティ"
+      ],
+      "severity": "medium",
+      "date": "2026-06-10T00:00:00+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "ipa-60ac46e80e",
+      "source": "ipa",
+      "title": "「GUARDIANWALL MailSuite」におけるスタックベースのバッファオーバーフローの脆弱性について（JVN#35567473）",
+      "url": "https://www.ipa.go.jp/security/security-alert/2026/20260513-jvn.html",
+      "score": 0,
+      "author": "IPA",
+      "tags": [
+        "IPA",
+        "セキュリティ"
+      ],
+      "severity": "medium",
+      "date": "2026-05-13T00:00:00+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "ipa-c0a35c6308",
+      "source": "ipa",
+      "title": "Microsoft 製品の脆弱性対策について(2026年5月)",
+      "url": "https://www.ipa.go.jp/security/security-alert/2026/0513-ms.html",
+      "score": 0,
+      "author": "IPA",
+      "tags": [
+        "IPA",
+        "セキュリティ"
+      ],
+      "severity": "medium",
+      "date": "2026-05-13T00:00:00+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "ipa-2f301420a2",
+      "source": "ipa",
+      "title": "Palo Alto Networks製PAN-OSの脆弱性対策について(CVE-2026-0300)",
+      "url": "https://www.ipa.go.jp/security/security-alert/2026/alert20260508.html",
+      "score": 1,
+      "author": "IPA",
+      "tags": [
+        "IPA",
+        "セキュリティ"
+      ],
+      "severity": "medium",
+      "date": "2026-05-08T00:00:00+09:00",
+      "hatena_count": 1
+    },
+    {
+      "id": "zenn-2fc0cdb3f4",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "MultiheadAttentionの高速経路がVRAMを18GB食っていた話",
+      "url": "https://zenn.dev/genelab_999/articles/387bf151caf716",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 24 Oct 2026 09:00:37 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-7f24657450",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "リンクで確認した SNS のメール購読に、作り直さずに「解除の保護」を付ける",
+      "url": "https://zenn.dev/sk8jp/articles/260e3c0fa07ed9",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 24 Oct 2026 08:24:15 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-6ed551667b",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Laravel を IdP にして Ory Hydra で SSO を組み、PHP 5.6 のレガシーアプリも認証ブローカーで乗せる",
+      "url": "https://zenn.dev/sprix_it/articles/464d97d1ebdbfd",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 24 Oct 2026 08:22:24 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-c78b0c753f",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Gowin FPGAの配置配線オプションを実測比較 — ビルド時間とFmaxのバランス",
+      "url": "https://zenn.dev/akiyukiokayasu/articles/66be017200e64e",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 24 Oct 2026 04:59:37 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-105b0e0d7e",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "AIコードレビューの不合格率が51%→13%に。3モデル中2つは判定していなかった",
+      "url": "https://zenn.dev/taka8823/articles/2df36d66844c15",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 24 Oct 2026 02:50:01 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-327273a076",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "webauthn-ruby をもう一回覗いてみた",
+      "url": "https://zenn.dev/smartcamp/articles/22bde5829493e5",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 24 Oct 2026 02:11:58 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-025384c9dd",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "「分担を見直したい」では動かなかった。チーム間の議論を変えた1枚の図",
+      "url": "https://zenn.dev/shun0530/articles/32946ce85a536d",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 23 Oct 2026 13:01:10 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-1380757c7e",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "AI隆盛期に考える、情シス的セキュリティのあれこれ",
+      "url": "https://zenn.dev/kinasato_mochi/articles/db662a5909ea19",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 23 Oct 2026 12:41:00 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-ecb9a4ef6b",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "eMudhraの中間CA証明書の秘密鍵を求めてみる",
+      "url": "https://zenn.dev/herumi/articles/search_bad_emudhra_key",
+      "score": 60,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 23 Oct 2026 05:50:11 GMT",
+      "hatena_count": 60
+    },
+    {
+      "id": "zenn-587db329db",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "[Flutter]main()を通らない起動ルートで初期化漏れした話（Android着信のヒヤリハット）",
+      "url": "https://zenn.dev/lincwell_inc/articles/ab2a642ea8f6f0",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 23 Oct 2026 01:30:05 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-fd184ac0f6",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Claude CodeやCodexで並列開発していたら、Macのストレージが残り8GBになったので掃除した",
+      "url": "https://zenn.dev/yoshinani_dev/articles/0c17dec1c082a1",
+      "score": 3,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 22 Oct 2026 17:21:33 GMT",
+      "hatena_count": 3
+    },
+    {
+      "id": "zenn-acfd0e3c54",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Rootless Dockerと学ぶSELinux【初心者向け】",
+      "url": "https://zenn.dev/nexryai/articles/afb828d7dda6b7",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 22 Oct 2026 11:50:59 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-7e7a9f272a",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "厳選・セキュリティが心配ならClaude Codeにこの問いかけをコピペするべし20",
+      "url": "https://zenn.dev/yuiseki/articles/54b01670841898",
+      "score": 190,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 22 Oct 2026 11:28:13 GMT",
+      "hatena_count": 190
+    },
+    {
+      "id": "zenn-6192aa503c",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "脆弱性管理の仕組みを整えた",
+      "url": "https://zenn.dev/dress_code/articles/be5550254695cd",
+      "score": 26,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 22 Oct 2026 01:30:07 GMT",
+      "severity": "high",
+      "hatena_count": 26
+    },
+    {
+      "id": "zenn-89cd9f8fc3",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "【速報：2026/10/22 04:00】PHP2Shellの対応状況まとめ：PHP本体、Linux、レンタルサーバ、KUSANAGI",
+      "url": "https://zenn.dev/tyamadadd/articles/c02a27af771dd2",
+      "score": 100,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 21 Oct 2026 20:00:09 GMT",
+      "hatena_count": 100
+    },
+    {
+      "id": "zenn-3321b85fd8",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "仕組みを理解する動画を、Claude Codeに作らせると便利すぎる",
+      "url": "https://zenn.dev/explaza/articles/c749042ecbe232",
+      "score": 616,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 21 Oct 2026 02:14:44 GMT",
+      "hatena_count": 616
+    },
+    {
+      "id": "zenn-6196fc3ef4",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "バイブコーディングを6週間続けたら、Mac の起動が20分かかるようになった",
+      "url": "https://zenn.dev/singularity/articles/vibe-coding-mac-boot-20min",
+      "score": 232,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 20 Oct 2026 09:15:46 GMT",
+      "hatena_count": 232
+    },
+    {
+      "id": "zenn-0f91e18d0b",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Oxlint + Oxfmt で規約をコード化するモノレポ運用",
+      "url": "https://zenn.dev/reality_tech/articles/oxc-monorepo-20261006",
+      "score": 33,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 20 Oct 2026 02:00:05 GMT",
+      "hatena_count": 33
+    },
+    {
+      "id": "zenn-f0d56afe76",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Claude Code で CI 待ち時間を 18 分から 4 分台に短縮する【GitHub Actions】",
+      "url": "https://zenn.dev/edash_tech_blog/articles/5b90aa33bd8d49",
+      "score": 8,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 19 Oct 2026 23:00:05 GMT",
+      "hatena_count": 8
+    },
+    {
+      "id": "zenn-a01c13e7ca",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "AI時代、配布するPythonコードをどう守るか: 難読化の実験と判断軸",
+      "url": "https://zenn.dev/pksha/articles/0f9c11d1daea2e",
+      "score": 3,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 19 Oct 2026 03:19:32 GMT",
+      "hatena_count": 3
+    },
+    {
+      "id": "techracho-35b4c527fc",
+      "source": "techracho",
+      "title": "Ruby 4.0.8がリリースされました（続報あり）",
+      "url": "https://techracho.bpsinc.jp/hachi8833/2026_10_22/160905",
+      "score": 1,
+      "author": "Techracho",
+      "tags": [
+        "Ruby",
+        "Rails",
+        "日本語"
+      ],
+      "date": "Thu, 22 Oct 2026 08:03:43 +0000",
+      "hatena_count": 1
+    },
+    {
+      "id": "techracho-d9c27895fc",
+      "source": "techracho",
+      "title": "Falconを Ruby アプリケーションのWebサーバーとして使ってみた話（翻訳）",
+      "url": "https://techracho.bpsinc.jp/hachi8833/2026_10_21/159476",
+      "score": 3,
+      "author": "Techracho",
+      "tags": [
+        "Ruby",
+        "Rails",
+        "日本語"
+      ],
+      "date": "Wed, 21 Oct 2026 08:30:47 +0000",
+      "hatena_count": 3
+    },
+    {
+      "id": "techracho-367e5daa07",
+      "source": "techracho",
+      "title": "Railsの鋭い部品シリーズ: ブロックはトランザクションではない（翻訳）",
+      "url": "https://techracho.bpsinc.jp/hachi8833/2026_10_20/159818",
+      "score": 2,
+      "author": "Techracho",
+      "tags": [
+        "Ruby",
+        "Rails",
+        "日本語"
+      ],
+      "date": "Tue, 20 Oct 2026 08:30:42 +0000",
+      "hatena_count": 2
+    },
+    {
+      "id": "techracho-c67bd01ce1",
+      "source": "techracho",
+      "title": "Ruby: ZJIT がShopifyの環境で YJIT 並みの速さで動作した（翻訳）",
+      "url": "https://techracho.bpsinc.jp/hachi8833/2026_10_19/160792",
+      "score": 1,
+      "author": "Techracho",
+      "tags": [
+        "Ruby",
+        "Rails",
+        "日本語"
+      ],
+      "date": "Mon, 19 Oct 2026 08:30:12 +0000",
+      "hatena_count": 1
+    },
+    {
+      "id": "techracho-98ff75b00c",
+      "source": "techracho",
+      "title": "Rails 8.1.4 Changelog（全項目リンク付き）: Active Storage、Action Cable、Action Mailer",
+      "url": "https://techracho.bpsinc.jp/hachi8833/2026_10_14/160156",
+      "score": 1,
+      "author": "Techracho",
+      "tags": [
+        "Ruby",
+        "Rails",
+        "日本語"
+      ],
+      "date": "Wed, 14 Oct 2026 08:30:51 +0000",
+      "hatena_count": 1
+    },
+    {
+      "id": "techracho-f5746e4b07",
+      "source": "techracho",
+      "title": "Rails 8.1.4 Changelog（全項目リンク付き）: Active Model、Action Pack、Active Job",
+      "url": "https://techracho.bpsinc.jp/hachi8833/2026_10_13/160155",
+      "score": 1,
+      "author": "Techracho",
+      "tags": [
+        "Ruby",
+        "Rails",
+        "日本語"
+      ],
+      "date": "Tue, 13 Oct 2026 08:30:41 +0000",
+      "hatena_count": 1
+    },
+    {
+      "id": "techracho-4a124672e8",
+      "source": "techracho",
+      "title": "Solid Cache README: DBベースのキャッシュストア（翻訳）",
+      "url": "https://techracho.bpsinc.jp/hachi8833/2026_10_12/141181",
+      "score": 0,
+      "author": "Techracho",
+      "tags": [
+        "Ruby",
+        "Rails",
+        "日本語"
+      ],
+      "date": "Mon, 12 Oct 2026 08:00:53 +0000",
+      "hatena_count": 0
+    },
+    {
+      "id": "techracho-8dcfc53b6b",
+      "source": "techracho",
+      "title": "Solid Cable README: DBベースのAction Cableアダプタ（翻訳）",
+      "url": "https://techracho.bpsinc.jp/hachi8833/2026_10_12/146390",
+      "score": 0,
+      "author": "Techracho",
+      "tags": [
+        "Ruby",
+        "Rails",
+        "日本語"
+      ],
+      "date": "Mon, 12 Oct 2026 08:00:44 +0000",
+      "hatena_count": 0
+    },
+    {
+      "id": "techracho-9a351780cc",
+      "source": "techracho",
+      "title": "Solid Queue README: DBベースのActive Jobバックエンド（翻訳）",
+      "url": "https://techracho.bpsinc.jp/hachi8833/2026_10_12/140501",
+      "score": 0,
+      "author": "Techracho",
+      "tags": [
+        "Ruby",
+        "Rails",
+        "日本語"
+      ],
+      "date": "Mon, 12 Oct 2026 04:10:29 +0000",
+      "hatena_count": 0
+    },
+    {
+      "id": "techracho-647a38c5d3",
+      "source": "techracho",
+      "title": "Rails 8.1.4 Changelog（全項目リンク付き）: Action View、Railties",
+      "url": "https://techracho.bpsinc.jp/hachi8833/2026_10_08/160154",
+      "score": 1,
+      "author": "Techracho",
+      "tags": [
+        "Ruby",
+        "Rails",
+        "日本語"
+      ],
+      "date": "Thu, 08 Oct 2026 08:30:09 +0000",
+      "hatena_count": 1
+    }
+  ]
+}

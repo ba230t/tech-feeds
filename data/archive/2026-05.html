@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>2026-05 月次レポート - tech-feeds</title>
+  <style>
+    :root { --bg:#f6f8fa; --panel:#fff; --muted:#57606a; --border:#d0d7de; --text:#24292f; --accent:#0969da; --accent-strong:#0550ae; }
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Hiragino Sans', Meiryo, sans-serif; background: var(--bg); color: var(--text); line-height: 1.7; padding: 20px; }
+    .container { max-width: 1000px; margin: 0 auto; background: var(--panel); padding: 32px; border-radius: 8px; border: 1px solid var(--border); }
+    .header { border-bottom: 1px solid var(--border); padding-bottom: 16px; margin-bottom: 24px; }
+    .header h1 { font-size: 30px; color: var(--text); margin-bottom: 6px; }
+    .header .meta { font-size: 13px; color: var(--muted); }
+    .summary { background: var(--panel); border: 1px solid var(--border); padding: 20px; border-radius: 8px; margin-bottom: 24px; font-size: 15px; }
+    .summary h2 { font-size: 20px; margin-bottom: 10px; color: var(--text); border-bottom: 1px solid var(--border); padding-bottom: 8px; }
+    .summary p { margin-bottom: 10px; color: var(--text); }
+    .summary strong { font-weight: 700; }
+    .section { margin-bottom: 28px; }
+    .section h2 { font-size: 22px; color: var(--text); margin-bottom: 14px; padding-bottom: 8px; border-bottom: 1px solid var(--border); }
+    .stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 12px; margin-bottom: 24px; }
+    .stat-card { background: var(--bg); border: 1px solid var(--border); padding: 16px; border-radius: 8px; text-align: center; }
+    .stat-card .number { font-size: 30px; font-weight: bold; color: var(--accent); margin-bottom: 4px; }
+    .stat-card .label { font-size: 13px; color: var(--muted); }
+    .top-articles { list-style: none; }
+    .top-articles li { background: var(--bg); border: 1px solid var(--border); padding: 12px; margin-bottom: 10px; border-radius: 8px; }
+    .top-articles .rank { display: inline-block; width: 28px; height: 28px; background: var(--accent); color: white; border-radius: 50%; text-align: center; line-height: 28px; font-weight: bold; margin-right: 8px; }
+    .top-articles .rank.gold { background: #9a6700; color: #fff; }
+    .top-articles .rank.silver { background: #57606a; color: #fff; }
+    .top-articles .rank.bronze { background: #8250df; color: #fff; }
+    .article-title { font-weight: 600; color: var(--text); font-size: 15px; margin-bottom: 5px; }
+    .article-meta { font-size: 12px; color: var(--muted); }
+    .article-link { color: var(--accent); text-decoration: none; font-size: 12px; margin-left: 10px; }
+    .article-link:hover { text-decoration: underline; }
+    .source-list { display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 12px; }
+    .source-item { background: var(--bg); border: 1px solid var(--border); padding: 12px; border-radius: 8px; }
+    .source-name { font-weight: 600; color: var(--text); margin-bottom: 4px; }
+    .source-count { font-size: 22px; color: var(--accent); font-weight: bold; }
+    .footer { margin-top: 30px; padding-top: 16px; border-top: 1px solid var(--border); text-align: center; color: var(--muted); font-size: 13px; }
+    .back-link { display: inline-block; background: var(--accent); border: 1px solid var(--accent-strong); color: white; padding: 8px 14px; border-radius: 6px; text-decoration: none; margin-bottom: 16px; }
+    .back-link:hover { background: var(--accent-strong); }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <a href="../../index.html" class="back-link">← トップページに戻る</a>
+    <div class="header">
+      <h1>2026-05 月次レポート</h1>
+      <div class="meta">tech-feeds - Monthly Archive</div>
+    </div>
+    <div class="summary">
+      <h2 class="report-title">2026-05の技術動向レポート</h2>
+<p><strong>セキュリティ動向 (1件)</strong></p>
+<p>1. Palo Alto Networks製PAN-OSの脆弱性対策について(CVE-2026-0300)</p>
+    </div>
+    <div class="section">
+      <h2>📊 統計情報</h2>
+      <div class="stats">
+        <div class="stat-card">
+          <div class="number">3</div>
+          <div class="label">総記事数</div>
+        </div>
+        <div class="stat-card">
+          <div class="number">1</div>
+          <div class="label">情報源数</div>
+        </div>
+        <div class="stat-card">
+          <div class="number">3</div>
+          <div class="label">Top記事</div>
+        </div>
+      </div>
+    </div>
+    <div class="section"><h2>🏆 Top 10 人気記事</h2><ul class="top-articles">
+            <li>
+              <span class="rank gold">1</span>
+              <div class="article-title">Palo Alto Networks製PAN-OSの脆弱性対策について(CVE-2026-0300)</div>
+              <div class="article-meta">
+                📡 ipa | 👍 1
+                <a href="https://www.ipa.go.jp/security/security-alert/2026/alert20260508.html" target="_blank" class="article-link">記事を読む →</a>
+              </div>
+            </li>
+            <li>
+              <span class="rank silver">2</span>
+              <div class="article-title">「GUARDIANWALL MailSuite」におけるスタックベースのバッファオーバーフローの脆弱性について（JVN#35567473）</div>
+              <div class="article-meta">
+                📡 ipa | 👍 0
+                <a href="https://www.ipa.go.jp/security/security-alert/2026/20260513-jvn.html" target="_blank" class="article-link">記事を読む →</a>
+              </div>
+            </li>
+            <li>
+              <span class="rank bronze">3</span>
+              <div class="article-title">Microsoft 製品の脆弱性対策について(2026年5月)</div>
+              <div class="article-meta">
+                📡 ipa | 👍 0
+                <a href="https://www.ipa.go.jp/security/security-alert/2026/0513-ms.html" target="_blank" class="article-link">記事を読む →</a>
+              </div>
+            </li></ul></div>
+    <div class="section"><h2>📰 情報源別統計（Top 10）</h2><div class="source-list">
+            <div class="source-item">
+              <div class="source-name">ipa</div>
+              <div class="source-count">3</div>
+            </div></div></div>
+    <div class="footer">
+      <p>Generated by tech-feeds</p>
+      <p><a href="../../index.html" style="color: #0969da;">トップページに戻る</a></p>
+    </div>
+  </div>
+</body>
+</html>

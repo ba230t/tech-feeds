@@ -1,0 +1,477 @@
+{
+  "month": "2026-10",
+  "total_articles": 90,
+  "summary": "# 2026-10の技術動向レポート\n\n**セキュリティ動向 (3件)**\n\n1. 厳選・セキュリティが心配ならClaude Codeにこの問いかけをコピペするべし20\n\n2. 【事前準備のお願い】PHPのセキュリティリリース公開予定について\n\n3. 脆弱性管理の仕組みを整えた\n\n**AI・機械学習動向 (1件)**\n\n1. 仕組みを理解する動画を、Claude Codeに作らせると便利すぎる\n\n**技術トレンド (6件)**\n\n1. 注意喚起: 直近で相次いでいる国内組織における不正アクセスに関する注意喚起  (更新)\n\n2. 不正アクセスによる漏えい等の事案を踏まえ、速やかに実施すべき対策等について\n\n3. バイブコーディングを6週間続けたら、Mac の起動が20分かかるようになった\n\n4. 【速報：2026/10/22 04:00】PHP2Shellの対応状況まとめ：PHP本体、Linux、レンタルサーバ、KUSANAGI\n\n5. eMudhraの中間CA証明書の秘密鍵を求めてみる\n\n6. Oxlint + Oxfmt で規約をコード化するモノレポ運用",
+  "source_counts": {
+    "sns": 45,
+    "jpcert": 29,
+    "ipa": 6,
+    "techracho": 10
+  },
+  "severity_counts": {
+    "critical": 3,
+    "high": 8,
+    "medium": 6,
+    "info": 24
+  },
+  "top_articles": [
+    {
+      "id": "jpcert-16ed91e989",
+      "source": "jpcert",
+      "title": "注意喚起: 直近で相次いでいる国内組織における不正アクセスに関する注意喚起  (更新)",
+      "url": "https://www.jpcert.or.jp/at/2026/at260030.html",
+      "score": 707,
+      "author": "JPCERT/CC",
+      "tags": [
+        "JPCERT",
+        "セキュリティ"
+      ],
+      "severity": "high",
+      "date": "2026-10-23T11:37+09:00",
+      "hatena_count": 707
+    },
+    {
+      "id": "zenn-3321b85fd8",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "仕組みを理解する動画を、Claude Codeに作らせると便利すぎる",
+      "url": "https://zenn.dev/explaza/articles/c749042ecbe232",
+      "score": 616,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 21 Oct 2026 02:14:44 GMT",
+      "hatena_count": 616
+    },
+    {
+      "id": "ipa-a1a30e44db",
+      "source": "ipa",
+      "title": "不正アクセスによる漏えい等の事案を踏まえ、速やかに実施すべき対策等について",
+      "url": "https://www.ipa.go.jp/security/security-alert/2026/alert20261009.html",
+      "score": 513,
+      "author": "IPA",
+      "tags": [
+        "IPA",
+        "セキュリティ"
+      ],
+      "severity": "medium",
+      "date": "2026-10-09T00:00:00+09:00",
+      "hatena_count": 513
+    },
+    {
+      "id": "zenn-6196fc3ef4",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "バイブコーディングを6週間続けたら、Mac の起動が20分かかるようになった",
+      "url": "https://zenn.dev/singularity/articles/vibe-coding-mac-boot-20min",
+      "score": 232,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 20 Oct 2026 09:15:46 GMT",
+      "hatena_count": 232
+    },
+    {
+      "id": "zenn-7e7a9f272a",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "厳選・セキュリティが心配ならClaude Codeにこの問いかけをコピペするべし20",
+      "url": "https://zenn.dev/yuiseki/articles/54b01670841898",
+      "score": 190,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 22 Oct 2026 11:28:13 GMT",
+      "hatena_count": 190
+    },
+    {
+      "id": "ipa-6e5c697bce",
+      "source": "ipa",
+      "title": "【事前準備のお願い】PHPのセキュリティリリース公開予定について",
+      "url": "https://www.ipa.go.jp/security/security-alert/2026/pre-alert20261021.html",
+      "score": 101,
+      "author": "IPA",
+      "tags": [
+        "IPA",
+        "セキュリティ"
+      ],
+      "severity": "medium",
+      "date": "2026-10-21T00:00:00+09:00",
+      "hatena_count": 101
+    },
+    {
+      "id": "zenn-89cd9f8fc3",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "【速報：2026/10/22 04:00】PHP2Shellの対応状況まとめ：PHP本体、Linux、レンタルサーバ、KUSANAGI",
+      "url": "https://zenn.dev/tyamadadd/articles/c02a27af771dd2",
+      "score": 100,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 21 Oct 2026 20:00:09 GMT",
+      "hatena_count": 100
+    },
+    {
+      "id": "zenn-ecb9a4ef6b",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "eMudhraの中間CA証明書の秘密鍵を求めてみる",
+      "url": "https://zenn.dev/herumi/articles/search_bad_emudhra_key",
+      "score": 60,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 23 Oct 2026 05:50:11 GMT",
+      "hatena_count": 60
+    },
+    {
+      "id": "zenn-0f91e18d0b",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Oxlint + Oxfmt で規約をコード化するモノレポ運用",
+      "url": "https://zenn.dev/reality_tech/articles/oxc-monorepo-20261006",
+      "score": 33,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 20 Oct 2026 02:00:05 GMT",
+      "hatena_count": 33
+    },
+    {
+      "id": "zenn-6192aa503c",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "脆弱性管理の仕組みを整えた",
+      "url": "https://zenn.dev/dress_code/articles/be5550254695cd",
+      "score": 26,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 22 Oct 2026 01:30:07 GMT",
+      "severity": "high",
+      "hatena_count": 26
+    },
+    {
+      "id": "ipa-88e47602f8",
+      "source": "ipa",
+      "title": "Oracle Java の脆弱性対策について(2026年10月)",
+      "url": "https://www.ipa.go.jp/security/security-alert/2026/1021-jre.html",
+      "score": 21,
+      "author": "IPA",
+      "tags": [
+        "IPA",
+        "セキュリティ"
+      ],
+      "severity": "medium",
+      "date": "2026-10-21T00:00:00+09:00",
+      "hatena_count": 21
+    },
+    {
+      "id": "ipa-ee45d6bd49",
+      "source": "ipa",
+      "title": "PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell)",
+      "url": "https://www.ipa.go.jp/security/security-alert/2026/alert20261022.html",
+      "score": 18,
+      "author": "IPA",
+      "tags": [
+        "IPA",
+        "セキュリティ"
+      ],
+      "severity": "medium",
+      "date": "2026-10-22T00:00:00+09:00",
+      "hatena_count": 18
+    },
+    {
+      "id": "zenn-f0d56afe76",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Claude Code で CI 待ち時間を 18 分から 4 分台に短縮する【GitHub Actions】",
+      "url": "https://zenn.dev/edash_tech_blog/articles/5b90aa33bd8d49",
+      "score": 8,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 19 Oct 2026 23:00:05 GMT",
+      "hatena_count": 8
+    },
+    {
+      "id": "jpcert-0593ec9b1b",
+      "source": "jpcert",
+      "title": "注意喚起: SiteGuard Server EditionにおけるOSコマンドインジェクションの脆弱性（CVE-2026-106931）に関する注意喚起  (公開)",
+      "url": "https://www.jpcert.or.jp/at/2026/at260032.html",
+      "score": 4,
+      "author": "JPCERT/CC",
+      "tags": [
+        "JPCERT",
+        "セキュリティ"
+      ],
+      "severity": "high",
+      "date": "2026-10-14T14:18+09:00",
+      "hatena_count": 4
+    },
+    {
+      "id": "zenn-fd184ac0f6",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Claude CodeやCodexで並列開発していたら、Macのストレージが残り8GBになったので掃除した",
+      "url": "https://zenn.dev/yoshinani_dev/articles/0c17dec1c082a1",
+      "score": 3,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 22 Oct 2026 17:21:33 GMT",
+      "hatena_count": 3
+    },
+    {
+      "id": "zenn-a01c13e7ca",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "AI時代、配布するPythonコードをどう守るか: 難読化の実験と判断軸",
+      "url": "https://zenn.dev/pksha/articles/0f9c11d1daea2e",
+      "score": 3,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 19 Oct 2026 03:19:32 GMT",
+      "hatena_count": 3
+    },
+    {
+      "id": "techracho-d9c27895fc",
+      "source": "techracho",
+      "title": "Falconを Ruby アプリケーションのWebサーバーとして使ってみた話（翻訳）",
+      "url": "https://techracho.bpsinc.jp/hachi8833/2026_10_21/159476",
+      "score": 3,
+      "author": "Techracho",
+      "tags": [
+        "Ruby",
+        "Rails",
+        "日本語"
+      ],
+      "date": "Wed, 21 Oct 2026 08:30:47 +0000",
+      "hatena_count": 3
+    },
+    {
+      "id": "jpcert-992361585c",
+      "source": "jpcert",
+      "title": "注意喚起: NetScaler ADCおよびNetScaler Gatewayにおける複数の脆弱性（CVE-2026-88771、CVE-2026-88772等）に関する注意喚起  (更新)",
+      "url": "https://www.jpcert.or.jp/at/2026/at260029.html",
+      "score": 2,
+      "author": "JPCERT/CC",
+      "tags": [
+        "JPCERT",
+        "セキュリティ"
+      ],
+      "severity": "high",
+      "date": "2026-10-02T14:15+09:00",
+      "hatena_count": 2
+    },
+    {
+      "id": "techracho-367e5daa07",
+      "source": "techracho",
+      "title": "Railsの鋭い部品シリーズ: ブロックはトランザクションではない（翻訳）",
+      "url": "https://techracho.bpsinc.jp/hachi8833/2026_10_20/159818",
+      "score": 2,
+      "author": "Techracho",
+      "tags": [
+        "Ruby",
+        "Rails",
+        "日本語"
+      ],
+      "date": "Tue, 20 Oct 2026 08:30:42 +0000",
+      "hatena_count": 2
+    },
+    {
+      "id": "qiita-7d5b5ac0fd",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "【緊急】Node.jsの重大脆弱性に対応するセキュリティアップデートを安全に適用する方法",
+      "url": "https://qiita.com/superdora-cloud/items/8cad27487cd0e67d088c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 1,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-22T13:46:40+09:00",
+      "severity": "critical",
+      "hatena_count": 1
+    }
+  ],
+  "security_highlights": [
+    {
+      "id": "zenn-6192aa503c",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "脆弱性管理の仕組みを整えた",
+      "url": "https://zenn.dev/dress_code/articles/be5550254695cd",
+      "score": 26,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 22 Oct 2026 01:30:07 GMT",
+      "severity": "high",
+      "hatena_count": 26
+    },
+    {
+      "id": "qiita-8f1450fde7",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "PHP2Shell緊急対策：日本国内向けサイトで海外IPを全部弾く、即効性のあるIPフィルタ防御",
+      "url": "https://qiita.com/Hiro884/items/27a98c86ef17b70df7ed?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-23T16:44:20+09:00",
+      "severity": "critical",
+      "hatena_count": 0
+    },
+    {
+      "id": "jpcert-16ed91e989",
+      "source": "jpcert",
+      "title": "注意喚起: 直近で相次いでいる国内組織における不正アクセスに関する注意喚起  (更新)",
+      "url": "https://www.jpcert.or.jp/at/2026/at260030.html",
+      "score": 707,
+      "author": "JPCERT/CC",
+      "tags": [
+        "JPCERT",
+        "セキュリティ"
+      ],
+      "severity": "high",
+      "date": "2026-10-23T11:37+09:00",
+      "hatena_count": 707
+    },
+    {
+      "id": "qiita-7d5b5ac0fd",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "【緊急】Node.jsの重大脆弱性に対応するセキュリティアップデートを安全に適用する方法",
+      "url": "https://qiita.com/superdora-cloud/items/8cad27487cd0e67d088c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 1,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-22T13:46:40+09:00",
+      "severity": "critical",
+      "hatena_count": 1
+    },
+    {
+      "id": "jpcert-30cd0d7475",
+      "source": "jpcert",
+      "title": "注意喚起: PHPにおける複数の脆弱性（CVE-2026-109618、CVE-2026-109619）に関する注意喚起  (公開)",
+      "url": "https://www.jpcert.or.jp/at/2026/at260033.html",
+      "score": 1,
+      "author": "JPCERT/CC",
+      "tags": [
+        "JPCERT",
+        "セキュリティ"
+      ],
+      "severity": "high",
+      "date": "2026-10-22T13:11+09:00",
+      "hatena_count": 1
+    },
+    {
+      "id": "qiita-804ca66c04",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "PHP脆弱性php2shell対応、7.4本番を止めずに守った夜と実際の攻撃",
+      "url": "https://qiita.com/kenimo49/items/30f290bf0f4fff021fb3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-22T02:15:15+09:00",
+      "severity": "high",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-9af9c6ce33",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "Amazon Linux 2023 の PHP を CVE-2026-109618 修正版へ先行ビルドする",
+      "url": "https://qiita.com/amu-kuroneko/items/46f00fbe8b5bac009c1c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-22T00:02:18+09:00",
+      "severity": "high",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-7d2b34e682",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "【緊急】PHPの重大脆弱性2件(CVE-2026-109618 / 109619)を安全にアップデートする方法",
+      "url": "https://qiita.com/superdora-cloud/items/10ddecde5fb1d032f17c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-21T23:17:51+09:00",
+      "severity": "critical",
+      "hatena_count": 0
+    },
+    {
+      "id": "jpcert-0593ec9b1b",
+      "source": "jpcert",
+      "title": "注意喚起: SiteGuard Server EditionにおけるOSコマンドインジェクションの脆弱性（CVE-2026-106931）に関する注意喚起  (公開)",
+      "url": "https://www.jpcert.or.jp/at/2026/at260032.html",
+      "score": 4,
+      "author": "JPCERT/CC",
+      "tags": [
+        "JPCERT",
+        "セキュリティ"
+      ],
+      "severity": "high",
+      "date": "2026-10-14T14:18+09:00",
+      "hatena_count": 4
+    },
+    {
+      "id": "jpcert-027b004008",
+      "source": "jpcert",
+      "title": "注意喚起: 2026年10月マイクロソフトセキュリティ更新プログラムに関する注意喚起  (公開)",
+      "url": "https://www.jpcert.or.jp/at/2026/at260031.html",
+      "score": 0,
+      "author": "JPCERT/CC",
+      "tags": [
+        "JPCERT",
+        "セキュリティ"
+      ],
+      "severity": "high",
+      "date": "2026-10-14T11:25+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "jpcert-992361585c",
+      "source": "jpcert",
+      "title": "注意喚起: NetScaler ADCおよびNetScaler Gatewayにおける複数の脆弱性（CVE-2026-88771、CVE-2026-88772等）に関する注意喚起  (更新)",
+      "url": "https://www.jpcert.or.jp/at/2026/at260029.html",
+      "score": 2,
+      "author": "JPCERT/CC",
+      "tags": [
+        "JPCERT",
+        "セキュリティ"
+      ],
+      "severity": "high",
+      "date": "2026-10-02T14:15+09:00",
+      "hatena_count": 2
+    }
+  ]
+}

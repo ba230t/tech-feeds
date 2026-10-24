@@ -1,0 +1,52 @@
+{
+  "months": [
+    {
+      "month": "2026-10",
+      "total_articles": 90,
+      "summary": "# 2026-10の技術動向レポート\n\n**セキュリティ動向 (3件)**\n\n1. 厳選・セキュリティが心配ならClaude Codeにこの問いかけをコピペするべし20\n\n2. 【事前準備のお願い】PHPのセキュリティリリース公開予定について\n\n3. 脆弱性管理の仕組みを整えた\n\n**AI・機械学習動向 (1件)**\n\n1. 仕組みを理解する動画を、Claude Codeに作らせると便利すぎる\n\n**技術トレンド (6件)**\n\n1. 注意喚起: 直近で相次いでいる国内組織における不正アクセスに関する注意喚起  (更新)\n\n2. 不正アクセスによる漏えい等の事案を踏まえ、速やかに実施すべき対策等について\n\n3. バイブコーディングを6週間続けたら、Mac の起動が20分かかるようになった\n\n4. 【速報：2026/10/22 04:00】PHP2Shellの対応状況まとめ：PHP本体、Linux、レンタルサーバ、KUSANAGI\n\n5. eMudhraの中間CA証明書の秘密鍵を求めてみる\n\n6. Oxlint + Oxfmt で規約をコード化するモノレポ運用",
+      "file": "2026-10.json",
+      "html_file": "2026-10.html",
+      "compressed": false
+    },
+    {
+      "month": "2026-09",
+      "total_articles": 4,
+      "summary": "# 2026-09の技術動向レポート\n\n**セキュリティ動向 (3件)**\n\n1. NetScaler ADCおよびNetScaler Gatewayの脆弱性について(CVE-2026-88771、CVE-2026-88772等)\n\n2. 注意喚起: F5 BIG-IP Access Policy Managerにおけるヒープベースのバッファオーバーフローの脆弱性（CVE-2026-94127）に関する注意喚起  (公開)\n\n3. Adobe Acrobat および Reader の脆弱性対策について(2026年9月)",
+      "file": "2026-09.json",
+      "html_file": "2026-09.html",
+      "compressed": false
+    },
+    {
+      "month": "2026-08",
+      "total_articles": 1,
+      "summary": "# 2026-08の技術動向レポート\n\n**セキュリティ動向 (1件)**\n\n1. Microsoft 製品の脆弱性対策について(2026年8月)",
+      "file": "2026-08.json",
+      "html_file": "2026-08.html",
+      "compressed": false
+    },
+    {
+      "month": "2026-07",
+      "total_articles": 3,
+      "summary": "# 2026-07の技術動向レポート\n\n**セキュリティ動向 (3件)**\n\n1. WordPressの脆弱性対策について(CVE-2026-60137、CVE-2026-63030：wp2shell)\n\n2. Oracle Java の脆弱性対策について(2026年7月)\n\n3. Microsoft 製品の脆弱性対策について(2026年7月)",
+      "file": "2026-07.json.gz",
+      "html_file": "2026-07.html",
+      "compressed": true
+    },
+    {
+      "month": "2026-06",
+      "total_articles": 4,
+      "summary": "# 2026-06の技術動向レポート\n\n**セキュリティ動向 (2件)**\n\n1. Microsoft 製品の脆弱性対策について(2026年6月)\n\n2. Check Point Software Technologies製品の脆弱性対策について(CVE-2026-50751)\n\n**技術トレンド (1件)**\n\n1. 更新：Windows 10のサポート終了に伴う注意喚起",
+      "file": "2026-06.json.gz",
+      "html_file": "2026-06.html",
+      "compressed": true
+    },
+    {
+      "month": "2026-05",
+      "total_articles": 3,
+      "summary": "# 2026-05の技術動向レポート\n\n**セキュリティ動向 (1件)**\n\n1. Palo Alto Networks製PAN-OSの脆弱性対策について(CVE-2026-0300)",
+      "file": "2026-05.json.gz",
+      "html_file": "2026-05.html",
+      "compressed": true
+    }
+  ]
+}
