@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T17:06:22.307151+00:00",
+  "updated_at": "2026-10-24T17:34:06.397521+00:00",
   "count": 105,
   "items": [
     {
@@ -246,7 +246,7 @@
       "source": "jpcert",
       "title": "注意喚起: 直近で相次いでいる国内組織における不正アクセスに関する注意喚起  (更新)",
       "url": "https://www.jpcert.or.jp/at/2026/at260030.html",
-      "score": 707,
+      "score": 708,
       "author": "JPCERT/CC",
       "tags": [
         "JPCERT",
@@ -254,7 +254,7 @@
       ],
       "severity": "high",
       "date": "2026-10-23T11:37+09:00",
-      "hatena_count": 707
+      "hatena_count": 708
     },
     {
       "id": "qiita-4e32422a87",
