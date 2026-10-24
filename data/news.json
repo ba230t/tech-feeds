@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-24T22:34:33.385640+00:00",
-  "count": 118,
+  "updated_at": "2026-10-24T23:06:22.973336+00:00",
+  "count": 126,
   "items": [
     {
       "id": "qiita-0bf602bcba",
@@ -1292,17 +1292,59 @@
       "hatena_count": 1
     },
     {
-      "id": "zenn-2fc0cdb3f4",
+      "id": "zenn-20d97d79bf",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "MultiheadAttentionの高速経路がVRAMを18GB食っていた話",
-      "url": "https://zenn.dev/genelab_999/articles/387bf151caf716",
+      "title": "ros_gzの終了時クラッシュとRange変換の不具合を修正した話",
+      "url": "https://zenn.dev/yuu7/articles/ros2-gazebo-teardown-range-fixes",
       "score": 0,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Sat, 24 Oct 2026 09:00:37 GMT",
+      "date": "Sat, 24 Oct 2026 18:15:57 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-50681a5387",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Flutter アプリを iPhone Duo の「縦帯」に対応させる",
+      "url": "https://zenn.dev/yus1127/articles/flutter-iphone-duo-vertical-bar",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 24 Oct 2026 16:59:46 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-dc08b37a1c",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "AWSにデプロイせず、FastAPI製Lambdaのarm64実行をCIで検証する",
+      "url": "https://zenn.dev/shingokumon/articles/4da5acb9697d56",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 24 Oct 2026 16:07:43 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-1c9a430286",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "@napi-rs/canvas v1.0.12 で実質的な破壊的変更が入った話",
+      "url": "https://zenn.dev/devuloper/articles/napi_rs_canvas_1_0_12_font_tofu",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 24 Oct 2026 15:28:06 GMT",
       "hatena_count": 0
     },
     {
@@ -1320,18 +1362,18 @@
       "hatena_count": 0
     },
     {
-      "id": "zenn-6ed551667b",
+      "id": "zenn-14cb230adf",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "Laravel を IdP にして Ory Hydra で SSO を組み、PHP 5.6 のレガシーアプリも認証ブローカーで乗せる",
-      "url": "https://zenn.dev/sprix_it/articles/464d97d1ebdbfd",
-      "score": 0,
+      "title": "prpr: Rust 向けのシンプルで高速な Parser generator",
+      "url": "https://zenn.dev/tanakh/articles/prpr-packrat-parser",
+      "score": 1,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Sat, 24 Oct 2026 08:22:24 GMT",
-      "hatena_count": 0
+      "date": "Sat, 24 Oct 2026 06:57:58 GMT",
+      "hatena_count": 1
     },
     {
       "id": "zenn-c78b0c753f",
@@ -1376,32 +1418,19 @@
       "hatena_count": 0
     },
     {
-      "id": "zenn-025384c9dd",
+      "id": "zenn-595dbccf10",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "「分担を見直したい」では動かなかった。チーム間の議論を変えた1枚の図",
-      "url": "https://zenn.dev/shun0530/articles/32946ce85a536d",
-      "score": 0,
+      "title": "YubiKey買って、OpenAI Daybreak Blueゲットして、vibe脆弱性診断してみた。",
+      "url": "https://zenn.dev/nassy/articles/d143c945bd5ca5",
+      "score": 2,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Fri, 23 Oct 2026 13:01:10 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-1380757c7e",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "AI隆盛期に考える、情シス的セキュリティのあれこれ",
-      "url": "https://zenn.dev/kinasato_mochi/articles/db662a5909ea19",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 23 Oct 2026 12:41:00 GMT",
-      "hatena_count": 0
+      "date": "Sat, 24 Oct 2026 00:52:44 GMT",
+      "severity": "high",
+      "hatena_count": 2
     },
     {
       "id": "zenn-ecb9a4ef6b",
@@ -1418,45 +1447,17 @@
       "hatena_count": 62
     },
     {
-      "id": "zenn-587db329db",
+      "id": "zenn-6eef862e70",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "[Flutter]main()を通らない起動ルートで初期化漏れした話（Android着信のヒヤリハット）",
-      "url": "https://zenn.dev/lincwell_inc/articles/ab2a642ea8f6f0",
+      "title": "AI が実装してくれる時代こそ、自分の手で実装しよう",
+      "url": "https://zenn.dev/loglass/articles/24b2a4776ce8d4",
       "score": 0,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Fri, 23 Oct 2026 01:30:05 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-fd184ac0f6",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Claude CodeやCodexで並列開発していたら、Macのストレージが残り8GBになったので掃除した",
-      "url": "https://zenn.dev/yoshinani_dev/articles/0c17dec1c082a1",
-      "score": 3,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 22 Oct 2026 17:21:33 GMT",
-      "hatena_count": 3
-    },
-    {
-      "id": "zenn-acfd0e3c54",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Rootless Dockerと学ぶSELinux【初心者向け】",
-      "url": "https://zenn.dev/nexryai/articles/afb828d7dda6b7",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 22 Oct 2026 11:50:59 GMT",
+      "date": "Fri, 23 Oct 2026 01:28:43 GMT",
       "hatena_count": 0
     },
     {
@@ -1489,32 +1490,32 @@
       "hatena_count": 26
     },
     {
-      "id": "zenn-89cd9f8fc3",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "【速報：2026/10/22 04:00】PHP2Shellの対応状況まとめ：PHP本体、Linux、レンタルサーバ、KUSANAGI",
-      "url": "https://zenn.dev/tyamadadd/articles/c02a27af771dd2",
-      "score": 100,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 21 Oct 2026 20:00:09 GMT",
-      "hatena_count": 100
-    },
-    {
       "id": "zenn-3321b85fd8",
       "source": "sns",
       "sub_source": "Zenn",
       "title": "仕組みを理解する動画を、Claude Codeに作らせると便利すぎる",
       "url": "https://zenn.dev/explaza/articles/c749042ecbe232",
-      "score": 618,
+      "score": 619,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 21 Oct 2026 02:14:44 GMT",
-      "hatena_count": 618
+      "hatena_count": 619
+    },
+    {
+      "id": "zenn-e58ac413dc",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "コードレビューをなくして見えたもの",
+      "url": "https://zenn.dev/henteko/articles/b76b15922cdf72",
+      "score": 1,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 21 Oct 2026 01:39:50 GMT",
+      "hatena_count": 1
     },
     {
       "id": "zenn-6196fc3ef4",
@@ -1721,6 +1722,118 @@
       ],
       "date": "Thu, 08 Oct 2026 08:30:09 +0000",
       "hatena_count": 1
+    },
+    {
+      "id": "zenn-2fc0cdb3f4",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "MultiheadAttentionの高速経路がVRAMを18GB食っていた話",
+      "url": "https://zenn.dev/genelab_999/articles/387bf151caf716",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 24 Oct 2026 09:00:37 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-6ed551667b",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Laravel を IdP にして Ory Hydra で SSO を組み、PHP 5.6 のレガシーアプリも認証ブローカーで乗せる",
+      "url": "https://zenn.dev/sprix_it/articles/464d97d1ebdbfd",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 24 Oct 2026 08:22:24 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-025384c9dd",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "「分担を見直したい」では動かなかった。チーム間の議論を変えた1枚の図",
+      "url": "https://zenn.dev/shun0530/articles/32946ce85a536d",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 23 Oct 2026 13:01:10 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-1380757c7e",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "AI隆盛期に考える、情シス的セキュリティのあれこれ",
+      "url": "https://zenn.dev/kinasato_mochi/articles/db662a5909ea19",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 23 Oct 2026 12:41:00 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-587db329db",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "[Flutter]main()を通らない起動ルートで初期化漏れした話（Android着信のヒヤリハット）",
+      "url": "https://zenn.dev/lincwell_inc/articles/ab2a642ea8f6f0",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 23 Oct 2026 01:30:05 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-fd184ac0f6",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Claude CodeやCodexで並列開発していたら、Macのストレージが残り8GBになったので掃除した",
+      "url": "https://zenn.dev/yoshinani_dev/articles/0c17dec1c082a1",
+      "score": 3,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 22 Oct 2026 17:21:33 GMT",
+      "hatena_count": 3
+    },
+    {
+      "id": "zenn-acfd0e3c54",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Rootless Dockerと学ぶSELinux【初心者向け】",
+      "url": "https://zenn.dev/nexryai/articles/afb828d7dda6b7",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 22 Oct 2026 11:50:59 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-89cd9f8fc3",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "【速報：2026/10/22 04:00】PHP2Shellの対応状況まとめ：PHP本体、Linux、レンタルサーバ、KUSANAGI",
+      "url": "https://zenn.dev/tyamadadd/articles/c02a27af771dd2",
+      "score": 100,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 21 Oct 2026 20:00:09 GMT",
+      "hatena_count": 100
     }
   ]
 }
