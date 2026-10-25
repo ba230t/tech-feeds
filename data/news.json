@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T00:20:49.851961+00:00",
+  "updated_at": "2026-10-25T01:09:29.154525+00:00",
   "count": 126,
   "items": [
     {
@@ -951,7 +951,7 @@
       "source": "ipa",
       "title": "【事前準備のお願い】PHPのセキュリティリリース公開予定について",
       "url": "https://www.ipa.go.jp/security/security-alert/2026/pre-alert20261021.html",
-      "score": 101,
+      "score": 100,
       "author": "IPA",
       "tags": [
         "IPA",
@@ -959,7 +959,7 @@
       ],
       "severity": "medium",
       "date": "2026-10-21T00:00:00+09:00",
-      "hatena_count": 101
+      "hatena_count": 100
     },
     {
       "id": "ipa-88e47602f8",
@@ -1438,13 +1438,13 @@
       "sub_source": "Zenn",
       "title": "eMudhraの中間CA証明書の秘密鍵を求めてみる",
       "url": "https://zenn.dev/herumi/articles/search_bad_emudhra_key",
-      "score": 62,
+      "score": 63,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 23 Oct 2026 05:50:11 GMT",
-      "hatena_count": 62
+      "hatena_count": 63
     },
     {
       "id": "zenn-6eef862e70",
@@ -1495,13 +1495,13 @@
       "sub_source": "Zenn",
       "title": "仕組みを理解する動画を、Claude Codeに作らせると便利すぎる",
       "url": "https://zenn.dev/explaza/articles/c749042ecbe232",
-      "score": 619,
+      "score": 620,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 21 Oct 2026 02:14:44 GMT",
-      "hatena_count": 619
+      "hatena_count": 620
     },
     {
       "id": "zenn-e58ac413dc",
