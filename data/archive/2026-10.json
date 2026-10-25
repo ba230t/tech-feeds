@@ -195,13 +195,13 @@
       "sub_source": "Zenn",
       "title": "prpr: Rust 向けのシンプルで高速な Parser generator",
       "url": "https://zenn.dev/tanakh/articles/prpr-packrat-parser",
-      "score": 12,
+      "score": 13,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sat, 24 Oct 2026 06:57:58 GMT",
-      "hatena_count": 12
+      "hatena_count": 13
     },
     {
       "id": "zenn-f0d56afe76",
@@ -233,6 +233,20 @@
       "hatena_count": 4
     },
     {
+      "id": "zenn-a01c13e7ca",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "AI時代、配布するPythonコードをどう守るか: 難読化の実験と判断軸",
+      "url": "https://zenn.dev/pksha/articles/0f9c11d1daea2e",
+      "score": 3,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 19 Oct 2026 03:19:32 GMT",
+      "hatena_count": 3
+    },
+    {
       "id": "techracho-d9c27895fc",
       "source": "techracho",
       "title": "Falconを Ruby アプリケーションのWebサーバーとして使ってみた話（翻訳）",
@@ -245,20 +259,6 @@
         "日本語"
       ],
       "date": "Wed, 21 Oct 2026 08:30:47 +0000",
-      "hatena_count": 3
-    },
-    {
-      "id": "zenn-a01c13e7ca",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "AI時代、配布するPythonコードをどう守るか: 難読化の実験と判断軸",
-      "url": "https://zenn.dev/pksha/articles/0f9c11d1daea2e",
-      "score": 3,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 19 Oct 2026 03:19:32 GMT",
       "hatena_count": 3
     },
     {
