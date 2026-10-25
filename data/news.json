@@ -1,7 +1,105 @@
 {
-  "updated_at": "2026-10-25T20:06:54.422474+00:00",
-  "count": 144,
+  "updated_at": "2026-10-25T20:36:27.495310+00:00",
+  "count": 156,
   "items": [
+    {
+      "id": "qiita-8c907ed23b",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "トークン代 9 割減？プロンプトキャッシュの仕組みと効果の実測 — 保持時間が過ぎるとコスト 11 倍に",
+      "url": "https://qiita.com/songchong/items/7144594b0ad9529a168b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-26T04:00:26+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-1155124f1f",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "AI に資料を毎回貼るな！ファイル・SKILL・AGENTS.md 活用でトークン課金最大 6 割減？ 6 つの方法を試してみた",
+      "url": "https://qiita.com/songchong/items/235bed0f8c72f268477e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-26T04:00:21+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-9fdb4bc8e7",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "【解説】クリーンアーキテクチャとは何か？ 炎上議論はなぜ起きるのか？",
+      "url": "https://qiita.com/Sicut_study/items/3c1995d2a3f1695a18a7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-25T22:54:38+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-e87b7d5c56",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "美容室ヒアリングからみるコアドメインの考え方",
+      "url": "https://qiita.com/o68606007/items/1d2493da81e969fc5e02?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-25T22:33:13+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-12dc42abdc",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "【個人開発】SSR / SSG / ISRとキャッシュを使い分けた技術ブログを作りました【Next.js/TypeScript/microCMS】",
+      "url": "https://qiita.com/takahiro_honda/items/19f15f755afbd922afe7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-25T19:57:04+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-a3e653a247",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "AIに「答えを言わないで」と頼んでRustを学んだ2週間の日記 ― 生成AI時代に、新しい技術をちゃんと身につけるためのメモ",
+      "url": "https://qiita.com/zumiraku/items/1c456a902613f281356c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-25T17:04:53+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-cf136ec54c",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "Claude Code の「ブロック済み」を1か月信じていた。フックは何も止めていなかった",
+      "url": "https://qiita.com/devoctane/items/eb3ac408041b2f04c780?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-25T15:45:56+09:00",
+      "hatena_count": 0
+    },
     {
       "id": "qiita-e2212a2db3",
       "source": "sns",
@@ -28,6 +126,20 @@
         "Qiita"
       ],
       "date": "2026-10-25T13:25:36+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-e3801bef5f",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "デザインのコンセプト練習4",
+      "url": "https://qiita.com/a_kawasaki/items/3ebff5b3927c4ff534e5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-25T13:22:03+09:00",
       "hatena_count": 0
     },
     {
@@ -59,6 +171,34 @@
       "hatena_count": 0
     },
     {
+      "id": "qiita-1925720a6a",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "壊れた計算式を「AIなし」で直すマクロを作ってもらった話 ── #DIV/0! が 0.17秒で消えた朝",
+      "url": "https://qiita.com/shu15511551/items/686fbd8bf5366fc150f5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-25T07:41:26+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-fd4472dddb",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "【個人開発】AI課金沼にサヨナラ：月20ドルで最新Gemini 4 Argon & Claude Sonnet 5.5をフル活用する僕のリアル構成",
+      "url": "https://qiita.com/hooosberg/items/d9c77e58ec3ae5f8ade1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-25T05:40:46+09:00",
+      "hatena_count": 0
+    },
+    {
       "id": "qiita-09e14fae7b",
       "source": "sns",
       "sub_source": "Qiita",
@@ -87,6 +227,20 @@
       "hatena_count": 0
     },
     {
+      "id": "qiita-235eeb7a61",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "【Unity】UniTaskを使ってシューティングゲームを作ってみた",
+      "url": "https://qiita.com/solt2001/items/a85d3a1531776ecd9c6e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-25T00:07:47+09:00",
+      "hatena_count": 0
+    },
+    {
       "id": "qiita-0bf602bcba",
       "source": "sns",
       "sub_source": "Qiita",
@@ -99,6 +253,20 @@
       ],
       "date": "2026-10-24T23:50:36+09:00",
       "severity": "critical",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-b38c7e5907",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "「コードレビューは死ぬ、ターミナルも消える」——海外著名エンジニアが予測するAI時代のソフトウェア開発の未来",
+      "url": "https://qiita.com/softbase/items/fb72de63c975fcbbd2f6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-24T23:42:12+09:00",
       "hatena_count": 0
     },
     {
@@ -1591,13 +1759,13 @@
       "sub_source": "Zenn",
       "title": "prpr: Rust 向けのシンプルで高速な Parser generator",
       "url": "https://zenn.dev/tanakh/articles/prpr-packrat-parser",
-      "score": 10,
+      "score": 11,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sat, 24 Oct 2026 06:57:58 GMT",
-      "hatena_count": 10
+      "hatena_count": 11
     },
     {
       "id": "zenn-49bbe1bd17",
