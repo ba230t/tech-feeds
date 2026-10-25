@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-25T11:34:48.797856+00:00",
-  "count": 141,
+  "updated_at": "2026-10-25T12:10:04.019882+00:00",
+  "count": 144,
   "items": [
     {
       "id": "qiita-e2212a2db3",
@@ -1460,6 +1460,34 @@
       "hatena_count": 1
     },
     {
+      "id": "zenn-4219ef345b",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "ZennとQiitaを始めたいので同時投稿パイプラインを組んでみた話",
+      "url": "https://zenn.dev/ot4ma_zenn/articles/20261025-sun-zenn_qiita_pipeline",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 25 Oct 2026 08:48:34 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-989beb378a",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Pythonの基礎学習が終わったら、Pythonでスクレイピングを始めよう！",
+      "url": "https://zenn.dev/momiji_ai/articles/67c7ce4c54fad3",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 25 Oct 2026 07:46:55 GMT",
+      "hatena_count": 0
+    },
+    {
       "id": "zenn-20d97d79bf",
       "source": "sns",
       "sub_source": "Zenn",
@@ -1544,18 +1572,18 @@
       "hatena_count": 0
     },
     {
-      "id": "zenn-7f24657450",
+      "id": "zenn-8210d0db42",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "リンクで確認した SNS のメール購読に、作り直さずに「解除の保護」を付ける",
-      "url": "https://zenn.dev/sk8jp/articles/260e3c0fa07ed9",
-      "score": 0,
+      "title": "VueFes Japan 2026に参加してきた",
+      "url": "https://zenn.dev/krz_tech/articles/vuefes_japan_2026",
+      "score": 1,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Sat, 24 Oct 2026 08:24:15 GMT",
-      "hatena_count": 0
+      "date": "Sat, 24 Oct 2026 15:10:47 GMT",
+      "hatena_count": 1
     },
     {
       "id": "zenn-14cb230adf",
@@ -1563,27 +1591,13 @@
       "sub_source": "Zenn",
       "title": "prpr: Rust 向けのシンプルで高速な Parser generator",
       "url": "https://zenn.dev/tanakh/articles/prpr-packrat-parser",
-      "score": 3,
+      "score": 6,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sat, 24 Oct 2026 06:57:58 GMT",
-      "hatena_count": 3
-    },
-    {
-      "id": "zenn-c78b0c753f",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Gowin FPGAの配置配線オプションを実測比較 — ビルド時間とFmaxのバランス",
-      "url": "https://zenn.dev/akiyukiokayasu/articles/66be017200e64e",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 24 Oct 2026 04:59:37 GMT",
-      "hatena_count": 0
+      "hatena_count": 6
     },
     {
       "id": "zenn-49bbe1bd17",
@@ -1626,20 +1640,6 @@
       ],
       "date": "Fri, 23 Oct 2026 01:28:43 GMT",
       "hatena_count": 1
-    },
-    {
-      "id": "zenn-7e7a9f272a",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "厳選・セキュリティが心配ならClaude Codeにこの問いかけをコピペするべし20",
-      "url": "https://zenn.dev/yuiseki/articles/54b01670841898",
-      "score": 192,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 22 Oct 2026 11:28:13 GMT",
-      "hatena_count": 192
     },
     {
       "id": "zenn-6192aa503c",
@@ -1889,6 +1889,48 @@
       ],
       "date": "Thu, 08 Oct 2026 08:30:09 +0000",
       "hatena_count": 1
+    },
+    {
+      "id": "zenn-7f24657450",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "リンクで確認した SNS のメール購読に、作り直さずに「解除の保護」を付ける",
+      "url": "https://zenn.dev/sk8jp/articles/260e3c0fa07ed9",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 24 Oct 2026 08:24:15 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-c78b0c753f",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Gowin FPGAの配置配線オプションを実測比較 — ビルド時間とFmaxのバランス",
+      "url": "https://zenn.dev/akiyukiokayasu/articles/66be017200e64e",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 24 Oct 2026 04:59:37 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-7e7a9f272a",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "厳選・セキュリティが心配ならClaude Codeにこの問いかけをコピペするべし20",
+      "url": "https://zenn.dev/yuiseki/articles/54b01670841898",
+      "score": 192,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 22 Oct 2026 11:28:13 GMT",
+      "hatena_count": 192
     },
     {
       "id": "zenn-105b0e0d7e",
