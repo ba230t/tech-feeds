@@ -1,7 +1,91 @@
 {
-  "updated_at": "2026-10-25T08:09:22.299308+00:00",
-  "count": 129,
+  "updated_at": "2026-10-25T08:40:02.832403+00:00",
+  "count": 141,
   "items": [
+    {
+      "id": "qiita-e2212a2db3",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "Symbol のウォレットとノードを同じ PC で動かしても、アカウントと結びつかないようにした話",
+      "url": "https://qiita.com/HinaBlogChannel/items/e69bf272b3c8902e588c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-25T13:31:13+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-02b1374022",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "【AWS re:Invent準備】女性向け持ち物をまとめてみた",
+      "url": "https://qiita.com/hoshi7_n/items/de663b2bea8e87c2984f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-25T13:25:36+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-c86c2bc0e3",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "1枚0.3秒!!Cloudflareの爆速抽出モデルClairicを試してみた",
+      "url": "https://qiita.com/kikuziro/items/3f23603152b409d4a6ca?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-25T13:17:10+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-759c594e0c",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "耳で聞く！Python で学ぶ マクロ経済学 入門 35",
+      "url": "https://qiita.com/maskot1977/items/6db42783901df1982d5d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-25T08:35:05+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-09e14fae7b",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "学習過程備忘録アウトプット　ReactのuseXXX系の雑感 useState,useEffect,useCallback",
+      "url": "https://qiita.com/polymetisoutis/items/8c9c5383512311db2825?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-25T02:11:15+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-75b534b3d2",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "eMudhra事件でWebアプリ開発者が点検すべきこと",
+      "url": "https://qiita.com/autotaker1984/items/ef99b5791fe799a4ca66?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-25T01:45:38+09:00",
+      "hatena_count": 0
+    },
     {
       "id": "qiita-0bf602bcba",
       "source": "sns",
@@ -18,6 +102,48 @@
       "hatena_count": 0
     },
     {
+      "id": "qiita-87a81676aa",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "ネットワークの問題で繋がらなさそうな時の調査",
+      "url": "https://qiita.com/J-T_ky2g/items/1093a593502967a8e384?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-24T23:28:11+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-b461e68f8c",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "chakra-uiのtoastを使う",
+      "url": "https://qiita.com/J-T_ky2g/items/e34968326e2b7773e2ae?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-24T23:16:28+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-95257f259d",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "個人開発で学ぶKubernetes入門【#1】―Dockerでの運用に限界が見えた話",
+      "url": "https://qiita.com/takuteh/items/a097bd02403bbee7e3fe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-24T22:54:58+09:00",
+      "hatena_count": 0
+    },
+    {
       "id": "qiita-157a9e9be1",
       "source": "sns",
       "sub_source": "Qiita",
@@ -29,6 +155,20 @@
         "Qiita"
       ],
       "date": "2026-10-24T22:53:48+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-1a1f846c69",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "美容室チェーンの社長ヒアリングから学ぶドメイン駆動設計",
+      "url": "https://qiita.com/gensan64311466/items/8e434fa991619f123f74?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-24T22:00:34+09:00",
       "hatena_count": 0
     },
     {
@@ -57,6 +197,20 @@
         "Qiita"
       ],
       "date": "2026-10-24T17:30:50+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-9e24595791",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "LLMにローグライクを遊ばせて分かった、測り方の落とし穴",
+      "url": "https://qiita.com/tamaki_omoto/items/f49a97ff8c202c7a33e6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-24T17:19:41+09:00",
       "hatena_count": 0
     },
     {
@@ -451,6 +605,20 @@
         "Qiita"
       ],
       "date": "2026-10-23T09:11:28+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-c770c74f91",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "Haiku 5.5 に書かせた確信度は当てになるか。同じ306問を3回聞いたら、1問ずつはぶれても0.8以上は8割当たった",
+      "url": "https://qiita.com/suwa_nobu/items/8dec346a727f0199fefb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-23T08:38:23+09:00",
       "hatena_count": 0
     },
     {
@@ -951,7 +1119,7 @@
       "source": "ipa",
       "title": "【事前準備のお願い】PHPのセキュリティリリース公開予定について",
       "url": "https://www.ipa.go.jp/security/security-alert/2026/pre-alert20261021.html",
-      "score": 100,
+      "score": 99,
       "author": "IPA",
       "tags": [
         "IPA",
@@ -959,7 +1127,7 @@
       ],
       "severity": "medium",
       "date": "2026-10-21T00:00:00+09:00",
-      "hatena_count": 100
+      "hatena_count": 99
     },
     {
       "id": "ipa-88e47602f8",
@@ -1494,13 +1662,13 @@
       "sub_source": "Zenn",
       "title": "仕組みを理解する動画を、Claude Codeに作らせると便利すぎる",
       "url": "https://zenn.dev/explaza/articles/c749042ecbe232",
-      "score": 623,
+      "score": 624,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 21 Oct 2026 02:14:44 GMT",
-      "hatena_count": 623
+      "hatena_count": 624
     },
     {
       "id": "zenn-e58ac413dc",
