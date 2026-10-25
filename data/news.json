@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T04:08:21.227042+00:00",
+  "updated_at": "2026-10-25T04:40:25.741699+00:00",
   "count": 126,
   "items": [
     {
@@ -1438,13 +1438,13 @@
       "sub_source": "Zenn",
       "title": "eMudhraの中間CA証明書の秘密鍵を求めてみる",
       "url": "https://zenn.dev/herumi/articles/search_bad_emudhra_key",
-      "score": 68,
+      "score": 69,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 23 Oct 2026 05:50:11 GMT",
-      "hatena_count": 68
+      "hatena_count": 69
     },
     {
       "id": "zenn-6eef862e70",
