@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T01:46:07.278791+00:00",
+  "updated_at": "2026-10-25T02:11:40.675901+00:00",
   "count": 126,
   "items": [
     {
@@ -547,7 +547,7 @@
       "source": "ipa",
       "title": "PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell)",
       "url": "https://www.ipa.go.jp/security/security-alert/2026/alert20261022.html",
-      "score": 18,
+      "score": 19,
       "author": "IPA",
       "tags": [
         "IPA",
@@ -555,7 +555,7 @@
       ],
       "severity": "medium",
       "date": "2026-10-22T00:00:00+09:00",
-      "hatena_count": 18
+      "hatena_count": 19
     },
     {
       "id": "qiita-7d2b34e682",
@@ -1495,13 +1495,13 @@
       "sub_source": "Zenn",
       "title": "仕組みを理解する動画を、Claude Codeに作らせると便利すぎる",
       "url": "https://zenn.dev/explaza/articles/c749042ecbe232",
-      "score": 620,
+      "score": 622,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 21 Oct 2026 02:14:44 GMT",
-      "hatena_count": 620
+      "hatena_count": 622
     },
     {
       "id": "zenn-e58ac413dc",
