@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T01:09:29.154525+00:00",
+  "updated_at": "2026-10-25T01:46:07.278791+00:00",
   "count": 126,
   "items": [
     {
@@ -1537,13 +1537,13 @@
       "sub_source": "Zenn",
       "title": "Oxlint + Oxfmt で規約をコード化するモノレポ運用",
       "url": "https://zenn.dev/reality_tech/articles/oxc-monorepo-20261006",
-      "score": 33,
+      "score": 32,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 20 Oct 2026 02:00:05 GMT",
-      "hatena_count": 33
+      "hatena_count": 32
     },
     {
       "id": "zenn-f0d56afe76",
