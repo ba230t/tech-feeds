@@ -85,7 +85,7 @@
         "Zenn"
       ],
       "date": "Thu, 22 Oct 2026 11:28:13 GMT",
-      "hatena_count": 194
+      "hatena_count": 195
     },
     {
       "id": "zenn-89cd9f8fc3",
@@ -195,13 +195,13 @@
       "sub_source": "Zenn",
       "title": "prpr: Rust 向けのシンプルで高速な Parser generator",
       "url": "https://zenn.dev/tanakh/articles/prpr-packrat-parser",
-      "score": 9,
+      "score": 10,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sat, 24 Oct 2026 06:57:58 GMT",
-      "hatena_count": 9
+      "hatena_count": 10
     },
     {
       "id": "zenn-f0d56afe76",
