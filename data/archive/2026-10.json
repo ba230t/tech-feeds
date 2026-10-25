@@ -1,9 +1,9 @@
 {
   "month": "2026-10",
-  "total_articles": 141,
+  "total_articles": 151,
   "summary": "# 2026-10の技術動向レポート\n\n**セキュリティ動向 (3件)**\n\n1. 厳選・セキュリティが心配ならClaude Codeにこの問いかけをコピペするべし20\n\n2. 【事前準備のお願い】PHPのセキュリティリリース公開予定について\n\n3. 脆弱性管理の仕組みを整えた\n\n**AI・機械学習動向 (1件)**\n\n1. 仕組みを理解する動画を、Claude Codeに作らせると便利すぎる\n\n**技術トレンド (6件)**\n\n1. 注意喚起: 直近で相次いでいる国内組織における不正アクセスに関する注意喚起  (更新)\n\n2. 不正アクセスによる漏えい等の事案を踏まえ、速やかに実施すべき対策等について\n\n3. バイブコーディングを6週間続けたら、Mac の起動が20分かかるようになった\n\n4. 【速報：2026/10/22 04:00】PHP2Shellの対応状況まとめ：PHP本体、Linux、レンタルサーバ、KUSANAGI\n\n5. eMudhraの中間CA証明書の秘密鍵を求めてみる\n\n6. Oxlint + Oxfmt で規約をコード化するモノレポ運用",
   "source_counts": {
-    "sns": 96,
+    "sns": 106,
     "jpcert": 29,
     "ipa": 6,
     "techracho": 10
@@ -36,13 +36,13 @@
       "sub_source": "Zenn",
       "title": "仕組みを理解する動画を、Claude Codeに作らせると便利すぎる",
       "url": "https://zenn.dev/explaza/articles/c749042ecbe232",
-      "score": 627,
+      "score": 628,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 21 Oct 2026 02:14:44 GMT",
-      "hatena_count": 627
+      "hatena_count": 628
     },
     {
       "id": "ipa-a1a30e44db",
@@ -233,20 +233,6 @@
       "hatena_count": 4
     },
     {
-      "id": "zenn-a01c13e7ca",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "AI時代、配布するPythonコードをどう守るか: 難読化の実験と判断軸",
-      "url": "https://zenn.dev/pksha/articles/0f9c11d1daea2e",
-      "score": 3,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 19 Oct 2026 03:19:32 GMT",
-      "hatena_count": 3
-    },
-    {
       "id": "techracho-d9c27895fc",
       "source": "techracho",
       "title": "Falconを Ruby アプリケーションのWebサーバーとして使ってみた話（翻訳）",
@@ -259,6 +245,20 @@
         "日本語"
       ],
       "date": "Wed, 21 Oct 2026 08:30:47 +0000",
+      "hatena_count": 3
+    },
+    {
+      "id": "zenn-a01c13e7ca",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "AI時代、配布するPythonコードをどう守るか: 難読化の実験と判断軸",
+      "url": "https://zenn.dev/pksha/articles/0f9c11d1daea2e",
+      "score": 3,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 19 Oct 2026 03:19:32 GMT",
       "hatena_count": 3
     },
     {
