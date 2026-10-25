@@ -179,7 +179,7 @@
       "source": "ipa",
       "title": "PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell)",
       "url": "https://www.ipa.go.jp/security/security-alert/2026/alert20261022.html",
-      "score": 19,
+      "score": 20,
       "author": "IPA",
       "tags": [
         "IPA",
@@ -187,7 +187,7 @@
       ],
       "severity": "medium",
       "date": "2026-10-22T00:00:00+09:00",
-      "hatena_count": 19
+      "hatena_count": 20
     },
     {
       "id": "zenn-14cb230adf",
