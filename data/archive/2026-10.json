@@ -122,13 +122,13 @@
       "sub_source": "Zenn",
       "title": "eMudhraの中間CA証明書の秘密鍵を求めてみる",
       "url": "https://zenn.dev/herumi/articles/search_bad_emudhra_key",
-      "score": 70,
+      "score": 71,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 23 Oct 2026 05:50:11 GMT",
-      "hatena_count": 70
+      "hatena_count": 71
     },
     {
       "id": "zenn-0f91e18d0b",
@@ -219,6 +219,20 @@
       "hatena_count": 4
     },
     {
+      "id": "zenn-14cb230adf",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "prpr: Rust 向けのシンプルで高速な Parser generator",
+      "url": "https://zenn.dev/tanakh/articles/prpr-packrat-parser",
+      "score": 3,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 24 Oct 2026 06:57:58 GMT",
+      "hatena_count": 3
+    },
+    {
       "id": "zenn-a01c13e7ca",
       "source": "sns",
       "sub_source": "Zenn",
@@ -277,32 +291,17 @@
       "hatena_count": 2
     },
     {
-      "id": "zenn-14cb230adf",
+      "id": "zenn-49bbe1bd17",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "prpr: Rust 向けのシンプルで高速な Parser generator",
-      "url": "https://zenn.dev/tanakh/articles/prpr-packrat-parser",
+      "title": "「読みにくいDB」はAI開発のコストを1.9倍にする――Claude Codeで検証したDB設計の影響",
+      "url": "https://zenn.dev/actbe_tech/articles/8b4a9991d5365d",
       "score": 2,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Sat, 24 Oct 2026 06:57:58 GMT",
-      "hatena_count": 2
-    },
-    {
-      "id": "techracho-367e5daa07",
-      "source": "techracho",
-      "title": "Railsの鋭い部品シリーズ: ブロックはトランザクションではない（翻訳）",
-      "url": "https://techracho.bpsinc.jp/hachi8833/2026_10_20/159818",
-      "score": 2,
-      "author": "Techracho",
-      "tags": [
-        "Ruby",
-        "Rails",
-        "日本語"
-      ],
-      "date": "Tue, 20 Oct 2026 08:30:42 +0000",
+      "date": "Fri, 23 Oct 2026 09:00:05 GMT",
       "hatena_count": 2
     }
   ],

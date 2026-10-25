@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T11:06:25.370587+00:00",
+  "updated_at": "2026-10-25T11:34:48.797856+00:00",
   "count": 141,
   "items": [
     {
@@ -1563,13 +1563,13 @@
       "sub_source": "Zenn",
       "title": "prpr: Rust 向けのシンプルで高速な Parser generator",
       "url": "https://zenn.dev/tanakh/articles/prpr-packrat-parser",
-      "score": 2,
+      "score": 3,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sat, 24 Oct 2026 06:57:58 GMT",
-      "hatena_count": 2
+      "hatena_count": 3
     },
     {
       "id": "zenn-c78b0c753f",
@@ -1591,13 +1591,13 @@
       "sub_source": "Zenn",
       "title": "「読みにくいDB」はAI開発のコストを1.9倍にする――Claude Codeで検証したDB設計の影響",
       "url": "https://zenn.dev/actbe_tech/articles/8b4a9991d5365d",
-      "score": 1,
+      "score": 2,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 23 Oct 2026 09:00:05 GMT",
-      "hatena_count": 1
+      "hatena_count": 2
     },
     {
       "id": "zenn-ecb9a4ef6b",
@@ -1605,13 +1605,13 @@
       "sub_source": "Zenn",
       "title": "eMudhraの中間CA証明書の秘密鍵を求めてみる",
       "url": "https://zenn.dev/herumi/articles/search_bad_emudhra_key",
-      "score": 70,
+      "score": 71,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 23 Oct 2026 05:50:11 GMT",
-      "hatena_count": 70
+      "hatena_count": 71
     },
     {
       "id": "zenn-6eef862e70",
@@ -1619,13 +1619,13 @@
       "sub_source": "Zenn",
       "title": "AI が実装してくれる時代こそ、自分の手で実装しよう",
       "url": "https://zenn.dev/loglass/articles/24b2a4776ce8d4",
-      "score": 0,
+      "score": 1,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 23 Oct 2026 01:28:43 GMT",
-      "hatena_count": 0
+      "hatena_count": 1
     },
     {
       "id": "zenn-7e7a9f272a",
