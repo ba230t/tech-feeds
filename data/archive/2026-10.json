@@ -20,7 +20,7 @@
       "source": "jpcert",
       "title": "注意喚起: 直近で相次いでいる国内組織における不正アクセスに関する注意喚起  (更新)",
       "url": "https://www.jpcert.or.jp/at/2026/at260030.html",
-      "score": 708,
+      "score": 706,
       "author": "JPCERT/CC",
       "tags": [
         "JPCERT",
@@ -28,7 +28,7 @@
       ],
       "severity": "high",
       "date": "2026-10-23T11:37+09:00",
-      "hatena_count": 708
+      "hatena_count": 706
     },
     {
       "id": "zenn-3321b85fd8",
@@ -36,13 +36,13 @@
       "sub_source": "Zenn",
       "title": "仕組みを理解する動画を、Claude Codeに作らせると便利すぎる",
       "url": "https://zenn.dev/explaza/articles/c749042ecbe232",
-      "score": 636,
+      "score": 635,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 21 Oct 2026 02:14:44 GMT",
-      "hatena_count": 636
+      "hatena_count": 635
     },
     {
       "id": "ipa-a1a30e44db",
@@ -122,13 +122,13 @@
       "sub_source": "Zenn",
       "title": "私が5種類のコーディングエージェントを使い分ける理由",
       "url": "https://zenn.dev/rimon/articles/45c1fd2f015af8",
-      "score": 93,
+      "score": 98,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sun, 25 Oct 2026 22:44:03 GMT",
-      "hatena_count": 93
+      "hatena_count": 98
     },
     {
       "id": "zenn-ecb9a4ef6b",
@@ -261,6 +261,34 @@
       "hatena_count": 4
     },
     {
+      "id": "zenn-dfcdd06e5d",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "AIネイティブなインターン生を受け入れて考えた、これからの開発エンジニア",
+      "url": "https://zenn.dev/tokium_dev/articles/internship-mentoring-2026",
+      "score": 3,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 26 Oct 2026 01:00:06 GMT",
+      "hatena_count": 3
+    },
+    {
+      "id": "zenn-9712a773b0",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "eMudhra 中間 CA 漏洩、OS もブラウザも最新なのにコンテナ 9 個と Python 環境 16 個が偽の証明書を信じていた",
+      "url": "https://zenn.dev/nanora/articles/20261024-emudhra-ca-own-bundles",
+      "score": 3,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 24 Oct 2026 03:53:11 GMT",
+      "hatena_count": 3
+    },
+    {
       "id": "techracho-d9c27895fc",
       "source": "techracho",
       "title": "Falconを Ruby アプリケーションのWebサーバーとして使ってみた話（翻訳）",
@@ -273,34 +301,6 @@
         "日本語"
       ],
       "date": "Wed, 21 Oct 2026 08:30:47 +0000",
-      "hatena_count": 3
-    },
-    {
-      "id": "zenn-a01c13e7ca",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "AI時代、配布するPythonコードをどう守るか: 難読化の実験と判断軸",
-      "url": "https://zenn.dev/pksha/articles/0f9c11d1daea2e",
-      "score": 3,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 19 Oct 2026 03:19:32 GMT",
-      "hatena_count": 3
-    },
-    {
-      "id": "zenn-fd184ac0f6",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Claude CodeやCodexで並列開発していたら、Macのストレージが残り8GBになったので掃除した",
-      "url": "https://zenn.dev/yoshinani_dev/articles/0c17dec1c082a1",
-      "score": 3,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 22 Oct 2026 17:21:33 GMT",
       "hatena_count": 3
     }
   ],
@@ -415,7 +415,7 @@
       "source": "jpcert",
       "title": "注意喚起: 直近で相次いでいる国内組織における不正アクセスに関する注意喚起  (更新)",
       "url": "https://www.jpcert.or.jp/at/2026/at260030.html",
-      "score": 708,
+      "score": 706,
       "author": "JPCERT/CC",
       "tags": [
         "JPCERT",
@@ -423,7 +423,7 @@
       ],
       "severity": "high",
       "date": "2026-10-23T11:37+09:00",
-      "hatena_count": 708
+      "hatena_count": 706
     },
     {
       "id": "qiita-00dac1e3d6",
