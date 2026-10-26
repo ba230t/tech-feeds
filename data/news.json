@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-10-26T08:21:13.419503+00:00",
-  "count": 184,
+  "updated_at": "2026-10-26T08:52:22.333477+00:00",
+  "count": 186,
   "items": [
+    {
+      "id": "jpcert-382a807b6d",
+      "source": "jpcert",
+      "title": "注意喚起: BrotliのC言語実装における境界外書き込みの脆弱性（CVE-2026-111497）に関する注意喚起  (公開)",
+      "url": "https://www.jpcert.or.jp/at/2026/at260034.html",
+      "score": 0,
+      "author": "JPCERT/CC",
+      "tags": [
+        "JPCERT",
+        "セキュリティ"
+      ],
+      "severity": "high",
+      "date": "2026-10-26T16:25+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "jpcert-30cd0d7475",
+      "source": "jpcert",
+      "title": "注意喚起: PHPにおける複数の脆弱性（CVE-2026-109618、CVE-2026-109619）に関する注意喚起  (更新)",
+      "url": "https://www.jpcert.or.jp/at/2026/at260033.html",
+      "score": 2,
+      "author": "JPCERT/CC",
+      "tags": [
+        "JPCERT",
+        "セキュリティ"
+      ],
+      "severity": "high",
+      "date": "2026-10-26T16:25+09:00",
+      "hatena_count": 2
+    },
     {
       "id": "qiita-392d65b036",
       "source": "sns",
@@ -1002,21 +1032,6 @@
       "hatena_count": 1
     },
     {
-      "id": "jpcert-30cd0d7475",
-      "source": "jpcert",
-      "title": "注意喚起: PHPにおける複数の脆弱性（CVE-2026-109618、CVE-2026-109619）に関する注意喚起  (公開)",
-      "url": "https://www.jpcert.or.jp/at/2026/at260033.html",
-      "score": 2,
-      "author": "JPCERT/CC",
-      "tags": [
-        "JPCERT",
-        "セキュリティ"
-      ],
-      "severity": "high",
-      "date": "2026-10-22T13:11+09:00",
-      "hatena_count": 2
-    },
-    {
       "id": "qiita-19486e2b18",
       "source": "sns",
       "sub_source": "Qiita",
@@ -1830,13 +1845,13 @@
       "sub_source": "Zenn",
       "title": "AIネイティブなインターン生を受け入れて考えた、これからの開発エンジニア",
       "url": "https://zenn.dev/tokium_dev/articles/internship-mentoring-2026",
-      "score": 1,
+      "score": 2,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 26 Oct 2026 01:00:06 GMT",
-      "hatena_count": 1
+      "hatena_count": 2
     },
     {
       "id": "zenn-1adc6c7b1e",
@@ -1844,13 +1859,13 @@
       "sub_source": "Zenn",
       "title": "私が5種類のコーディングエージェントを使い分ける理由",
       "url": "https://zenn.dev/rimon/articles/45c1fd2f015af8",
-      "score": 89,
+      "score": 93,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sun, 25 Oct 2026 22:44:03 GMT",
-      "hatena_count": 89
+      "hatena_count": 93
     },
     {
       "id": "zenn-6d6c574d3c",
@@ -1998,13 +2013,13 @@
       "sub_source": "Zenn",
       "title": "「読みにくいDB」はAI開発のコストを1.9倍にする――Claude Codeで検証したDB設計の影響",
       "url": "https://zenn.dev/actbe_tech/articles/8b4a9991d5365d",
-      "score": 72,
+      "score": 73,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 23 Oct 2026 09:00:05 GMT",
-      "hatena_count": 72
+      "hatena_count": 73
     },
     {
       "id": "zenn-ecb9a4ef6b",
@@ -2055,13 +2070,13 @@
       "sub_source": "Zenn",
       "title": "仕組みを理解する動画を、Claude Codeに作らせると便利すぎる",
       "url": "https://zenn.dev/explaza/articles/c749042ecbe232",
-      "score": 635,
+      "score": 636,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 21 Oct 2026 02:14:44 GMT",
-      "hatena_count": 635
+      "hatena_count": 636
     },
     {
       "id": "zenn-6196fc3ef4",
@@ -2090,6 +2105,21 @@
       ],
       "date": "Tue, 20 Oct 2026 02:00:05 GMT",
       "hatena_count": 32
+    },
+    {
+      "id": "techracho-5c8766c6c7",
+      "source": "techracho",
+      "title": "遺跡on Railsシリーズ: 失われた遺跡の地図を再構築する（翻訳）",
+      "url": "https://techracho.bpsinc.jp/hachi8833/2026_10_26/159348",
+      "score": 1,
+      "author": "Techracho",
+      "tags": [
+        "Ruby",
+        "Rails",
+        "日本語"
+      ],
+      "date": "Mon, 26 Oct 2026 08:30:54 +0000",
+      "hatena_count": 1
     },
     {
       "id": "techracho-35b4c527fc",
