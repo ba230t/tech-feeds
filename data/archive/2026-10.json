@@ -1,10 +1,10 @@
 {
   "month": "2026-10",
-  "total_articles": 171,
+  "total_articles": 175,
   "summary": "# 2026-10の技術動向レポート\n\n**セキュリティ動向 (2件)**\n\n1. 厳選・セキュリティが心配ならClaude Codeにこの問いかけをコピペするべし20\n\n2. 【事前準備のお願い】PHPのセキュリティリリース公開予定について\n\n**AI・機械学習動向 (2件)**\n\n1. 仕組みを理解する動画を、Claude Codeに作らせると便利すぎる\n\n2. 「読みにくいDB」はAI開発のコストを1.9倍にする――Claude Codeで検証したDB設計の影響\n\n**技術トレンド (6件)**\n\n1. 注意喚起: 直近で相次いでいる国内組織における不正アクセスに関する注意喚起  (更新)\n\n2. 不正アクセスによる漏えい等の事案を踏まえ、速やかに実施すべき対策等について\n\n3. バイブコーディングを6週間続けたら、Mac の起動が20分かかるようになった\n\n4. 私が5種類のコーディングエージェントを使い分ける理由\n\n5. 【速報：2026/10/22 04:00】PHP2Shellの対応状況まとめ：PHP本体、Linux、レンタルサーバ、KUSANAGI\n\n6. eMudhraの中間CA証明書の秘密鍵を求めてみる",
   "source_counts": {
     "jpcert": 30,
-    "sns": 124,
+    "sns": 128,
     "ipa": 6,
     "techracho": 11
   },
@@ -36,13 +36,13 @@
       "sub_source": "Zenn",
       "title": "仕組みを理解する動画を、Claude Codeに作らせると便利すぎる",
       "url": "https://zenn.dev/explaza/articles/c749042ecbe232",
-      "score": 635,
+      "score": 636,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 21 Oct 2026 02:14:44 GMT",
-      "hatena_count": 635
+      "hatena_count": 636
     },
     {
       "id": "ipa-a1a30e44db",
@@ -65,13 +65,13 @@
       "sub_source": "Zenn",
       "title": "バイブコーディングを6週間続けたら、Mac の起動が20分かかるようになった",
       "url": "https://zenn.dev/singularity/articles/vibe-coding-mac-boot-20min",
-      "score": 235,
+      "score": 236,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 20 Oct 2026 09:15:46 GMT",
-      "hatena_count": 235
+      "hatena_count": 236
     },
     {
       "id": "zenn-7e7a9f272a",
@@ -93,13 +93,13 @@
       "sub_source": "Zenn",
       "title": "私が5種類のコーディングエージェントを使い分ける理由",
       "url": "https://zenn.dev/rimon/articles/45c1fd2f015af8",
-      "score": 100,
+      "score": 103,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sun, 25 Oct 2026 22:44:03 GMT",
-      "hatena_count": 100
+      "hatena_count": 103
     },
     {
       "id": "zenn-89cd9f8fc3",
@@ -136,13 +136,13 @@
       "sub_source": "Zenn",
       "title": "「読みにくいDB」はAI開発のコストを1.9倍にする――Claude Codeで検証したDB設計の影響",
       "url": "https://zenn.dev/actbe_tech/articles/8b4a9991d5365d",
-      "score": 75,
+      "score": 81,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 23 Oct 2026 09:00:05 GMT",
-      "hatena_count": 75
+      "hatena_count": 81
     },
     {
       "id": "zenn-ecb9a4ef6b",
@@ -203,6 +203,20 @@
       "hatena_count": 21
     },
     {
+      "id": "zenn-60cec5a308",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "AI の謎な説明文を直すスキル",
+      "url": "https://zenn.dev/microsoft/articles/explain-before-shorten",
+      "score": 21,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 26 Oct 2026 04:32:54 GMT",
+      "hatena_count": 21
+    },
+    {
       "id": "ipa-ee45d6bd49",
       "source": "ipa",
       "title": "PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell)",
@@ -230,6 +244,20 @@
       ],
       "date": "Sat, 24 Oct 2026 06:57:58 GMT",
       "hatena_count": 17
+    },
+    {
+      "id": "zenn-eab72e2dc0",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "スタックトレースを読むとヒープが約1,470 MB増えていた話",
+      "url": "https://zenn.dev/dress_code/articles/f2a51226c9ec6f",
+      "score": 10,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 26 Oct 2026 00:00:13 GMT",
+      "hatena_count": 10
     },
     {
       "id": "zenn-f0d56afe76",
@@ -273,34 +301,6 @@
       ],
       "severity": "high",
       "date": "2026-10-26T16:25+09:00",
-      "hatena_count": 3
-    },
-    {
-      "id": "zenn-dfcdd06e5d",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "AIネイティブなインターン生を受け入れて考えた、これからの開発エンジニア",
-      "url": "https://zenn.dev/tokium_dev/articles/internship-mentoring-2026",
-      "score": 3,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 26 Oct 2026 01:00:06 GMT",
-      "hatena_count": 3
-    },
-    {
-      "id": "zenn-9712a773b0",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "eMudhra 中間 CA 漏洩、OS もブラウザも最新なのにコンテナ 9 個と Python 環境 16 個が偽の証明書を信じていた",
-      "url": "https://zenn.dev/nanora/articles/20261024-emudhra-ca-own-bundles",
-      "score": 3,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 24 Oct 2026 03:53:11 GMT",
       "hatena_count": 3
     }
   ],
