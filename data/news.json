@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T23:33:21.588656+00:00",
+  "updated_at": "2026-10-26T00:19:59.858352+00:00",
   "count": 166,
   "items": [
     {
@@ -1886,13 +1886,13 @@
       "sub_source": "Zenn",
       "title": "バイブコーディングを6週間続けたら、Mac の起動が20分かかるようになった",
       "url": "https://zenn.dev/singularity/articles/vibe-coding-mac-boot-20min",
-      "score": 234,
+      "score": 235,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 20 Oct 2026 09:15:46 GMT",
-      "hatena_count": 234
+      "hatena_count": 235
     },
     {
       "id": "zenn-0f91e18d0b",
@@ -2154,7 +2154,7 @@
         "Zenn"
       ],
       "date": "Fri, 23 Oct 2026 09:00:05 GMT",
-      "hatena_count": 2
+      "hatena_count": 5
     },
     {
       "id": "zenn-e58ac413dc",
