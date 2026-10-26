@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T03:11:58.351572+00:00",
+  "updated_at": "2026-10-26T03:46:50.565280+00:00",
   "count": 167,
   "items": [
     {
@@ -1642,20 +1642,6 @@
       "hatena_count": 1
     },
     {
-      "id": "zenn-aee3fa9ffe",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "PHPを更新するつもりが環境移行に【前編】Lightsailの配信構成と運用を見直す",
-      "url": "https://zenn.dev/hotaka_noda/articles/3b4c51ecfe561d",
-      "score": 1,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 25 Oct 2026 13:52:37 GMT",
-      "hatena_count": 1
-    },
-    {
       "id": "zenn-b080dd860a",
       "source": "sns",
       "sub_source": "Zenn",
@@ -1768,6 +1754,20 @@
       "hatena_count": 0
     },
     {
+      "id": "zenn-a124bad409",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "VSCodeでのWSL2接続時ネットワークが遅くなる現象",
+      "url": "https://zenn.dev/as/articles/4ce7064e33719c",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 25 Oct 2026 02:21:21 GMT",
+      "hatena_count": 0
+    },
+    {
       "id": "zenn-1d7e25f9c1",
       "source": "sns",
       "sub_source": "Zenn",
@@ -1857,14 +1857,14 @@
       "sub_source": "Zenn",
       "title": "脆弱性管理の仕組みを整えた",
       "url": "https://zenn.dev/dress_code/articles/be5550254695cd",
-      "score": 26,
+      "score": 25,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 22 Oct 2026 01:30:07 GMT",
       "severity": "high",
-      "hatena_count": 26
+      "hatena_count": 25
     },
     {
       "id": "zenn-3321b85fd8",
@@ -1872,13 +1872,13 @@
       "sub_source": "Zenn",
       "title": "仕組みを理解する動画を、Claude Codeに作らせると便利すぎる",
       "url": "https://zenn.dev/explaza/articles/c749042ecbe232",
-      "score": 631,
+      "score": 632,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 21 Oct 2026 02:14:44 GMT",
-      "hatena_count": 631
+      "hatena_count": 632
     },
     {
       "id": "zenn-6196fc3ef4",
@@ -2059,18 +2059,18 @@
       "hatena_count": 1
     },
     {
-      "id": "zenn-a124bad409",
+      "id": "zenn-aee3fa9ffe",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "VSCodeでのWSL2接続時ネットワークが遅くなる現象",
-      "url": "https://zenn.dev/as/articles/4ce7064e33719c",
-      "score": 0,
+      "title": "PHPを更新するつもりが環境移行に【前編】Lightsailの配信構成と運用を見直す",
+      "url": "https://zenn.dev/hotaka_noda/articles/3b4c51ecfe561d",
+      "score": 1,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Sun, 25 Oct 2026 02:21:21 GMT",
-      "hatena_count": 0
+      "date": "Sun, 25 Oct 2026 13:52:37 GMT",
+      "hatena_count": 1
     },
     {
       "id": "zenn-4219ef345b",
@@ -2168,7 +2168,7 @@
         "Zenn"
       ],
       "date": "Fri, 23 Oct 2026 09:00:05 GMT",
-      "hatena_count": 42
+      "hatena_count": 47
     },
     {
       "id": "zenn-e58ac413dc",
