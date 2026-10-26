@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T00:19:59.858352+00:00",
+  "updated_at": "2026-10-26T01:09:29.211386+00:00",
   "count": 166,
   "items": [
     {
@@ -1815,13 +1815,13 @@
       "sub_source": "Zenn",
       "title": "prpr: Rust 向けのシンプルで高速な Parser generator",
       "url": "https://zenn.dev/tanakh/articles/prpr-packrat-parser",
-      "score": 14,
+      "score": 15,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sat, 24 Oct 2026 06:57:58 GMT",
-      "hatena_count": 14
+      "hatena_count": 15
     },
     {
       "id": "zenn-ecb9a4ef6b",
@@ -1872,13 +1872,13 @@
       "sub_source": "Zenn",
       "title": "仕組みを理解する動画を、Claude Codeに作らせると便利すぎる",
       "url": "https://zenn.dev/explaza/articles/c749042ecbe232",
-      "score": 628,
+      "score": 629,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 21 Oct 2026 02:14:44 GMT",
-      "hatena_count": 628
+      "hatena_count": 629
     },
     {
       "id": "zenn-6196fc3ef4",
@@ -2154,7 +2154,7 @@
         "Zenn"
       ],
       "date": "Fri, 23 Oct 2026 09:00:05 GMT",
-      "hatena_count": 5
+      "hatena_count": 14
     },
     {
       "id": "zenn-e58ac413dc",
