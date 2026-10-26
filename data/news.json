@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T01:09:29.211386+00:00",
+  "updated_at": "2026-10-26T01:49:51.535829+00:00",
   "count": 166,
   "items": [
     {
@@ -1703,13 +1703,13 @@
       "sub_source": "Zenn",
       "title": "Pythonの基礎学習が終わったら、Pythonでスクレイピングを始めよう！",
       "url": "https://zenn.dev/momiji_ai/articles/67c7ce4c54fad3",
-      "score": 0,
+      "score": 1,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sun, 25 Oct 2026 07:46:55 GMT",
-      "hatena_count": 0
+      "hatena_count": 1
     },
     {
       "id": "zenn-d7f65986fb",
@@ -1872,13 +1872,13 @@
       "sub_source": "Zenn",
       "title": "仕組みを理解する動画を、Claude Codeに作らせると便利すぎる",
       "url": "https://zenn.dev/explaza/articles/c749042ecbe232",
-      "score": 629,
+      "score": 630,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 21 Oct 2026 02:14:44 GMT",
-      "hatena_count": 629
+      "hatena_count": 630
     },
     {
       "id": "zenn-6196fc3ef4",
@@ -2154,7 +2154,7 @@
         "Zenn"
       ],
       "date": "Fri, 23 Oct 2026 09:00:05 GMT",
-      "hatena_count": 14
+      "hatena_count": 26
     },
     {
       "id": "zenn-e58ac413dc",
@@ -2168,7 +2168,7 @@
         "Zenn"
       ],
       "date": "Wed, 21 Oct 2026 01:39:50 GMT",
-      "hatena_count": 1
+      "hatena_count": 2
     },
     {
       "id": "zenn-f0d56afe76",
