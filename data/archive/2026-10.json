@@ -36,13 +36,13 @@
       "sub_source": "Zenn",
       "title": "仕組みを理解する動画を、Claude Codeに作らせると便利すぎる",
       "url": "https://zenn.dev/explaza/articles/c749042ecbe232",
-      "score": 636,
+      "score": 638,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 21 Oct 2026 02:14:44 GMT",
-      "hatena_count": 636
+      "hatena_count": 638
     },
     {
       "id": "ipa-a1a30e44db",
@@ -93,13 +93,13 @@
       "sub_source": "Zenn",
       "title": "私が5種類のコーディングエージェントを使い分ける理由",
       "url": "https://zenn.dev/rimon/articles/45c1fd2f015af8",
-      "score": 103,
+      "score": 109,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sun, 25 Oct 2026 22:44:03 GMT",
-      "hatena_count": 103
+      "hatena_count": 109
     },
     {
       "id": "zenn-89cd9f8fc3",
@@ -136,13 +136,13 @@
       "sub_source": "Zenn",
       "title": "「読みにくいDB」はAI開発のコストを1.9倍にする――Claude Codeで検証したDB設計の影響",
       "url": "https://zenn.dev/actbe_tech/articles/8b4a9991d5365d",
-      "score": 81,
+      "score": 83,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 23 Oct 2026 09:00:05 GMT",
-      "hatena_count": 81
+      "hatena_count": 83
     },
     {
       "id": "zenn-ecb9a4ef6b",
@@ -157,6 +157,20 @@
       ],
       "date": "Fri, 23 Oct 2026 05:50:11 GMT",
       "hatena_count": 74
+    },
+    {
+      "id": "zenn-60cec5a308",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "AI の謎な説明文を直すスキル",
+      "url": "https://zenn.dev/microsoft/articles/explain-before-shorten",
+      "score": 44,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 26 Oct 2026 04:32:54 GMT",
+      "hatena_count": 44
     },
     {
       "id": "zenn-0f91e18d0b",
@@ -203,20 +217,6 @@
       "hatena_count": 21
     },
     {
-      "id": "zenn-60cec5a308",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "AI の謎な説明文を直すスキル",
-      "url": "https://zenn.dev/microsoft/articles/explain-before-shorten",
-      "score": 21,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 26 Oct 2026 04:32:54 GMT",
-      "hatena_count": 21
-    },
-    {
       "id": "ipa-ee45d6bd49",
       "source": "ipa",
       "title": "PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell)",
@@ -237,13 +237,13 @@
       "sub_source": "Zenn",
       "title": "prpr: Rust 向けのシンプルで高速な Parser generator",
       "url": "https://zenn.dev/tanakh/articles/prpr-packrat-parser",
-      "score": 17,
+      "score": 18,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sat, 24 Oct 2026 06:57:58 GMT",
-      "hatena_count": 17
+      "hatena_count": 18
     },
     {
       "id": "zenn-eab72e2dc0",
@@ -251,13 +251,13 @@
       "sub_source": "Zenn",
       "title": "スタックトレースを読むとヒープが約1,470 MB増えていた話",
       "url": "https://zenn.dev/dress_code/articles/f2a51226c9ec6f",
-      "score": 10,
+      "score": 11,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 26 Oct 2026 00:00:13 GMT",
-      "hatena_count": 10
+      "hatena_count": 11
     },
     {
       "id": "zenn-f0d56afe76",
