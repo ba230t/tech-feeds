@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-26T06:16:39.796198+00:00",
-  "count": 167,
+  "updated_at": "2026-10-26T07:07:18.228303+00:00",
+  "count": 171,
   "items": [
     {
       "id": "qiita-8c907ed23b",
@@ -1628,6 +1628,49 @@
       "hatena_count": 1
     },
     {
+      "id": "zenn-06ad3f75f3",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Node.js の Brotli 脆弱性 CVE-2026-111497 を読む",
+      "url": "https://zenn.dev/chot/articles/79e6c94e27782d",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 26 Oct 2026 02:29:36 GMT",
+      "severity": "high",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-dfcdd06e5d",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "AIネイティブなインターン生を受け入れて考えた、これからの開発エンジニア",
+      "url": "https://zenn.dev/tokium_dev/articles/internship-mentoring-2026",
+      "score": 1,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 26 Oct 2026 01:00:06 GMT",
+      "hatena_count": 1
+    },
+    {
+      "id": "zenn-1adc6c7b1e",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "私が5種類のコーディングエージェントを使い分ける理由",
+      "url": "https://zenn.dev/rimon/articles/45c1fd2f015af8",
+      "score": 82,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 25 Oct 2026 22:44:03 GMT",
+      "hatena_count": 82
+    },
+    {
       "id": "zenn-6d6c574d3c",
       "source": "sns",
       "sub_source": "Zenn",
@@ -1639,20 +1682,6 @@
         "Zenn"
       ],
       "date": "Sun, 25 Oct 2026 13:58:04 GMT",
-      "hatena_count": 1
-    },
-    {
-      "id": "zenn-b080dd860a",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "POPOPO と AI 開発 - 03. AI を活かす心構え・ノウハウ -AI という新人をチームに迎えるために-",
-      "url": "https://zenn.dev/rikachiii/articles/03c7f77393a772",
-      "score": 1,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 25 Oct 2026 10:00:05 GMT",
       "hatena_count": 1
     },
     {
@@ -1670,17 +1699,17 @@
       "hatena_count": 0
     },
     {
-      "id": "zenn-7844465372",
+      "id": "zenn-4219ef345b",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "自動売買システムの全体像を1枚の図で:価格の取得・記録・バックテスト・判断(Python・PAD)",
-      "url": "https://zenn.dev/yoru_build/articles/b5569fce05651a",
+      "title": "ZennとQiitaを始めたいので同時投稿パイプラインを組んでみた話",
+      "url": "https://zenn.dev/ot4ma_zenn/articles/20261025-sun-zenn_qiita_pipeline",
       "score": 0,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Sun, 25 Oct 2026 09:43:44 GMT",
+      "date": "Sun, 25 Oct 2026 08:48:34 GMT",
       "hatena_count": 0
     },
     {
@@ -1698,20 +1727,6 @@
       "hatena_count": 1
     },
     {
-      "id": "zenn-d7f65986fb",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "AlphaEngine : 最適化編②",
-      "url": "https://zenn.dev/reu/articles/0f77f6eb0940af",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 25 Oct 2026 07:19:40 GMT",
-      "hatena_count": 0
-    },
-    {
       "id": "zenn-24696d14f6",
       "source": "sns",
       "sub_source": "Zenn",
@@ -1726,62 +1741,6 @@
       "hatena_count": 0
     },
     {
-      "id": "zenn-8c90888c0c",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "gh api -f body=@file で、PR に一時ファイルのパスが載った",
-      "url": "https://zenn.dev/hotto_ken/articles/gh-api-raw-field-posted-temp-path",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 25 Oct 2026 04:11:54 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-24882bdf28",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "git archive で作成した zip ファイルを AWS CodePipeline のビルドのソースとして使う場合はDOSタイムスタン",
-      "url": "https://zenn.dev/yskszk63/articles/codepipeline-zip-dostime",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 25 Oct 2026 02:37:59 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-a124bad409",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "VSCodeでのWSL2接続時ネットワークが遅くなる現象",
-      "url": "https://zenn.dev/as/articles/4ce7064e33719c",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 25 Oct 2026 02:21:21 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-1d7e25f9c1",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "C# × Oracle ストアドプロシージャ早見表（WinForms の取得・登録・更新・削除・CSV 出力）",
-      "url": "https://zenn.dev/hiroshi00000000/articles/078de5ac61693b",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 25 Oct 2026 00:56:37 GMT",
-      "hatena_count": 0
-    },
-    {
       "id": "zenn-d00427ebdc",
       "source": "sns",
       "sub_source": "Zenn",
@@ -1793,6 +1752,20 @@
         "Zenn"
       ],
       "date": "Sat, 24 Oct 2026 17:23:14 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-50681a5387",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Flutter アプリを iPhone Duo の「縦帯」に対応させる",
+      "url": "https://zenn.dev/yus1127/articles/flutter-iphone-duo-vertical-bar",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 24 Oct 2026 16:59:46 GMT",
       "hatena_count": 0
     },
     {
@@ -1815,13 +1788,41 @@
       "sub_source": "Zenn",
       "title": "prpr: Rust 向けのシンプルで高速な Parser generator",
       "url": "https://zenn.dev/tanakh/articles/prpr-packrat-parser",
-      "score": 16,
+      "score": 17,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sat, 24 Oct 2026 06:57:58 GMT",
-      "hatena_count": 16
+      "hatena_count": 17
+    },
+    {
+      "id": "zenn-9712a773b0",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "eMudhra 中間 CA 漏洩、OS もブラウザも最新なのにコンテナ 9 個と Python 環境 16 個が偽の証明書を信じていた",
+      "url": "https://zenn.dev/nanora/articles/20261024-emudhra-ca-own-bundles",
+      "score": 2,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 24 Oct 2026 03:53:11 GMT",
+      "hatena_count": 2
+    },
+    {
+      "id": "zenn-49bbe1bd17",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "「読みにくいDB」はAI開発のコストを1.9倍にする――Claude Codeで検証したDB設計の影響",
+      "url": "https://zenn.dev/actbe_tech/articles/8b4a9991d5365d",
+      "score": 71,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 23 Oct 2026 09:00:05 GMT",
+      "hatena_count": 71
     },
     {
       "id": "zenn-ecb9a4ef6b",
@@ -1872,13 +1873,13 @@
       "sub_source": "Zenn",
       "title": "仕組みを理解する動画を、Claude Codeに作らせると便利すぎる",
       "url": "https://zenn.dev/explaza/articles/c749042ecbe232",
-      "score": 633,
+      "score": 634,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 21 Oct 2026 02:14:44 GMT",
-      "hatena_count": 633
+      "hatena_count": 634
     },
     {
       "id": "zenn-6196fc3ef4",
@@ -2059,6 +2060,104 @@
       "hatena_count": 1
     },
     {
+      "id": "zenn-b080dd860a",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "POPOPO と AI 開発 - 03. AI を活かす心構え・ノウハウ -AI という新人をチームに迎えるために-",
+      "url": "https://zenn.dev/rikachiii/articles/03c7f77393a772",
+      "score": 1,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 25 Oct 2026 10:00:05 GMT",
+      "hatena_count": 1
+    },
+    {
+      "id": "zenn-7844465372",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "自動売買システムの全体像を1枚の図で:価格の取得・記録・バックテスト・判断(Python・PAD)",
+      "url": "https://zenn.dev/yoru_build/articles/b5569fce05651a",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 25 Oct 2026 09:43:44 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-d7f65986fb",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "AlphaEngine : 最適化編②",
+      "url": "https://zenn.dev/reu/articles/0f77f6eb0940af",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 25 Oct 2026 07:19:40 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-8c90888c0c",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "gh api -f body=@file で、PR に一時ファイルのパスが載った",
+      "url": "https://zenn.dev/hotto_ken/articles/gh-api-raw-field-posted-temp-path",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 25 Oct 2026 04:11:54 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-24882bdf28",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "git archive で作成した zip ファイルを AWS CodePipeline のビルドのソースとして使う場合はDOSタイムスタン",
+      "url": "https://zenn.dev/yskszk63/articles/codepipeline-zip-dostime",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 25 Oct 2026 02:37:59 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-a124bad409",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "VSCodeでのWSL2接続時ネットワークが遅くなる現象",
+      "url": "https://zenn.dev/as/articles/4ce7064e33719c",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 25 Oct 2026 02:21:21 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-1d7e25f9c1",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "C# × Oracle ストアドプロシージャ早見表（WinForms の取得・登録・更新・削除・CSV 出力）",
+      "url": "https://zenn.dev/hiroshi00000000/articles/078de5ac61693b",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 25 Oct 2026 00:56:37 GMT",
+      "hatena_count": 0
+    },
+    {
       "id": "zenn-aee3fa9ffe",
       "source": "sns",
       "sub_source": "Zenn",
@@ -2073,20 +2172,6 @@
       "hatena_count": 1
     },
     {
-      "id": "zenn-4219ef345b",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "ZennとQiitaを始めたいので同時投稿パイプラインを組んでみた話",
-      "url": "https://zenn.dev/ot4ma_zenn/articles/20261025-sun-zenn_qiita_pipeline",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 25 Oct 2026 08:48:34 GMT",
-      "hatena_count": 0
-    },
-    {
       "id": "zenn-20d97d79bf",
       "source": "sns",
       "sub_source": "Zenn",
@@ -2098,20 +2183,6 @@
         "Zenn"
       ],
       "date": "Sat, 24 Oct 2026 18:15:57 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-50681a5387",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Flutter アプリを iPhone Duo の「縦帯」に対応させる",
-      "url": "https://zenn.dev/yus1127/articles/flutter-iphone-duo-vertical-bar",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 24 Oct 2026 16:59:46 GMT",
       "hatena_count": 0
     },
     {
@@ -2155,20 +2226,6 @@
       ],
       "date": "Sat, 24 Oct 2026 15:10:47 GMT",
       "hatena_count": 1
-    },
-    {
-      "id": "zenn-49bbe1bd17",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "「読みにくいDB」はAI開発のコストを1.9倍にする――Claude Codeで検証したDB設計の影響",
-      "url": "https://zenn.dev/actbe_tech/articles/8b4a9991d5365d",
-      "score": 2,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 23 Oct 2026 09:00:05 GMT",
-      "hatena_count": 63
     },
     {
       "id": "zenn-e58ac413dc",
@@ -2252,7 +2309,7 @@
         "Zenn"
       ],
       "date": "Thu, 22 Oct 2026 11:28:13 GMT",
-      "hatena_count": 195
+      "hatena_count": 194
     },
     {
       "id": "zenn-105b0e0d7e",
@@ -2345,13 +2402,13 @@
       "sub_source": "Zenn",
       "title": "AI隆盛期に考える、情シス的セキュリティのあれこれ",
       "url": "https://zenn.dev/kinasato_mochi/articles/db662a5909ea19",
-      "score": 0,
+      "score": 1,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 23 Oct 2026 12:41:00 GMT",
-      "hatena_count": 0
+      "hatena_count": 1
     },
     {
       "id": "zenn-587db329db",

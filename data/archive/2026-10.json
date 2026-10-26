@@ -1,16 +1,16 @@
 {
   "month": "2026-10",
-  "total_articles": 152,
-  "summary": "# 2026-10の技術動向レポート\n\n**セキュリティ動向 (3件)**\n\n1. 厳選・セキュリティが心配ならClaude Codeにこの問いかけをコピペするべし20\n\n2. 【事前準備のお願い】PHPのセキュリティリリース公開予定について\n\n3. 脆弱性管理の仕組みを整えた\n\n**AI・機械学習動向 (1件)**\n\n1. 仕組みを理解する動画を、Claude Codeに作らせると便利すぎる\n\n**技術トレンド (6件)**\n\n1. 注意喚起: 直近で相次いでいる国内組織における不正アクセスに関する注意喚起  (更新)\n\n2. 不正アクセスによる漏えい等の事案を踏まえ、速やかに実施すべき対策等について\n\n3. バイブコーディングを6週間続けたら、Mac の起動が20分かかるようになった\n\n4. 【速報：2026/10/22 04:00】PHP2Shellの対応状況まとめ：PHP本体、Linux、レンタルサーバ、KUSANAGI\n\n5. eMudhraの中間CA証明書の秘密鍵を求めてみる\n\n6. Oxlint + Oxfmt で規約をコード化するモノレポ運用",
+  "total_articles": 156,
+  "summary": "# 2026-10の技術動向レポート\n\n**セキュリティ動向 (2件)**\n\n1. 厳選・セキュリティが心配ならClaude Codeにこの問いかけをコピペするべし20\n\n2. 【事前準備のお願い】PHPのセキュリティリリース公開予定について\n\n**AI・機械学習動向 (2件)**\n\n1. 仕組みを理解する動画を、Claude Codeに作らせると便利すぎる\n\n2. 「読みにくいDB」はAI開発のコストを1.9倍にする――Claude Codeで検証したDB設計の影響\n\n**技術トレンド (6件)**\n\n1. 注意喚起: 直近で相次いでいる国内組織における不正アクセスに関する注意喚起  (更新)\n\n2. 不正アクセスによる漏えい等の事案を踏まえ、速やかに実施すべき対策等について\n\n3. バイブコーディングを6週間続けたら、Mac の起動が20分かかるようになった\n\n4. 【速報：2026/10/22 04:00】PHP2Shellの対応状況まとめ：PHP本体、Linux、レンタルサーバ、KUSANAGI\n\n5. 私が5種類のコーディングエージェントを使い分ける理由\n\n6. eMudhraの中間CA証明書の秘密鍵を求めてみる",
   "source_counts": {
-    "sns": 107,
+    "sns": 111,
     "jpcert": 29,
     "ipa": 6,
     "techracho": 10
   },
   "severity_counts": {
     "critical": 5,
-    "high": 9,
+    "high": 10,
     "medium": 6,
     "info": 24
   },
@@ -36,13 +36,13 @@
       "sub_source": "Zenn",
       "title": "仕組みを理解する動画を、Claude Codeに作らせると便利すぎる",
       "url": "https://zenn.dev/explaza/articles/c749042ecbe232",
-      "score": 633,
+      "score": 634,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 21 Oct 2026 02:14:44 GMT",
-      "hatena_count": 633
+      "hatena_count": 634
     },
     {
       "id": "ipa-a1a30e44db",
@@ -85,7 +85,7 @@
         "Zenn"
       ],
       "date": "Thu, 22 Oct 2026 11:28:13 GMT",
-      "hatena_count": 195
+      "hatena_count": 194
     },
     {
       "id": "zenn-89cd9f8fc3",
@@ -117,6 +117,20 @@
       "hatena_count": 99
     },
     {
+      "id": "zenn-1adc6c7b1e",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "私が5種類のコーディングエージェントを使い分ける理由",
+      "url": "https://zenn.dev/rimon/articles/45c1fd2f015af8",
+      "score": 82,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 25 Oct 2026 22:44:03 GMT",
+      "hatena_count": 82
+    },
+    {
       "id": "zenn-ecb9a4ef6b",
       "source": "sns",
       "sub_source": "Zenn",
@@ -129,6 +143,20 @@
       ],
       "date": "Fri, 23 Oct 2026 05:50:11 GMT",
       "hatena_count": 74
+    },
+    {
+      "id": "zenn-49bbe1bd17",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "「読みにくいDB」はAI開発のコストを1.9倍にする――Claude Codeで検証したDB設計の影響",
+      "url": "https://zenn.dev/actbe_tech/articles/8b4a9991d5365d",
+      "score": 71,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 23 Oct 2026 09:00:05 GMT",
+      "hatena_count": 71
     },
     {
       "id": "zenn-0f91e18d0b",
@@ -195,13 +223,13 @@
       "sub_source": "Zenn",
       "title": "prpr: Rust 向けのシンプルで高速な Parser generator",
       "url": "https://zenn.dev/tanakh/articles/prpr-packrat-parser",
-      "score": 16,
+      "score": 17,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sat, 24 Oct 2026 06:57:58 GMT",
-      "hatena_count": 16
+      "hatena_count": 17
     },
     {
       "id": "zenn-f0d56afe76",
@@ -274,36 +302,6 @@
       ],
       "date": "Thu, 22 Oct 2026 17:21:33 GMT",
       "hatena_count": 3
-    },
-    {
-      "id": "jpcert-30cd0d7475",
-      "source": "jpcert",
-      "title": "注意喚起: PHPにおける複数の脆弱性（CVE-2026-109618、CVE-2026-109619）に関する注意喚起  (公開)",
-      "url": "https://www.jpcert.or.jp/at/2026/at260033.html",
-      "score": 2,
-      "author": "JPCERT/CC",
-      "tags": [
-        "JPCERT",
-        "セキュリティ"
-      ],
-      "severity": "high",
-      "date": "2026-10-22T13:11+09:00",
-      "hatena_count": 2
-    },
-    {
-      "id": "jpcert-992361585c",
-      "source": "jpcert",
-      "title": "注意喚起: NetScaler ADCおよびNetScaler Gatewayにおける複数の脆弱性（CVE-2026-88771、CVE-2026-88772等）に関する注意喚起  (更新)",
-      "url": "https://www.jpcert.or.jp/at/2026/at260029.html",
-      "score": 2,
-      "author": "JPCERT/CC",
-      "tags": [
-        "JPCERT",
-        "セキュリティ"
-      ],
-      "severity": "high",
-      "date": "2026-10-02T14:15+09:00",
-      "hatena_count": 2
     }
   ],
   "security_highlights": [
@@ -336,6 +334,21 @@
       "date": "Thu, 22 Oct 2026 01:30:07 GMT",
       "severity": "high",
       "hatena_count": 25
+    },
+    {
+      "id": "zenn-06ad3f75f3",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Node.js の Brotli 脆弱性 CVE-2026-111497 を読む",
+      "url": "https://zenn.dev/chot/articles/79e6c94e27782d",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 26 Oct 2026 02:29:36 GMT",
+      "severity": "high",
+      "hatena_count": 0
     },
     {
       "id": "qiita-0bf602bcba",
