@@ -1,10 +1,10 @@
 {
   "month": "2026-10",
-  "total_articles": 175,
-  "summary": "# 2026-10の技術動向レポート\n\n**セキュリティ動向 (2件)**\n\n1. 厳選・セキュリティが心配ならClaude Codeにこの問いかけをコピペするべし20\n\n2. 【事前準備のお願い】PHPのセキュリティリリース公開予定について\n\n**AI・機械学習動向 (3件)**\n\n1. 仕組みを理解する動画を、Claude Codeに作らせると便利すぎる\n\n2. 「読みにくいDB」はAI開発のコストを1.9倍にする――Claude Codeで検証したDB設計の影響\n\n3. AI の謎な説明文を直すスキル\n\n**技術トレンド (5件)**\n\n1. 注意喚起: 直近で相次いでいる国内組織における不正アクセスに関する注意喚起  (更新)\n\n2. 不正アクセスによる漏えい等の事案を踏まえ、速やかに実施すべき対策等について\n\n3. バイブコーディングを6週間続けたら、Mac の起動が20分かかるようになった\n\n4. 私が5種類のコーディングエージェントを使い分ける理由\n\n5. 【速報：2026/10/22 04:00】PHP2Shellの対応状況まとめ：PHP本体、Linux、レンタルサーバ、KUSANAGI",
+  "total_articles": 182,
+  "summary": "# 2026-10の技術動向レポート\n\n**セキュリティ動向 (2件)**\n\n1. 厳選・セキュリティが心配ならClaude Codeにこの問いかけをコピペするべし20\n\n2. 【事前準備のお願い】PHPのセキュリティリリース公開予定について\n\n**AI・機械学習動向 (3件)**\n\n1. 仕組みを理解する動画を、Claude Codeに作らせると便利すぎる\n\n2. AI の謎な説明文を直すスキル\n\n3. 「読みにくいDB」はAI開発のコストを1.9倍にする――Claude Codeで検証したDB設計の影響\n\n**技術トレンド (5件)**\n\n1. 注意喚起: 直近で相次いでいる国内組織における不正アクセスに関する注意喚起  (更新)\n\n2. 不正アクセスによる漏えい等の事案を踏まえ、速やかに実施すべき対策等について\n\n3. バイブコーディングを6週間続けたら、Mac の起動が20分かかるようになった\n\n4. 私が5種類のコーディングエージェントを使い分ける理由\n\n5. 【速報：2026/10/22 04:00】PHP2Shellの対応状況まとめ：PHP本体、Linux、レンタルサーバ、KUSANAGI",
   "source_counts": {
+    "sns": 135,
     "jpcert": 30,
-    "sns": 128,
     "ipa": 6,
     "techracho": 11
   },
@@ -131,6 +131,20 @@
       "hatena_count": 100
     },
     {
+      "id": "zenn-60cec5a308",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "AI の謎な説明文を直すスキル",
+      "url": "https://zenn.dev/microsoft/articles/explain-before-shorten",
+      "score": 86,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 26 Oct 2026 04:32:54 GMT",
+      "hatena_count": 86
+    },
+    {
       "id": "zenn-49bbe1bd17",
       "source": "sns",
       "sub_source": "Zenn",
@@ -143,20 +157,6 @@
       ],
       "date": "Fri, 23 Oct 2026 09:00:05 GMT",
       "hatena_count": 84
-    },
-    {
-      "id": "zenn-60cec5a308",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "AI の謎な説明文を直すスキル",
-      "url": "https://zenn.dev/microsoft/articles/explain-before-shorten",
-      "score": 81,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 26 Oct 2026 04:32:54 GMT",
-      "hatena_count": 81
     },
     {
       "id": "zenn-ecb9a4ef6b",

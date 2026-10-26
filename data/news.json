@@ -1,7 +1,35 @@
 {
-  "updated_at": "2026-10-26T20:08:22.298103+00:00",
-  "count": 190,
+  "updated_at": "2026-10-26T20:39:55.796161+00:00",
+  "count": 197,
   "items": [
+    {
+      "id": "qiita-42ec92ed15",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "実際に試したClaude便利術20選 まとめ",
+      "url": "https://qiita.com/N-Kyo/items/bf4a3a2185db2d28eee5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-26T20:05:51+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-50b442f9da",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "CloudFront + AWS WAF のパストラバーサル対策 ― パス条件のルールは `../` ですり抜けられるのか検証した",
+      "url": "https://qiita.com/k-matsu516/items/d94caff03976fb8a30f0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-26T17:04:33+09:00",
+      "hatena_count": 0
+    },
     {
       "id": "jpcert-382a807b6d",
       "source": "jpcert",
@@ -44,6 +72,34 @@
         "Qiita"
       ],
       "date": "2026-10-26T15:02:10+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-33fc69da24",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "生成AIに渡す仕様書はどう書くべきか ― AIが「読みやすい」形式と「読みにくい」形式",
+      "url": "https://qiita.com/kodai_kitahara/items/d9b8c30d50e7bc8be317?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-26T12:44:28+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-4286e48e0b",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "2026年10月26日 今日のQiitaトレンド記事をポッドキャストで聴こう！",
+      "url": "https://qiita.com/ennagara128/items/9cb5cccbb3c9100b75a8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-26T11:06:20+09:00",
       "hatena_count": 0
     },
     {
@@ -159,6 +215,20 @@
       "hatena_count": 0
     },
     {
+      "id": "qiita-8d86723186",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "AWS Certified AI Business Strategist(AIB-C01)ベータ版に満点合格したので学習方法をまとめる",
+      "url": "https://qiita.com/okshin-yk/items/ceb49e482a257e960411?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-26T01:38:51+09:00",
+      "hatena_count": 0
+    },
+    {
       "id": "qiita-c21ef63360",
       "source": "sns",
       "sub_source": "Qiita",
@@ -215,6 +285,20 @@
       "hatena_count": 0
     },
     {
+      "id": "qiita-721e9aa0de",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "Symbol のコンセンサスをいじらず、誰にも預けない、なんか DEX っぽいものが作れてしまった話",
+      "url": "https://qiita.com/HinaBlogChannel/items/b5f3020e0e42235dda0c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-25T21:29:41+09:00",
+      "hatena_count": 0
+    },
+    {
       "id": "qiita-12dc42abdc",
       "source": "sns",
       "sub_source": "Qiita",
@@ -268,6 +352,20 @@
         "Qiita"
       ],
       "date": "2026-10-25T17:04:53+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-fcf6602fe5",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "Object.hasOwnとinとundefined比較は何が違う？継承・未定義値・getterをNode.jsで実測",
+      "url": "https://qiita.com/ennagara128/items/a62d80d619f98c3e7394?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-25T17:01:18+09:00",
       "hatena_count": 0
     },
     {
@@ -1830,13 +1928,13 @@
       "sub_source": "Zenn",
       "title": "AI の謎な説明文を直すスキル",
       "url": "https://zenn.dev/microsoft/articles/explain-before-shorten",
-      "score": 81,
+      "score": 86,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 26 Oct 2026 04:32:54 GMT",
-      "hatena_count": 81
+      "hatena_count": 86
     },
     {
       "id": "zenn-06ad3f75f3",
