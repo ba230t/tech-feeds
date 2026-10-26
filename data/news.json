@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-26T02:15:37.241636+00:00",
-  "count": 166,
+  "updated_at": "2026-10-26T02:48:54.346177+00:00",
+  "count": 167,
   "items": [
     {
       "id": "qiita-8c907ed23b",
@@ -1633,27 +1633,13 @@
       "sub_source": "Zenn",
       "title": "PHPを更新するつもりが環境移行に【後編】WordPress移行の問題とSlackアプリの実装",
       "url": "https://zenn.dev/hotaka_noda/articles/74a3b28185af5c",
-      "score": 0,
+      "score": 1,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sun, 25 Oct 2026 13:58:04 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-aee3fa9ffe",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "PHPを更新するつもりが環境移行に【前編】Lightsailの配信構成と運用を見直す",
-      "url": "https://zenn.dev/hotaka_noda/articles/3b4c51ecfe561d",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 25 Oct 2026 13:52:37 GMT",
-      "hatena_count": 0
+      "hatena_count": 1
     },
     {
       "id": "zenn-b080dd860a",
@@ -1661,13 +1647,13 @@
       "sub_source": "Zenn",
       "title": "POPOPO と AI 開発 - 03. AI を活かす心構え・ノウハウ -AI という新人をチームに迎えるために-",
       "url": "https://zenn.dev/rikachiii/articles/03c7f77393a772",
-      "score": 0,
+      "score": 1,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sun, 25 Oct 2026 10:00:05 GMT",
-      "hatena_count": 0
+      "hatena_count": 1
     },
     {
       "id": "zenn-ee9e820337",
@@ -1765,6 +1751,20 @@
         "Zenn"
       ],
       "date": "Sun, 25 Oct 2026 02:37:59 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-a124bad409",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "VSCodeでのWSL2接続時ネットワークが遅くなる現象",
+      "url": "https://zenn.dev/as/articles/4ce7064e33719c",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 25 Oct 2026 02:21:21 GMT",
       "hatena_count": 0
     },
     {
@@ -1872,13 +1872,13 @@
       "sub_source": "Zenn",
       "title": "仕組みを理解する動画を、Claude Codeに作らせると便利すぎる",
       "url": "https://zenn.dev/explaza/articles/c749042ecbe232",
-      "score": 630,
+      "score": 631,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 21 Oct 2026 02:14:44 GMT",
-      "hatena_count": 630
+      "hatena_count": 631
     },
     {
       "id": "zenn-6196fc3ef4",
@@ -2059,6 +2059,20 @@
       "hatena_count": 1
     },
     {
+      "id": "zenn-aee3fa9ffe",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "PHPを更新するつもりが環境移行に【前編】Lightsailの配信構成と運用を見直す",
+      "url": "https://zenn.dev/hotaka_noda/articles/3b4c51ecfe561d",
+      "score": 1,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 25 Oct 2026 13:52:37 GMT",
+      "hatena_count": 1
+    },
+    {
       "id": "zenn-4219ef345b",
       "source": "sns",
       "sub_source": "Zenn",
@@ -2154,7 +2168,7 @@
         "Zenn"
       ],
       "date": "Fri, 23 Oct 2026 09:00:05 GMT",
-      "hatena_count": 26
+      "hatena_count": 35
     },
     {
       "id": "zenn-e58ac413dc",
