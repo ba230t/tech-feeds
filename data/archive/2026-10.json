@@ -1,9 +1,9 @@
 {
   "month": "2026-10",
-  "total_articles": 156,
+  "total_articles": 169,
   "summary": "# 2026-10の技術動向レポート\n\n**セキュリティ動向 (2件)**\n\n1. 厳選・セキュリティが心配ならClaude Codeにこの問いかけをコピペするべし20\n\n2. 【事前準備のお願い】PHPのセキュリティリリース公開予定について\n\n**AI・機械学習動向 (2件)**\n\n1. 仕組みを理解する動画を、Claude Codeに作らせると便利すぎる\n\n2. 「読みにくいDB」はAI開発のコストを1.9倍にする――Claude Codeで検証したDB設計の影響\n\n**技術トレンド (6件)**\n\n1. 注意喚起: 直近で相次いでいる国内組織における不正アクセスに関する注意喚起  (更新)\n\n2. 不正アクセスによる漏えい等の事案を踏まえ、速やかに実施すべき対策等について\n\n3. バイブコーディングを6週間続けたら、Mac の起動が20分かかるようになった\n\n4. 【速報：2026/10/22 04:00】PHP2Shellの対応状況まとめ：PHP本体、Linux、レンタルサーバ、KUSANAGI\n\n5. 私が5種類のコーディングエージェントを使い分ける理由\n\n6. eMudhraの中間CA証明書の秘密鍵を求めてみる",
   "source_counts": {
-    "sns": 111,
+    "sns": 124,
     "jpcert": 29,
     "ipa": 6,
     "techracho": 10
@@ -36,13 +36,13 @@
       "sub_source": "Zenn",
       "title": "仕組みを理解する動画を、Claude Codeに作らせると便利すぎる",
       "url": "https://zenn.dev/explaza/articles/c749042ecbe232",
-      "score": 634,
+      "score": 635,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 21 Oct 2026 02:14:44 GMT",
-      "hatena_count": 634
+      "hatena_count": 635
     },
     {
       "id": "ipa-a1a30e44db",
@@ -122,13 +122,13 @@
       "sub_source": "Zenn",
       "title": "私が5種類のコーディングエージェントを使い分ける理由",
       "url": "https://zenn.dev/rimon/articles/45c1fd2f015af8",
-      "score": 82,
+      "score": 89,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sun, 25 Oct 2026 22:44:03 GMT",
-      "hatena_count": 82
+      "hatena_count": 89
     },
     {
       "id": "zenn-ecb9a4ef6b",
@@ -150,13 +150,13 @@
       "sub_source": "Zenn",
       "title": "「読みにくいDB」はAI開発のコストを1.9倍にする――Claude Codeで検証したDB設計の影響",
       "url": "https://zenn.dev/actbe_tech/articles/8b4a9991d5365d",
-      "score": 71,
+      "score": 72,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 23 Oct 2026 09:00:05 GMT",
-      "hatena_count": 71
+      "hatena_count": 72
     },
     {
       "id": "zenn-0f91e18d0b",

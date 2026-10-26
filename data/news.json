@@ -1,7 +1,105 @@
 {
-  "updated_at": "2026-10-26T07:56:04.205007+00:00",
-  "count": 171,
+  "updated_at": "2026-10-26T08:21:13.419503+00:00",
+  "count": 184,
   "items": [
+    {
+      "id": "qiita-392d65b036",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "どこから始めるか ― 財源幻想脱却の制度的ロードマップ : システム設計視点の行動経済学 (49)",
+      "url": "https://qiita.com/maskot1977/items/f1b4c5d0be3ad99f74ce?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-26T15:02:10+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-68098b0a5e",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "New Relic AI Knowledge × Autopilot で「怪しいアクティビティ」を検知させてみた",
+      "url": "https://qiita.com/nr-mito/items/eca8767bb68723645e6d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-26T11:01:28+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-71df67719c",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "エンジニア歴数か月の私「理論上、理解できない物事はない」",
+      "url": "https://qiita.com/Minotaurasu/items/a13a3fc940c2cd384063?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-26T10:50:31+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-94e64d459e",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "VueFes Japan 2026 参加(出展)記",
+      "url": "https://qiita.com/oyashimi_c/items/2272340c078d9281a922?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-26T10:34:38+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-d41ccdd597",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "Kimi Codeは遅い。それでも使い道を感じた理由",
+      "url": "https://qiita.com/Masaki_Cho/items/8a720994a14538883cda?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-26T09:48:54+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-bcdaf9e770",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "ランチ明けの「続きやって」が一番高い。Claude Code のキャッシュは 1 時間で切れる",
+      "url": "https://qiita.com/araom/items/3d026f2df58c7328aa74?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-26T08:28:41+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-95a76ac72c",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "【C# / Unity】型制約なしゼロアロケでDisposeする方法",
+      "url": "https://qiita.com/Omochaya/items/c396ca2910e1c5e90e92?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-26T07:34:26+09:00",
+      "hatena_count": 0
+    },
     {
       "id": "qiita-8c907ed23b",
       "source": "sns",
@@ -28,6 +126,34 @@
         "Qiita"
       ],
       "date": "2026-10-26T04:00:21+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-c21ef63360",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "Oracle AI World 2026 開幕！注目講演と日本時間の視聴スケジュールまとめ",
+      "url": "https://qiita.com/shirok/items/fb1d5dded8654002d2c1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-26T00:24:44+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-d6803358b4",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "【登壇レポート】「JAWS-UG 茨城 #18 祝！2周年記念祭」 で承認依頼を電話で鳴らしてきました📞",
+      "url": "https://qiita.com/yosuke-suzuki/items/cd8e63528eb5958d8c3d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-25T23:59:54+09:00",
       "hatena_count": 0
     },
     {
@@ -73,6 +199,34 @@
       "hatena_count": 0
     },
     {
+      "id": "qiita-902ec8cdea",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "エージェントとワークフローが混じってしまったので責務を分け直した",
+      "url": "https://qiita.com/Tachiuo/items/3c9a6bc9e1eb2b05a346?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-25T18:29:43+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-5ec5515c47",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "「スマホを向けるだけ」で麻雀の点数を出したくて、牌認識をブラウザの中だけで動かした",
+      "url": "https://qiita.com/hiroshiasayadev-prog/items/d792cc85dde2d7cfd75c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-25T18:16:56+09:00",
+      "hatena_count": 0
+    },
+    {
       "id": "qiita-a3e653a247",
       "source": "sns",
       "sub_source": "Qiita",
@@ -98,6 +252,20 @@
         "Qiita"
       ],
       "date": "2026-10-25T15:45:56+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-115493102b",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "Oracle Database@AWS の Exadata Dedicated Infrastructure への接続方式を整理してみる。",
+      "url": "https://qiita.com/ora_gonsuke777/items/25bef1613f1ca7df58be?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-25T13:54:10+09:00",
       "hatena_count": 0
     },
     {
@@ -617,6 +785,20 @@
         "Qiita"
       ],
       "date": "2026-10-23T21:01:10+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-c29ad4f6dd",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "WiresharkでHTTPリクエストの中身を見る",
+      "url": "https://qiita.com/oyashimi_c/items/38578a3b5000e377a0cc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-23T18:35:42+09:00",
       "hatena_count": 0
     },
     {
@@ -1662,13 +1844,13 @@
       "sub_source": "Zenn",
       "title": "私が5種類のコーディングエージェントを使い分ける理由",
       "url": "https://zenn.dev/rimon/articles/45c1fd2f015af8",
-      "score": 82,
+      "score": 89,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sun, 25 Oct 2026 22:44:03 GMT",
-      "hatena_count": 82
+      "hatena_count": 89
     },
     {
       "id": "zenn-6d6c574d3c",
@@ -1816,13 +1998,13 @@
       "sub_source": "Zenn",
       "title": "「読みにくいDB」はAI開発のコストを1.9倍にする――Claude Codeで検証したDB設計の影響",
       "url": "https://zenn.dev/actbe_tech/articles/8b4a9991d5365d",
-      "score": 71,
+      "score": 72,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 23 Oct 2026 09:00:05 GMT",
-      "hatena_count": 71
+      "hatena_count": 72
     },
     {
       "id": "zenn-ecb9a4ef6b",
@@ -1873,13 +2055,13 @@
       "sub_source": "Zenn",
       "title": "仕組みを理解する動画を、Claude Codeに作らせると便利すぎる",
       "url": "https://zenn.dev/explaza/articles/c749042ecbe232",
-      "score": 634,
+      "score": 635,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 21 Oct 2026 02:14:44 GMT",
-      "hatena_count": 634
+      "hatena_count": 635
     },
     {
       "id": "zenn-6196fc3ef4",
