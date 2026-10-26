@@ -1,7 +1,7 @@
 {
   "month": "2026-10",
   "total_articles": 171,
-  "summary": "# 2026-10の技術動向レポート\n\n**セキュリティ動向 (2件)**\n\n1. 厳選・セキュリティが心配ならClaude Codeにこの問いかけをコピペするべし20\n\n2. 【事前準備のお願い】PHPのセキュリティリリース公開予定について\n\n**AI・機械学習動向 (2件)**\n\n1. 仕組みを理解する動画を、Claude Codeに作らせると便利すぎる\n\n2. 「読みにくいDB」はAI開発のコストを1.9倍にする――Claude Codeで検証したDB設計の影響\n\n**技術トレンド (6件)**\n\n1. 注意喚起: 直近で相次いでいる国内組織における不正アクセスに関する注意喚起  (更新)\n\n2. 不正アクセスによる漏えい等の事案を踏まえ、速やかに実施すべき対策等について\n\n3. バイブコーディングを6週間続けたら、Mac の起動が20分かかるようになった\n\n4. 【速報：2026/10/22 04:00】PHP2Shellの対応状況まとめ：PHP本体、Linux、レンタルサーバ、KUSANAGI\n\n5. 私が5種類のコーディングエージェントを使い分ける理由\n\n6. eMudhraの中間CA証明書の秘密鍵を求めてみる",
+  "summary": "# 2026-10の技術動向レポート\n\n**セキュリティ動向 (2件)**\n\n1. 厳選・セキュリティが心配ならClaude Codeにこの問いかけをコピペするべし20\n\n2. 【事前準備のお願い】PHPのセキュリティリリース公開予定について\n\n**AI・機械学習動向 (2件)**\n\n1. 仕組みを理解する動画を、Claude Codeに作らせると便利すぎる\n\n2. 「読みにくいDB」はAI開発のコストを1.9倍にする――Claude Codeで検証したDB設計の影響\n\n**技術トレンド (6件)**\n\n1. 注意喚起: 直近で相次いでいる国内組織における不正アクセスに関する注意喚起  (更新)\n\n2. 不正アクセスによる漏えい等の事案を踏まえ、速やかに実施すべき対策等について\n\n3. バイブコーディングを6週間続けたら、Mac の起動が20分かかるようになった\n\n4. 私が5種類のコーディングエージェントを使い分ける理由\n\n5. 【速報：2026/10/22 04:00】PHP2Shellの対応状況まとめ：PHP本体、Linux、レンタルサーバ、KUSANAGI\n\n6. eMudhraの中間CA証明書の秘密鍵を求めてみる",
   "source_counts": {
     "jpcert": 30,
     "sns": 124,
@@ -88,6 +88,20 @@
       "hatena_count": 194
     },
     {
+      "id": "zenn-1adc6c7b1e",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "私が5種類のコーディングエージェントを使い分ける理由",
+      "url": "https://zenn.dev/rimon/articles/45c1fd2f015af8",
+      "score": 100,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 25 Oct 2026 22:44:03 GMT",
+      "hatena_count": 100
+    },
+    {
       "id": "zenn-89cd9f8fc3",
       "source": "sns",
       "sub_source": "Zenn",
@@ -117,18 +131,18 @@
       "hatena_count": 99
     },
     {
-      "id": "zenn-1adc6c7b1e",
+      "id": "zenn-49bbe1bd17",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "私が5種類のコーディングエージェントを使い分ける理由",
-      "url": "https://zenn.dev/rimon/articles/45c1fd2f015af8",
-      "score": 99,
+      "title": "「読みにくいDB」はAI開発のコストを1.9倍にする――Claude Codeで検証したDB設計の影響",
+      "url": "https://zenn.dev/actbe_tech/articles/8b4a9991d5365d",
+      "score": 75,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Sun, 25 Oct 2026 22:44:03 GMT",
-      "hatena_count": 99
+      "date": "Fri, 23 Oct 2026 09:00:05 GMT",
+      "hatena_count": 75
     },
     {
       "id": "zenn-ecb9a4ef6b",
@@ -143,20 +157,6 @@
       ],
       "date": "Fri, 23 Oct 2026 05:50:11 GMT",
       "hatena_count": 74
-    },
-    {
-      "id": "zenn-49bbe1bd17",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "「読みにくいDB」はAI開発のコストを1.9倍にする――Claude Codeで検証したDB設計の影響",
-      "url": "https://zenn.dev/actbe_tech/articles/8b4a9991d5365d",
-      "score": 73,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 23 Oct 2026 09:00:05 GMT",
-      "hatena_count": 73
     },
     {
       "id": "zenn-0f91e18d0b",
@@ -261,6 +261,21 @@
       "hatena_count": 4
     },
     {
+      "id": "jpcert-30cd0d7475",
+      "source": "jpcert",
+      "title": "注意喚起: PHPにおける複数の脆弱性（CVE-2026-109618、CVE-2026-109619）に関する注意喚起  (更新)",
+      "url": "https://www.jpcert.or.jp/at/2026/at260033.html",
+      "score": 3,
+      "author": "JPCERT/CC",
+      "tags": [
+        "JPCERT",
+        "セキュリティ"
+      ],
+      "severity": "high",
+      "date": "2026-10-26T16:25+09:00",
+      "hatena_count": 3
+    },
+    {
       "id": "zenn-dfcdd06e5d",
       "source": "sns",
       "sub_source": "Zenn",
@@ -286,21 +301,6 @@
         "Zenn"
       ],
       "date": "Sat, 24 Oct 2026 03:53:11 GMT",
-      "hatena_count": 3
-    },
-    {
-      "id": "techracho-d9c27895fc",
-      "source": "techracho",
-      "title": "Falconを Ruby アプリケーションのWebサーバーとして使ってみた話（翻訳）",
-      "url": "https://techracho.bpsinc.jp/hachi8833/2026_10_21/159476",
-      "score": 3,
-      "author": "Techracho",
-      "tags": [
-        "Ruby",
-        "Rails",
-        "日本語"
-      ],
-      "date": "Wed, 21 Oct 2026 08:30:47 +0000",
       "hatena_count": 3
     }
   ],
@@ -370,7 +370,7 @@
       "source": "jpcert",
       "title": "注意喚起: PHPにおける複数の脆弱性（CVE-2026-109618、CVE-2026-109619）に関する注意喚起  (更新)",
       "url": "https://www.jpcert.or.jp/at/2026/at260033.html",
-      "score": 2,
+      "score": 3,
       "author": "JPCERT/CC",
       "tags": [
         "JPCERT",
@@ -378,7 +378,7 @@
       ],
       "severity": "high",
       "date": "2026-10-26T16:25+09:00",
-      "hatena_count": 2
+      "hatena_count": 3
     },
     {
       "id": "qiita-0bf602bcba",

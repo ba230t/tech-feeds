@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T10:10:57.192568+00:00",
+  "updated_at": "2026-10-26T10:40:53.150213+00:00",
   "count": 186,
   "items": [
     {
@@ -22,7 +22,7 @@
       "source": "jpcert",
       "title": "注意喚起: PHPにおける複数の脆弱性（CVE-2026-109618、CVE-2026-109619）に関する注意喚起  (更新)",
       "url": "https://www.jpcert.or.jp/at/2026/at260033.html",
-      "score": 2,
+      "score": 3,
       "author": "JPCERT/CC",
       "tags": [
         "JPCERT",
@@ -30,7 +30,7 @@
       ],
       "severity": "high",
       "date": "2026-10-26T16:25+09:00",
-      "hatena_count": 2
+      "hatena_count": 3
     },
     {
       "id": "qiita-392d65b036",
@@ -1859,13 +1859,13 @@
       "sub_source": "Zenn",
       "title": "私が5種類のコーディングエージェントを使い分ける理由",
       "url": "https://zenn.dev/rimon/articles/45c1fd2f015af8",
-      "score": 99,
+      "score": 100,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sun, 25 Oct 2026 22:44:03 GMT",
-      "hatena_count": 99
+      "hatena_count": 100
     },
     {
       "id": "zenn-6d6c574d3c",
@@ -2013,13 +2013,13 @@
       "sub_source": "Zenn",
       "title": "「読みにくいDB」はAI開発のコストを1.9倍にする――Claude Codeで検証したDB設計の影響",
       "url": "https://zenn.dev/actbe_tech/articles/8b4a9991d5365d",
-      "score": 73,
+      "score": 75,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 23 Oct 2026 09:00:05 GMT",
-      "hatena_count": 73
+      "hatena_count": 75
     },
     {
       "id": "zenn-ecb9a4ef6b",
@@ -2361,13 +2361,13 @@
       "sub_source": "Zenn",
       "title": "C# × Oracle ストアドプロシージャ早見表（WinForms の取得・登録・更新・削除・CSV 出力）",
       "url": "https://zenn.dev/hiroshi00000000/articles/078de5ac61693b",
-      "score": 0,
+      "score": 1,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sun, 25 Oct 2026 00:56:37 GMT",
-      "hatena_count": 0
+      "hatena_count": 1
     },
     {
       "id": "zenn-aee3fa9ffe",
