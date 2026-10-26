@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T13:34:54.833036+00:00",
+  "updated_at": "2026-10-26T14:59:43.517700+00:00",
   "count": 190,
   "items": [
     {
@@ -7,7 +7,7 @@
       "source": "jpcert",
       "title": "注意喚起: BrotliのC言語実装における境界外書き込みの脆弱性（CVE-2026-111497）に関する注意喚起  (公開)",
       "url": "https://www.jpcert.or.jp/at/2026/at260034.html",
-      "score": 0,
+      "score": 1,
       "author": "JPCERT/CC",
       "tags": [
         "JPCERT",
@@ -15,14 +15,14 @@
       ],
       "severity": "high",
       "date": "2026-10-26T16:25+09:00",
-      "hatena_count": 0
+      "hatena_count": 1
     },
     {
       "id": "jpcert-30cd0d7475",
       "source": "jpcert",
       "title": "注意喚起: PHPにおける複数の脆弱性（CVE-2026-109618、CVE-2026-109619）に関する注意喚起  (更新)",
       "url": "https://www.jpcert.or.jp/at/2026/at260033.html",
-      "score": 3,
+      "score": 4,
       "author": "JPCERT/CC",
       "tags": [
         "JPCERT",
@@ -30,7 +30,7 @@
       ],
       "severity": "high",
       "date": "2026-10-26T16:25+09:00",
-      "hatena_count": 3
+      "hatena_count": 4
     },
     {
       "id": "qiita-392d65b036",
@@ -1484,7 +1484,7 @@
       "source": "ipa",
       "title": "【事前準備のお願い】PHPのセキュリティリリース公開予定について",
       "url": "https://www.ipa.go.jp/security/security-alert/2026/pre-alert20261021.html",
-      "score": 99,
+      "score": 100,
       "author": "IPA",
       "tags": [
         "IPA",
@@ -1492,7 +1492,7 @@
       ],
       "severity": "medium",
       "date": "2026-10-21T00:00:00+09:00",
-      "hatena_count": 99
+      "hatena_count": 100
     },
     {
       "id": "ipa-88e47602f8",
@@ -1830,13 +1830,13 @@
       "sub_source": "Zenn",
       "title": "AI の謎な説明文を直すスキル",
       "url": "https://zenn.dev/microsoft/articles/explain-before-shorten",
-      "score": 44,
+      "score": 59,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 26 Oct 2026 04:32:54 GMT",
-      "hatena_count": 44
+      "hatena_count": 59
     },
     {
       "id": "zenn-06ad3f75f3",
@@ -1844,14 +1844,14 @@
       "sub_source": "Zenn",
       "title": "Node.js の Brotli 脆弱性 CVE-2026-111497 を読む",
       "url": "https://zenn.dev/chot/articles/79e6c94e27782d",
-      "score": 0,
+      "score": 1,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 26 Oct 2026 02:29:36 GMT",
       "severity": "high",
-      "hatena_count": 0
+      "hatena_count": 1
     },
     {
       "id": "zenn-f64ba0d17d",
@@ -1859,13 +1859,13 @@
       "sub_source": "Zenn",
       "title": "最近の E2E 戦略（2026 年 10 月現在）",
       "url": "https://zenn.dev/polyco/articles/26624b38c951b5",
-      "score": 1,
+      "score": 2,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 26 Oct 2026 01:18:03 GMT",
-      "hatena_count": 1
+      "hatena_count": 2
     },
     {
       "id": "zenn-dfcdd06e5d",
@@ -1887,13 +1887,13 @@
       "sub_source": "Zenn",
       "title": "スタックトレースを読むとヒープが約1,470 MB増えていた話",
       "url": "https://zenn.dev/dress_code/articles/f2a51226c9ec6f",
-      "score": 11,
+      "score": 12,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 26 Oct 2026 00:00:13 GMT",
-      "hatena_count": 11
+      "hatena_count": 12
     },
     {
       "id": "zenn-1adc6c7b1e",
@@ -1901,13 +1901,13 @@
       "sub_source": "Zenn",
       "title": "私が5種類のコーディングエージェントを使い分ける理由",
       "url": "https://zenn.dev/rimon/articles/45c1fd2f015af8",
-      "score": 109,
+      "score": 111,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sun, 25 Oct 2026 22:44:03 GMT",
-      "hatena_count": 109
+      "hatena_count": 111
     },
     {
       "id": "zenn-6d6c574d3c",
@@ -1943,13 +1943,13 @@
       "sub_source": "Zenn",
       "title": "600人規模のイベント運営を支えたインカムを、学生1人で作った話",
       "url": "https://zenn.dev/kodak_20/articles/3b0ba74333b56c",
-      "score": 0,
+      "score": 1,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sat, 24 Oct 2026 17:23:14 GMT",
-      "hatena_count": 0
+      "hatena_count": 1
     },
     {
       "id": "zenn-50681a5387",
@@ -2013,13 +2013,13 @@
       "sub_source": "Zenn",
       "title": "「読みにくいDB」はAI開発のコストを1.9倍にする――Claude Codeで検証したDB設計の影響",
       "url": "https://zenn.dev/actbe_tech/articles/8b4a9991d5365d",
-      "score": 83,
+      "score": 84,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 23 Oct 2026 09:00:05 GMT",
-      "hatena_count": 83
+      "hatena_count": 84
     },
     {
       "id": "zenn-ecb9a4ef6b",
