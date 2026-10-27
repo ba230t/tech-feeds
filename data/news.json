@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-26T23:06:12.776268+00:00",
-  "count": 197,
+  "updated_at": "2026-10-27T00:18:51.733888+00:00",
+  "count": 204,
   "items": [
     {
       "id": "qiita-42ec92ed15",
@@ -1923,18 +1923,88 @@
       "hatena_count": 1
     },
     {
+      "id": "zenn-5a75445f03",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "昨今のセキュリティ情勢を踏まえて、Azure のセキュリティ系新資格 SC-500 を受けてみた【合格体験記】",
+      "url": "https://zenn.dev/microsoft/articles/112ff28ccc30e3",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 26 Oct 2026 18:01:40 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-670467d688",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "学生2人で日本語音声LLMを作り、FT-LLM 2026 自由形タスクで1位を獲得した話",
+      "url": "https://zenn.dev/ayutaso/articles/ftllm2026-ja-speech-llm",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 26 Oct 2026 13:54:50 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-6d68d89e7a",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "OpenWrt 25.12のadblock 4.5に豆腐フィルタを適用する（ruleの書式が変わった）",
+      "url": "https://zenn.dev/yotan/articles/openwrt-25-adblock-tofu-filter",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 26 Oct 2026 10:49:33 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-a547b55779",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Vue Fes Japan 2026 「 Vite+への貢献と、Team Memberになって見えてきた風景」スピーカーノート",
+      "url": "https://zenn.dev/comm_vue_nuxt/articles/33f8491afbc66d",
+      "score": 2,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 26 Oct 2026 08:44:09 GMT",
+      "hatena_count": 2
+    },
+    {
+      "id": "zenn-7042caf749",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "AI時代のアーキテクチャ：実装を任せるために、詳細設計を自分のものにする",
+      "url": "https://zenn.dev/simplex/articles/f2b41d3367e9c7",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 26 Oct 2026 07:02:56 GMT",
+      "hatena_count": 0
+    },
+    {
       "id": "zenn-60cec5a308",
       "source": "sns",
       "sub_source": "Zenn",
       "title": "AI の謎な説明文を直すスキル",
       "url": "https://zenn.dev/microsoft/articles/explain-before-shorten",
-      "score": 97,
+      "score": 127,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 26 Oct 2026 04:32:54 GMT",
-      "hatena_count": 97
+      "hatena_count": 127
     },
     {
       "id": "zenn-06ad3f75f3",
@@ -1980,6 +2050,20 @@
       "hatena_count": 3
     },
     {
+      "id": "zenn-028825ec85",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "S3のParquet、そのままSnowflakeで分析しても遅くない？Parquet Directを検証",
+      "url": "https://zenn.dev/snowflakejp/articles/parquet-direct-pruning-benchmark",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 26 Oct 2026 00:41:46 GMT",
+      "hatena_count": 0
+    },
+    {
       "id": "zenn-eab72e2dc0",
       "source": "sns",
       "sub_source": "Zenn",
@@ -1994,46 +2078,32 @@
       "hatena_count": 12
     },
     {
-      "id": "zenn-1adc6c7b1e",
+      "id": "zenn-1dbed0acb6",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "私が5種類のコーディングエージェントを使い分ける理由",
-      "url": "https://zenn.dev/rimon/articles/45c1fd2f015af8",
-      "score": 114,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 25 Oct 2026 22:44:03 GMT",
-      "hatena_count": 114
-    },
-    {
-      "id": "zenn-6d6c574d3c",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "PHPを更新するつもりが環境移行に【後編】WordPress移行の問題とSlackアプリの実装",
-      "url": "https://zenn.dev/hotaka_noda/articles/74a3b28185af5c",
+      "title": "育休復帰のキャッチアップをAI に手伝ってもらった話",
+      "url": "https://zenn.dev/nextbeat/articles/862dd45c304c13",
       "score": 1,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Sun, 25 Oct 2026 13:58:04 GMT",
+      "date": "Sun, 25 Oct 2026 23:35:58 GMT",
       "hatena_count": 1
     },
     {
-      "id": "zenn-ee9e820337",
+      "id": "zenn-1adc6c7b1e",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "中古ラックサーバを買って、Proxmox VEを入れるまで【ホームラボ構築記 #1】",
-      "url": "https://zenn.dev/mana1001/articles/homelab-01-install",
-      "score": 0,
+      "title": "私が5種類のコーディングエージェントを使い分ける理由",
+      "url": "https://zenn.dev/rimon/articles/45c1fd2f015af8",
+      "score": 115,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Sun, 25 Oct 2026 09:47:50 GMT",
-      "hatena_count": 0
+      "date": "Sun, 25 Oct 2026 22:44:03 GMT",
+      "hatena_count": 115
     },
     {
       "id": "zenn-d00427ebdc",
@@ -2047,34 +2117,6 @@
         "Zenn"
       ],
       "date": "Sat, 24 Oct 2026 17:23:14 GMT",
-      "hatena_count": 1
-    },
-    {
-      "id": "zenn-50681a5387",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Flutter アプリを iPhone Duo の「縦帯」に対応させる",
-      "url": "https://zenn.dev/yus1127/articles/flutter-iphone-duo-vertical-bar",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 24 Oct 2026 16:59:46 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-60b822eb34",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Xcode 27 で ＠State がマクロになった理由 ― 遅延評価は private だけ、＠StateObject との違い",
-      "url": "https://zenn.dev/takehito/articles/50145459523321",
-      "score": 1,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 24 Oct 2026 15:56:27 GMT",
       "hatena_count": 1
     },
     {
@@ -2106,18 +2148,18 @@
       "hatena_count": 18
     },
     {
-      "id": "zenn-49bbe1bd17",
+      "id": "zenn-9712a773b0",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "「読みにくいDB」はAI開発のコストを1.9倍にする――Claude Codeで検証したDB設計の影響",
-      "url": "https://zenn.dev/actbe_tech/articles/8b4a9991d5365d",
-      "score": 85,
+      "title": "eMudhra 中間 CA 漏洩、OS もブラウザも最新なのにコンテナ 9 個と Python 環境 16 個が偽の証明書を信じていた",
+      "url": "https://zenn.dev/nanora/articles/20261024-emudhra-ca-own-bundles",
+      "score": 7,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Fri, 23 Oct 2026 09:00:05 GMT",
-      "hatena_count": 85
+      "date": "Sat, 24 Oct 2026 03:53:11 GMT",
+      "hatena_count": 7
     },
     {
       "id": "zenn-ecb9a4ef6b",
@@ -2132,20 +2174,6 @@
       ],
       "date": "Fri, 23 Oct 2026 05:50:11 GMT",
       "hatena_count": 74
-    },
-    {
-      "id": "zenn-6eef862e70",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "AI が実装してくれる時代こそ、自分の手で実装しよう",
-      "url": "https://zenn.dev/loglass/articles/24b2a4776ce8d4",
-      "score": 3,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 23 Oct 2026 01:28:43 GMT",
-      "hatena_count": 3
     },
     {
       "id": "zenn-6192aa503c",
@@ -2168,41 +2196,13 @@
       "sub_source": "Zenn",
       "title": "仕組みを理解する動画を、Claude Codeに作らせると便利すぎる",
       "url": "https://zenn.dev/explaza/articles/c749042ecbe232",
-      "score": 638,
+      "score": 639,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 21 Oct 2026 02:14:44 GMT",
-      "hatena_count": 638
-    },
-    {
-      "id": "zenn-6196fc3ef4",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "バイブコーディングを6週間続けたら、Mac の起動が20分かかるようになった",
-      "url": "https://zenn.dev/singularity/articles/vibe-coding-mac-boot-20min",
-      "score": 236,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 20 Oct 2026 09:15:46 GMT",
-      "hatena_count": 236
-    },
-    {
-      "id": "zenn-0f91e18d0b",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Oxlint + Oxfmt で規約をコード化するモノレポ運用",
-      "url": "https://zenn.dev/reality_tech/articles/oxc-monorepo-20261006",
-      "score": 32,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 20 Oct 2026 02:00:05 GMT",
-      "hatena_count": 32
+      "hatena_count": 639
     },
     {
       "id": "techracho-5c8766c6c7",
@@ -2355,6 +2355,118 @@
       "hatena_count": 0
     },
     {
+      "id": "zenn-6d6c574d3c",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "PHPを更新するつもりが環境移行に【後編】WordPress移行の問題とSlackアプリの実装",
+      "url": "https://zenn.dev/hotaka_noda/articles/74a3b28185af5c",
+      "score": 1,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 25 Oct 2026 13:58:04 GMT",
+      "hatena_count": 1
+    },
+    {
+      "id": "zenn-ee9e820337",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "中古ラックサーバを買って、Proxmox VEを入れるまで【ホームラボ構築記 #1】",
+      "url": "https://zenn.dev/mana1001/articles/homelab-01-install",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 25 Oct 2026 09:47:50 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-50681a5387",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Flutter アプリを iPhone Duo の「縦帯」に対応させる",
+      "url": "https://zenn.dev/yus1127/articles/flutter-iphone-duo-vertical-bar",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 24 Oct 2026 16:59:46 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-60b822eb34",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Xcode 27 で ＠State がマクロになった理由 ― 遅延評価は private だけ、＠StateObject との違い",
+      "url": "https://zenn.dev/takehito/articles/50145459523321",
+      "score": 1,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 24 Oct 2026 15:56:27 GMT",
+      "hatena_count": 1
+    },
+    {
+      "id": "zenn-49bbe1bd17",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "「読みにくいDB」はAI開発のコストを1.9倍にする――Claude Codeで検証したDB設計の影響",
+      "url": "https://zenn.dev/actbe_tech/articles/8b4a9991d5365d",
+      "score": 85,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 23 Oct 2026 09:00:05 GMT",
+      "hatena_count": 85
+    },
+    {
+      "id": "zenn-6eef862e70",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "AI が実装してくれる時代こそ、自分の手で実装しよう",
+      "url": "https://zenn.dev/loglass/articles/24b2a4776ce8d4",
+      "score": 3,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 23 Oct 2026 01:28:43 GMT",
+      "hatena_count": 3
+    },
+    {
+      "id": "zenn-6196fc3ef4",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "バイブコーディングを6週間続けたら、Mac の起動が20分かかるようになった",
+      "url": "https://zenn.dev/singularity/articles/vibe-coding-mac-boot-20min",
+      "score": 236,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 20 Oct 2026 09:15:46 GMT",
+      "hatena_count": 236
+    },
+    {
+      "id": "zenn-0f91e18d0b",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Oxlint + Oxfmt で規約をコード化するモノレポ運用",
+      "url": "https://zenn.dev/reality_tech/articles/oxc-monorepo-20261006",
+      "score": 32,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 20 Oct 2026 02:00:05 GMT",
+      "hatena_count": 32
+    },
+    {
       "id": "zenn-4219ef345b",
       "source": "sns",
       "sub_source": "Zenn",
@@ -2395,20 +2507,6 @@
       ],
       "date": "Sun, 25 Oct 2026 06:03:07 GMT",
       "hatena_count": 0
-    },
-    {
-      "id": "zenn-9712a773b0",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "eMudhra 中間 CA 漏洩、OS もブラウザも最新なのにコンテナ 9 個と Python 環境 16 個が偽の証明書を信じていた",
-      "url": "https://zenn.dev/nanora/articles/20261024-emudhra-ca-own-bundles",
-      "score": 3,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 24 Oct 2026 03:53:11 GMT",
-      "hatena_count": 7
     },
     {
       "id": "techracho-647a38c5d3",
