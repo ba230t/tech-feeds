@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T07:15:47.608919+00:00",
+  "updated_at": "2026-10-27T07:44:28.891112+00:00",
   "count": 209,
   "items": [
     {
@@ -2068,13 +2068,13 @@
       "sub_source": "Zenn",
       "title": "AI の謎な説明文を直すスキル",
       "url": "https://zenn.dev/microsoft/articles/explain-before-shorten",
-      "score": 138,
+      "score": 139,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 26 Oct 2026 04:32:54 GMT",
-      "hatena_count": 138
+      "hatena_count": 139
     },
     {
       "id": "zenn-06ad3f75f3",
@@ -2167,13 +2167,13 @@
       "sub_source": "Zenn",
       "title": "prpr: Rust 向けのシンプルで高速な Parser generator",
       "url": "https://zenn.dev/tanakh/articles/prpr-packrat-parser",
-      "score": 18,
+      "score": 19,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sat, 24 Oct 2026 06:57:58 GMT",
-      "hatena_count": 18
+      "hatena_count": 19
     },
     {
       "id": "zenn-9712a773b0",
