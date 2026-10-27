@@ -1,7 +1,91 @@
 {
-  "updated_at": "2026-10-27T08:11:26.644960+00:00",
-  "count": 209,
+  "updated_at": "2026-10-27T08:45:05.943231+00:00",
+  "count": 221,
   "items": [
+    {
+      "id": "qiita-82a900d645",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "Dify / LiteLLM Proxy で作成した生成AIアプリをOpenTelemetryで監視してみた",
+      "url": "https://qiita.com/nr-mito/items/fcbbd142e1cd7d66666e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-27T15:01:22+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-046acd5d76",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "Oracle DBMS_CATALOGパッケージでビジネスメタデータを管理する - カスタムプロパティの登録・取得・検索",
+      "url": "https://qiita.com/ora-masumasu/items/8dc7d746da43e1a5089d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-27T11:26:17+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-44c4835582",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "語ることが世界を変える ― 50回の問いが指し示す場所 : システム設計視点の行動経済学 (50)",
+      "url": "https://qiita.com/maskot1977/items/ad972b46fa6da81dec87?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-27T10:36:33+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-4ac64d4d82",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "耳で聞く！Python で学ぶ マクロ経済学 入門 36",
+      "url": "https://qiita.com/maskot1977/items/8fc114fd0e2ae418bdd8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-27T10:31:17+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-4312e2cafc",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "目指せClaude全冠！4つの試験を全部受けたので攻略法を紹介します",
+      "url": "https://qiita.com/minorun365/items/59783841e48f5467594f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-27T10:03:56+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-ed07f141b1",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "先週の PHP 祭りから見えた、業務システムの「止まり方」の共通点と違い — 予防的な停止・障害・計画メンテを、日本・海外・AI の告知 751 件で比べた",
+      "url": "https://qiita.com/songchong/items/eb2e60b469a148c2fb8b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-27T07:51:42+09:00",
+      "hatena_count": 0
+    },
     {
       "id": "ipa-ee45d6bd49",
       "source": "ipa",
@@ -18,6 +102,34 @@
       "hatena_count": 20
     },
     {
+      "id": "qiita-0d939654d0",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "GMO、うそをついてハッカーに呆れられてしまう",
+      "url": "https://qiita.com/Q11Q/items/73bd326df5069f07f0fe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-26T22:49:02+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-08dd246129",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "【PHP2Shell】PHP公式の発表『本日のセキュリティリリースと、セキュリティ対策について』",
+      "url": "https://qiita.com/rana_kualu/items/f5a44b09241bdb21907e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-26T20:58:55+09:00",
+      "hatena_count": 0
+    },
+    {
       "id": "qiita-42ec92ed15",
       "source": "sns",
       "sub_source": "Qiita",
@@ -30,6 +142,34 @@
       ],
       "date": "2026-10-26T20:05:51+09:00",
       "hatena_count": 1
+    },
+    {
+      "id": "qiita-63f1baa19f",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "記憶に頼るな。Claudeセッションの記録を取ろう",
+      "url": "https://qiita.com/qwertyhoge/items/987c0ea8afdb5cd045e8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-26T19:51:04+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-7af49883e6",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "LLMを組み込むETLパイプラインの設計：品質をどう証明し、欠陥をどう特定するか",
+      "url": "https://qiita.com/AoraNow_Xun_Zheng/items/60d12958bddaabd5f1de?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-26T17:28:56+09:00",
+      "hatena_count": 0
     },
     {
       "id": "qiita-50b442f9da",
@@ -171,6 +311,20 @@
         "Qiita"
       ],
       "date": "2026-10-26T09:48:54+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-7320009c4f",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "動画生成AIを使わず、Claude Codeだけで、静止画にどの程度の動きをつけられるか試してみた",
+      "url": "https://qiita.com/nabata/items/09f76aa0dddbcecf0979?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-26T08:39:39+09:00",
       "hatena_count": 0
     },
     {
@@ -564,6 +718,20 @@
       ],
       "date": "2026-10-24T23:50:36+09:00",
       "severity": "critical",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-73644849c0",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "人間がコードを書く時代は終わる",
+      "url": "https://qiita.com/sogenasano/items/53f85a23a6c83af61484?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-24T23:49:53+09:00",
       "hatena_count": 0
     },
     {
@@ -2068,13 +2236,13 @@
       "sub_source": "Zenn",
       "title": "AI の謎な説明文を直すスキル",
       "url": "https://zenn.dev/microsoft/articles/explain-before-shorten",
-      "score": 139,
+      "score": 140,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 26 Oct 2026 04:32:54 GMT",
-      "hatena_count": 139
+      "hatena_count": 140
     },
     {
       "id": "zenn-06ad3f75f3",
@@ -2181,13 +2349,13 @@
       "sub_source": "Zenn",
       "title": "eMudhra 中間 CA 漏洩、OS もブラウザも最新なのにコンテナ 9 個と Python 環境 16 個が偽の証明書を信じていた",
       "url": "https://zenn.dev/nanora/articles/20261024-emudhra-ca-own-bundles",
-      "score": 7,
+      "score": 8,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sat, 24 Oct 2026 03:53:11 GMT",
-      "hatena_count": 7
+      "hatena_count": 8
     },
     {
       "id": "zenn-ecb9a4ef6b",
@@ -2970,7 +3138,7 @@
         "Zenn"
       ],
       "date": "Thu, 22 Oct 2026 17:21:33 GMT",
-      "hatena_count": 3
+      "hatena_count": 4
     },
     {
       "id": "zenn-acfd0e3c54",
