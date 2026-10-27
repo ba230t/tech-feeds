@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-27T23:05:18.933325+00:00",
-  "count": 236,
+  "updated_at": "2026-10-27T23:33:36.834874+00:00",
+  "count": 242,
   "items": [
     {
       "id": "qiita-155fdc682b",
@@ -2203,6 +2203,34 @@
       "hatena_count": 1
     },
     {
+      "id": "zenn-ed54cd5c88",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "コードを読まずにマージするために必要なこと",
+      "url": "https://zenn.dev/nrs/articles/c777388530aa84",
+      "score": 87,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 27 Oct 2026 11:00:05 GMT",
+      "hatena_count": 87
+    },
+    {
+      "id": "zenn-186afe2907",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Go で動く新世代の補完プラグイン goda-cmp.vim",
+      "url": "https://zenn.dev/shougo/articles/goda-cmp-vim-beta",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 27 Oct 2026 10:25:24 GMT",
+      "hatena_count": 0
+    },
+    {
       "id": "zenn-b923cd5e7c",
       "source": "sns",
       "sub_source": "Zenn",
@@ -2215,6 +2243,34 @@
       ],
       "date": "Tue, 27 Oct 2026 06:52:28 GMT",
       "hatena_count": 0
+    },
+    {
+      "id": "zenn-fc4ed1dce6",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Kiro から Backlog・Chat・ドライブを横断検索できるようにしてみた（公式MCP）",
+      "url": "https://zenn.dev/senuma/articles/588fb50a8f56ce",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 27 Oct 2026 06:28:21 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-b368cc8007",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Vue Fes Japan 2026 に参加してきました！",
+      "url": "https://zenn.dev/koutyuke/articles/vuefes-japan-2026",
+      "score": 1,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 27 Oct 2026 04:28:58 GMT",
+      "hatena_count": 1
     },
     {
       "id": "zenn-a04b0ea286",
@@ -2273,59 +2329,45 @@
       "hatena_count": 2
     },
     {
-      "id": "zenn-5a75445f03",
+      "id": "zenn-91198e46ff",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "昨今のセキュリティ情勢を踏まえて、Azure のセキュリティ系新資格 SC-500 を受けてみた【合格体験記】",
-      "url": "https://zenn.dev/microsoft/articles/112ff28ccc30e3",
+      "title": "新卒エンジニアが初めてのインターン受け入れでマネジメントに奮闘した話",
+      "url": "https://zenn.dev/tokium_dev/articles/summer-intern-first-team-management",
       "score": 0,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Mon, 26 Oct 2026 18:01:40 GMT",
+      "date": "Tue, 27 Oct 2026 00:00:00 GMT",
       "hatena_count": 0
     },
     {
-      "id": "zenn-be66eb9574",
+      "id": "zenn-89cd23706d",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "GIF で見る、Faiss と Lucene のベクトル検索",
-      "url": "https://zenn.dev/kotap/articles/faiss-lucene-ann-gif",
+      "title": "HPA は kubectl scale の台数を守らない",
+      "url": "https://zenn.dev/shinagawa_web/articles/hpa-reverts-manual-scale",
       "score": 0,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Mon, 26 Oct 2026 16:40:02 GMT",
+      "date": "Mon, 26 Oct 2026 22:58:39 GMT",
       "hatena_count": 0
     },
     {
-      "id": "zenn-993a7d8bcd",
+      "id": "zenn-1b041c07d3",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "dart:ioと端末のネットワーク設定",
-      "url": "https://zenn.dev/koji_1009/articles/b222c501f9561c",
+      "title": "Dockerfileのビルドとコンテナの中の確認",
+      "url": "https://zenn.dev/mutsu_zenn/articles/62895d07e7ef23",
       "score": 0,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Mon, 26 Oct 2026 14:15:05 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-a8483c76e2",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "属人化をなくすために作ったAIが、私専用の道具になった",
-      "url": "https://zenn.dev/think_node/articles/f35c405ace7f52",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 26 Oct 2026 14:08:56 GMT",
+      "date": "Mon, 26 Oct 2026 22:00:05 GMT",
       "hatena_count": 0
     },
     {
@@ -2340,34 +2382,6 @@
         "Zenn"
       ],
       "date": "Mon, 26 Oct 2026 13:54:50 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-6beff2743e",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Zennの原稿リポジトリのセキュリティ対策を、OWASPなどのガイドラインと照らし合わせた",
-      "url": "https://zenn.dev/ryoku4/articles/9a02f6091cdd8a",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 26 Oct 2026 12:49:18 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-6d68d89e7a",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "OpenWrt 25.12のadblock 4.5に豆腐フィルタを適用する（ruleの書式が変わった）",
-      "url": "https://zenn.dev/yotan/articles/openwrt-25-adblock-tofu-filter",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 26 Oct 2026 10:49:33 GMT",
       "hatena_count": 0
     },
     {
@@ -2412,20 +2426,6 @@
       ],
       "date": "Mon, 26 Oct 2026 01:18:03 GMT",
       "hatena_count": 3
-    },
-    {
-      "id": "zenn-eab72e2dc0",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "スタックトレースを読むとヒープが約1,470 MB増えていた話",
-      "url": "https://zenn.dev/dress_code/articles/f2a51226c9ec6f",
-      "score": 13,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 26 Oct 2026 00:00:13 GMT",
-      "hatena_count": 13
     },
     {
       "id": "zenn-1adc6c7b1e",
@@ -2634,18 +2634,102 @@
       "hatena_count": 0
     },
     {
-      "id": "zenn-89cd23706d",
+      "id": "zenn-5a75445f03",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "HPA は kubectl scale の台数を守らない",
-      "url": "https://zenn.dev/shinagawa_web/articles/hpa-reverts-manual-scale",
+      "title": "昨今のセキュリティ情勢を踏まえて、Azure のセキュリティ系新資格 SC-500 を受けてみた【合格体験記】",
+      "url": "https://zenn.dev/microsoft/articles/112ff28ccc30e3",
       "score": 0,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Mon, 26 Oct 2026 22:58:39 GMT",
+      "date": "Mon, 26 Oct 2026 18:01:40 GMT",
       "hatena_count": 0
+    },
+    {
+      "id": "zenn-be66eb9574",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "GIF で見る、Faiss と Lucene のベクトル検索",
+      "url": "https://zenn.dev/kotap/articles/faiss-lucene-ann-gif",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 26 Oct 2026 16:40:02 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-993a7d8bcd",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "dart:ioと端末のネットワーク設定",
+      "url": "https://zenn.dev/koji_1009/articles/b222c501f9561c",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 26 Oct 2026 14:15:05 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-a8483c76e2",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "属人化をなくすために作ったAIが、私専用の道具になった",
+      "url": "https://zenn.dev/think_node/articles/f35c405ace7f52",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 26 Oct 2026 14:08:56 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-6beff2743e",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Zennの原稿リポジトリのセキュリティ対策を、OWASPなどのガイドラインと照らし合わせた",
+      "url": "https://zenn.dev/ryoku4/articles/9a02f6091cdd8a",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 26 Oct 2026 12:49:18 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-6d68d89e7a",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "OpenWrt 25.12のadblock 4.5に豆腐フィルタを適用する（ruleの書式が変わった）",
+      "url": "https://zenn.dev/yotan/articles/openwrt-25-adblock-tofu-filter",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 26 Oct 2026 10:49:33 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-eab72e2dc0",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "スタックトレースを読むとヒープが約1,470 MB増えていた話",
+      "url": "https://zenn.dev/dress_code/articles/f2a51226c9ec6f",
+      "score": 13,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 26 Oct 2026 00:00:13 GMT",
+      "hatena_count": 13
     },
     {
       "id": "zenn-a547b55779",
