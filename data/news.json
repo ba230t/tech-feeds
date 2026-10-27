@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T21:05:16.915402+00:00",
+  "updated_at": "2026-10-27T21:33:45.544997+00:00",
   "count": 236,
   "items": [
     {
@@ -219,13 +219,13 @@
       "sub_source": "Qiita",
       "title": "実際に試したClaude便利術20選 まとめ",
       "url": "https://qiita.com/N-Kyo/items/bf4a3a2185db2d28eee5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 1,
+      "score": 2,
       "author": "Qiita",
       "tags": [
         "Qiita"
       ],
       "date": "2026-10-26T20:05:51+09:00",
-      "hatena_count": 1
+      "hatena_count": 2
     },
     {
       "id": "qiita-63f1baa19f",
@@ -2461,13 +2461,13 @@
       "sub_source": "Zenn",
       "title": "2026年の国内情報漏えい71件を侵入経路で分類してみた",
       "url": "https://zenn.dev/blackleg/articles/e9ed8b038bcf48",
-      "score": 1,
+      "score": 2,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sat, 24 Oct 2026 15:21:05 GMT",
-      "hatena_count": 1
+      "hatena_count": 2
     },
     {
       "id": "zenn-ecb9a4ef6b",
@@ -2870,7 +2870,7 @@
         "Zenn"
       ],
       "date": "Fri, 23 Oct 2026 09:00:05 GMT",
-      "hatena_count": 88
+      "hatena_count": 89
     },
     {
       "id": "zenn-6eef862e70",
