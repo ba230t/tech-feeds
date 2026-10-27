@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T17:34:01.781838+00:00",
+  "updated_at": "2026-10-27T18:07:29.356583+00:00",
   "count": 228,
   "items": [
     {
@@ -2138,13 +2138,13 @@
       "sub_source": "Zenn",
       "title": "Chromium(V8)のArray.prototype.lastIndexOfを最大約26000倍高速化した",
       "url": "https://zenn.dev/dinii/articles/2f66b147007cf8",
-      "score": 0,
+      "score": 1,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 27 Oct 2026 01:00:06 GMT",
-      "hatena_count": 0
+      "hatena_count": 1
     },
     {
       "id": "zenn-e91558d187",
