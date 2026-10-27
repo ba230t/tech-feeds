@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T15:09:08.082577+00:00",
+  "updated_at": "2026-10-27T15:40:08.711350+00:00",
   "count": 228,
   "items": [
     {
@@ -2152,13 +2152,13 @@
       "sub_source": "Zenn",
       "title": "Dockerのビルドを遅くしたコミットをGrafana Tempoのトレースで見つける",
       "url": "https://zenn.dev/ymotongpoo/articles/20261027-buildkit-traces-tempo",
-      "score": 0,
+      "score": 2,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 27 Oct 2026 00:00:08 GMT",
-      "hatena_count": 0
+      "hatena_count": 2
     },
     {
       "id": "zenn-5a75445f03",
@@ -2321,13 +2321,13 @@
       "sub_source": "Zenn",
       "title": "私が5種類のコーディングエージェントを使い分ける理由",
       "url": "https://zenn.dev/rimon/articles/45c1fd2f015af8",
-      "score": 120,
+      "score": 121,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sun, 25 Oct 2026 22:44:03 GMT",
-      "hatena_count": 120
+      "hatena_count": 121
     },
     {
       "id": "zenn-d00427ebdc",
