@@ -251,13 +251,13 @@
       "sub_source": "Zenn",
       "title": "スタックトレースを読むとヒープが約1,470 MB増えていた話",
       "url": "https://zenn.dev/dress_code/articles/f2a51226c9ec6f",
-      "score": 12,
+      "score": 13,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 26 Oct 2026 00:00:13 GMT",
-      "hatena_count": 12
+      "hatena_count": 13
     },
     {
       "id": "zenn-f0d56afe76",
@@ -354,7 +354,7 @@
       "source": "jpcert",
       "title": "注意喚起: BrotliのC言語実装における境界外書き込みの脆弱性（CVE-2026-111497）に関する注意喚起  (公開)",
       "url": "https://www.jpcert.or.jp/at/2026/at260034.html",
-      "score": 2,
+      "score": 3,
       "author": "JPCERT/CC",
       "tags": [
         "JPCERT",
@@ -362,7 +362,7 @@
       ],
       "severity": "high",
       "date": "2026-10-26T16:25+09:00",
-      "hatena_count": 2
+      "hatena_count": 3
     },
     {
       "id": "jpcert-30cd0d7475",
