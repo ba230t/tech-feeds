@@ -3,15 +3,15 @@
   "total_articles": 189,
   "summary": "# 2026-10の技術動向レポート\n\n**セキュリティ動向 (2件)**\n\n1. 厳選・セキュリティが心配ならClaude Codeにこの問いかけをコピペするべし20\n\n2. 【事前準備のお願い】PHPのセキュリティリリース公開予定について\n\n**AI・機械学習動向 (3件)**\n\n1. 仕組みを理解する動画を、Claude Codeに作らせると便利すぎる\n\n2. AI の謎な説明文を直すスキル\n\n3. 「読みにくいDB」はAI開発のコストを1.9倍にする――Claude Codeで検証したDB設計の影響\n\n**技術トレンド (5件)**\n\n1. 注意喚起: 直近で相次いでいる国内組織における不正アクセスに関する注意喚起  (更新)\n\n2. 不正アクセスによる漏えい等の事案を踏まえ、速やかに実施すべき対策等について\n\n3. バイブコーディングを6週間続けたら、Mac の起動が20分かかるようになった\n\n4. 私が5種類のコーディングエージェントを使い分ける理由\n\n5. 【速報：2026/10/22 04:00】PHP2Shellの対応状況まとめ：PHP本体、Linux、レンタルサーバ、KUSANAGI",
   "source_counts": {
+    "ipa": 6,
     "sns": 142,
     "jpcert": 30,
-    "ipa": 6,
     "techracho": 11
   },
   "severity_counts": {
+    "medium": 6,
     "high": 11,
     "critical": 5,
-    "medium": 6,
     "info": 24
   },
   "top_articles": [
@@ -93,13 +93,13 @@
       "sub_source": "Zenn",
       "title": "AI の謎な説明文を直すスキル",
       "url": "https://zenn.dev/microsoft/articles/explain-before-shorten",
-      "score": 133,
+      "score": 137,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 26 Oct 2026 04:32:54 GMT",
-      "hatena_count": 133
+      "hatena_count": 137
     },
     {
       "id": "zenn-1adc6c7b1e",
@@ -219,7 +219,7 @@
     {
       "id": "ipa-ee45d6bd49",
       "source": "ipa",
-      "title": "PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell)",
+      "title": "更新：PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell)",
       "url": "https://www.ipa.go.jp/security/security-alert/2026/alert20261022.html",
       "score": 20,
       "author": "IPA",
@@ -228,7 +228,7 @@
         "セキュリティ"
       ],
       "severity": "medium",
-      "date": "2026-10-22T00:00:00+09:00",
+      "date": "2026-10-27T00:00:00+09:00",
       "hatena_count": 20
     },
     {

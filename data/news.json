@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-10-27T03:09:56.901280+00:00",
+  "updated_at": "2026-10-27T03:43:21.601150+00:00",
   "count": 204,
   "items": [
+    {
+      "id": "ipa-ee45d6bd49",
+      "source": "ipa",
+      "title": "更新：PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell)",
+      "url": "https://www.ipa.go.jp/security/security-alert/2026/alert20261022.html",
+      "score": 20,
+      "author": "IPA",
+      "tags": [
+        "IPA",
+        "セキュリティ"
+      ],
+      "severity": "medium",
+      "date": "2026-10-27T00:00:00+09:00",
+      "hatena_count": 20
+    },
     {
       "id": "qiita-42ec92ed15",
       "source": "sns",
@@ -1174,21 +1189,6 @@
       "hatena_count": 0
     },
     {
-      "id": "ipa-ee45d6bd49",
-      "source": "ipa",
-      "title": "PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell)",
-      "url": "https://www.ipa.go.jp/security/security-alert/2026/alert20261022.html",
-      "score": 20,
-      "author": "IPA",
-      "tags": [
-        "IPA",
-        "セキュリティ"
-      ],
-      "severity": "medium",
-      "date": "2026-10-22T00:00:00+09:00",
-      "hatena_count": 20
-    },
-    {
       "id": "qiita-7d2b34e682",
       "source": "sns",
       "sub_source": "Qiita",
@@ -1998,13 +1998,13 @@
       "sub_source": "Zenn",
       "title": "AI の謎な説明文を直すスキル",
       "url": "https://zenn.dev/microsoft/articles/explain-before-shorten",
-      "score": 133,
+      "score": 137,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 26 Oct 2026 04:32:54 GMT",
-      "hatena_count": 133
+      "hatena_count": 137
     },
     {
       "id": "zenn-06ad3f75f3",
@@ -2436,7 +2436,7 @@
         "Zenn"
       ],
       "date": "Fri, 23 Oct 2026 01:28:43 GMT",
-      "hatena_count": 3
+      "hatena_count": 4
     },
     {
       "id": "zenn-6196fc3ef4",
