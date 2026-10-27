@@ -292,7 +292,7 @@
       "source": "jpcert",
       "title": "注意喚起: PHPにおける複数の脆弱性（CVE-2026-109618、CVE-2026-109619）に関する注意喚起  (更新)",
       "url": "https://www.jpcert.or.jp/at/2026/at260033.html",
-      "score": 5,
+      "score": 6,
       "author": "JPCERT/CC",
       "tags": [
         "JPCERT",
@@ -300,7 +300,7 @@
       ],
       "severity": "high",
       "date": "2026-10-26T16:25+09:00",
-      "hatena_count": 5
+      "hatena_count": 6
     }
   ],
   "security_highlights": [
@@ -369,7 +369,7 @@
       "source": "jpcert",
       "title": "注意喚起: PHPにおける複数の脆弱性（CVE-2026-109618、CVE-2026-109619）に関する注意喚起  (更新)",
       "url": "https://www.jpcert.or.jp/at/2026/at260033.html",
-      "score": 5,
+      "score": 6,
       "author": "JPCERT/CC",
       "tags": [
         "JPCERT",
@@ -377,7 +377,7 @@
       ],
       "severity": "high",
       "date": "2026-10-26T16:25+09:00",
-      "hatena_count": 5
+      "hatena_count": 6
     },
     {
       "id": "qiita-0bf602bcba",
