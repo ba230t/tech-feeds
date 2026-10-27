@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T11:39:22.149114+00:00",
+  "updated_at": "2026-10-27T12:12:05.788718+00:00",
   "count": 228,
   "items": [
     {
@@ -2264,13 +2264,13 @@
       "sub_source": "Zenn",
       "title": "AI の謎な説明文を直すスキル",
       "url": "https://zenn.dev/microsoft/articles/explain-before-shorten",
-      "score": 142,
+      "score": 143,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 26 Oct 2026 04:32:54 GMT",
-      "hatena_count": 142
+      "hatena_count": 143
     },
     {
       "id": "zenn-06ad3f75f3",
@@ -2659,7 +2659,7 @@
         "Zenn"
       ],
       "date": "Sun, 25 Oct 2026 23:35:58 GMT",
-      "hatena_count": 1
+      "hatena_count": 2
     },
     {
       "id": "zenn-6192aa503c",
