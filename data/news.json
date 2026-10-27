@@ -1,7 +1,35 @@
 {
-  "updated_at": "2026-10-27T20:06:15.926779+00:00",
-  "count": 228,
+  "updated_at": "2026-10-27T20:33:24.757962+00:00",
+  "count": 236,
   "items": [
+    {
+      "id": "qiita-155fdc682b",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "【宇宙最速書評】AWSでRAGとAIエージェントをがっつり業務実践できる名著「Amazon Bedrock実践ガイド」",
+      "url": "https://qiita.com/minorun365/items/84cd50fda97df62cff88?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-27T23:30:49+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-44a4d518df",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "Xで話題の、原文を芋づる式にたどるスキル「imozuru」でドメイン知識を仕入れて、普通のAI検索と比べてみた",
+      "url": "https://qiita.com/inoyu-qiita/items/4fc91ba7f67d6763960e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-27T19:06:53+09:00",
+      "hatena_count": 0
+    },
     {
       "id": "qiita-82a900d645",
       "source": "sns",
@@ -73,6 +101,48 @@
       "hatena_count": 0
     },
     {
+      "id": "qiita-5b70b10b9c",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "途中で直した CLAUDE.md が、自動要約のあと古い中身に戻っていた（2.1.310）。それでも新しいルールで動いた",
+      "url": "https://qiita.com/suwa_nobu/items/d3f0491c9727176dea22?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-27T09:24:33+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-bdd7bd1f32",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "AIエージェントたちが直接連絡しあう、小さなメールボックスを作ってみました",
+      "url": "https://qiita.com/shyamagu/items/c419cff2c03b544fd877?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-27T08:41:20+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-8bc2e53654",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "AIのみで作られたシステムを引き継いだら、品質の現実に直面した話",
+      "url": "https://qiita.com/Kokuto821/items/352e44c77489c22945c2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-27T08:27:13+09:00",
+      "hatena_count": 0
+    },
+    {
       "id": "qiita-ed07f141b1",
       "source": "sns",
       "sub_source": "Qiita",
@@ -100,6 +170,20 @@
       "severity": "medium",
       "date": "2026-10-27T00:00:00+09:00",
       "hatena_count": 20
+    },
+    {
+      "id": "qiita-2493efe6ae",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "QRコードはなぜログインの鍵にならないのか。写真1枚で複製できる仕組みと安全な使い道",
+      "url": "https://qiita.com/koreangyoseishoshi/items/6aa82ae67148164a354b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-26T23:11:10+09:00",
+      "hatena_count": 0
     },
     {
       "id": "qiita-0d939654d0",
@@ -227,6 +311,20 @@
         "Qiita"
       ],
       "date": "2026-10-26T15:02:10+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-8c42ce22fc",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "【AI-DLC】GitHub Copilot Quest Lv3：Hack the LegacyでAI-DLCを初めて実践してみた！",
+      "url": "https://qiita.com/yucn_qiita/items/13a5d2ba160e52dd8359?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-26T13:53:56+09:00",
       "hatena_count": 0
     },
     {
@@ -384,6 +482,20 @@
       "hatena_count": 0
     },
     {
+      "id": "qiita-9560212364",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "あの頃のAdvanced RAGは、なぜ遅くて不正確だったのか？ 今ならこう設計する",
+      "url": "https://qiita.com/Busta/items/64e1c233b040056af829?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-26T03:54:08+09:00",
+      "hatena_count": 0
+    },
+    {
       "id": "qiita-8d86723186",
       "source": "sns",
       "sub_source": "Qiita",
@@ -401,7 +513,7 @@
       "id": "qiita-c21ef63360",
       "source": "sns",
       "sub_source": "Qiita",
-      "title": "Oracle AI World 2026 開幕！注目講演と日本時間の視聴スケジュールまとめ",
+      "title": "Oracle AI World 2026 開幕！注目講演と日本時間の視聴スケジュールまとめ ※随時更新中",
       "url": "https://qiita.com/shirok/items/fb1d5dded8654002d2c1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
       "score": 0,
       "author": "Qiita",
