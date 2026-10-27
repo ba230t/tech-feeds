@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T11:07:56.567005+00:00",
+  "updated_at": "2026-10-27T11:39:22.149114+00:00",
   "count": 228,
   "items": [
     {
@@ -2091,6 +2091,34 @@
       "hatena_count": 1
     },
     {
+      "id": "zenn-b923cd5e7c",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "AAIF に加わった Open Responses を Amazon Bedrock で試す",
+      "url": "https://zenn.dev/exwzd/articles/20261023-open-responses",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 27 Oct 2026 06:52:28 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-a04b0ea286",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Jevに問い合わせメッセージを仕分けてもらう",
+      "url": "https://zenn.dev/chot/articles/980c44e5a19736",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 27 Oct 2026 03:00:16 GMT",
+      "hatena_count": 0
+    },
+    {
       "id": "zenn-5458899f1e",
       "source": "sns",
       "sub_source": "Zenn",
@@ -2105,17 +2133,31 @@
       "hatena_count": 0
     },
     {
-      "id": "zenn-89cd23706d",
+      "id": "zenn-7784ba274b",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "HPA は kubectl scale の台数を守らない",
-      "url": "https://zenn.dev/shinagawa_web/articles/hpa-reverts-manual-scale",
+      "title": "Chromium(V8)のArray.prototype.lastIndexOfを最大約26000倍高速化した",
+      "url": "https://zenn.dev/dinii/articles/2f66b147007cf8",
       "score": 0,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Mon, 26 Oct 2026 22:58:39 GMT",
+      "date": "Tue, 27 Oct 2026 01:00:06 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-e91558d187",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Dockerのビルドを遅くしたコミットをGrafana Tempoのトレースで見つける",
+      "url": "https://zenn.dev/ymotongpoo/articles/20261027-buildkit-traces-tempo",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 27 Oct 2026 00:00:08 GMT",
       "hatena_count": 0
     },
     {
@@ -2130,6 +2172,48 @@
         "Zenn"
       ],
       "date": "Mon, 26 Oct 2026 18:01:40 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-be66eb9574",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "GIF で見る、Faiss と Lucene のベクトル検索",
+      "url": "https://zenn.dev/kotap/articles/faiss-lucene-ann-gif",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 26 Oct 2026 16:40:02 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-993a7d8bcd",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "dart:ioと端末のネットワーク設定",
+      "url": "https://zenn.dev/koji_1009/articles/b222c501f9561c",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 26 Oct 2026 14:15:05 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-a8483c76e2",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "属人化をなくすために作ったAIが、私専用の道具になった",
+      "url": "https://zenn.dev/think_node/articles/f35c405ace7f52",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 26 Oct 2026 14:08:56 GMT",
       "hatena_count": 0
     },
     {
@@ -2173,62 +2257,6 @@
       ],
       "date": "Mon, 26 Oct 2026 10:49:33 GMT",
       "hatena_count": 0
-    },
-    {
-      "id": "zenn-a547b55779",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Vue Fes Japan 2026 「 Vite+への貢献と、Team Memberになって見えてきた風景」スピーカーノート",
-      "url": "https://zenn.dev/comm_vue_nuxt/articles/33f8491afbc66d",
-      "score": 2,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 26 Oct 2026 08:44:09 GMT",
-      "hatena_count": 2
-    },
-    {
-      "id": "zenn-8c3697396b",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "生成AIはテストを「通す」ためにズルをするのか — 報酬ハッキングを再現し、対策まで検証してみた",
-      "url": "https://zenn.dev/sompojapan_dx/articles/4f190d7cef4615",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 26 Oct 2026 08:06:48 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-e15e1d6678",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "UE 5.8のMCPを使いたくて、Meta Quest向けプロジェクトを移植してみた",
-      "url": "https://zenn.dev/agilitizer_ltd/articles/07676169f68e6c",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 26 Oct 2026 07:16:56 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-7042caf749",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "AI時代のアーキテクチャ：実装を任せるために、詳細設計を自分のものにする",
-      "url": "https://zenn.dev/simplex/articles/f2b41d3367e9c7",
-      "score": 1,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 26 Oct 2026 07:02:56 GMT",
-      "hatena_count": 1
     },
     {
       "id": "zenn-60cec5a308",
@@ -2328,34 +2356,6 @@
       ],
       "date": "Sat, 24 Oct 2026 15:21:05 GMT",
       "hatena_count": 1
-    },
-    {
-      "id": "zenn-14cb230adf",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "prpr: Rust 向けのシンプルで高速な Parser generator",
-      "url": "https://zenn.dev/tanakh/articles/prpr-packrat-parser",
-      "score": 19,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 24 Oct 2026 06:57:58 GMT",
-      "hatena_count": 19
-    },
-    {
-      "id": "zenn-9712a773b0",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "eMudhra 中間 CA 漏洩、OS もブラウザも最新なのにコンテナ 9 個と Python 環境 16 個が偽の証明書を信じていた",
-      "url": "https://zenn.dev/nanora/articles/20261024-emudhra-ca-own-bundles",
-      "score": 8,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 24 Oct 2026 03:53:11 GMT",
-      "hatena_count": 8
     },
     {
       "id": "zenn-ecb9a4ef6b",
@@ -2522,102 +2522,102 @@
       "hatena_count": 0
     },
     {
-      "id": "zenn-b923cd5e7c",
+      "id": "zenn-89cd23706d",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "AAIF に加わった Open Responses を Amazon Bedrock で試す",
-      "url": "https://zenn.dev/exwzd/articles/20261023-open-responses",
+      "title": "HPA は kubectl scale の台数を守らない",
+      "url": "https://zenn.dev/shinagawa_web/articles/hpa-reverts-manual-scale",
       "score": 0,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Tue, 27 Oct 2026 06:52:28 GMT",
+      "date": "Mon, 26 Oct 2026 22:58:39 GMT",
       "hatena_count": 0
     },
     {
-      "id": "zenn-a04b0ea286",
+      "id": "zenn-a547b55779",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "Jevに問い合わせメッセージを仕分けてもらう",
-      "url": "https://zenn.dev/chot/articles/980c44e5a19736",
+      "title": "Vue Fes Japan 2026 「 Vite+への貢献と、Team Memberになって見えてきた風景」スピーカーノート",
+      "url": "https://zenn.dev/comm_vue_nuxt/articles/33f8491afbc66d",
+      "score": 2,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 26 Oct 2026 08:44:09 GMT",
+      "hatena_count": 2
+    },
+    {
+      "id": "zenn-8c3697396b",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "生成AIはテストを「通す」ためにズルをするのか — 報酬ハッキングを再現し、対策まで検証してみた",
+      "url": "https://zenn.dev/sompojapan_dx/articles/4f190d7cef4615",
       "score": 0,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Tue, 27 Oct 2026 03:00:16 GMT",
+      "date": "Mon, 26 Oct 2026 08:06:48 GMT",
       "hatena_count": 0
     },
     {
-      "id": "zenn-7784ba274b",
+      "id": "zenn-e15e1d6678",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "Chromium(V8)のArray.prototype.lastIndexOfを最大約26000倍高速化した",
-      "url": "https://zenn.dev/dinii/articles/2f66b147007cf8",
+      "title": "UE 5.8のMCPを使いたくて、Meta Quest向けプロジェクトを移植してみた",
+      "url": "https://zenn.dev/agilitizer_ltd/articles/07676169f68e6c",
       "score": 0,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Tue, 27 Oct 2026 01:00:06 GMT",
+      "date": "Mon, 26 Oct 2026 07:16:56 GMT",
       "hatena_count": 0
     },
     {
-      "id": "zenn-e91558d187",
+      "id": "zenn-7042caf749",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "Dockerのビルドを遅くしたコミットをGrafana Tempoのトレースで見つける",
-      "url": "https://zenn.dev/ymotongpoo/articles/20261027-buildkit-traces-tempo",
-      "score": 0,
+      "title": "AI時代のアーキテクチャ：実装を任せるために、詳細設計を自分のものにする",
+      "url": "https://zenn.dev/simplex/articles/f2b41d3367e9c7",
+      "score": 1,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Tue, 27 Oct 2026 00:00:08 GMT",
-      "hatena_count": 0
+      "date": "Mon, 26 Oct 2026 07:02:56 GMT",
+      "hatena_count": 1
     },
     {
-      "id": "zenn-be66eb9574",
+      "id": "zenn-14cb230adf",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "GIF で見る、Faiss と Lucene のベクトル検索",
-      "url": "https://zenn.dev/kotap/articles/faiss-lucene-ann-gif",
-      "score": 0,
+      "title": "prpr: Rust 向けのシンプルで高速な Parser generator",
+      "url": "https://zenn.dev/tanakh/articles/prpr-packrat-parser",
+      "score": 19,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Mon, 26 Oct 2026 16:40:02 GMT",
-      "hatena_count": 0
+      "date": "Sat, 24 Oct 2026 06:57:58 GMT",
+      "hatena_count": 19
     },
     {
-      "id": "zenn-993a7d8bcd",
+      "id": "zenn-9712a773b0",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "dart:ioと端末のネットワーク設定",
-      "url": "https://zenn.dev/koji_1009/articles/b222c501f9561c",
-      "score": 0,
+      "title": "eMudhra 中間 CA 漏洩、OS もブラウザも最新なのにコンテナ 9 個と Python 環境 16 個が偽の証明書を信じていた",
+      "url": "https://zenn.dev/nanora/articles/20261024-emudhra-ca-own-bundles",
+      "score": 8,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Mon, 26 Oct 2026 14:15:05 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-a8483c76e2",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "属人化をなくすために作ったAIが、私専用の道具になった",
-      "url": "https://zenn.dev/think_node/articles/f35c405ace7f52",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 26 Oct 2026 14:08:56 GMT",
-      "hatena_count": 0
+      "date": "Sat, 24 Oct 2026 03:53:11 GMT",
+      "hatena_count": 8
     },
     {
       "id": "zenn-dfcdd06e5d",
@@ -2659,7 +2659,7 @@
         "Zenn"
       ],
       "date": "Sun, 25 Oct 2026 23:35:58 GMT",
-      "hatena_count": 2
+      "hatena_count": 1
     },
     {
       "id": "zenn-6192aa503c",
