@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T00:18:51.733888+00:00",
+  "updated_at": "2026-10-27T01:08:47.906322+00:00",
   "count": 204,
   "items": [
     {
@@ -8,13 +8,13 @@
       "sub_source": "Qiita",
       "title": "実際に試したClaude便利術20選 まとめ",
       "url": "https://qiita.com/N-Kyo/items/bf4a3a2185db2d28eee5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
+      "score": 1,
       "author": "Qiita",
       "tags": [
         "Qiita"
       ],
       "date": "2026-10-26T20:05:51+09:00",
-      "hatena_count": 0
+      "hatena_count": 1
     },
     {
       "id": "qiita-50b442f9da",
@@ -122,13 +122,13 @@
       "sub_source": "Qiita",
       "title": "エンジニア歴数か月の私「理論上、理解できない物事はない」",
       "url": "https://qiita.com/Minotaurasu/items/a13a3fc940c2cd384063?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
+      "score": 1,
       "author": "Qiita",
       "tags": [
         "Qiita"
       ],
       "date": "2026-10-26T10:50:31+09:00",
-      "hatena_count": 0
+      "hatena_count": 1
     },
     {
       "id": "qiita-94e64d459e",
@@ -557,13 +557,13 @@
       "sub_source": "Qiita",
       "title": "「コードレビューは死ぬ、ターミナルも消える」——海外著名エンジニアが予測するAI時代のソフトウェア開発の未来",
       "url": "https://qiita.com/softbase/items/fb72de63c975fcbbd2f6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
+      "score": 1,
       "author": "Qiita",
       "tags": [
         "Qiita"
       ],
       "date": "2026-10-24T23:42:12+09:00",
-      "hatena_count": 0
+      "hatena_count": 1
     },
     {
       "id": "qiita-87a81676aa",
@@ -1984,13 +1984,13 @@
       "sub_source": "Zenn",
       "title": "AI時代のアーキテクチャ：実装を任せるために、詳細設計を自分のものにする",
       "url": "https://zenn.dev/simplex/articles/f2b41d3367e9c7",
-      "score": 0,
+      "score": 1,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 26 Oct 2026 07:02:56 GMT",
-      "hatena_count": 0
+      "hatena_count": 1
     },
     {
       "id": "zenn-60cec5a308",
@@ -1998,13 +1998,13 @@
       "sub_source": "Zenn",
       "title": "AI の謎な説明文を直すスキル",
       "url": "https://zenn.dev/microsoft/articles/explain-before-shorten",
-      "score": 127,
+      "score": 132,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 26 Oct 2026 04:32:54 GMT",
-      "hatena_count": 127
+      "hatena_count": 132
     },
     {
       "id": "zenn-06ad3f75f3",
@@ -2097,13 +2097,13 @@
       "sub_source": "Zenn",
       "title": "私が5種類のコーディングエージェントを使い分ける理由",
       "url": "https://zenn.dev/rimon/articles/45c1fd2f015af8",
-      "score": 115,
+      "score": 117,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sun, 25 Oct 2026 22:44:03 GMT",
-      "hatena_count": 115
+      "hatena_count": 117
     },
     {
       "id": "zenn-d00427ebdc",
@@ -2422,7 +2422,7 @@
         "Zenn"
       ],
       "date": "Fri, 23 Oct 2026 09:00:05 GMT",
-      "hatena_count": 85
+      "hatena_count": 86
     },
     {
       "id": "zenn-6eef862e70",
