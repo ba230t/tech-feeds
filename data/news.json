@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T12:12:05.788718+00:00",
+  "updated_at": "2026-10-27T12:49:58.527901+00:00",
   "count": 228,
   "items": [
     {
@@ -1750,7 +1750,7 @@
       "source": "ipa",
       "title": "【事前準備のお願い】PHPのセキュリティリリース公開予定について",
       "url": "https://www.ipa.go.jp/security/security-alert/2026/pre-alert20261021.html",
-      "score": 100,
+      "score": 99,
       "author": "IPA",
       "tags": [
         "IPA",
@@ -1758,7 +1758,7 @@
       ],
       "severity": "medium",
       "date": "2026-10-21T00:00:00+09:00",
-      "hatena_count": 100
+      "hatena_count": 99
     },
     {
       "id": "ipa-88e47602f8",
@@ -2321,13 +2321,13 @@
       "sub_source": "Zenn",
       "title": "私が5種類のコーディングエージェントを使い分ける理由",
       "url": "https://zenn.dev/rimon/articles/45c1fd2f015af8",
-      "score": 119,
+      "score": 120,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sun, 25 Oct 2026 22:44:03 GMT",
-      "hatena_count": 119
+      "hatena_count": 120
     },
     {
       "id": "zenn-d00427ebdc",
@@ -2758,7 +2758,7 @@
         "Zenn"
       ],
       "date": "Fri, 23 Oct 2026 09:00:05 GMT",
-      "hatena_count": 87
+      "hatena_count": 88
     },
     {
       "id": "zenn-6eef862e70",
