@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T01:50:45.291836+00:00",
+  "updated_at": "2026-10-27T02:13:46.217951+00:00",
   "count": 204,
   "items": [
     {
@@ -1998,13 +1998,13 @@
       "sub_source": "Zenn",
       "title": "AI の謎な説明文を直すスキル",
       "url": "https://zenn.dev/microsoft/articles/explain-before-shorten",
-      "score": 132,
+      "score": 133,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 26 Oct 2026 04:32:54 GMT",
-      "hatena_count": 132
+      "hatena_count": 133
     },
     {
       "id": "zenn-06ad3f75f3",
@@ -2097,13 +2097,13 @@
       "sub_source": "Zenn",
       "title": "私が5種類のコーディングエージェントを使い分ける理由",
       "url": "https://zenn.dev/rimon/articles/45c1fd2f015af8",
-      "score": 117,
+      "score": 118,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sun, 25 Oct 2026 22:44:03 GMT",
-      "hatena_count": 117
+      "hatena_count": 118
     },
     {
       "id": "zenn-d00427ebdc",
@@ -2422,7 +2422,7 @@
         "Zenn"
       ],
       "date": "Fri, 23 Oct 2026 09:00:05 GMT",
-      "hatena_count": 86
+      "hatena_count": 87
     },
     {
       "id": "zenn-6eef862e70",
