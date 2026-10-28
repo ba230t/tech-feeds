@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-28T10:33:47.585650+00:00",
-  "count": 274,
+  "updated_at": "2026-10-28T11:05:55.134615+00:00",
+  "count": 281,
   "items": [
     {
       "id": "qiita-82b368fac6",
@@ -2555,6 +2555,48 @@
       "hatena_count": 1
     },
     {
+      "id": "zenn-2d80473d22",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "MCP ツールの引数と結果に入った個人番号を、AgentCore Gateway のインターセプターでマスクする",
+      "url": "https://zenn.dev/aws_japan/articles/49bf6abcee64bc",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 28 Oct 2026 07:55:16 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-4afaa72b68",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "人間が見るのは設計書だけ ― PdM不在・バグ修正中心のチームで、AI-DLCを開発フローごと作り直した話",
+      "url": "https://zenn.dev/canly/articles/85dc645c252832",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 28 Oct 2026 07:55:08 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-a569eb7fe6",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "業務マスタの新規登録をSeleniumで連続化したら、「新規」の判定を2回直すことになった【Python】",
+      "url": "https://zenn.dev/cutlet_of_pork/articles/selenium-rpa-new-entry-key-definition",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 28 Oct 2026 07:08:48 GMT",
+      "hatena_count": 0
+    },
+    {
       "id": "zenn-90ee5cecba",
       "source": "sns",
       "sub_source": "Zenn",
@@ -2574,13 +2616,69 @@
       "sub_source": "Zenn",
       "title": "Flutter やめました。電話アプリを Native にした理由",
       "url": "https://zenn.dev/ivry/articles/d155267331a3ca",
-      "score": 33,
+      "score": 34,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 28 Oct 2026 02:39:36 GMT",
-      "hatena_count": 33
+      "hatena_count": 34
+    },
+    {
+      "id": "zenn-2e4ea0d7bc",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "AIエージェントに設計書レビューを任せたらレビュワーは楽になった。でも現場は？？",
+      "url": "https://zenn.dev/nttdata_tech/articles/6a06f484ebfab7",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 28 Oct 2026 01:21:43 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-147c98dd1d",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Claude Codeで半年分のレビュー指摘を分類してみた",
+      "url": "https://zenn.dev/port_inc/articles/a4bc3b39f44459",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 28 Oct 2026 01:00:06 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-fe9c9969af",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "【Rails】焼きなまし法で会議室予約アプリに空き時間最適化機能を実装してみた",
+      "url": "https://zenn.dev/port_inc/articles/eaf460ff291c97",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 28 Oct 2026 01:00:06 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-9006ccd0d3",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "WordPress製LPに潜むCWE-219、確認のススメ",
+      "url": "https://zenn.dev/yomogi_cat/articles/wordpress-lp-cwe-219-check",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 27 Oct 2026 12:13:56 GMT",
+      "hatena_count": 0
     },
     {
       "id": "zenn-ed54cd5c88",
@@ -2628,7 +2726,7 @@
       "id": "zenn-232fc30f59",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "ダウンロードした AGENTS.md による乗っ取りを Claude Code・Codex・Cursor の hook で止めた",
+      "title": "AGENTS.md乗っ取り対策のhook、テスト27件全通過でも攻撃役AIに破られた（Claude Code・Codex・Cursor）",
       "url": "https://zenn.dev/shoma_endo/articles/agent-downloads-hijack-guard",
       "score": 0,
       "author": "Zenn",
@@ -2637,90 +2735,6 @@
       ],
       "date": "Tue, 27 Oct 2026 09:47:14 GMT",
       "hatena_count": 0
-    },
-    {
-      "id": "zenn-60046c7e35",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "新時代のE2Eテスト、TesterArmyのe2eをReact Nativeアプリに導入してみた",
-      "url": "https://zenn.dev/tellernovel_inc/articles/testerarmy-e2e-react-native",
-      "score": 1,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 27 Oct 2026 08:23:20 GMT",
-      "hatena_count": 1
-    },
-    {
-      "id": "zenn-b923cd5e7c",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "AAIF に加わった Open Responses を Amazon Bedrock で試す",
-      "url": "https://zenn.dev/exwzd/articles/20261023-open-responses",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 27 Oct 2026 06:52:28 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-fc4ed1dce6",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Kiro から Backlog・Chat・ドライブを横断検索できるようにしてみた（公式MCP）",
-      "url": "https://zenn.dev/senuma/articles/588fb50a8f56ce",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 27 Oct 2026 06:28:21 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-ecf3f123b9",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "AIに良いコードを書かせる前に、「良い設計」を言語化する",
-      "url": "https://zenn.dev/dely_jp/articles/f1fbefd7ffdfea",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 27 Oct 2026 05:22:42 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-b368cc8007",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Vue Fes Japan 2026 に参加してきました！",
-      "url": "https://zenn.dev/koutyuke/articles/vuefes-japan-2026",
-      "score": 1,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 27 Oct 2026 04:28:58 GMT",
-      "hatena_count": 1
-    },
-    {
-      "id": "zenn-825f107696",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "@mizchi/mutator で vitest の mutation test をする",
-      "url": "https://zenn.dev/mizchi/articles/introduce-mutator",
-      "score": 2,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 27 Oct 2026 03:56:41 GMT",
-      "hatena_count": 2
     },
     {
       "id": "zenn-a04b0ea286",
@@ -2749,20 +2763,6 @@
       ],
       "date": "Mon, 26 Oct 2026 13:54:50 GMT",
       "hatena_count": 0
-    },
-    {
-      "id": "zenn-8c3697396b",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "生成AIはテストを「通す」ためにズルをするのか — 報酬ハッキングを再現し、対策まで検証してみた",
-      "url": "https://zenn.dev/sompojapan_dx/articles/4f190d7cef4615",
-      "score": 1,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 26 Oct 2026 08:06:48 GMT",
-      "hatena_count": 1
     },
     {
       "id": "zenn-60cec5a308",
@@ -2983,6 +2983,104 @@
       ],
       "date": "Mon, 12 Oct 2026 08:00:44 +0000",
       "hatena_count": 0
+    },
+    {
+      "id": "zenn-60046c7e35",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "新時代のE2Eテスト、TesterArmyのe2eをReact Nativeアプリに導入してみた",
+      "url": "https://zenn.dev/tellernovel_inc/articles/testerarmy-e2e-react-native",
+      "score": 1,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 27 Oct 2026 08:23:20 GMT",
+      "hatena_count": 1
+    },
+    {
+      "id": "zenn-b923cd5e7c",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "AAIF に加わった Open Responses を Amazon Bedrock で試す",
+      "url": "https://zenn.dev/exwzd/articles/20261023-open-responses",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 27 Oct 2026 06:52:28 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-fc4ed1dce6",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Kiro から Backlog・Chat・ドライブを横断検索できるようにしてみた（公式MCP）",
+      "url": "https://zenn.dev/senuma/articles/588fb50a8f56ce",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 27 Oct 2026 06:28:21 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-ecf3f123b9",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "AIに良いコードを書かせる前に、「良い設計」を言語化する",
+      "url": "https://zenn.dev/dely_jp/articles/f1fbefd7ffdfea",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 27 Oct 2026 05:22:42 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-b368cc8007",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Vue Fes Japan 2026 に参加してきました！",
+      "url": "https://zenn.dev/koutyuke/articles/vuefes-japan-2026",
+      "score": 1,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 27 Oct 2026 04:28:58 GMT",
+      "hatena_count": 1
+    },
+    {
+      "id": "zenn-825f107696",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "@mizchi/mutator で vitest の mutation test をする",
+      "url": "https://zenn.dev/mizchi/articles/introduce-mutator",
+      "score": 2,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 27 Oct 2026 03:56:41 GMT",
+      "hatena_count": 2
+    },
+    {
+      "id": "zenn-8c3697396b",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "生成AIはテストを「通す」ためにズルをするのか — 報酬ハッキングを再現し、対策まで検証してみた",
+      "url": "https://zenn.dev/sompojapan_dx/articles/4f190d7cef4615",
+      "score": 1,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 26 Oct 2026 08:06:48 GMT",
+      "hatena_count": 1
     },
     {
       "id": "techracho-9a351780cc",
