@@ -187,6 +187,20 @@
       "hatena_count": 75
     },
     {
+      "id": "zenn-1ef417e2bf",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Flutter やめました。電話アプリを Native にした理由",
+      "url": "https://zenn.dev/ivry/articles/d155267331a3ca",
+      "score": 32,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 28 Oct 2026 02:39:36 GMT",
+      "hatena_count": 32
+    },
+    {
       "id": "zenn-0f91e18d0b",
       "source": "sns",
       "sub_source": "Zenn",
@@ -199,20 +213,6 @@
       ],
       "date": "Tue, 20 Oct 2026 02:00:05 GMT",
       "hatena_count": 32
-    },
-    {
-      "id": "zenn-1ef417e2bf",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Flutter やめました。電話アプリを Native にした理由",
-      "url": "https://zenn.dev/ivry/articles/d155267331a3ca",
-      "score": 30,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 28 Oct 2026 02:39:36 GMT",
-      "hatena_count": 30
     },
     {
       "id": "zenn-6192aa503c",

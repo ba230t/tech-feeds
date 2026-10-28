@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T09:07:16.184933+00:00",
+  "updated_at": "2026-10-28T09:33:44.109636+00:00",
   "count": 274,
   "items": [
     {
@@ -2574,13 +2574,13 @@
       "sub_source": "Zenn",
       "title": "Flutter やめました。電話アプリを Native にした理由",
       "url": "https://zenn.dev/ivry/articles/d155267331a3ca",
-      "score": 30,
+      "score": 32,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 28 Oct 2026 02:39:36 GMT",
-      "hatena_count": 30
+      "hatena_count": 32
     },
     {
       "id": "zenn-ed54cd5c88",
@@ -2628,7 +2628,7 @@
       "id": "zenn-232fc30f59",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "ダウンロードした AGENTS.md による乗っ取りを Claude Code・Codex・Cursor の hook で止めた",
+      "title": "AGENTS.md乗っ取り対策のhook、テスト27件全通過でも攻撃役AIに破られた（Claude Code・Codex・Cursor）",
       "url": "https://zenn.dev/shoma_endo/articles/agent-downloads-hijack-guard",
       "score": 0,
       "author": "Zenn",
