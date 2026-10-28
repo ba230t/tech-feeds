@@ -1,7 +1,78 @@
 {
-  "updated_at": "2026-10-28T08:08:07.147195+00:00",
-  "count": 264,
+  "updated_at": "2026-10-28T08:35:47.822953+00:00",
+  "count": 274,
   "items": [
+    {
+      "id": "qiita-82b368fac6",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "1,000ファイルの言語移行をAIとASTトランスパイラで完遂した話：LLMの「評価の抜け道」とどう戦ったか",
+      "url": "https://qiita.com/dev-hasegawa/items/79f612c5a4e6c874eaa9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-28T15:04:47+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-dbf40478ac",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "New Relic アップデート(2026年9月)",
+      "url": "https://qiita.com/nr-mito/items/c659893ddfd2f268b71a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-28T12:09:01+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-7f2cda8b3f",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "今週の PHP・LiteLLM の脆弱性を Claude Code に探させたら、Web 検索ありで6回中5回見つけた",
+      "url": "https://qiita.com/suwa_nobu/items/e6b2737d3eddb921e40d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-28T11:25:35+09:00",
+      "severity": "high",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-592cc7f1c1",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "システム設計視点の行動経済学 全50回 総復習",
+      "url": "https://qiita.com/maskot1977/items/77c8714f0c82e56f2cfa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-28T09:44:47+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-5e7d2d004e",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "耳で聞く！Python で学ぶ マクロ経済学 入門 37",
+      "url": "https://qiita.com/maskot1977/items/b41dcbcdc7a7557e3214?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-28T09:36:10+09:00",
+      "hatena_count": 0
+    },
     {
       "id": "jpcert-4c75938883",
       "source": "jpcert",
@@ -242,6 +313,48 @@
       "hatena_count": 0
     },
     {
+      "id": "qiita-6fd76e362b",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "2026年10月27日 今日のQiitaトレンド記事をポッドキャストで聴こう！",
+      "url": "https://qiita.com/ennagara128/items/7b3375782c56a9463e9c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-27T23:06:44+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-393c67d2b4",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "Anthropic の Scion に学ぶソース管理設計、Git の前提はどこで崩れるか",
+      "url": "https://qiita.com/kai_kou/items/1e1800bb2d48c8fc3ea7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-27T20:11:27+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-a14cb2b723",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "Databricksの「DSA（Delivery Solutions Architect）」って何する人？現役メンバー4人に徹底インタビュー！",
+      "url": "https://qiita.com/DatabricksJapanTA/items/eab08e105ef4fc420b79?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-27T20:02:33+09:00",
+      "hatena_count": 0
+    },
+    {
       "id": "qiita-44a4d518df",
       "source": "sns",
       "sub_source": "Qiita",
@@ -254,6 +367,20 @@
       ],
       "date": "2026-10-27T19:06:53+09:00",
       "hatena_count": 1
+    },
+    {
+      "id": "qiita-350e8efd43",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "実務10年のエンジニアが1ヶ月かけて個人開発したiOSアプリ、初週DL数が「10」だった話",
+      "url": "https://qiita.com/xiaoy/items/fdf774c78859625c3d55?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-27T17:40:26+09:00",
+      "hatena_count": 0
     },
     {
       "id": "qiita-82a900d645",
@@ -2447,13 +2574,13 @@
       "sub_source": "Zenn",
       "title": "Flutter やめました。電話アプリを Native にした理由",
       "url": "https://zenn.dev/ivry/articles/d155267331a3ca",
-      "score": 22,
+      "score": 29,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 28 Oct 2026 02:39:36 GMT",
-      "hatena_count": 22
+      "hatena_count": 29
     },
     {
       "id": "zenn-ed54cd5c88",
@@ -2461,13 +2588,13 @@
       "sub_source": "Zenn",
       "title": "コードを読まずにマージするために必要なこと",
       "url": "https://zenn.dev/nrs/articles/c777388530aa84",
-      "score": 116,
+      "score": 119,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 27 Oct 2026 11:00:05 GMT",
-      "hatena_count": 116
+      "hatena_count": 119
     },
     {
       "id": "zenn-186afe2907",
@@ -2706,6 +2833,21 @@
       ],
       "date": "Fri, 23 Oct 2026 05:50:11 GMT",
       "hatena_count": 75
+    },
+    {
+      "id": "techracho-2f1472b57b",
+      "source": "techracho",
+      "title": "YJIT で純粋な Ruby コードがC拡張より速くなる理由（翻訳）",
+      "url": "https://techracho.bpsinc.jp/hachi8833/2026_10_28/160886",
+      "score": 0,
+      "author": "Techracho",
+      "tags": [
+        "Ruby",
+        "Rails",
+        "日本語"
+      ],
+      "date": "Wed, 28 Oct 2026 08:30:47 +0000",
+      "hatena_count": 0
     },
     {
       "id": "techracho-5c8766c6c7",
