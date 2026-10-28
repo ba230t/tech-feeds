@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T03:35:03.332318+00:00",
+  "updated_at": "2026-10-28T04:07:28.047472+00:00",
   "count": 257,
   "items": [
     {
@@ -245,7 +245,7 @@
       "id": "qiita-44a4d518df",
       "source": "sns",
       "sub_source": "Qiita",
-      "title": "Xで話題の、原文を芋づる式にたどるスキル「imozuru」でドメイン知識を仕入れて、普通のAI検索と比べてみた",
+      "title": "Xで話題の、原文をたどってドメイン知識を集めるスキル「imozuru」を普通のAI検索と比べてみた",
       "url": "https://qiita.com/inoyu-qiita/items/4fc91ba7f67d6763960e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
       "score": 1,
       "author": "Qiita",
@@ -2433,13 +2433,13 @@
       "sub_source": "Zenn",
       "title": "コードを読まずにマージするために必要なこと",
       "url": "https://zenn.dev/nrs/articles/c777388530aa84",
-      "score": 108,
+      "score": 110,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 27 Oct 2026 11:00:05 GMT",
-      "hatena_count": 108
+      "hatena_count": 110
     },
     {
       "id": "zenn-186afe2907",
@@ -3109,7 +3109,7 @@
         "Zenn"
       ],
       "date": "Wed, 21 Oct 2026 02:14:44 GMT",
-      "hatena_count": 639
+      "hatena_count": 640
     },
     {
       "id": "zenn-6d6c574d3c",
