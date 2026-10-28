@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T06:41:09.818988+00:00",
+  "updated_at": "2026-10-28T07:07:06.329864+00:00",
   "count": 264,
   "items": [
     {
@@ -2428,46 +2428,18 @@
       "hatena_count": 1
     },
     {
-      "id": "zenn-90ee5cecba",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "図で理解する Dagster on ECS の構成と、失敗に気づく仕組み",
-      "url": "https://zenn.dev/safie_inc/articles/dagster_on_ecs",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 28 Oct 2026 03:00:17 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-1ef417e2bf",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Flutter やめました。電話アプリを Native にした理由",
-      "url": "https://zenn.dev/ivry/articles/d155267331a3ca",
-      "score": 18,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 28 Oct 2026 02:39:36 GMT",
-      "hatena_count": 18
-    },
-    {
       "id": "zenn-ed54cd5c88",
       "source": "sns",
       "sub_source": "Zenn",
       "title": "コードを読まずにマージするために必要なこと",
       "url": "https://zenn.dev/nrs/articles/c777388530aa84",
-      "score": 114,
+      "score": 116,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 27 Oct 2026 11:00:05 GMT",
-      "hatena_count": 114
+      "hatena_count": 116
     },
     {
       "id": "zenn-186afe2907",
@@ -2482,48 +2454,6 @@
       ],
       "date": "Tue, 27 Oct 2026 10:25:24 GMT",
       "hatena_count": 0
-    },
-    {
-      "id": "zenn-42e5889d16",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "競馬AIを作り込んだら、市場の粗いコピーになった ── お金としての価値は前日にしかない",
-      "url": "https://zenn.dev/charat55/articles/keiba-ai-market-copy",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 27 Oct 2026 10:15:54 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-232fc30f59",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "ダウンロードした AGENTS.md による乗っ取りを Claude Code・Codex・Cursor の hook で止めた",
-      "url": "https://zenn.dev/shoma_endo/articles/agent-downloads-hijack-guard",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 27 Oct 2026 09:47:14 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-60046c7e35",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "新時代のE2Eテスト、TesterArmyのe2eをReact Nativeアプリに導入してみた",
-      "url": "https://zenn.dev/tellernovel_inc/articles/testerarmy-e2e-react-native",
-      "score": 1,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 27 Oct 2026 08:23:20 GMT",
-      "hatena_count": 1
     },
     {
       "id": "zenn-b923cd5e7c",
@@ -2554,20 +2484,6 @@
       "hatena_count": 0
     },
     {
-      "id": "zenn-ecf3f123b9",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "AIに良いコードを書かせる前に、「良い設計」を言語化する",
-      "url": "https://zenn.dev/dely_jp/articles/f1fbefd7ffdfea",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 27 Oct 2026 05:22:42 GMT",
-      "hatena_count": 0
-    },
-    {
       "id": "zenn-b368cc8007",
       "source": "sns",
       "sub_source": "Zenn",
@@ -2579,20 +2495,6 @@
         "Zenn"
       ],
       "date": "Tue, 27 Oct 2026 04:28:58 GMT",
-      "hatena_count": 1
-    },
-    {
-      "id": "zenn-825f107696",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "@mizchi/mutator で vitest の mutation test をする",
-      "url": "https://zenn.dev/mizchi/articles/introduce-mutator",
-      "score": 1,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 27 Oct 2026 03:56:41 GMT",
       "hatena_count": 1
     },
     {
@@ -2610,6 +2512,90 @@
       "hatena_count": 0
     },
     {
+      "id": "zenn-5458899f1e",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "GASで素のJSを埋め込むと < がエスケープされて動かない：getContent() の落とし穴と直し方",
+      "url": "https://zenn.dev/kimura0314/articles/gas-htmloutput-getcontent-escapes-lt",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 27 Oct 2026 01:16:10 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-7784ba274b",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Chromium(V8)のArray.prototype.lastIndexOfを最大約26000倍高速化した",
+      "url": "https://zenn.dev/dinii/articles/2f66b147007cf8",
+      "score": 1,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 27 Oct 2026 01:00:06 GMT",
+      "hatena_count": 1
+    },
+    {
+      "id": "zenn-e91558d187",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Dockerのビルドを遅くしたコミットをGrafana Tempoのトレースで見つける",
+      "url": "https://zenn.dev/ymotongpoo/articles/20261027-buildkit-traces-tempo",
+      "score": 2,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 27 Oct 2026 00:00:08 GMT",
+      "hatena_count": 2
+    },
+    {
+      "id": "zenn-91198e46ff",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "新卒エンジニアが初めてのインターン受け入れでマネジメントに奮闘した話",
+      "url": "https://zenn.dev/tokium_dev/articles/summer-intern-first-team-management",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 27 Oct 2026 00:00:00 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-89cd23706d",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "HPA は kubectl scale の台数を守らない",
+      "url": "https://zenn.dev/shinagawa_web/articles/hpa-reverts-manual-scale",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 26 Oct 2026 22:58:39 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-1b041c07d3",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Dockerfileのビルドとコンテナの中の確認",
+      "url": "https://zenn.dev/mutsu_zenn/articles/62895d07e7ef23",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 26 Oct 2026 22:00:05 GMT",
+      "hatena_count": 0
+    },
+    {
       "id": "zenn-670467d688",
       "source": "sns",
       "sub_source": "Zenn",
@@ -2622,20 +2608,6 @@
       ],
       "date": "Mon, 26 Oct 2026 13:54:50 GMT",
       "hatena_count": 0
-    },
-    {
-      "id": "zenn-8c3697396b",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "生成AIはテストを「通す」ためにズルをするのか — 報酬ハッキングを再現し、対策まで検証してみた",
-      "url": "https://zenn.dev/sompojapan_dx/articles/4f190d7cef4615",
-      "score": 1,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 26 Oct 2026 08:06:48 GMT",
-      "hatena_count": 1
     },
     {
       "id": "zenn-60cec5a308",
@@ -2652,6 +2624,21 @@
       "hatena_count": 150
     },
     {
+      "id": "zenn-06ad3f75f3",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Node.js の Brotli 脆弱性 CVE-2026-111497 を読む",
+      "url": "https://zenn.dev/chot/articles/79e6c94e27782d",
+      "score": 1,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 26 Oct 2026 02:29:36 GMT",
+      "severity": "high",
+      "hatena_count": 1
+    },
+    {
       "id": "zenn-f64ba0d17d",
       "source": "sns",
       "sub_source": "Zenn",
@@ -2664,6 +2651,20 @@
       ],
       "date": "Mon, 26 Oct 2026 01:18:03 GMT",
       "hatena_count": 3
+    },
+    {
+      "id": "zenn-1adc6c7b1e",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "私が5種類のコーディングエージェントを使い分ける理由",
+      "url": "https://zenn.dev/rimon/articles/45c1fd2f015af8",
+      "score": 120,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 25 Oct 2026 22:44:03 GMT",
+      "hatena_count": 120
     },
     {
       "id": "zenn-d00427ebdc",
@@ -2858,117 +2859,116 @@
       "hatena_count": 0
     },
     {
-      "id": "zenn-5458899f1e",
+      "id": "zenn-90ee5cecba",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "GASで素のJSを埋め込むと < がエスケープされて動かない：getContent() の落とし穴と直し方",
-      "url": "https://zenn.dev/kimura0314/articles/gas-htmloutput-getcontent-escapes-lt",
+      "title": "図で理解する Dagster on ECS の構成と、失敗に気づく仕組み",
+      "url": "https://zenn.dev/safie_inc/articles/dagster_on_ecs",
       "score": 0,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Tue, 27 Oct 2026 01:16:10 GMT",
+      "date": "Wed, 28 Oct 2026 03:00:17 GMT",
       "hatena_count": 0
     },
     {
-      "id": "zenn-7784ba274b",
+      "id": "zenn-1ef417e2bf",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "Chromium(V8)のArray.prototype.lastIndexOfを最大約26000倍高速化した",
-      "url": "https://zenn.dev/dinii/articles/2f66b147007cf8",
+      "title": "Flutter やめました。電話アプリを Native にした理由",
+      "url": "https://zenn.dev/ivry/articles/d155267331a3ca",
+      "score": 18,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 28 Oct 2026 02:39:36 GMT",
+      "hatena_count": 18
+    },
+    {
+      "id": "zenn-42e5889d16",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "競馬AIを作り込んだら、市場の粗いコピーになった ── お金としての価値は前日にしかない",
+      "url": "https://zenn.dev/charat55/articles/keiba-ai-market-copy",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 27 Oct 2026 10:15:54 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-232fc30f59",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "ダウンロードした AGENTS.md による乗っ取りを Claude Code・Codex・Cursor の hook で止めた",
+      "url": "https://zenn.dev/shoma_endo/articles/agent-downloads-hijack-guard",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 27 Oct 2026 09:47:14 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-60046c7e35",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "新時代のE2Eテスト、TesterArmyのe2eをReact Nativeアプリに導入してみた",
+      "url": "https://zenn.dev/tellernovel_inc/articles/testerarmy-e2e-react-native",
       "score": 1,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Tue, 27 Oct 2026 01:00:06 GMT",
+      "date": "Tue, 27 Oct 2026 08:23:20 GMT",
       "hatena_count": 1
     },
     {
-      "id": "zenn-e91558d187",
+      "id": "zenn-ecf3f123b9",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "Dockerのビルドを遅くしたコミットをGrafana Tempoのトレースで見つける",
-      "url": "https://zenn.dev/ymotongpoo/articles/20261027-buildkit-traces-tempo",
-      "score": 2,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 27 Oct 2026 00:00:08 GMT",
-      "hatena_count": 2
-    },
-    {
-      "id": "zenn-91198e46ff",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "新卒エンジニアが初めてのインターン受け入れでマネジメントに奮闘した話",
-      "url": "https://zenn.dev/tokium_dev/articles/summer-intern-first-team-management",
+      "title": "AIに良いコードを書かせる前に、「良い設計」を言語化する",
+      "url": "https://zenn.dev/dely_jp/articles/f1fbefd7ffdfea",
       "score": 0,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Tue, 27 Oct 2026 00:00:00 GMT",
+      "date": "Tue, 27 Oct 2026 05:22:42 GMT",
       "hatena_count": 0
     },
     {
-      "id": "zenn-89cd23706d",
+      "id": "zenn-825f107696",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "HPA は kubectl scale の台数を守らない",
-      "url": "https://zenn.dev/shinagawa_web/articles/hpa-reverts-manual-scale",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 26 Oct 2026 22:58:39 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-1b041c07d3",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Dockerfileのビルドとコンテナの中の確認",
-      "url": "https://zenn.dev/mutsu_zenn/articles/62895d07e7ef23",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 26 Oct 2026 22:00:05 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-06ad3f75f3",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Node.js の Brotli 脆弱性 CVE-2026-111497 を読む",
-      "url": "https://zenn.dev/chot/articles/79e6c94e27782d",
+      "title": "@mizchi/mutator で vitest の mutation test をする",
+      "url": "https://zenn.dev/mizchi/articles/introduce-mutator",
       "score": 1,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Mon, 26 Oct 2026 02:29:36 GMT",
-      "severity": "high",
+      "date": "Tue, 27 Oct 2026 03:56:41 GMT",
       "hatena_count": 1
     },
     {
-      "id": "zenn-1adc6c7b1e",
+      "id": "zenn-8c3697396b",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "私が5種類のコーディングエージェントを使い分ける理由",
-      "url": "https://zenn.dev/rimon/articles/45c1fd2f015af8",
-      "score": 120,
+      "title": "生成AIはテストを「通す」ためにズルをするのか — 報酬ハッキングを再現し、対策まで検証してみた",
+      "url": "https://zenn.dev/sompojapan_dx/articles/4f190d7cef4615",
+      "score": 1,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Sun, 25 Oct 2026 22:44:03 GMT",
-      "hatena_count": 120
+      "date": "Mon, 26 Oct 2026 08:06:48 GMT",
+      "hatena_count": 1
     },
     {
       "id": "zenn-5a75445f03",
