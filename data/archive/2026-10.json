@@ -93,13 +93,13 @@
       "sub_source": "Zenn",
       "title": "AI の謎な説明文を直すスキル",
       "url": "https://zenn.dev/microsoft/articles/explain-before-shorten",
-      "score": 150,
+      "score": 151,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 26 Oct 2026 04:32:54 GMT",
-      "hatena_count": 150
+      "hatena_count": 151
     },
     {
       "id": "zenn-1adc6c7b1e",
@@ -216,6 +216,20 @@
       "hatena_count": 25
     },
     {
+      "id": "zenn-1ef417e2bf",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Flutter やめました。電話アプリを Native にした理由",
+      "url": "https://zenn.dev/ivry/articles/d155267331a3ca",
+      "score": 22,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 28 Oct 2026 02:39:36 GMT",
+      "hatena_count": 22
+    },
+    {
       "id": "ipa-88e47602f8",
       "source": "ipa",
       "title": "Oracle Java の脆弱性対策について(2026年10月)",
@@ -258,20 +272,6 @@
       ],
       "date": "Sat, 24 Oct 2026 06:57:58 GMT",
       "hatena_count": 19
-    },
-    {
-      "id": "zenn-1ef417e2bf",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Flutter やめました。電話アプリを Native にした理由",
-      "url": "https://zenn.dev/ivry/articles/d155267331a3ca",
-      "score": 18,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 28 Oct 2026 02:39:36 GMT",
-      "hatena_count": 18
     },
     {
       "id": "zenn-eab72e2dc0",
