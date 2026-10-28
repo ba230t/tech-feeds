@@ -1,10 +1,10 @@
 {
   "month": "2026-10",
-  "total_articles": 242,
+  "total_articles": 249,
   "summary": "# 2026-10の技術動向レポート\n\n**セキュリティ動向 (2件)**\n\n1. 厳選・セキュリティが心配ならClaude Codeにこの問いかけをコピペするべし20\n\n2. 【事前準備のお願い】PHPのセキュリティリリース公開予定について\n\n**AI・機械学習動向 (2件)**\n\n1. 仕組みを理解する動画を、Claude Codeに作らせると便利すぎる\n\n2. AI の謎な説明文を直すスキル\n\n**技術トレンド (6件)**\n\n1. 注意喚起: 直近で相次いでいる国内組織における不正アクセスに関する注意喚起  (更新)\n\n2. 不正アクセスによる漏えい等の事案を踏まえ、速やかに実施すべき対策等について\n\n3. バイブコーディングを6週間続けたら、Mac の起動が20分かかるようになった\n\n4. 私が5種類のコーディングエージェントを使い分ける理由\n\n5. コードを読まずにマージするために必要なこと\n\n6. 【速報：2026/10/22 04:00】PHP2Shellの対応状況まとめ：PHP本体、Linux、レンタルサーバ、KUSANAGI",
   "source_counts": {
     "jpcert": 45,
-    "sns": 180,
+    "sns": 187,
     "ipa": 6,
     "techracho": 11
   },
@@ -121,13 +121,13 @@
       "sub_source": "Zenn",
       "title": "コードを読まずにマージするために必要なこと",
       "url": "https://zenn.dev/nrs/articles/c777388530aa84",
-      "score": 112,
+      "score": 113,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 27 Oct 2026 11:00:05 GMT",
-      "hatena_count": 112
+      "hatena_count": 113
     },
     {
       "id": "zenn-89cd9f8fc3",
@@ -260,6 +260,20 @@
       "hatena_count": 19
     },
     {
+      "id": "zenn-1ef417e2bf",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Flutter やめました。電話アプリを Native にした理由",
+      "url": "https://zenn.dev/ivry/articles/d155267331a3ca",
+      "score": 18,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 28 Oct 2026 02:39:36 GMT",
+      "hatena_count": 18
+    },
+    {
       "id": "zenn-eab72e2dc0",
       "source": "sns",
       "sub_source": "Zenn",
@@ -286,20 +300,6 @@
       ],
       "severity": "high",
       "date": "2026-10-26T16:25+09:00",
-      "hatena_count": 8
-    },
-    {
-      "id": "zenn-9712a773b0",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "eMudhra 中間 CA 漏洩、OS もブラウザも最新なのにコンテナ 9 個と Python 環境 16 個が偽の証明書を信じていた",
-      "url": "https://zenn.dev/nanora/articles/20261024-emudhra-ca-own-bundles",
-      "score": 8,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 24 Oct 2026 03:53:11 GMT",
       "hatena_count": 8
     }
   ],
