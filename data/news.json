@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T08:35:47.822953+00:00",
+  "updated_at": "2026-10-28T09:07:16.184933+00:00",
   "count": 274,
   "items": [
     {
@@ -2574,13 +2574,13 @@
       "sub_source": "Zenn",
       "title": "Flutter やめました。電話アプリを Native にした理由",
       "url": "https://zenn.dev/ivry/articles/d155267331a3ca",
-      "score": 29,
+      "score": 30,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 28 Oct 2026 02:39:36 GMT",
-      "hatena_count": 29
+      "hatena_count": 30
     },
     {
       "id": "zenn-ed54cd5c88",
@@ -2588,13 +2588,13 @@
       "sub_source": "Zenn",
       "title": "コードを読まずにマージするために必要なこと",
       "url": "https://zenn.dev/nrs/articles/c777388530aa84",
-      "score": 119,
+      "score": 120,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 27 Oct 2026 11:00:05 GMT",
-      "hatena_count": 119
+      "hatena_count": 120
     },
     {
       "id": "zenn-186afe2907",
@@ -2714,13 +2714,13 @@
       "sub_source": "Zenn",
       "title": "@mizchi/mutator で vitest の mutation test をする",
       "url": "https://zenn.dev/mizchi/articles/introduce-mutator",
-      "score": 1,
+      "score": 2,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 27 Oct 2026 03:56:41 GMT",
-      "hatena_count": 1
+      "hatena_count": 2
     },
     {
       "id": "zenn-a04b0ea286",
@@ -2839,7 +2839,7 @@
       "source": "techracho",
       "title": "YJIT で純粋な Ruby コードがC拡張より速くなる理由（翻訳）",
       "url": "https://techracho.bpsinc.jp/hachi8833/2026_10_28/160886",
-      "score": 0,
+      "score": 1,
       "author": "Techracho",
       "tags": [
         "Ruby",
@@ -2847,7 +2847,7 @@
         "日本語"
       ],
       "date": "Wed, 28 Oct 2026 08:30:47 +0000",
-      "hatena_count": 0
+      "hatena_count": 1
     },
     {
       "id": "techracho-5c8766c6c7",
