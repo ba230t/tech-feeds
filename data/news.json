@@ -1,7 +1,232 @@
 {
-  "updated_at": "2026-10-28T00:15:15.389644+00:00",
-  "count": 242,
+  "updated_at": "2026-10-28T00:52:53.321433+00:00",
+  "count": 257,
   "items": [
+    {
+      "id": "jpcert-4c75938883",
+      "source": "jpcert",
+      "title": "Weekly Report: VeloCloud OrchestratorにSQLインジェクションの脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261028.html#1",
+      "score": 0,
+      "author": "JPCERT/CC",
+      "tags": [
+        "JPCERT",
+        "セキュリティ"
+      ],
+      "severity": "info",
+      "date": "2026-10-28T09:07+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "jpcert-cc97e02a66",
+      "source": "jpcert",
+      "title": "Weekly Report: ISC BINDに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261028.html#2",
+      "score": 0,
+      "author": "JPCERT/CC",
+      "tags": [
+        "JPCERT",
+        "セキュリティ"
+      ],
+      "severity": "info",
+      "date": "2026-10-28T09:07+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "jpcert-955b8ace4a",
+      "source": "jpcert",
+      "title": "Weekly Report: 複数のCisco製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261028.html#3",
+      "score": 0,
+      "author": "JPCERT/CC",
+      "tags": [
+        "JPCERT",
+        "セキュリティ"
+      ],
+      "severity": "info",
+      "date": "2026-10-28T09:07+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "jpcert-3e27e81dcc",
+      "source": "jpcert",
+      "title": "Weekly Report: GitLabに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261028.html#4",
+      "score": 0,
+      "author": "JPCERT/CC",
+      "tags": [
+        "JPCERT",
+        "セキュリティ"
+      ],
+      "severity": "info",
+      "date": "2026-10-28T09:07+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "jpcert-ac376a775e",
+      "source": "jpcert",
+      "title": "Weekly Report: Apache Tomcatに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261028.html#5",
+      "score": 0,
+      "author": "JPCERT/CC",
+      "tags": [
+        "JPCERT",
+        "セキュリティ"
+      ],
+      "severity": "info",
+      "date": "2026-10-28T09:07+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "jpcert-712a951fc8",
+      "source": "jpcert",
+      "title": "Weekly Report: Google Chromeに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261028.html#6",
+      "score": 0,
+      "author": "JPCERT/CC",
+      "tags": [
+        "JPCERT",
+        "セキュリティ"
+      ],
+      "severity": "info",
+      "date": "2026-10-28T09:07+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "jpcert-40644758d3",
+      "source": "jpcert",
+      "title": "Weekly Report: 複数のAtlassian製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261028.html#7",
+      "score": 0,
+      "author": "JPCERT/CC",
+      "tags": [
+        "JPCERT",
+        "セキュリティ"
+      ],
+      "severity": "info",
+      "date": "2026-10-28T09:07+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "jpcert-19c12a901c",
+      "source": "jpcert",
+      "title": "Weekly Report: 複数のMozilla製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261028.html#8",
+      "score": 0,
+      "author": "JPCERT/CC",
+      "tags": [
+        "JPCERT",
+        "セキュリティ"
+      ],
+      "severity": "info",
+      "date": "2026-10-28T09:07+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "jpcert-93fca857df",
+      "source": "jpcert",
+      "title": "Weekly Report: LaravelのTokenGuardに認証回避につながる脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261028.html#9",
+      "score": 0,
+      "author": "JPCERT/CC",
+      "tags": [
+        "JPCERT",
+        "セキュリティ"
+      ],
+      "severity": "info",
+      "date": "2026-10-28T09:07+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "jpcert-4105974a30",
+      "source": "jpcert",
+      "title": "Weekly Report: Roundcube Webmailに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261028.html#10",
+      "score": 0,
+      "author": "JPCERT/CC",
+      "tags": [
+        "JPCERT",
+        "セキュリティ"
+      ],
+      "severity": "info",
+      "date": "2026-10-28T09:07+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "jpcert-448def3d98",
+      "source": "jpcert",
+      "title": "Weekly Report: MOVEit Transferに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261028.html#11",
+      "score": 0,
+      "author": "JPCERT/CC",
+      "tags": [
+        "JPCERT",
+        "セキュリティ"
+      ],
+      "severity": "info",
+      "date": "2026-10-28T09:07+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "jpcert-19211f17ae",
+      "source": "jpcert",
+      "title": "Weekly Report: 複数のOracle製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261028.html#12",
+      "score": 0,
+      "author": "JPCERT/CC",
+      "tags": [
+        "JPCERT",
+        "セキュリティ"
+      ],
+      "severity": "info",
+      "date": "2026-10-28T09:07+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "jpcert-00b7dcc590",
+      "source": "jpcert",
+      "title": "Weekly Report: PHPにおける複数の脆弱性（CVE-2026-109618、CVE-2026-109619）に関する注意喚起",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261028.html#13",
+      "score": 0,
+      "author": "JPCERT/CC",
+      "tags": [
+        "JPCERT",
+        "セキュリティ"
+      ],
+      "severity": "high",
+      "date": "2026-10-28T09:07+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "jpcert-dc1183ba03",
+      "source": "jpcert",
+      "title": "Weekly Report: JPCERT/CCが2026年7月から2026年9月分の「ソフトウェア等の脆弱性関連情報に関する届出状況」を公開",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261028.html#14",
+      "score": 0,
+      "author": "JPCERT/CC",
+      "tags": [
+        "JPCERT",
+        "セキュリティ"
+      ],
+      "severity": "info",
+      "date": "2026-10-28T09:07+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "jpcert-25897316ed",
+      "source": "jpcert",
+      "title": "Weekly Report: JPCERT/CCが2026年7月から9月分の「JPCERT/CC 四半期レポート」を公開",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261028.html#15",
+      "score": 0,
+      "author": "JPCERT/CC",
+      "tags": [
+        "JPCERT",
+        "セキュリティ"
+      ],
+      "severity": "info",
+      "date": "2026-10-28T09:07+09:00",
+      "hatena_count": 0
+    },
     {
       "id": "qiita-155fdc682b",
       "source": "sns",
@@ -148,13 +373,13 @@
       "sub_source": "Qiita",
       "title": "先週の PHP 祭りから見えた、業務システムの「止まり方」の共通点と違い — 予防的な停止・障害・計画メンテを、日本・海外・AI の告知 751 件で比べた",
       "url": "https://qiita.com/songchong/items/eb2e60b469a148c2fb8b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
+      "score": 1,
       "author": "Qiita",
       "tags": [
         "Qiita"
       ],
       "date": "2026-10-27T07:51:42+09:00",
-      "hatena_count": 0
+      "hatena_count": 1
     },
     {
       "id": "ipa-ee45d6bd49",
@@ -2208,13 +2433,13 @@
       "sub_source": "Zenn",
       "title": "コードを読まずにマージするために必要なこと",
       "url": "https://zenn.dev/nrs/articles/c777388530aa84",
-      "score": 87,
+      "score": 101,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 27 Oct 2026 11:00:05 GMT",
-      "hatena_count": 87
+      "hatena_count": 101
     },
     {
       "id": "zenn-186afe2907",
@@ -2390,13 +2615,13 @@
       "sub_source": "Zenn",
       "title": "AI の謎な説明文を直すスキル",
       "url": "https://zenn.dev/microsoft/articles/explain-before-shorten",
-      "score": 146,
+      "score": 148,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 26 Oct 2026 04:32:54 GMT",
-      "hatena_count": 146
+      "hatena_count": 148
     },
     {
       "id": "zenn-06ad3f75f3",
@@ -2954,7 +3179,7 @@
         "Zenn"
       ],
       "date": "Fri, 23 Oct 2026 09:00:05 GMT",
-      "hatena_count": 89
+      "hatena_count": 90
     },
     {
       "id": "zenn-6eef862e70",
