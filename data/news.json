@@ -1,7 +1,49 @@
 {
-  "updated_at": "2026-10-28T20:06:20.574308+00:00",
-  "count": 281,
+  "updated_at": "2026-10-28T20:33:37.633498+00:00",
+  "count": 289,
   "items": [
+    {
+      "id": "qiita-811eeef001",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "【Delphi】タスクバーボタンにジャンプリストを表示する",
+      "url": "https://qiita.com/ht_deko/items/3d660c9c78d87e6c5b9c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-28T18:28:17+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-766a949fad",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "Devinに「超大作プロンプト」を一発で投げてはいけない──初月でACUを溶かして学んだ、AIエージェントとの正しい向き合い方",
+      "url": "https://qiita.com/saematsu/items/caaf0ea803b71ff1ef42?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-28T16:57:36+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-4279418e1a",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "デスクトップに置いて、AIからも操作できるタスク管理アプリを作った",
+      "url": "https://qiita.com/GpAraki/items/6aa0ff0c287486e82960?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-28T16:10:22+09:00",
+      "hatena_count": 0
+    },
     {
       "id": "qiita-82b368fac6",
       "source": "sns",
@@ -17,6 +59,34 @@
       "hatena_count": 0
     },
     {
+      "id": "qiita-f1a92e434e",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "Azure VM サイズ変換～SCSI から NVMe 必須の v6 シリーズへ移行する際の前提と手順～",
+      "url": "https://qiita.com/MasakiKakimoto/items/9356d8820157c32ad955?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-28T12:35:01+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-08fcedeb69",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "AIエージェントをEnterprise Readyへ：IBM TechXchange 2026 Atlanta ジェネラルセッションまとめ",
+      "url": "https://qiita.com/mizuk1013/items/9d206626286addba08ff?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-28T12:30:05+09:00",
+      "hatena_count": 0
+    },
+    {
       "id": "qiita-dbf40478ac",
       "source": "sns",
       "sub_source": "Qiita",
@@ -28,6 +98,34 @@
         "Qiita"
       ],
       "date": "2026-10-28T12:09:01+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-bb23407872",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "【脱VSCode】大学鯖が悲鳴を上げているので、Zedへ完全移行する手順をまとめた",
+      "url": "https://qiita.com/ToraMutton/items/6353f1835ab66b1e517f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-28T12:00:01+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-5365106211",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "研修中の僕がSlackに海外のIT情報を運ぶbotを作ったら、だいたい何が起きたか",
+      "url": "https://qiita.com/EricYu/items/147bf8e5fdb1b04f6d54?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-28T11:44:24+09:00",
       "hatena_count": 0
     },
     {
@@ -296,6 +394,20 @@
       ],
       "severity": "info",
       "date": "2026-10-28T09:07+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-5909220ce1",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "ブロックチェーンを使わずに「減価するP2P通貨」は作れるか？ MultipeerConnectivity × Face IDによるPoC実装",
+      "url": "https://qiita.com/KouheiTakagi/items/aa8db0f299e31f6b2179?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-28T05:50:34+09:00",
       "hatena_count": 0
     },
     {
