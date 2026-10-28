@@ -107,13 +107,13 @@
       "sub_source": "Zenn",
       "title": "コードを読まずにマージするために必要なこと",
       "url": "https://zenn.dev/nrs/articles/c777388530aa84",
-      "score": 122,
+      "score": 123,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 27 Oct 2026 11:00:05 GMT",
-      "hatena_count": 122
+      "hatena_count": 123
     },
     {
       "id": "zenn-1adc6c7b1e",
@@ -192,13 +192,13 @@
       "sub_source": "Zenn",
       "title": "Flutter やめました。電話アプリを Native にした理由",
       "url": "https://zenn.dev/ivry/articles/d155267331a3ca",
-      "score": 38,
+      "score": 39,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 28 Oct 2026 02:39:36 GMT",
-      "hatena_count": 38
+      "hatena_count": 39
     },
     {
       "id": "zenn-0f91e18d0b",
@@ -234,7 +234,7 @@
       "source": "ipa",
       "title": "Oracle Java の脆弱性対策について(2026年10月)",
       "url": "https://www.ipa.go.jp/security/security-alert/2026/1021-jre.html",
-      "score": 21,
+      "score": 22,
       "author": "IPA",
       "tags": [
         "IPA",
@@ -242,7 +242,7 @@
       ],
       "severity": "medium",
       "date": "2026-10-21T00:00:00+09:00",
-      "hatena_count": 21
+      "hatena_count": 22
     },
     {
       "id": "ipa-ee45d6bd49",
