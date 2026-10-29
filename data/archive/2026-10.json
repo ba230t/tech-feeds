@@ -201,6 +201,20 @@
       "hatena_count": 76
     },
     {
+      "id": "zenn-f64ba0d17d",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "最近の E2E 戦略（2026 年 10 月現在）",
+      "url": "https://zenn.dev/polyco/articles/26624b38c951b5",
+      "score": 57,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 26 Oct 2026 01:18:03 GMT",
+      "hatena_count": 57
+    },
+    {
       "id": "zenn-1ef417e2bf",
       "source": "sns",
       "sub_source": "Zenn",
@@ -213,20 +227,6 @@
       ],
       "date": "Wed, 28 Oct 2026 02:39:36 GMT",
       "hatena_count": 42
-    },
-    {
-      "id": "zenn-f64ba0d17d",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "最近の E2E 戦略（2026 年 10 月現在）",
-      "url": "https://zenn.dev/polyco/articles/26624b38c951b5",
-      "score": 38,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 26 Oct 2026 01:18:03 GMT",
-      "hatena_count": 38
     },
     {
       "id": "zenn-0f91e18d0b",
@@ -353,7 +353,7 @@
       "source": "jpcert",
       "title": "注意喚起: PHPにおける複数の脆弱性（CVE-2026-109618、CVE-2026-109619）に関する注意喚起  (更新)",
       "url": "https://www.jpcert.or.jp/at/2026/at260033.html",
-      "score": 11,
+      "score": 12,
       "author": "JPCERT/CC",
       "tags": [
         "JPCERT",
@@ -361,7 +361,7 @@
       ],
       "severity": "high",
       "date": "2026-10-29T15:43+09:00",
-      "hatena_count": 11
+      "hatena_count": 12
     },
     {
       "id": "qiita-7f2cda8b3f",
