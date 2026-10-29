@@ -93,13 +93,13 @@
       "sub_source": "Zenn",
       "title": "AI の謎な説明文を直すスキル",
       "url": "https://zenn.dev/microsoft/articles/explain-before-shorten",
-      "score": 154,
+      "score": 156,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 26 Oct 2026 04:32:54 GMT",
-      "hatena_count": 154
+      "hatena_count": 156
     },
     {
       "id": "zenn-ed54cd5c88",
@@ -215,6 +215,20 @@
       "hatena_count": 32
     },
     {
+      "id": "zenn-47a83a0acf",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "いいから休め - Black October が終わる今、セキュリティエンジニアがやるべきこと",
+      "url": "https://zenn.dev/nayuta/articles/aec9ab2e11a7b7",
+      "score": 27,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 28 Oct 2026 10:14:03 GMT",
+      "hatena_count": 27
+    },
+    {
       "id": "zenn-6192aa503c",
       "source": "sns",
       "sub_source": "Zenn",
@@ -286,21 +300,6 @@
       ],
       "date": "Mon, 26 Oct 2026 00:00:13 GMT",
       "hatena_count": 13
-    },
-    {
-      "id": "jpcert-30cd0d7475",
-      "source": "jpcert",
-      "title": "注意喚起: PHPにおける複数の脆弱性（CVE-2026-109618、CVE-2026-109619）に関する注意喚起  (更新)",
-      "url": "https://www.jpcert.or.jp/at/2026/at260033.html",
-      "score": 8,
-      "author": "JPCERT/CC",
-      "tags": [
-        "JPCERT",
-        "セキュリティ"
-      ],
-      "severity": "high",
-      "date": "2026-10-26T16:25+09:00",
-      "hatena_count": 8
     }
   ],
   "security_highlights": [
