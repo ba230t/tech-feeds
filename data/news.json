@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T12:09:20.139023+00:00",
+  "updated_at": "2026-10-29T12:38:50.068731+00:00",
   "count": 319,
   "items": [
     {
@@ -3134,13 +3134,13 @@
       "sub_source": "Zenn",
       "title": "最近の E2E 戦略（2026 年 10 月現在）",
       "url": "https://zenn.dev/polyco/articles/26624b38c951b5",
-      "score": 27,
+      "score": 31,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 26 Oct 2026 01:18:03 GMT",
-      "hatena_count": 27
+      "hatena_count": 31
     },
     {
       "id": "zenn-d00427ebdc",
@@ -3388,7 +3388,7 @@
         "Zenn"
       ],
       "date": "Fri, 23 Oct 2026 05:50:11 GMT",
-      "hatena_count": 75
+      "hatena_count": 76
     },
     {
       "id": "techracho-8dcfc53b6b",
