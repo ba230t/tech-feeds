@@ -164,13 +164,13 @@
       "sub_source": "Zenn",
       "title": "いいから休め - Black October が終わる今、セキュリティエンジニアがやるべきこと",
       "url": "https://zenn.dev/nayuta/articles/aec9ab2e11a7b7",
-      "score": 96,
+      "score": 99,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 28 Oct 2026 10:14:03 GMT",
-      "hatena_count": 96
+      "hatena_count": 99
     },
     {
       "id": "zenn-49bbe1bd17",
@@ -187,6 +187,20 @@
       "hatena_count": 90
     },
     {
+      "id": "zenn-f64ba0d17d",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "最近の E2E 戦略（2026 年 10 月現在）",
+      "url": "https://zenn.dev/polyco/articles/26624b38c951b5",
+      "score": 84,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 26 Oct 2026 01:18:03 GMT",
+      "hatena_count": 84
+    },
+    {
       "id": "zenn-ecb9a4ef6b",
       "source": "sns",
       "sub_source": "Zenn",
@@ -199,20 +213,6 @@
       ],
       "date": "Fri, 23 Oct 2026 05:50:11 GMT",
       "hatena_count": 76
-    },
-    {
-      "id": "zenn-f64ba0d17d",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "最近の E2E 戦略（2026 年 10 月現在）",
-      "url": "https://zenn.dev/polyco/articles/26624b38c951b5",
-      "score": 57,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 26 Oct 2026 01:18:03 GMT",
-      "hatena_count": 57
     },
     {
       "id": "zenn-1ef417e2bf",
