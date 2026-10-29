@@ -107,13 +107,13 @@
       "sub_source": "Zenn",
       "title": "コードを読まずにマージするために必要なこと",
       "url": "https://zenn.dev/nrs/articles/c777388530aa84",
-      "score": 122,
+      "score": 123,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 27 Oct 2026 11:00:05 GMT",
-      "hatena_count": 122
+      "hatena_count": 123
     },
     {
       "id": "zenn-1adc6c7b1e",
@@ -173,6 +173,20 @@
       "hatena_count": 99
     },
     {
+      "id": "zenn-f64ba0d17d",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "最近の E2E 戦略（2026 年 10 月現在）",
+      "url": "https://zenn.dev/polyco/articles/26624b38c951b5",
+      "score": 90,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 26 Oct 2026 01:18:03 GMT",
+      "hatena_count": 90
+    },
+    {
       "id": "zenn-49bbe1bd17",
       "source": "sns",
       "sub_source": "Zenn",
@@ -185,20 +199,6 @@
       ],
       "date": "Fri, 23 Oct 2026 09:00:05 GMT",
       "hatena_count": 90
-    },
-    {
-      "id": "zenn-f64ba0d17d",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "最近の E2E 戦略（2026 年 10 月現在）",
-      "url": "https://zenn.dev/polyco/articles/26624b38c951b5",
-      "score": 84,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 26 Oct 2026 01:18:03 GMT",
-      "hatena_count": 84
     },
     {
       "id": "zenn-ecb9a4ef6b",
@@ -220,13 +220,13 @@
       "sub_source": "Zenn",
       "title": "Flutter やめました。電話アプリを Native にした理由",
       "url": "https://zenn.dev/ivry/articles/d155267331a3ca",
-      "score": 42,
+      "score": 43,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 28 Oct 2026 02:39:36 GMT",
-      "hatena_count": 42
+      "hatena_count": 43
     },
     {
       "id": "zenn-0f91e18d0b",
