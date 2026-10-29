@@ -173,6 +173,20 @@
       "hatena_count": 90
     },
     {
+      "id": "zenn-47a83a0acf",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "いいから休め - Black October が終わる今、セキュリティエンジニアがやるべきこと",
+      "url": "https://zenn.dev/nayuta/articles/aec9ab2e11a7b7",
+      "score": 76,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 28 Oct 2026 10:14:03 GMT",
+      "hatena_count": 76
+    },
+    {
       "id": "zenn-ecb9a4ef6b",
       "source": "sns",
       "sub_source": "Zenn",
@@ -185,20 +199,6 @@
       ],
       "date": "Fri, 23 Oct 2026 05:50:11 GMT",
       "hatena_count": 75
-    },
-    {
-      "id": "zenn-47a83a0acf",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "いいから休め - Black October が終わる今、セキュリティエンジニアがやるべきこと",
-      "url": "https://zenn.dev/nayuta/articles/aec9ab2e11a7b7",
-      "score": 71,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 28 Oct 2026 10:14:03 GMT",
-      "hatena_count": 71
     },
     {
       "id": "zenn-1ef417e2bf",
@@ -316,7 +316,7 @@
       ],
       "date": "Sat, 24 Oct 2026 00:52:44 GMT",
       "severity": "high",
-      "hatena_count": 3
+      "hatena_count": 4
     },
     {
       "id": "zenn-6192aa503c",
