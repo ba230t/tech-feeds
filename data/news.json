@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T01:06:44.081622+00:00",
+  "updated_at": "2026-10-29T01:35:12.018399+00:00",
   "count": 294,
   "items": [
     {
@@ -2672,13 +2672,13 @@
       "sub_source": "Zenn",
       "title": "いいから休め - Black October が終わる今、セキュリティエンジニアがやるべきこと",
       "url": "https://zenn.dev/nayuta/articles/aec9ab2e11a7b7",
-      "score": 27,
+      "score": 35,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 28 Oct 2026 10:14:03 GMT",
-      "hatena_count": 27
+      "hatena_count": 35
     },
     {
       "id": "zenn-4afaa72b68",
@@ -2742,13 +2742,13 @@
       "sub_source": "Zenn",
       "title": "Auto mode時代のClaude Codeを守る。検証済み10キットで始めるセキュリティ対策【全員・チーム・組織別】",
       "url": "https://zenn.dev/sonicmoov/articles/67aaeb49be69ec",
-      "score": 0,
+      "score": 1,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 28 Oct 2026 03:17:06 GMT",
-      "hatena_count": 0
+      "hatena_count": 1
     },
     {
       "id": "zenn-90ee5cecba",
