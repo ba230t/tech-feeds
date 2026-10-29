@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T02:08:35.796257+00:00",
+  "updated_at": "2026-10-29T02:35:42.932134+00:00",
   "count": 294,
   "items": [
     {
@@ -2672,13 +2672,13 @@
       "sub_source": "Zenn",
       "title": "いいから休め - Black October が終わる今、セキュリティエンジニアがやるべきこと",
       "url": "https://zenn.dev/nayuta/articles/aec9ab2e11a7b7",
-      "score": 39,
+      "score": 44,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 28 Oct 2026 10:14:03 GMT",
-      "hatena_count": 39
+      "hatena_count": 44
     },
     {
       "id": "zenn-4afaa72b68",
@@ -2951,7 +2951,7 @@
       "source": "techracho",
       "title": "YJIT で純粋な Ruby コードがC拡張より速くなる理由（翻訳）",
       "url": "https://techracho.bpsinc.jp/hachi8833/2026_10_28/160886",
-      "score": 1,
+      "score": 2,
       "author": "Techracho",
       "tags": [
         "Ruby",
@@ -2959,7 +2959,7 @@
         "日本語"
       ],
       "date": "Wed, 28 Oct 2026 08:30:47 +0000",
-      "hatena_count": 1
+      "hatena_count": 2
     },
     {
       "id": "techracho-5c8766c6c7",
