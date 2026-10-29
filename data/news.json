@@ -1,7 +1,78 @@
 {
-  "updated_at": "2026-10-29T20:06:33.960908+00:00",
-  "count": 319,
+  "updated_at": "2026-10-29T20:33:34.092437+00:00",
+  "count": 326,
   "items": [
+    {
+      "id": "qiita-d4ca0950e3",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "静的解析でTypeScript怒られている時、本当に問題か確認する",
+      "url": "https://qiita.com/J-T_ky2g/items/8c90a50de77b8c1c6315?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-29T21:43:11+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-d4ef7813fd",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "偽物のCTOから脱却したい",
+      "url": "https://qiita.com/Tukirukiki/items/82ded3e662e1022ab411?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-29T20:26:51+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-a610aaef60",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "緊急時に、安全に変更を届けられる開発・運用基盤って何だろう",
+      "url": "https://qiita.com/poku_log/items/e57ac8276df88a2a32d1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-29T19:08:08+09:00",
+      "severity": "critical",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-ddefb72bdf",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "Copilot Studio GitHub Copilot ハーネスのファイル入出力の現在地",
+      "url": "https://qiita.com/Takashi_Masumori/items/0ef4f38910f10829b51f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-29T17:48:37+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-76a23ec246",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "AIはどれくらい動画編集ができるのか!? Claude CodeでYouTube動画編集した話",
+      "url": "https://qiita.com/tsukasa_japan/items/b8bca096170d087e271d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-29T17:11:44+09:00",
+      "hatena_count": 0
+    },
     {
       "id": "jpcert-30cd0d7475",
       "source": "jpcert",
@@ -16,6 +87,20 @@
       "severity": "high",
       "date": "2026-10-29T15:43+09:00",
       "hatena_count": 12
+    },
+    {
+      "id": "qiita-7ea030cd22",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "VS Code 1.144：PC を閉じてもエージェントが働く。Cloud セッションと Cloud Automations を試した",
+      "url": "https://qiita.com/shahin0809/items/26e401dc28c1ca60d8c7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-29T15:27:45+09:00",
+      "hatena_count": 0
     },
     {
       "id": "qiita-9c8253e2eb",
@@ -113,6 +198,20 @@
         "Qiita"
       ],
       "date": "2026-10-29T07:15:00+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-75d6386bfa",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "『オントロジー入門」基礎理論から、Databricks OntoBricksによる構築・AI連携までを解説",
+      "url": "https://qiita.com/mellowlaunch/items/11d13241abce58e9f65a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-29T07:10:49+09:00",
       "hatena_count": 0
     },
     {
@@ -3120,13 +3219,13 @@
       "sub_source": "Zenn",
       "title": "AI の謎な説明文を直すスキル",
       "url": "https://zenn.dev/microsoft/articles/explain-before-shorten",
-      "score": 160,
+      "score": 161,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 26 Oct 2026 04:32:54 GMT",
-      "hatena_count": 160
+      "hatena_count": 161
     },
     {
       "id": "zenn-f64ba0d17d",
@@ -3134,13 +3233,13 @@
       "sub_source": "Zenn",
       "title": "最近の E2E 戦略（2026 年 10 月現在）",
       "url": "https://zenn.dev/polyco/articles/26624b38c951b5",
-      "score": 108,
+      "score": 110,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 26 Oct 2026 01:18:03 GMT",
-      "hatena_count": 108
+      "hatena_count": 110
     },
     {
       "id": "zenn-d00427ebdc",
