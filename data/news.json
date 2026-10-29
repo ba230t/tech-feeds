@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T09:06:57.033752+00:00",
+  "updated_at": "2026-10-29T09:33:24.612435+00:00",
   "count": 314,
   "items": [
     {
@@ -2896,13 +2896,13 @@
       "sub_source": "Zenn",
       "title": "いいから休め - Black October が終わる今、セキュリティエンジニアがやるべきこと",
       "url": "https://zenn.dev/nayuta/articles/aec9ab2e11a7b7",
-      "score": 82,
+      "score": 86,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 28 Oct 2026 10:14:03 GMT",
-      "hatena_count": 82
+      "hatena_count": 86
     },
     {
       "id": "zenn-93c2282baa",
@@ -3092,13 +3092,13 @@
       "sub_source": "Zenn",
       "title": "AI の謎な説明文を直すスキル",
       "url": "https://zenn.dev/microsoft/articles/explain-before-shorten",
-      "score": 157,
+      "score": 158,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 26 Oct 2026 04:32:54 GMT",
-      "hatena_count": 157
+      "hatena_count": 158
     },
     {
       "id": "zenn-f64ba0d17d",
@@ -3161,7 +3161,7 @@
       "source": "techracho",
       "title": "RailsのコードをRactorセーフにするリファクタリングパターン集（翻訳）",
       "url": "https://techracho.bpsinc.jp/hachi8833/2026_10_29/160778",
-      "score": 0,
+      "score": 2,
       "author": "Techracho",
       "tags": [
         "Ruby",
@@ -3169,7 +3169,7 @@
         "日本語"
       ],
       "date": "Thu, 29 Oct 2026 08:30:36 +0000",
-      "hatena_count": 0
+      "hatena_count": 2
     },
     {
       "id": "techracho-2f1472b57b",
@@ -3910,7 +3910,7 @@
         "Zenn"
       ],
       "date": "Wed, 21 Oct 2026 02:14:44 GMT",
-      "hatena_count": 647
+      "hatena_count": 648
     },
     {
       "id": "zenn-6d6c574d3c",

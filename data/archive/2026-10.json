@@ -42,7 +42,7 @@
         "Zenn"
       ],
       "date": "Wed, 21 Oct 2026 02:14:44 GMT",
-      "hatena_count": 647
+      "hatena_count": 648
     },
     {
       "id": "ipa-a1a30e44db",
@@ -93,13 +93,13 @@
       "sub_source": "Zenn",
       "title": "AI の謎な説明文を直すスキル",
       "url": "https://zenn.dev/microsoft/articles/explain-before-shorten",
-      "score": 157,
+      "score": 158,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 26 Oct 2026 04:32:54 GMT",
-      "hatena_count": 157
+      "hatena_count": 158
     },
     {
       "id": "zenn-ed54cd5c88",
@@ -159,6 +159,20 @@
       "hatena_count": 99
     },
     {
+      "id": "zenn-47a83a0acf",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "いいから休め - Black October が終わる今、セキュリティエンジニアがやるべきこと",
+      "url": "https://zenn.dev/nayuta/articles/aec9ab2e11a7b7",
+      "score": 86,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 28 Oct 2026 10:14:03 GMT",
+      "hatena_count": 86
+    },
+    {
       "id": "zenn-49bbe1bd17",
       "source": "sns",
       "sub_source": "Zenn",
@@ -171,20 +185,6 @@
       ],
       "date": "Fri, 23 Oct 2026 09:00:05 GMT",
       "hatena_count": 90
-    },
-    {
-      "id": "zenn-47a83a0acf",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "いいから休め - Black October が終わる今、セキュリティエンジニアがやるべきこと",
-      "url": "https://zenn.dev/nayuta/articles/aec9ab2e11a7b7",
-      "score": 82,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 28 Oct 2026 10:14:03 GMT",
-      "hatena_count": 82
     },
     {
       "id": "zenn-ecb9a4ef6b",
