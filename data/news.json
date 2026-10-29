@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T17:05:34.707359+00:00",
+  "updated_at": "2026-10-29T17:33:57.380286+00:00",
   "count": 319,
   "items": [
     {
@@ -3078,13 +3078,13 @@
       "sub_source": "Zenn",
       "title": "コードを読まずにマージするために必要なこと",
       "url": "https://zenn.dev/nrs/articles/c777388530aa84",
-      "score": 123,
+      "score": 124,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 27 Oct 2026 11:00:05 GMT",
-      "hatena_count": 123
+      "hatena_count": 124
     },
     {
       "id": "zenn-186afe2907",
@@ -3134,13 +3134,13 @@
       "sub_source": "Zenn",
       "title": "最近の E2E 戦略（2026 年 10 月現在）",
       "url": "https://zenn.dev/polyco/articles/26624b38c951b5",
-      "score": 96,
+      "score": 102,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 26 Oct 2026 01:18:03 GMT",
-      "hatena_count": 96
+      "hatena_count": 102
     },
     {
       "id": "zenn-d00427ebdc",

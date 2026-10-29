@@ -1,7 +1,7 @@
 {
   "month": "2026-10",
   "total_articles": 304,
-  "summary": "# 2026-10の技術動向レポート\n\n**セキュリティ動向 (2件)**\n\n1. 厳選・セキュリティが心配ならClaude Codeにこの問いかけをコピペするべし20\n\n2. 【事前準備のお願い】PHPのセキュリティリリース公開予定について\n\n**AI・機械学習動向 (2件)**\n\n1. 仕組みを理解する動画を、Claude Codeに作らせると便利すぎる\n\n2. AI の謎な説明文を直すスキル\n\n**技術トレンド (6件)**\n\n1. 注意喚起: 直近で相次いでいる国内組織における不正アクセスに関する注意喚起  (更新)\n\n2. 不正アクセスによる漏えい等の事案を踏まえ、速やかに実施すべき対策等について\n\n3. バイブコーディングを6週間続けたら、Mac の起動が20分かかるようになった\n\n4. コードを読まずにマージするために必要なこと\n\n5. 私が5種類のコーディングエージェントを使い分ける理由\n\n6. 【速報：2026/10/22 04:00】PHP2Shellの対応状況まとめ：PHP本体、Linux、レンタルサーバ、KUSANAGI",
+  "summary": "# 2026-10の技術動向レポート\n\n**セキュリティ動向 (1件)**\n\n1. 厳選・セキュリティが心配ならClaude Codeにこの問いかけをコピペするべし20\n\n**AI・機械学習動向 (2件)**\n\n1. 仕組みを理解する動画を、Claude Codeに作らせると便利すぎる\n\n2. AI の謎な説明文を直すスキル\n\n**技術トレンド (7件)**\n\n1. 注意喚起: 直近で相次いでいる国内組織における不正アクセスに関する注意喚起  (更新)\n\n2. 不正アクセスによる漏えい等の事案を踏まえ、速やかに実施すべき対策等について\n\n3. バイブコーディングを6週間続けたら、Mac の起動が20分かかるようになった\n\n4. コードを読まずにマージするために必要なこと\n\n5. 私が5種類のコーディングエージェントを使い分ける理由\n\n6. 最近の E2E 戦略（2026 年 10 月現在）\n\n7. 【速報：2026/10/22 04:00】PHP2Shellの対応状況まとめ：PHP本体、Linux、レンタルサーバ、KUSANAGI",
   "source_counts": {
     "jpcert": 45,
     "sns": 240,
@@ -107,13 +107,13 @@
       "sub_source": "Zenn",
       "title": "コードを読まずにマージするために必要なこと",
       "url": "https://zenn.dev/nrs/articles/c777388530aa84",
-      "score": 123,
+      "score": 124,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 27 Oct 2026 11:00:05 GMT",
-      "hatena_count": 123
+      "hatena_count": 124
     },
     {
       "id": "zenn-1adc6c7b1e",
@@ -128,6 +128,20 @@
       ],
       "date": "Sun, 25 Oct 2026 22:44:03 GMT",
       "hatena_count": 121
+    },
+    {
+      "id": "zenn-f64ba0d17d",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "最近の E2E 戦略（2026 年 10 月現在）",
+      "url": "https://zenn.dev/polyco/articles/26624b38c951b5",
+      "score": 102,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 26 Oct 2026 01:18:03 GMT",
+      "hatena_count": 102
     },
     {
       "id": "zenn-89cd9f8fc3",
@@ -171,20 +185,6 @@
       ],
       "date": "Wed, 28 Oct 2026 10:14:03 GMT",
       "hatena_count": 99
-    },
-    {
-      "id": "zenn-f64ba0d17d",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "最近の E2E 戦略（2026 年 10 月現在）",
-      "url": "https://zenn.dev/polyco/articles/26624b38c951b5",
-      "score": 96,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 26 Oct 2026 01:18:03 GMT",
-      "hatena_count": 96
     },
     {
       "id": "zenn-49bbe1bd17",
