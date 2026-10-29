@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T23:33:39.717946+00:00",
+  "updated_at": "2026-10-29T00:15:12.926429+00:00",
   "count": 294,
   "items": [
     {
@@ -2667,18 +2667,18 @@
       "hatena_count": 1
     },
     {
-      "id": "zenn-47a83a0acf",
+      "id": "zenn-2d80473d22",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "いいから休め - Black October が終わる今、セキュリティエンジニアがやるべきこと",
-      "url": "https://zenn.dev/nayuta/articles/aec9ab2e11a7b7",
-      "score": 8,
+      "title": "MCP ツールの引数と結果に入った個人番号を、AgentCore Gateway のインターセプターでマスクする",
+      "url": "https://zenn.dev/aws_japan/articles/49bf6abcee64bc",
+      "score": 0,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Wed, 28 Oct 2026 10:14:03 GMT",
-      "hatena_count": 8
+      "date": "Wed, 28 Oct 2026 07:55:16 GMT",
+      "hatena_count": 0
     },
     {
       "id": "zenn-4afaa72b68",
@@ -2706,48 +2706,6 @@
         "Zenn"
       ],
       "date": "Wed, 28 Oct 2026 07:08:48 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-6c06ce961b",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "RustからDynamoDBを型安全に扱うためのraiden-dynamoを作った",
-      "url": "https://zenn.dev/fraim/articles/50908c30561af5",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 28 Oct 2026 04:14:52 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-fff30a50f2",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "公表資料から読む2026年秋の情報漏えい18件：侵入経路はどこだったのか",
-      "url": "https://zenn.dev/shirochan/articles/f579ce70b08dc3",
-      "score": 1,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 28 Oct 2026 03:44:36 GMT",
-      "hatena_count": 1
-    },
-    {
-      "id": "zenn-9f4cd75113",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Auto mode時代のClaude Codeを守る。検証済み10キットで始めるセキュリティ対策【全員・チーム・組織別】",
-      "url": "https://zenn.dev/sonicmoov/articles/67aaeb49be69ec",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 28 Oct 2026 03:17:06 GMT",
       "hatena_count": 0
     },
     {
@@ -2779,20 +2737,6 @@
       "hatena_count": 41
     },
     {
-      "id": "zenn-26a6af9ec5",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "S3 Tables + Snowflake を使用した Lakehouse 統合",
-      "url": "https://zenn.dev/eversteel_tech/articles/e4771af8952421",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 28 Oct 2026 02:30:05 GMT",
-      "hatena_count": 0
-    },
-    {
       "id": "zenn-2e4ea0d7bc",
       "source": "sns",
       "sub_source": "Zenn",
@@ -2804,20 +2748,6 @@
         "Zenn"
       ],
       "date": "Wed, 28 Oct 2026 01:21:43 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-fe9c9969af",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "【Rails】焼きなまし法で会議室予約アプリに空き時間最適化機能を実装してみた",
-      "url": "https://zenn.dev/port_inc/articles/eaf460ff291c97",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 28 Oct 2026 01:00:06 GMT",
       "hatena_count": 0
     },
     {
@@ -2835,18 +2765,46 @@
       "hatena_count": 0
     },
     {
+      "id": "zenn-fe9c9969af",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "【Rails】焼きなまし法で会議室予約アプリに空き時間最適化機能を実装してみた",
+      "url": "https://zenn.dev/port_inc/articles/eaf460ff291c97",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 28 Oct 2026 01:00:06 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-9006ccd0d3",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "WordPress製LPに潜むCWE-219、確認のススメ",
+      "url": "https://zenn.dev/yomogi_cat/articles/wordpress-lp-cwe-219-check",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 27 Oct 2026 12:13:56 GMT",
+      "hatena_count": 0
+    },
+    {
       "id": "zenn-ed54cd5c88",
       "source": "sns",
       "sub_source": "Zenn",
       "title": "コードを読まずにマージするために必要なこと",
       "url": "https://zenn.dev/nrs/articles/c777388530aa84",
-      "score": 123,
+      "score": 122,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 27 Oct 2026 11:00:05 GMT",
-      "hatena_count": 123
+      "hatena_count": 122
     },
     {
       "id": "zenn-186afe2907",
@@ -2860,6 +2818,48 @@
         "Zenn"
       ],
       "date": "Tue, 27 Oct 2026 10:25:24 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-42e5889d16",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "競馬AIを作り込んだら、市場の粗いコピーになった ── お金としての価値は前日にしかない",
+      "url": "https://zenn.dev/charat55/articles/keiba-ai-market-copy",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 27 Oct 2026 10:15:54 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-232fc30f59",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "AGENTS.md乗っ取り対策のhook、テスト27件全通過でも攻撃役AIに破られた（Claude Code・Codex・Cursor）",
+      "url": "https://zenn.dev/shoma_endo/articles/agent-downloads-hijack-guard",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 27 Oct 2026 09:47:14 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-a04b0ea286",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Jevに問い合わせメッセージを仕分けてもらう",
+      "url": "https://zenn.dev/chot/articles/980c44e5a19736",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 27 Oct 2026 03:00:16 GMT",
       "hatena_count": 0
     },
     {
@@ -2882,13 +2882,13 @@
       "sub_source": "Zenn",
       "title": "AI の謎な説明文を直すスキル",
       "url": "https://zenn.dev/microsoft/articles/explain-before-shorten",
-      "score": 153,
+      "score": 154,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 26 Oct 2026 04:32:54 GMT",
-      "hatena_count": 153
+      "hatena_count": 154
     },
     {
       "id": "zenn-f64ba0d17d",
@@ -3097,73 +3097,73 @@
       "hatena_count": 0
     },
     {
-      "id": "zenn-2d80473d22",
+      "id": "zenn-47a83a0acf",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "MCP ツールの引数と結果に入った個人番号を、AgentCore Gateway のインターセプターでマスクする",
-      "url": "https://zenn.dev/aws_japan/articles/49bf6abcee64bc",
+      "title": "いいから休め - Black October が終わる今、セキュリティエンジニアがやるべきこと",
+      "url": "https://zenn.dev/nayuta/articles/aec9ab2e11a7b7",
+      "score": 8,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 28 Oct 2026 10:14:03 GMT",
+      "hatena_count": 19
+    },
+    {
+      "id": "zenn-6c06ce961b",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "RustからDynamoDBを型安全に扱うためのraiden-dynamoを作った",
+      "url": "https://zenn.dev/fraim/articles/50908c30561af5",
       "score": 0,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Wed, 28 Oct 2026 07:55:16 GMT",
+      "date": "Wed, 28 Oct 2026 04:14:52 GMT",
       "hatena_count": 0
     },
     {
-      "id": "zenn-9006ccd0d3",
+      "id": "zenn-fff30a50f2",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "WordPress製LPに潜むCWE-219、確認のススメ",
-      "url": "https://zenn.dev/yomogi_cat/articles/wordpress-lp-cwe-219-check",
+      "title": "公表資料から読む2026年秋の情報漏えい18件：侵入経路はどこだったのか",
+      "url": "https://zenn.dev/shirochan/articles/f579ce70b08dc3",
+      "score": 1,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 28 Oct 2026 03:44:36 GMT",
+      "hatena_count": 1
+    },
+    {
+      "id": "zenn-9f4cd75113",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Auto mode時代のClaude Codeを守る。検証済み10キットで始めるセキュリティ対策【全員・チーム・組織別】",
+      "url": "https://zenn.dev/sonicmoov/articles/67aaeb49be69ec",
       "score": 0,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Tue, 27 Oct 2026 12:13:56 GMT",
+      "date": "Wed, 28 Oct 2026 03:17:06 GMT",
       "hatena_count": 0
     },
     {
-      "id": "zenn-42e5889d16",
+      "id": "zenn-26a6af9ec5",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "競馬AIを作り込んだら、市場の粗いコピーになった ── お金としての価値は前日にしかない",
-      "url": "https://zenn.dev/charat55/articles/keiba-ai-market-copy",
+      "title": "S3 Tables + Snowflake を使用した Lakehouse 統合",
+      "url": "https://zenn.dev/eversteel_tech/articles/e4771af8952421",
       "score": 0,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Tue, 27 Oct 2026 10:15:54 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-232fc30f59",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "AGENTS.md乗っ取り対策のhook、テスト27件全通過でも攻撃役AIに破られた（Claude Code・Codex・Cursor）",
-      "url": "https://zenn.dev/shoma_endo/articles/agent-downloads-hijack-guard",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 27 Oct 2026 09:47:14 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-a04b0ea286",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Jevに問い合わせメッセージを仕分けてもらう",
-      "url": "https://zenn.dev/chot/articles/980c44e5a19736",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 27 Oct 2026 03:00:16 GMT",
+      "date": "Wed, 28 Oct 2026 02:30:05 GMT",
       "hatena_count": 0
     },
     {
