@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T10:06:22.838054+00:00",
+  "updated_at": "2026-10-29T10:33:42.991088+00:00",
   "count": 314,
   "items": [
     {
@@ -2896,13 +2896,13 @@
       "sub_source": "Zenn",
       "title": "いいから休め - Black October が終わる今、セキュリティエンジニアがやるべきこと",
       "url": "https://zenn.dev/nayuta/articles/aec9ab2e11a7b7",
-      "score": 86,
+      "score": 89,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 28 Oct 2026 10:14:03 GMT",
-      "hatena_count": 86
+      "hatena_count": 89
     },
     {
       "id": "zenn-93c2282baa",
@@ -3078,13 +3078,13 @@
       "sub_source": "Zenn",
       "title": "「シンプルに」と「多機能に」は、両立できる──マリオに学ぶUX設計",
       "url": "https://zenn.dev/upgradetech/articles/0882ef73e9c025",
-      "score": 19,
+      "score": 20,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 26 Oct 2026 09:44:58 GMT",
-      "hatena_count": 19
+      "hatena_count": 20
     },
     {
       "id": "zenn-60cec5a308",
@@ -3092,13 +3092,13 @@
       "sub_source": "Zenn",
       "title": "AI の謎な説明文を直すスキル",
       "url": "https://zenn.dev/microsoft/articles/explain-before-shorten",
-      "score": 158,
+      "score": 159,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 26 Oct 2026 04:32:54 GMT",
-      "hatena_count": 158
+      "hatena_count": 159
     },
     {
       "id": "zenn-f64ba0d17d",
@@ -3106,13 +3106,13 @@
       "sub_source": "Zenn",
       "title": "最近の E2E 戦略（2026 年 10 月現在）",
       "url": "https://zenn.dev/polyco/articles/26624b38c951b5",
-      "score": 3,
+      "score": 7,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 26 Oct 2026 01:18:03 GMT",
-      "hatena_count": 3
+      "hatena_count": 7
     },
     {
       "id": "zenn-d00427ebdc",
