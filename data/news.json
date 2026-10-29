@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T11:05:38.073151+00:00",
+  "updated_at": "2026-10-29T11:33:37.071743+00:00",
   "count": 319,
   "items": [
     {
@@ -7,7 +7,7 @@
       "source": "jpcert",
       "title": "注意喚起: PHPにおける複数の脆弱性（CVE-2026-109618、CVE-2026-109619）に関する注意喚起  (更新)",
       "url": "https://www.jpcert.or.jp/at/2026/at260033.html",
-      "score": 10,
+      "score": 8,
       "author": "JPCERT/CC",
       "tags": [
         "JPCERT",
@@ -15,7 +15,7 @@
       ],
       "severity": "high",
       "date": "2026-10-29T15:43+09:00",
-      "hatena_count": 10
+      "hatena_count": 8
     },
     {
       "id": "qiita-9c8253e2eb",
@@ -850,7 +850,7 @@
       "source": "ipa",
       "title": "更新：PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell)",
       "url": "https://www.ipa.go.jp/security/security-alert/2026/alert20261022.html",
-      "score": 21,
+      "score": 20,
       "author": "IPA",
       "tags": [
         "IPA",
@@ -858,7 +858,7 @@
       ],
       "severity": "medium",
       "date": "2026-10-27T00:00:00+09:00",
-      "hatena_count": 21
+      "hatena_count": 20
     },
     {
       "id": "qiita-2493efe6ae",
@@ -2877,62 +2877,6 @@
       "hatena_count": 1
     },
     {
-      "id": "zenn-7fce099b12",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Claude Codeで「QAチーム」を組んだら、効いたのは「捨てる仕組み」だった ― AIだけが見つけた不具合・見逃しは？",
-      "url": "https://zenn.dev/sre_holdings/articles/d4acb079680a79",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 29 Oct 2026 05:00:29 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-d91598a4c5",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Expo アプリを iPhone Duo に対応させる",
-      "url": "https://zenn.dev/chot/articles/5718685fde3626",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 29 Oct 2026 03:38:52 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-a1c2fc6d19",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "KaniによるVerylコンパイラの形式検証",
-      "url": "https://zenn.dev/dalance/articles/44a8f80ea0cfa1",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 29 Oct 2026 03:17:06 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-75533b2329",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Claude Codeを褒めちぎってみた",
-      "url": "https://zenn.dev/devlog/articles/abc194ecf04dfc",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 29 Oct 2026 03:00:07 GMT",
-      "hatena_count": 0
-    },
-    {
       "id": "zenn-b456dbee22",
       "source": "sns",
       "sub_source": "Zenn",
@@ -2947,32 +2891,18 @@
       "hatena_count": 0
     },
     {
-      "id": "zenn-654fcdd431",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "PHP5.4 から PHP8.5へ",
-      "url": "https://zenn.dev/ctrlzr/articles/5a88eb939b3bfd",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 29 Oct 2026 02:37:00 GMT",
-      "hatena_count": 0
-    },
-    {
       "id": "zenn-47a83a0acf",
       "source": "sns",
       "sub_source": "Zenn",
       "title": "いいから休め - Black October が終わる今、セキュリティエンジニアがやるべきこと",
       "url": "https://zenn.dev/nayuta/articles/aec9ab2e11a7b7",
-      "score": 91,
+      "score": 89,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 28 Oct 2026 10:14:03 GMT",
-      "hatena_count": 91
+      "hatena_count": 89
     },
     {
       "id": "zenn-93c2282baa",
@@ -3000,6 +2930,48 @@
         "Zenn"
       ],
       "date": "Wed, 28 Oct 2026 07:55:08 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-a569eb7fe6",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "業務マスタの新規登録をSeleniumで連続化したら、「新規」の判定を2回直すことになった【Python】",
+      "url": "https://zenn.dev/cutlet_of_pork/articles/selenium-rpa-new-entry-key-definition",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 28 Oct 2026 07:08:48 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-025c192c17",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Kaigi on Rails 2026 両日参加記",
+      "url": "https://zenn.dev/lovegraph/articles/95d754e20cc715",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 28 Oct 2026 06:28:25 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-6c06ce961b",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "RustからDynamoDBを型安全に扱うためのraiden-dynamoを作った",
+      "url": "https://zenn.dev/fraim/articles/50908c30561af5",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 28 Oct 2026 04:14:52 GMT",
       "hatena_count": 0
     },
     {
@@ -3059,20 +3031,6 @@
       "hatena_count": 0
     },
     {
-      "id": "zenn-147c98dd1d",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Claude Codeで半年分のレビュー指摘を分類してみた",
-      "url": "https://zenn.dev/port_inc/articles/a4bc3b39f44459",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 28 Oct 2026 01:00:06 GMT",
-      "hatena_count": 0
-    },
-    {
       "id": "zenn-ed54cd5c88",
       "source": "sns",
       "sub_source": "Zenn",
@@ -3115,6 +3073,20 @@
       "hatena_count": 0
     },
     {
+      "id": "zenn-a060baa090",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "「シンプルに」と「多機能に」は、両立できる──マリオに学ぶUX設計",
+      "url": "https://zenn.dev/upgradetech/articles/0882ef73e9c025",
+      "score": 20,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 26 Oct 2026 09:44:58 GMT",
+      "hatena_count": 20
+    },
+    {
       "id": "zenn-60cec5a308",
       "source": "sns",
       "sub_source": "Zenn",
@@ -3134,13 +3106,13 @@
       "sub_source": "Zenn",
       "title": "最近の E2E 戦略（2026 年 10 月現在）",
       "url": "https://zenn.dev/polyco/articles/26624b38c951b5",
-      "score": 11,
+      "score": 7,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 26 Oct 2026 01:18:03 GMT",
-      "hatena_count": 11
+      "hatena_count": 7
     },
     {
       "id": "zenn-d00427ebdc",
@@ -3155,6 +3127,34 @@
       ],
       "date": "Sat, 24 Oct 2026 17:23:14 GMT",
       "hatena_count": 1
+    },
+    {
+      "id": "zenn-4227f17a42",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "2026年の国内情報漏えい71件を侵入経路で分類してみた",
+      "url": "https://zenn.dev/blackleg/articles/e9ed8b038bcf48",
+      "score": 2,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 24 Oct 2026 15:21:05 GMT",
+      "hatena_count": 2
+    },
+    {
+      "id": "zenn-ecb9a4ef6b",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "eMudhraの中間CA証明書の秘密鍵を求めてみる",
+      "url": "https://zenn.dev/herumi/articles/search_bad_emudhra_key",
+      "score": 75,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 23 Oct 2026 05:50:11 GMT",
+      "hatena_count": 75
     },
     {
       "id": "techracho-9300f8dd2f",
@@ -3307,88 +3307,88 @@
       "hatena_count": 0
     },
     {
-      "id": "zenn-a569eb7fe6",
+      "id": "zenn-7fce099b12",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "業務マスタの新規登録をSeleniumで連続化したら、「新規」の判定を2回直すことになった【Python】",
-      "url": "https://zenn.dev/cutlet_of_pork/articles/selenium-rpa-new-entry-key-definition",
+      "title": "Claude Codeで「QAチーム」を組んだら、効いたのは「捨てる仕組み」だった ― AIだけが見つけた不具合・見逃しは？",
+      "url": "https://zenn.dev/sre_holdings/articles/d4acb079680a79",
       "score": 0,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Wed, 28 Oct 2026 07:08:48 GMT",
+      "date": "Thu, 29 Oct 2026 05:00:29 GMT",
       "hatena_count": 0
     },
     {
-      "id": "zenn-025c192c17",
+      "id": "zenn-d91598a4c5",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "Kaigi on Rails 2026 両日参加記",
-      "url": "https://zenn.dev/lovegraph/articles/95d754e20cc715",
+      "title": "Expo アプリを iPhone Duo に対応させる",
+      "url": "https://zenn.dev/chot/articles/5718685fde3626",
       "score": 0,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Wed, 28 Oct 2026 06:28:25 GMT",
+      "date": "Thu, 29 Oct 2026 03:38:52 GMT",
       "hatena_count": 0
     },
     {
-      "id": "zenn-6c06ce961b",
+      "id": "zenn-a1c2fc6d19",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "RustからDynamoDBを型安全に扱うためのraiden-dynamoを作った",
-      "url": "https://zenn.dev/fraim/articles/50908c30561af5",
+      "title": "KaniによるVerylコンパイラの形式検証",
+      "url": "https://zenn.dev/dalance/articles/44a8f80ea0cfa1",
       "score": 0,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Wed, 28 Oct 2026 04:14:52 GMT",
+      "date": "Thu, 29 Oct 2026 03:17:06 GMT",
       "hatena_count": 0
     },
     {
-      "id": "zenn-a060baa090",
+      "id": "zenn-75533b2329",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "「シンプルに」と「多機能に」は、両立できる──マリオに学ぶUX設計",
-      "url": "https://zenn.dev/upgradetech/articles/0882ef73e9c025",
-      "score": 20,
+      "title": "Claude Codeを褒めちぎってみた",
+      "url": "https://zenn.dev/devlog/articles/abc194ecf04dfc",
+      "score": 0,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Mon, 26 Oct 2026 09:44:58 GMT",
-      "hatena_count": 20
+      "date": "Thu, 29 Oct 2026 03:00:07 GMT",
+      "hatena_count": 0
     },
     {
-      "id": "zenn-4227f17a42",
+      "id": "zenn-654fcdd431",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "2026年の国内情報漏えい71件を侵入経路で分類してみた",
-      "url": "https://zenn.dev/blackleg/articles/e9ed8b038bcf48",
-      "score": 2,
+      "title": "PHP5.4 から PHP8.5へ",
+      "url": "https://zenn.dev/ctrlzr/articles/5a88eb939b3bfd",
+      "score": 0,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Sat, 24 Oct 2026 15:21:05 GMT",
-      "hatena_count": 2
+      "date": "Thu, 29 Oct 2026 02:37:00 GMT",
+      "hatena_count": 0
     },
     {
-      "id": "zenn-ecb9a4ef6b",
+      "id": "zenn-147c98dd1d",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "eMudhraの中間CA証明書の秘密鍵を求めてみる",
-      "url": "https://zenn.dev/herumi/articles/search_bad_emudhra_key",
-      "score": 75,
+      "title": "Claude Codeで半年分のレビュー指摘を分類してみた",
+      "url": "https://zenn.dev/port_inc/articles/a4bc3b39f44459",
+      "score": 0,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Fri, 23 Oct 2026 05:50:11 GMT",
-      "hatena_count": 75
+      "date": "Wed, 28 Oct 2026 01:00:06 GMT",
+      "hatena_count": 0
     },
     {
       "id": "techracho-8dcfc53b6b",

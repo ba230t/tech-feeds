@@ -164,13 +164,13 @@
       "sub_source": "Zenn",
       "title": "いいから休め - Black October が終わる今、セキュリティエンジニアがやるべきこと",
       "url": "https://zenn.dev/nayuta/articles/aec9ab2e11a7b7",
-      "score": 91,
+      "score": 89,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 28 Oct 2026 10:14:03 GMT",
-      "hatena_count": 91
+      "hatena_count": 89
     },
     {
       "id": "zenn-49bbe1bd17",
@@ -263,7 +263,7 @@
       "source": "ipa",
       "title": "更新：PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell)",
       "url": "https://www.ipa.go.jp/security/security-alert/2026/alert20261022.html",
-      "score": 21,
+      "score": 20,
       "author": "IPA",
       "tags": [
         "IPA",
@@ -271,7 +271,7 @@
       ],
       "severity": "medium",
       "date": "2026-10-27T00:00:00+09:00",
-      "hatena_count": 21
+      "hatena_count": 20
     },
     {
       "id": "zenn-a060baa090",
@@ -353,7 +353,7 @@
       "source": "jpcert",
       "title": "注意喚起: PHPにおける複数の脆弱性（CVE-2026-109618、CVE-2026-109619）に関する注意喚起  (更新)",
       "url": "https://www.jpcert.or.jp/at/2026/at260033.html",
-      "score": 10,
+      "score": 8,
       "author": "JPCERT/CC",
       "tags": [
         "JPCERT",
@@ -361,7 +361,7 @@
       ],
       "severity": "high",
       "date": "2026-10-29T15:43+09:00",
-      "hatena_count": 10
+      "hatena_count": 8
     },
     {
       "id": "qiita-7f2cda8b3f",
