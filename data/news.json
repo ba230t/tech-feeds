@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T05:33:26.733113+00:00",
+  "updated_at": "2026-10-29T06:10:07.808109+00:00",
   "count": 298,
   "items": [
     {
@@ -2667,18 +2667,46 @@
       "hatena_count": 1
     },
     {
+      "id": "zenn-b456dbee22",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "OpenSearchのLLM-as-a-Judgeを日本語の商品検索で動かして、人手ラベルと比べてみた",
+      "url": "https://zenn.dev/nextbeat/articles/c22b45b1d784b0",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 29 Oct 2026 02:55:28 GMT",
+      "hatena_count": 0
+    },
+    {
       "id": "zenn-47a83a0acf",
       "source": "sns",
       "sub_source": "Zenn",
       "title": "いいから休め - Black October が終わる今、セキュリティエンジニアがやるべきこと",
       "url": "https://zenn.dev/nayuta/articles/aec9ab2e11a7b7",
-      "score": 61,
+      "score": 71,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 28 Oct 2026 10:14:03 GMT",
-      "hatena_count": 61
+      "hatena_count": 71
+    },
+    {
+      "id": "zenn-93c2282baa",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Kaigi on Rails で聞いた Local CI を試して、見送った話",
+      "url": "https://zenn.dev/my_vision/articles/b46011780a6090",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 28 Oct 2026 08:56:01 GMT",
+      "hatena_count": 0
     },
     {
       "id": "zenn-4afaa72b68",
@@ -2706,6 +2734,20 @@
         "Zenn"
       ],
       "date": "Wed, 28 Oct 2026 07:08:48 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-025c192c17",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Kaigi on Rails 2026 両日参加記",
+      "url": "https://zenn.dev/lovegraph/articles/95d754e20cc715",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 28 Oct 2026 06:28:25 GMT",
       "hatena_count": 0
     },
     {
@@ -2751,20 +2793,6 @@
       "hatena_count": 1
     },
     {
-      "id": "zenn-90ee5cecba",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "図で理解する Dagster on ECS の構成と、失敗に気づく仕組み",
-      "url": "https://zenn.dev/safie_inc/articles/dagster_on_ecs",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 28 Oct 2026 03:00:17 GMT",
-      "hatena_count": 0
-    },
-    {
       "id": "zenn-1ef417e2bf",
       "source": "sns",
       "sub_source": "Zenn",
@@ -2779,20 +2807,6 @@
       "hatena_count": 42
     },
     {
-      "id": "zenn-26a6af9ec5",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "S3 Tables + Snowflake を使用した Lakehouse 統合",
-      "url": "https://zenn.dev/eversteel_tech/articles/e4771af8952421",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 28 Oct 2026 02:30:05 GMT",
-      "hatena_count": 0
-    },
-    {
       "id": "zenn-2e4ea0d7bc",
       "source": "sns",
       "sub_source": "Zenn",
@@ -2804,34 +2818,6 @@
         "Zenn"
       ],
       "date": "Wed, 28 Oct 2026 01:21:43 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-fe9c9969af",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "【Rails】焼きなまし法で会議室予約アプリに空き時間最適化機能を実装してみた",
-      "url": "https://zenn.dev/port_inc/articles/eaf460ff291c97",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 28 Oct 2026 01:00:06 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-147c98dd1d",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Claude Codeで半年分のレビュー指摘を分類してみた",
-      "url": "https://zenn.dev/port_inc/articles/a4bc3b39f44459",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 28 Oct 2026 01:00:06 GMT",
       "hatena_count": 0
     },
     {
@@ -2875,6 +2861,20 @@
       ],
       "date": "Mon, 26 Oct 2026 13:54:50 GMT",
       "hatena_count": 0
+    },
+    {
+      "id": "zenn-a060baa090",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "「シンプルに」と「多機能に」は、両立できる──マリオに学ぶUX設計",
+      "url": "https://zenn.dev/upgradetech/articles/0882ef73e9c025",
+      "score": 19,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 26 Oct 2026 09:44:58 GMT",
+      "hatena_count": 19
     },
     {
       "id": "zenn-60cec5a308",
@@ -3097,60 +3097,60 @@
       "hatena_count": 0
     },
     {
-      "id": "zenn-b456dbee22",
+      "id": "zenn-90ee5cecba",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "OpenSearchのLLM-as-a-Judgeを日本語の商品検索で動かして、人手ラベルと比べてみた",
-      "url": "https://zenn.dev/nextbeat/articles/c22b45b1d784b0",
+      "title": "図で理解する Dagster on ECS の構成と、失敗に気づく仕組み",
+      "url": "https://zenn.dev/safie_inc/articles/dagster_on_ecs",
       "score": 0,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Thu, 29 Oct 2026 02:55:28 GMT",
+      "date": "Wed, 28 Oct 2026 03:00:17 GMT",
       "hatena_count": 0
     },
     {
-      "id": "zenn-93c2282baa",
+      "id": "zenn-26a6af9ec5",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "Kaigi on Rails で聞いた Local CI を試して、見送った話",
-      "url": "https://zenn.dev/my_vision/articles/b46011780a6090",
+      "title": "S3 Tables + Snowflake を使用した Lakehouse 統合",
+      "url": "https://zenn.dev/eversteel_tech/articles/e4771af8952421",
       "score": 0,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Wed, 28 Oct 2026 08:56:01 GMT",
+      "date": "Wed, 28 Oct 2026 02:30:05 GMT",
       "hatena_count": 0
     },
     {
-      "id": "zenn-025c192c17",
+      "id": "zenn-fe9c9969af",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "Kaigi on Rails 2026 両日参加記",
-      "url": "https://zenn.dev/lovegraph/articles/95d754e20cc715",
+      "title": "【Rails】焼きなまし法で会議室予約アプリに空き時間最適化機能を実装してみた",
+      "url": "https://zenn.dev/port_inc/articles/eaf460ff291c97",
       "score": 0,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Wed, 28 Oct 2026 06:28:25 GMT",
+      "date": "Wed, 28 Oct 2026 01:00:06 GMT",
       "hatena_count": 0
     },
     {
-      "id": "zenn-a060baa090",
+      "id": "zenn-147c98dd1d",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "「シンプルに」と「多機能に」は、両立できる──マリオに学ぶUX設計",
-      "url": "https://zenn.dev/upgradetech/articles/0882ef73e9c025",
-      "score": 19,
+      "title": "Claude Codeで半年分のレビュー指摘を分類してみた",
+      "url": "https://zenn.dev/port_inc/articles/a4bc3b39f44459",
+      "score": 0,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Mon, 26 Oct 2026 09:44:58 GMT",
-      "hatena_count": 19
+      "date": "Wed, 28 Oct 2026 01:00:06 GMT",
+      "hatena_count": 0
     },
     {
       "id": "zenn-2d80473d22",
