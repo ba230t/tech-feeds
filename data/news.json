@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-29T08:08:09.758095+00:00",
-  "count": 298,
+  "updated_at": "2026-10-29T08:36:02.912025+00:00",
+  "count": 314,
   "items": [
     {
       "id": "jpcert-30cd0d7475",
@@ -18,6 +18,146 @@
       "hatena_count": 8
     },
     {
+      "id": "qiita-9c8253e2eb",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "401と403は何が違う？ Postmanで再現して確かめた認証と認可",
+      "url": "https://qiita.com/sewiihidekikudo/items/d2df7a49770bfe79d6d4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-29T12:00:08+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-0dfae82e00",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "Orchestrator型 vs 自己組織化型 ― Microsoft Research の OSS「Agensh」から考える、Agentic Workflow の行き先",
+      "url": "https://qiita.com/shahin0809/items/145266dc899e8b490e59?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-29T11:47:47+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-02fb4b2cd9",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "パスキーはなぜ偽サイトに強い？登録とログインの流れを図で追う",
+      "url": "https://qiita.com/kuma_3838/items/1781531150821e2f0491?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-29T09:59:26+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-2d772e41c6",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "AIと結合テスト自動化で進める、具体と抽象の反復開発",
+      "url": "https://qiita.com/sc-sato/items/f92bcb49308a70633c59?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-29T09:42:04+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-5079847344",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "eMudhra の証明書の鍵流出、Windows の curl は止めたが、古い Git for Windows の git はまだ通していた",
+      "url": "https://qiita.com/suwa_nobu/items/f4ace5aa4354ce36cd98?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-29T08:40:07+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-08396957f0",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "Jev にゲームをプレイさせてみたい！",
+      "url": "https://qiita.com/yu-Matsu/items/5c0915a70cc3afba4552?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-29T08:05:00+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-d53a34aeac",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "【Oracle】OAW2026 アプリケーションのセキュリティは、アプリケーションコードを書かずAPEXlangで守る",
+      "url": "https://qiita.com/nisshii0/items/d68f789f6c9f9b6307a7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-29T07:15:00+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-895af0823c",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "沈黙させられた問いを起動する ― 多文化共生の強制という設計バグ : システム設計視点の行動経済学 (51)",
+      "url": "https://qiita.com/maskot1977/items/493e792d3af3d66314b6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-29T07:06:13+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-a2301a7c1f",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "崖っぷちから這い上がる",
+      "url": "https://qiita.com/yukmaru/items/3f9f6124a64b5101cee5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-29T01:28:23+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-565ffe262e",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "「AIっぽいデザイン」はなぜ消えないのか ── Impeccableを読み解いて、同じ依頼で4通り作って比べた",
+      "url": "https://qiita.com/jinxin4869/items/0e72c0b925b75f1c28c9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-28T23:53:27+09:00",
+      "hatena_count": 0
+    },
+    {
       "id": "qiita-811eeef001",
       "source": "sns",
       "sub_source": "Qiita",
@@ -29,6 +169,20 @@
         "Qiita"
       ],
       "date": "2026-10-28T18:28:17+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-3e554a8904",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "AIに任せる前に、情報の置き方を変える｜10/29のQiitaトレンド20本をポッドキャストで",
+      "url": "https://qiita.com/ennagara128/items/7b149acc0ae4e43471cf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-28T17:45:15+09:00",
       "hatena_count": 0
     },
     {
@@ -116,6 +270,20 @@
       "hatena_count": 0
     },
     {
+      "id": "qiita-0e107b0035",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "異種RDBの論理統合環境を実現するOracle Live AI Hub",
+      "url": "https://qiita.com/ksonoda/items/3604f18af47dd66ab652?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-28T12:02:36+09:00",
+      "hatena_count": 0
+    },
+    {
       "id": "qiita-bb23407872",
       "source": "sns",
       "sub_source": "Qiita",
@@ -141,6 +309,20 @@
         "Qiita"
       ],
       "date": "2026-10-28T11:44:24+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-326075a967",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "Oracle IntegrationのMCP Gatewayで専用ゲートウェイ認可を使ってみた",
+      "url": "https://qiita.com/nakasato310/items/3f484a09a4e1ce454eb8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-28T11:37:57+09:00",
       "hatena_count": 0
     },
     {
@@ -184,6 +366,20 @@
         "Qiita"
       ],
       "date": "2026-10-28T09:36:10+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-0d8c1e2dd5",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "【Oracle AI World 2026現地参加レポート②】PoCの先へ！先行事例から見るエンタープライズAI活用の最前線",
+      "url": "https://qiita.com/ReQ_HY/items/7fb5ce713cb60a96fcde?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-28T09:07:40+09:00",
       "hatena_count": 0
     },
     {
@@ -521,6 +717,20 @@
         "Qiita"
       ],
       "date": "2026-10-27T15:01:22+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-2594ffbb51",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "【Oracle】APEXlang × Claude CodeのOracle APEXアプリAI駆動開発",
+      "url": "https://qiita.com/hayashi-ta/items/5bf54d90f017660b4c35?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-27T12:02:08+09:00",
       "hatena_count": 0
     },
     {
@@ -2686,13 +2896,13 @@
       "sub_source": "Zenn",
       "title": "いいから休め - Black October が終わる今、セキュリティエンジニアがやるべきこと",
       "url": "https://zenn.dev/nayuta/articles/aec9ab2e11a7b7",
-      "score": 79,
+      "score": 82,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 28 Oct 2026 10:14:03 GMT",
-      "hatena_count": 79
+      "hatena_count": 82
     },
     {
       "id": "zenn-93c2282baa",
@@ -2882,13 +3092,13 @@
       "sub_source": "Zenn",
       "title": "AI の謎な説明文を直すスキル",
       "url": "https://zenn.dev/microsoft/articles/explain-before-shorten",
-      "score": 156,
+      "score": 157,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 26 Oct 2026 04:32:54 GMT",
-      "hatena_count": 156
+      "hatena_count": 157
     },
     {
       "id": "zenn-f64ba0d17d",
@@ -2945,6 +3155,21 @@
       ],
       "date": "Fri, 23 Oct 2026 05:50:11 GMT",
       "hatena_count": 75
+    },
+    {
+      "id": "techracho-9300f8dd2f",
+      "source": "techracho",
+      "title": "RailsのコードをRactorセーフにするリファクタリングパターン集（翻訳）",
+      "url": "https://techracho.bpsinc.jp/hachi8833/2026_10_29/160778",
+      "score": 0,
+      "author": "Techracho",
+      "tags": [
+        "Ruby",
+        "Rails",
+        "日本語"
+      ],
+      "date": "Thu, 29 Oct 2026 08:30:36 +0000",
+      "hatena_count": 0
     },
     {
       "id": "techracho-2f1472b57b",
