@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T19:05:20.600302+00:00",
+  "updated_at": "2026-10-29T19:33:55.443302+00:00",
   "count": 319,
   "items": [
     {
@@ -2910,13 +2910,13 @@
       "sub_source": "Zenn",
       "title": "KaniによるVerylコンパイラの形式検証",
       "url": "https://zenn.dev/dalance/articles/44a8f80ea0cfa1",
-      "score": 1,
+      "score": 2,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 29 Oct 2026 03:17:06 GMT",
-      "hatena_count": 1
+      "hatena_count": 2
     },
     {
       "id": "zenn-75533b2329",
@@ -3134,13 +3134,13 @@
       "sub_source": "Zenn",
       "title": "最近の E2E 戦略（2026 年 10 月現在）",
       "url": "https://zenn.dev/polyco/articles/26624b38c951b5",
-      "score": 102,
+      "score": 103,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 26 Oct 2026 01:18:03 GMT",
-      "hatena_count": 102
+      "hatena_count": 103
     },
     {
       "id": "zenn-d00427ebdc",
