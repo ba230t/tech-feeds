@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-30T10:33:42.228519+00:00",
-  "count": 344,
+  "updated_at": "2026-10-30T11:05:14.506953+00:00",
+  "count": 347,
   "items": [
     {
       "id": "qiita-3b93e59ade",
@@ -3130,6 +3130,20 @@
       "hatena_count": 1
     },
     {
+      "id": "zenn-709ca78294",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "IVRyのSREの取り組み 2026冬",
+      "url": "https://zenn.dev/ivry/articles/70d4f05ce4ae5c",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 30 Oct 2026 07:50:00 GMT",
+      "hatena_count": 0
+    },
+    {
       "id": "zenn-4a5a8c3dda",
       "source": "sns",
       "sub_source": "Zenn",
@@ -3157,6 +3171,35 @@
       ],
       "date": "Fri, 30 Oct 2026 00:55:31 GMT",
       "hatena_count": 1
+    },
+    {
+      "id": "zenn-3c60c695ec",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "WASIじゃない、もう一つのインターフェース「WALI」という提案",
+      "url": "https://zenn.dev/progate/articles/wali-webassembly-linux-interface",
+      "score": 1,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 30 Oct 2026 00:45:50 GMT",
+      "hatena_count": 1
+    },
+    {
+      "id": "zenn-5663499ab5",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "デバッグコードを脆弱性にしない方法",
+      "url": "https://zenn.dev/yasuakiomokawa/articles/5a7188483acfe7",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 29 Oct 2026 11:30:33 GMT",
+      "severity": "high",
+      "hatena_count": 0
     },
     {
       "id": "zenn-19558615b0",
@@ -3201,20 +3244,6 @@
       "hatena_count": 0
     },
     {
-      "id": "zenn-226acb4599",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "ViewModelのありがたみを改めて考えてみる",
-      "url": "https://zenn.dev/schottman13/articles/4471c3657715f2",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 29 Oct 2026 06:10:15 GMT",
-      "hatena_count": 0
-    },
-    {
       "id": "zenn-7fce099b12",
       "source": "sns",
       "sub_source": "Zenn",
@@ -3234,13 +3263,13 @@
       "sub_source": "Zenn",
       "title": "GitHub Actions で checkout@v7 のようなバージョン指定を書くのはやめよう！ 時代は actions.lock！",
       "url": "https://zenn.dev/progate/articles/24b1140180300c",
-      "score": 65,
+      "score": 66,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 29 Oct 2026 03:48:15 GMT",
-      "hatena_count": 65
+      "hatena_count": 66
     },
     {
       "id": "zenn-d91598a4c5",
@@ -3283,34 +3312,6 @@
       ],
       "date": "Wed, 28 Oct 2026 10:14:03 GMT",
       "hatena_count": 103
-    },
-    {
-      "id": "zenn-93c2282baa",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Kaigi on Rails で聞いた Local CI を試して、見送った話",
-      "url": "https://zenn.dev/my_vision/articles/b46011780a6090",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 28 Oct 2026 08:56:01 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-4afaa72b68",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "人間が見るのは設計書だけ ― PdM不在・バグ修正中心のチームで、AI-DLCを開発フローごと作り直した話",
-      "url": "https://zenn.dev/canly/articles/85dc645c252832",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 28 Oct 2026 07:55:08 GMT",
-      "hatena_count": 0
     },
     {
       "id": "zenn-9f4cd75113",
@@ -3558,6 +3559,48 @@
         "日本語"
       ],
       "date": "Mon, 12 Oct 2026 08:00:53 +0000",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-226acb4599",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "ViewModelのありがたみを改めて考えてみる",
+      "url": "https://zenn.dev/schottman13/articles/4471c3657715f2",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 29 Oct 2026 06:10:15 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-93c2282baa",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Kaigi on Rails で聞いた Local CI を試して、見送った話",
+      "url": "https://zenn.dev/my_vision/articles/b46011780a6090",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 28 Oct 2026 08:56:01 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-4afaa72b68",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "人間が見るのは設計書だけ ― PdM不在・バグ修正中心のチームで、AI-DLCを開発フローごと作り直した話",
+      "url": "https://zenn.dev/canly/articles/85dc645c252832",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 28 Oct 2026 07:55:08 GMT",
       "hatena_count": 0
     },
     {
