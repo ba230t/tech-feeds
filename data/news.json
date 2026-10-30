@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T12:39:21.058825+00:00",
+  "updated_at": "2026-10-30T13:06:04.210945+00:00",
   "count": 347,
   "items": [
     {
@@ -3263,13 +3263,13 @@
       "sub_source": "Zenn",
       "title": "GitHub Actions で checkout@v7 のようなバージョン指定を書くのはやめよう！ 時代は actions.lock！",
       "url": "https://zenn.dev/progate/articles/24b1140180300c",
-      "score": 71,
+      "score": 72,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 29 Oct 2026 03:48:15 GMT",
-      "hatena_count": 71
+      "hatena_count": 72
     },
     {
       "id": "zenn-d91598a4c5",
@@ -3319,13 +3319,13 @@
       "sub_source": "Zenn",
       "title": "Auto mode時代のClaude Codeを守る。検証済み10キットで始めるセキュリティ対策【全員・チーム・組織別】",
       "url": "https://zenn.dev/sonicmoov/articles/67aaeb49be69ec",
-      "score": 10,
+      "score": 11,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 28 Oct 2026 03:17:06 GMT",
-      "hatena_count": 10
+      "hatena_count": 11
     },
     {
       "id": "zenn-1ef417e2bf",
