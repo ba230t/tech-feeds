@@ -88,32 +88,32 @@
       "hatena_count": 194
     },
     {
-      "id": "zenn-60cec5a308",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "AI の謎な説明文を直すスキル",
-      "url": "https://zenn.dev/microsoft/articles/explain-before-shorten",
-      "score": 162,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 26 Oct 2026 04:32:54 GMT",
-      "hatena_count": 162
-    },
-    {
       "id": "zenn-f64ba0d17d",
       "source": "sns",
       "sub_source": "Zenn",
       "title": "最近の E2E 戦略（2026 年 10 月現在）",
       "url": "https://zenn.dev/polyco/articles/26624b38c951b5",
-      "score": 160,
+      "score": 164,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 26 Oct 2026 01:18:03 GMT",
-      "hatena_count": 160
+      "hatena_count": 164
+    },
+    {
+      "id": "zenn-60cec5a308",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "AI の謎な説明文を直すスキル",
+      "url": "https://zenn.dev/microsoft/articles/explain-before-shorten",
+      "score": 163,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 26 Oct 2026 04:32:54 GMT",
+      "hatena_count": 163
     },
     {
       "id": "zenn-ed54cd5c88",
@@ -258,6 +258,20 @@
       "hatena_count": 25
     },
     {
+      "id": "zenn-2dc50e40ad",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "GitHub Actions で checkout@v7 のようなバージョン指定を書くのはやめよう！ 時代は actions.lock！",
+      "url": "https://zenn.dev/progate/articles/24b1140180300c",
+      "score": 24,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 29 Oct 2026 03:48:15 GMT",
+      "hatena_count": 24
+    },
+    {
       "id": "ipa-88e47602f8",
       "source": "ipa",
       "title": "Oracle Java の脆弱性対策について(2026年10月)",
@@ -286,20 +300,6 @@
       "severity": "medium",
       "date": "2026-10-27T00:00:00+09:00",
       "hatena_count": 21
-    },
-    {
-      "id": "zenn-a060baa090",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "「シンプルに」と「多機能に」は、両立できる──マリオに学ぶUX設計",
-      "url": "https://zenn.dev/upgradetech/articles/0882ef73e9c025",
-      "score": 20,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 26 Oct 2026 09:44:58 GMT",
-      "hatena_count": 20
     }
   ],
   "security_highlights": [

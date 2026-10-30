@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T01:34:44.208768+00:00",
+  "updated_at": "2026-10-30T02:08:09.875948+00:00",
   "count": 328,
   "items": [
     {
@@ -2981,13 +2981,13 @@
       "sub_source": "Zenn",
       "title": "元フロントエンドエンジニアがプロダクトエンジニアとして強制成長した1年",
       "url": "https://zenn.dev/dress_code/articles/bbc5159fefbd2c",
-      "score": 4,
+      "score": 7,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 29 Oct 2026 10:30:05 GMT",
-      "hatena_count": 4
+      "hatena_count": 7
     },
     {
       "id": "zenn-7fce099b12",
@@ -3009,13 +3009,13 @@
       "sub_source": "Zenn",
       "title": "GitHub Actions で checkout@v7 のようなバージョン指定を書くのはやめよう！ 時代は actions.lock！",
       "url": "https://zenn.dev/progate/articles/24b1140180300c",
-      "score": 10,
+      "score": 24,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 29 Oct 2026 03:48:15 GMT",
-      "hatena_count": 10
+      "hatena_count": 24
     },
     {
       "id": "zenn-d91598a4c5",
@@ -3135,13 +3135,13 @@
       "sub_source": "Zenn",
       "title": "Auto mode時代のClaude Codeを守る。検証済み10キットで始めるセキュリティ対策【全員・チーム・組織別】",
       "url": "https://zenn.dev/sonicmoov/articles/67aaeb49be69ec",
-      "score": 2,
+      "score": 3,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 28 Oct 2026 03:17:06 GMT",
-      "hatena_count": 2
+      "hatena_count": 3
     },
     {
       "id": "zenn-1ef417e2bf",
@@ -3233,13 +3233,13 @@
       "sub_source": "Zenn",
       "title": "AI の謎な説明文を直すスキル",
       "url": "https://zenn.dev/microsoft/articles/explain-before-shorten",
-      "score": 162,
+      "score": 163,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 26 Oct 2026 04:32:54 GMT",
-      "hatena_count": 162
+      "hatena_count": 163
     },
     {
       "id": "zenn-f64ba0d17d",
@@ -3247,13 +3247,13 @@
       "sub_source": "Zenn",
       "title": "最近の E2E 戦略（2026 年 10 月現在）",
       "url": "https://zenn.dev/polyco/articles/26624b38c951b5",
-      "score": 160,
+      "score": 164,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 26 Oct 2026 01:18:03 GMT",
-      "hatena_count": 160
+      "hatena_count": 164
     },
     {
       "id": "techracho-9300f8dd2f",
@@ -4143,13 +4143,13 @@
       "sub_source": "Zenn",
       "title": "Flutter アプリを iPhone Duo の「縦帯」に対応させる",
       "url": "https://zenn.dev/yus1127/articles/flutter-iphone-duo-vertical-bar",
-      "score": 0,
+      "score": 1,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sat, 24 Oct 2026 16:59:46 GMT",
-      "hatena_count": 0
+      "hatena_count": 1
     },
     {
       "id": "zenn-60b822eb34",
