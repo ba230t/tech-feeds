@@ -243,6 +243,20 @@
       "hatena_count": 32
     },
     {
+      "id": "zenn-2dc50e40ad",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "GitHub Actions で checkout@v7 のようなバージョン指定を書くのはやめよう！ 時代は actions.lock！",
+      "url": "https://zenn.dev/progate/articles/24b1140180300c",
+      "score": 29,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 29 Oct 2026 03:48:15 GMT",
+      "hatena_count": 29
+    },
+    {
       "id": "zenn-6192aa503c",
       "source": "sns",
       "sub_source": "Zenn",
@@ -256,20 +270,6 @@
       "date": "Thu, 22 Oct 2026 01:30:07 GMT",
       "severity": "high",
       "hatena_count": 25
-    },
-    {
-      "id": "zenn-2dc50e40ad",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "GitHub Actions で checkout@v7 のようなバージョン指定を書くのはやめよう！ 時代は actions.lock！",
-      "url": "https://zenn.dev/progate/articles/24b1140180300c",
-      "score": 24,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 29 Oct 2026 03:48:15 GMT",
-      "hatena_count": 24
     },
     {
       "id": "ipa-88e47602f8",
