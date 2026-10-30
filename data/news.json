@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T05:33:59.194630+00:00",
+  "updated_at": "2026-10-30T06:09:53.517711+00:00",
   "count": 333,
   "items": [
     {
@@ -1062,7 +1062,7 @@
       "source": "jpcert",
       "title": "注意喚起: BrotliのC言語実装における境界外書き込みの脆弱性（CVE-2026-111497）に関する注意喚起  (公開)",
       "url": "https://www.jpcert.or.jp/at/2026/at260034.html",
-      "score": 3,
+      "score": 4,
       "author": "JPCERT/CC",
       "tags": [
         "JPCERT",
@@ -1070,7 +1070,7 @@
       ],
       "severity": "high",
       "date": "2026-10-26T16:25+09:00",
-      "hatena_count": 3
+      "hatena_count": 4
     },
     {
       "id": "qiita-392d65b036",
@@ -2996,13 +2996,13 @@
       "sub_source": "Zenn",
       "title": "2026年自分流AIエージェント環境構築の秋",
       "url": "https://zenn.dev/rescuenow/articles/49826fc6cc2713",
-      "score": 0,
+      "score": 1,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 30 Oct 2026 00:55:31 GMT",
-      "hatena_count": 0
+      "hatena_count": 1
     },
     {
       "id": "zenn-19558615b0",
@@ -3010,13 +3010,13 @@
       "sub_source": "Zenn",
       "title": "元フロントエンドエンジニアがプロダクトエンジニアとして強制成長した1年",
       "url": "https://zenn.dev/dress_code/articles/bbc5159fefbd2c",
-      "score": 13,
+      "score": 14,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 29 Oct 2026 10:30:05 GMT",
-      "hatena_count": 13
+      "hatena_count": 14
     },
     {
       "id": "zenn-a31548fdaf",
@@ -3080,13 +3080,13 @@
       "sub_source": "Zenn",
       "title": "GitHub Actions で checkout@v7 のようなバージョン指定を書くのはやめよう！ 時代は actions.lock！",
       "url": "https://zenn.dev/progate/articles/24b1140180300c",
-      "score": 50,
+      "score": 53,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 29 Oct 2026 03:48:15 GMT",
-      "hatena_count": 50
+      "hatena_count": 53
     },
     {
       "id": "zenn-d91598a4c5",
@@ -3122,13 +3122,13 @@
       "sub_source": "Zenn",
       "title": "いいから休め - Black October が終わる今、セキュリティエンジニアがやるべきこと",
       "url": "https://zenn.dev/nayuta/articles/aec9ab2e11a7b7",
-      "score": 102,
+      "score": 103,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 28 Oct 2026 10:14:03 GMT",
-      "hatena_count": 102
+      "hatena_count": 103
     },
     {
       "id": "zenn-93c2282baa",
@@ -3164,13 +3164,13 @@
       "sub_source": "Zenn",
       "title": "Auto mode時代のClaude Codeを守る。検証済み10キットで始めるセキュリティ対策【全員・チーム・組織別】",
       "url": "https://zenn.dev/sonicmoov/articles/67aaeb49be69ec",
-      "score": 7,
+      "score": 9,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 28 Oct 2026 03:17:06 GMT",
-      "hatena_count": 7
+      "hatena_count": 9
     },
     {
       "id": "zenn-1ef417e2bf",
@@ -3248,13 +3248,13 @@
       "sub_source": "Zenn",
       "title": "最近の E2E 戦略（2026 年 10 月現在）",
       "url": "https://zenn.dev/polyco/articles/26624b38c951b5",
-      "score": 174,
+      "score": 176,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 26 Oct 2026 01:18:03 GMT",
-      "hatena_count": 174
+      "hatena_count": 176
     },
     {
       "id": "techracho-9300f8dd2f",
