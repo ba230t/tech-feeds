@@ -1,7 +1,91 @@
 {
-  "updated_at": "2026-10-30T08:07:53.276723+00:00",
-  "count": 333,
+  "updated_at": "2026-10-30T08:35:35.948340+00:00",
+  "count": 344,
   "items": [
+    {
+      "id": "qiita-3b93e59ade",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "VS Code 1.144：Customizations の新ホーム Browse と Copilot connectors。探す・つなぐ・整える・配るを整理する",
+      "url": "https://qiita.com/shahin0809/items/12a7dd1fd077fd6169fa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-30T16:12:34+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-b6c4c9fd3f",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "Codex のいいところだけを、Claude Code や Muse から使う",
+      "url": "https://qiita.com/tatsuya582/items/4d79021c9f78f4015992?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-30T12:58:43+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-d3efbf443d",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "−20の恐怖が+100の利益を消す ― 損失回避と機関のインセンティブ : システム設計視点の行動経済学 (52)",
+      "url": "https://qiita.com/maskot1977/items/910811e6837af1db8165?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-30T12:45:16+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-d2a17e9ada",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "0から学ぶセキュリティの基礎　~XSS編~",
+      "url": "https://qiita.com/Pigeon_gate/items/3ce4e1c1a39db64c5c32?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-30T11:24:34+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-05e9ca3a2d",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "耳で聞く！Python で学ぶ マクロ経済学 入門 38",
+      "url": "https://qiita.com/maskot1977/items/0d1584080ce9733c48b1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-30T09:45:17+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-d0aa9385ba",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "忙しい人のための #GitHubUniverse 2026 新発表まとめ[簡易版]",
+      "url": "https://qiita.com/chomado/items/ce32e402cc4f14145a6c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-30T05:00:10+09:00",
+      "hatena_count": 0
+    },
     {
       "id": "qiita-d4ca0950e3",
       "source": "sns",
@@ -17,6 +101,20 @@
       "hatena_count": 0
     },
     {
+      "id": "qiita-1c97a75d1b",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "JavaScriptで制作した診断アプリを振り返る",
+      "url": "https://qiita.com/Nsh0/items/8bdaed47ccf7c8cfb6ab?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-29T21:06:45+09:00",
+      "hatena_count": 0
+    },
+    {
       "id": "qiita-d4ef7813fd",
       "source": "sns",
       "sub_source": "Qiita",
@@ -28,6 +126,20 @@
         "Qiita"
       ],
       "date": "2026-10-29T20:26:51+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-b87b4e44cd",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "GitHub Copilot SDK の追悼式場を Azure で作ってみた（300 人が同時に押しても数が欠けない構成）",
+      "url": "https://qiita.com/shahin0809/items/d337af6f1b64a9c6ae53?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-29T19:20:46+09:00",
       "hatena_count": 0
     },
     {
@@ -103,6 +215,20 @@
       "hatena_count": 0
     },
     {
+      "id": "qiita-ee5ce8e111",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "mapにparseIntを渡すと同じ文字列が別の数になる：第2引数の衝突をNode.jsで実測",
+      "url": "https://qiita.com/ennagara128/items/b7a08481d51c7b809313?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-29T13:18:29+09:00",
+      "hatena_count": 0
+    },
+    {
       "id": "qiita-9c8253e2eb",
       "source": "sns",
       "sub_source": "Qiita",
@@ -128,6 +254,20 @@
         "Qiita"
       ],
       "date": "2026-10-29T11:47:47+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-f91339ef24",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "Oracle AI World 2026、結局何が発表された？ 忙しい人のためのAI・データ・基盤ざっくり整理",
+      "url": "https://qiita.com/mo__mo/items/1476a4dc4d668c164818?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-29T11:37:58+09:00",
       "hatena_count": 0
     },
     {
@@ -254,6 +394,20 @@
         "Qiita"
       ],
       "date": "2026-10-28T23:53:27+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-8e73bc7bfb",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "GA4 のイベントが「gtag.js の読み込み前」に静かに消えていた：Next.js の2サイトで見つけた3つの壊れ方と直し方",
+      "url": "https://qiita.com/yamadagenki/items/d35d769e9771997de3be?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-28T21:08:10+09:00",
       "hatena_count": 0
     },
     {
@@ -3080,13 +3234,13 @@
       "sub_source": "Zenn",
       "title": "GitHub Actions で checkout@v7 のようなバージョン指定を書くのはやめよう！ 時代は actions.lock！",
       "url": "https://zenn.dev/progate/articles/24b1140180300c",
-      "score": 59,
+      "score": 60,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 29 Oct 2026 03:48:15 GMT",
-      "hatena_count": 59
+      "hatena_count": 60
     },
     {
       "id": "zenn-d91598a4c5",
@@ -3248,13 +3402,13 @@
       "sub_source": "Zenn",
       "title": "最近の E2E 戦略（2026 年 10 月現在）",
       "url": "https://zenn.dev/polyco/articles/26624b38c951b5",
-      "score": 178,
+      "score": 179,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 26 Oct 2026 01:18:03 GMT",
-      "hatena_count": 178
+      "hatena_count": 179
     },
     {
       "id": "techracho-9300f8dd2f",
