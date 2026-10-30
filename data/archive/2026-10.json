@@ -49,7 +49,7 @@
       "source": "ipa",
       "title": "不正アクセスによる漏えい等の事案を踏まえ、速やかに実施すべき対策等について",
       "url": "https://www.ipa.go.jp/security/security-alert/2026/alert20261009.html",
-      "score": 513,
+      "score": 514,
       "author": "IPA",
       "tags": [
         "IPA",
@@ -57,7 +57,7 @@
       ],
       "severity": "medium",
       "date": "2026-10-09T00:00:00+09:00",
-      "hatena_count": 513
+      "hatena_count": 514
     },
     {
       "id": "zenn-6196fc3ef4",
@@ -220,13 +220,13 @@
       "sub_source": "Zenn",
       "title": "GitHub Actions で checkout@v7 のようなバージョン指定を書くのはやめよう！ 時代は actions.lock！",
       "url": "https://zenn.dev/progate/articles/24b1140180300c",
-      "score": 66,
+      "score": 71,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 29 Oct 2026 03:48:15 GMT",
-      "hatena_count": 66
+      "hatena_count": 71
     },
     {
       "id": "zenn-1ef417e2bf",
