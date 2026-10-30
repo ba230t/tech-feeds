@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-30T04:33:54.703067+00:00",
-  "count": 328,
+  "updated_at": "2026-10-30T05:06:06.971836+00:00",
+  "count": 333,
   "items": [
     {
       "id": "qiita-d4ca0950e3",
@@ -2976,18 +2976,89 @@
       "hatena_count": 1
     },
     {
+      "id": "zenn-4a5a8c3dda",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "yoroによろしくぅ！Ai Workforce 事業部のリモートコーディングエージェント環境 yoro のご紹介",
+      "url": "https://zenn.dev/layerx/articles/a277f83a93d300",
+      "score": 1,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 30 Oct 2026 02:11:36 GMT",
+      "severity": "critical",
+      "hatena_count": 1
+    },
+    {
+      "id": "zenn-179ca6648a",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "2026年自分流AIエージェント環境構築の秋",
+      "url": "https://zenn.dev/rescuenow/articles/49826fc6cc2713",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 30 Oct 2026 00:55:31 GMT",
+      "hatena_count": 0
+    },
+    {
       "id": "zenn-19558615b0",
       "source": "sns",
       "sub_source": "Zenn",
       "title": "元フロントエンドエンジニアがプロダクトエンジニアとして強制成長した1年",
       "url": "https://zenn.dev/dress_code/articles/bbc5159fefbd2c",
-      "score": 12,
+      "score": 13,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 29 Oct 2026 10:30:05 GMT",
-      "hatena_count": 12
+      "hatena_count": 13
+    },
+    {
+      "id": "zenn-a31548fdaf",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "ローカルLLMは本当に騒がれてるほどか？ Qwen3.8-Flash-Nextの4bit版を家で動かして確かめた",
+      "url": "https://zenn.dev/yumeno/articles/strata-flash-next-iq4xs-80gb",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 29 Oct 2026 10:12:20 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-cbbebf50dc",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "人間がコードを読まずにPRをマージする技術 ─ それでも、品質は手放さない",
+      "url": "https://zenn.dev/karamage/articles/ac71f1c89c73ff",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 29 Oct 2026 08:26:16 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-226acb4599",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "ViewModelのありがたみを改めて考えてみる",
+      "url": "https://zenn.dev/schottman13/articles/4471c3657715f2",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 29 Oct 2026 06:10:15 GMT",
+      "hatena_count": 0
     },
     {
       "id": "zenn-7fce099b12",
@@ -3009,13 +3080,13 @@
       "sub_source": "Zenn",
       "title": "GitHub Actions で checkout@v7 のようなバージョン指定を書くのはやめよう！ 時代は actions.lock！",
       "url": "https://zenn.dev/progate/articles/24b1140180300c",
-      "score": 49,
+      "score": 50,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 29 Oct 2026 03:48:15 GMT",
-      "hatena_count": 49
+      "hatena_count": 50
     },
     {
       "id": "zenn-d91598a4c5",
@@ -3046,48 +3117,6 @@
       "hatena_count": 2
     },
     {
-      "id": "zenn-75533b2329",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Claude Codeを褒めちぎってみた",
-      "url": "https://zenn.dev/devlog/articles/abc194ecf04dfc",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 29 Oct 2026 03:00:07 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-b456dbee22",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "OpenSearchのLLM-as-a-Judgeを日本語の商品検索で動かして、人手ラベルと比べてみた",
-      "url": "https://zenn.dev/nextbeat/articles/c22b45b1d784b0",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 29 Oct 2026 02:55:28 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-654fcdd431",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "PHP5.4 から PHP8.5へ",
-      "url": "https://zenn.dev/ctrlzr/articles/5a88eb939b3bfd",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 29 Oct 2026 02:37:00 GMT",
-      "hatena_count": 0
-    },
-    {
       "id": "zenn-47a83a0acf",
       "source": "sns",
       "sub_source": "Zenn",
@@ -3100,6 +3129,20 @@
       ],
       "date": "Wed, 28 Oct 2026 10:14:03 GMT",
       "hatena_count": 102
+    },
+    {
+      "id": "zenn-93c2282baa",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Kaigi on Rails で聞いた Local CI を試して、見送った話",
+      "url": "https://zenn.dev/my_vision/articles/b46011780a6090",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 28 Oct 2026 08:56:01 GMT",
+      "hatena_count": 0
     },
     {
       "id": "zenn-4afaa72b68",
@@ -3116,32 +3159,18 @@
       "hatena_count": 0
     },
     {
-      "id": "zenn-fff30a50f2",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "公表資料から読む2026年秋の情報漏えい18件：侵入経路はどこだったのか",
-      "url": "https://zenn.dev/shirochan/articles/f579ce70b08dc3",
-      "score": 2,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 28 Oct 2026 03:44:36 GMT",
-      "hatena_count": 2
-    },
-    {
       "id": "zenn-9f4cd75113",
       "source": "sns",
       "sub_source": "Zenn",
       "title": "Auto mode時代のClaude Codeを守る。検証済み10キットで始めるセキュリティ対策【全員・チーム・組織別】",
       "url": "https://zenn.dev/sonicmoov/articles/67aaeb49be69ec",
-      "score": 6,
+      "score": 7,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 28 Oct 2026 03:17:06 GMT",
-      "hatena_count": 6
+      "hatena_count": 7
     },
     {
       "id": "zenn-1ef417e2bf",
@@ -3169,34 +3198,6 @@
         "Zenn"
       ],
       "date": "Wed, 28 Oct 2026 01:21:43 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-fe9c9969af",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "【Rails】焼きなまし法で会議室予約アプリに空き時間最適化機能を実装してみた",
-      "url": "https://zenn.dev/port_inc/articles/eaf460ff291c97",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 28 Oct 2026 01:00:06 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-147c98dd1d",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Claude Codeで半年分のレビュー指摘を分類してみた",
-      "url": "https://zenn.dev/port_inc/articles/a4bc3b39f44459",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 28 Oct 2026 01:00:06 GMT",
       "hatena_count": 0
     },
     {
@@ -3247,13 +3248,13 @@
       "sub_source": "Zenn",
       "title": "最近の E2E 戦略（2026 年 10 月現在）",
       "url": "https://zenn.dev/polyco/articles/26624b38c951b5",
-      "score": 173,
+      "score": 174,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 26 Oct 2026 01:18:03 GMT",
-      "hatena_count": 173
+      "hatena_count": 174
     },
     {
       "id": "techracho-9300f8dd2f",
@@ -3406,17 +3407,87 @@
       "hatena_count": 0
     },
     {
-      "id": "zenn-93c2282baa",
+      "id": "zenn-75533b2329",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "Kaigi on Rails で聞いた Local CI を試して、見送った話",
-      "url": "https://zenn.dev/my_vision/articles/b46011780a6090",
+      "title": "Claude Codeを褒めちぎってみた",
+      "url": "https://zenn.dev/devlog/articles/abc194ecf04dfc",
       "score": 0,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Wed, 28 Oct 2026 08:56:01 GMT",
+      "date": "Thu, 29 Oct 2026 03:00:07 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-b456dbee22",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "OpenSearchのLLM-as-a-Judgeを日本語の商品検索で動かして、人手ラベルと比べてみた",
+      "url": "https://zenn.dev/nextbeat/articles/c22b45b1d784b0",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 29 Oct 2026 02:55:28 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-654fcdd431",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "PHP5.4 から PHP8.5へ",
+      "url": "https://zenn.dev/ctrlzr/articles/5a88eb939b3bfd",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 29 Oct 2026 02:37:00 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-fff30a50f2",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "公表資料から読む2026年秋の情報漏えい18件：侵入経路はどこだったのか",
+      "url": "https://zenn.dev/shirochan/articles/f579ce70b08dc3",
+      "score": 2,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 28 Oct 2026 03:44:36 GMT",
+      "hatena_count": 2
+    },
+    {
+      "id": "zenn-fe9c9969af",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "【Rails】焼きなまし法で会議室予約アプリに空き時間最適化機能を実装してみた",
+      "url": "https://zenn.dev/port_inc/articles/eaf460ff291c97",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 28 Oct 2026 01:00:06 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-147c98dd1d",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Claude Codeで半年分のレビュー指摘を分類してみた",
+      "url": "https://zenn.dev/port_inc/articles/a4bc3b39f44459",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 28 Oct 2026 01:00:06 GMT",
       "hatena_count": 0
     },
     {
