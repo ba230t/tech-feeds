@@ -20,6 +20,14 @@
       "month": "2026-08",
       "total_articles": 1,
       "summary": "# 2026-08の技術動向レポート\n\n**セキュリティ動向 (1件)**\n\n1. Microsoft 製品の脆弱性対策について(2026年8月)",
+      "file": "2026-08.json",
+      "html_file": "2026-08.html",
+      "compressed": false
+    },
+    {
+      "month": "2026-08",
+      "total_articles": 1,
+      "summary": "# 2026-08の技術動向レポート\n\n**セキュリティ動向 (1件)**\n\n1. Microsoft 製品の脆弱性対策について(2026年8月)",
       "file": "2026-08.json.gz",
       "html_file": "2026-08.html",
       "compressed": true

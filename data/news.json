@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T00:15:30.710886+00:00",
+  "updated_at": "2026-10-30T00:53:11.909380+00:00",
   "count": 328,
   "items": [
     {
@@ -2981,13 +2981,13 @@
       "sub_source": "Zenn",
       "title": "元フロントエンドエンジニアがプロダクトエンジニアとして強制成長した1年",
       "url": "https://zenn.dev/dress_code/articles/bbc5159fefbd2c",
-      "score": 2,
+      "score": 4,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 29 Oct 2026 10:30:05 GMT",
-      "hatena_count": 2
+      "hatena_count": 4
     },
     {
       "id": "zenn-7fce099b12",
@@ -3009,13 +3009,13 @@
       "sub_source": "Zenn",
       "title": "GitHub Actions で checkout@v7 のようなバージョン指定を書くのはやめよう！ 時代は actions.lock！",
       "url": "https://zenn.dev/progate/articles/24b1140180300c",
-      "score": 3,
+      "score": 10,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 29 Oct 2026 03:48:15 GMT",
-      "hatena_count": 3
+      "hatena_count": 10
     },
     {
       "id": "zenn-d91598a4c5",
@@ -3023,13 +3023,13 @@
       "sub_source": "Zenn",
       "title": "Expo アプリを iPhone Duo に対応させる",
       "url": "https://zenn.dev/chot/articles/5718685fde3626",
-      "score": 0,
+      "score": 1,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 29 Oct 2026 03:38:52 GMT",
-      "hatena_count": 0
+      "hatena_count": 1
     },
     {
       "id": "zenn-a1c2fc6d19",
@@ -3247,13 +3247,13 @@
       "sub_source": "Zenn",
       "title": "最近の E2E 戦略（2026 年 10 月現在）",
       "url": "https://zenn.dev/polyco/articles/26624b38c951b5",
-      "score": 155,
+      "score": 160,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 26 Oct 2026 01:18:03 GMT",
-      "hatena_count": 155
+      "hatena_count": 160
     },
     {
       "id": "techracho-9300f8dd2f",
