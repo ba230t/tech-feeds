@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T04:07:15.422658+00:00",
+  "updated_at": "2026-10-30T04:33:54.703067+00:00",
   "count": 328,
   "items": [
     {
@@ -2981,13 +2981,13 @@
       "sub_source": "Zenn",
       "title": "元フロントエンドエンジニアがプロダクトエンジニアとして強制成長した1年",
       "url": "https://zenn.dev/dress_code/articles/bbc5159fefbd2c",
-      "score": 11,
+      "score": 12,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 29 Oct 2026 10:30:05 GMT",
-      "hatena_count": 11
+      "hatena_count": 12
     },
     {
       "id": "zenn-7fce099b12",
@@ -3009,13 +3009,13 @@
       "sub_source": "Zenn",
       "title": "GitHub Actions で checkout@v7 のようなバージョン指定を書くのはやめよう！ 時代は actions.lock！",
       "url": "https://zenn.dev/progate/articles/24b1140180300c",
-      "score": 43,
+      "score": 49,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 29 Oct 2026 03:48:15 GMT",
-      "hatena_count": 43
+      "hatena_count": 49
     },
     {
       "id": "zenn-d91598a4c5",
