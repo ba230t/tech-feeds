@@ -1,18 +1,18 @@
 {
   "month": "2026-10",
-  "total_articles": 332,
+  "total_articles": 344,
   "summary": "# 2026-10の技術動向レポート\n\n**セキュリティ動向 (2件)**\n\n1. 厳選・セキュリティが心配ならClaude Codeにこの問いかけをコピペするべし20\n\n2. いいから休め - Black October が終わる今、セキュリティエンジニアがやるべきこと\n\n**AI・機械学習動向 (2件)**\n\n1. 仕組みを理解する動画を、Claude Codeに作らせると便利すぎる\n\n2. AI の謎な説明文を直すスキル\n\n**技術トレンド (6件)**\n\n1. 注意喚起: 直近で相次いでいる国内組織における不正アクセスに関する注意喚起  (更新)\n\n2. 不正アクセスによる漏えい等の事案を踏まえ、速やかに実施すべき対策等について\n\n3. バイブコーディングを6週間続けたら、Mac の起動が20分かかるようになった\n\n4. 最近の E2E 戦略（2026 年 10 月現在）\n\n5. コードを読まずにマージするために必要なこと\n\n6. 私が5種類のコーディングエージェントを使い分ける理由",
   "source_counts": {
-    "sns": 268,
+    "sns": 280,
     "jpcert": 45,
     "ipa": 6,
     "techracho": 13
   },
   "severity_counts": {
+    "high": 15,
+    "medium": 7,
     "critical": 7,
-    "high": 14,
-    "info": 38,
-    "medium": 6
+    "info": 38
   },
   "top_articles": [
     {
@@ -377,6 +377,21 @@
       "date": "Fri, 30 Oct 2026 02:11:36 GMT",
       "severity": "critical",
       "hatena_count": 1
+    },
+    {
+      "id": "qiita-52603f0628",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "WordPressの脆弱性「wp2shell」を狙った攻撃の観測",
+      "url": "https://qiita.com/melkihara/items/8bb5e61321066be53d83?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-30T14:00:30+09:00",
+      "severity": "high",
+      "hatena_count": 0
     },
     {
       "id": "qiita-a610aaef60",

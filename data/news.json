@@ -1,7 +1,49 @@
 {
-  "updated_at": "2026-10-30T20:05:30.595435+00:00",
-  "count": 347,
+  "updated_at": "2026-10-30T20:33:59.288423+00:00",
+  "count": 359,
   "items": [
+    {
+      "id": "qiita-5b22b45b7e",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "マルチタスクが苦手なので、Slack の返信と PR レビューを Claude Code に定時で下ごしらえさせている",
+      "url": "https://qiita.com/generoKoki/items/81ca4042e30c42ffe4a7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-30T20:21:08+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-b38d906a43",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "AgentCore GatewayのターゲットにStep Functionsを指定できるようになりました",
+      "url": "https://qiita.com/har1101/items/de6104e8057452ebd720?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-30T19:33:25+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-4a77b78beb",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "python3_アクティベートについて【初心者向け】",
+      "url": "https://qiita.com/saito_next/items/97acdaf4eaca03436a01?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-30T17:30:22+09:00",
+      "hatena_count": 0
+    },
     {
       "id": "qiita-3b93e59ade",
       "source": "sns",
@@ -14,6 +56,49 @@
         "Qiita"
       ],
       "date": "2026-10-30T16:12:34+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-39a761d097",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "SSM Session Managerを使ってDBに接続する",
+      "url": "https://qiita.com/j-yasukawa/items/701554f14fe8b02ff34e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-30T15:39:46+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-f7374469be",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "RDS Data APIを使ってNAT不要構成にしてみた",
+      "url": "https://qiita.com/j-yasukawa/items/bd3785861c0e0bfc2f7e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-30T15:38:34+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-52603f0628",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "WordPressの脆弱性「wp2shell」を狙った攻撃の観測",
+      "url": "https://qiita.com/melkihara/items/8bb5e61321066be53d83?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-30T14:00:30+09:00",
+      "severity": "high",
       "hatena_count": 0
     },
     {
@@ -59,6 +144,21 @@
       "hatena_count": 0
     },
     {
+      "id": "qiita-12b8fc5a75",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "PostgreSQLで子テーブルへのINSERT後にFOR UPDATEすると、外部キーのロックでデッドロックする理由",
+      "url": "https://qiita.com/shusaku009/items/eb96123c2a0a9008c431?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-30T10:50:28+09:00",
+      "severity": "medium",
+      "hatena_count": 0
+    },
+    {
       "id": "qiita-05e9ca3a2d",
       "source": "sns",
       "sub_source": "Qiita",
@@ -70,6 +170,20 @@
         "Qiita"
       ],
       "date": "2026-10-30T09:45:17+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-e7374c6159",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "macOS のキーチェーンで ~/.zshrc に平文で書いた認証情報を撲滅しよう",
+      "url": "https://qiita.com/megmogmog1965/items/0538e79c2077fcbd5b2d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-30T09:26:32+09:00",
       "hatena_count": 0
     },
     {
@@ -115,6 +229,34 @@
       "hatena_count": 0
     },
     {
+      "id": "qiita-9a1ea7d2b1",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "人生初ライブラリunder-liquid-glassを公開しました！",
+      "url": "https://qiita.com/ocean6954/items/3e826fbb5b26aedbc887?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-29T20:37:23+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-d359708c20",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "Liquid Glass の Safari でタブバーの裏にもコンテンツを表示するハック",
+      "url": "https://qiita.com/ocean6954/items/8a4e58d47a6ffe856735?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-29T20:37:08+09:00",
+      "hatena_count": 0
+    },
+    {
       "id": "qiita-d4ef7813fd",
       "source": "sns",
       "sub_source": "Qiita",
@@ -126,6 +268,20 @@
         "Qiita"
       ],
       "date": "2026-10-29T20:26:51+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-e73afe334f",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "「社内OSS」化に向けて決めた、ブランチ・ラベル・リリースの運用",
+      "url": "https://qiita.com/1998_i-airi/items/bda84b83945265e16b53?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-29T19:36:11+09:00",
       "hatena_count": 0
     },
     {
@@ -591,6 +747,20 @@
       ],
       "date": "2026-10-28T11:25:35+09:00",
       "severity": "high",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-c94c0486c5",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "elepayの決済3方式の比較 ― LIFFアプリでどれを選ぶべきか",
+      "url": "https://qiita.com/Natsuki_R/items/926d3b56f4b97c0543c5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-28T11:17:07+09:00",
       "hatena_count": 0
     },
     {
