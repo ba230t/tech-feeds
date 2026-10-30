@@ -1,9 +1,9 @@
 {
   "month": "2026-10",
-  "total_articles": 344,
+  "total_articles": 346,
   "summary": "# 2026-10の技術動向レポート\n\n**セキュリティ動向 (2件)**\n\n1. 厳選・セキュリティが心配ならClaude Codeにこの問いかけをコピペするべし20\n\n2. いいから休め - Black October が終わる今、セキュリティエンジニアがやるべきこと\n\n**AI・機械学習動向 (2件)**\n\n1. 仕組みを理解する動画を、Claude Codeに作らせると便利すぎる\n\n2. AI の謎な説明文を直すスキル\n\n**技術トレンド (6件)**\n\n1. 注意喚起: 直近で相次いでいる国内組織における不正アクセスに関する注意喚起  (更新)\n\n2. 不正アクセスによる漏えい等の事案を踏まえ、速やかに実施すべき対策等について\n\n3. バイブコーディングを6週間続けたら、Mac の起動が20分かかるようになった\n\n4. 最近の E2E 戦略（2026 年 10 月現在）\n\n5. コードを読まずにマージするために必要なこと\n\n6. 私が5種類のコーディングエージェントを使い分ける理由",
   "source_counts": {
-    "sns": 280,
+    "sns": 282,
     "jpcert": 45,
     "ipa": 6,
     "techracho": 13
@@ -201,6 +201,20 @@
       "hatena_count": 90
     },
     {
+      "id": "zenn-d83aa2d820",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "今後のセキュリティの考え方",
+      "url": "https://zenn.dev/cscloud_blog/articles/a987163efae5d8",
+      "score": 76,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 30 Oct 2026 10:30:27 GMT",
+      "hatena_count": 76
+    },
+    {
       "id": "zenn-ecb9a4ef6b",
       "source": "sns",
       "sub_source": "Zenn",
@@ -285,21 +299,6 @@
       "severity": "medium",
       "date": "2026-10-21T00:00:00+09:00",
       "hatena_count": 22
-    },
-    {
-      "id": "ipa-ee45d6bd49",
-      "source": "ipa",
-      "title": "更新：PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell)",
-      "url": "https://www.ipa.go.jp/security/security-alert/2026/alert20261022.html",
-      "score": 21,
-      "author": "IPA",
-      "tags": [
-        "IPA",
-        "セキュリティ"
-      ],
-      "severity": "medium",
-      "date": "2026-10-27T00:00:00+09:00",
-      "hatena_count": 21
     }
   ],
   "security_highlights": [
