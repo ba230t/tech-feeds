@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T03:34:57.513516+00:00",
+  "updated_at": "2026-10-30T04:07:15.422658+00:00",
   "count": 328,
   "items": [
     {
@@ -2981,13 +2981,13 @@
       "sub_source": "Zenn",
       "title": "元フロントエンドエンジニアがプロダクトエンジニアとして強制成長した1年",
       "url": "https://zenn.dev/dress_code/articles/bbc5159fefbd2c",
-      "score": 7,
+      "score": 11,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 29 Oct 2026 10:30:05 GMT",
-      "hatena_count": 7
+      "hatena_count": 11
     },
     {
       "id": "zenn-7fce099b12",
@@ -3009,13 +3009,13 @@
       "sub_source": "Zenn",
       "title": "GitHub Actions で checkout@v7 のようなバージョン指定を書くのはやめよう！ 時代は actions.lock！",
       "url": "https://zenn.dev/progate/articles/24b1140180300c",
-      "score": 29,
+      "score": 43,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 29 Oct 2026 03:48:15 GMT",
-      "hatena_count": 29
+      "hatena_count": 43
     },
     {
       "id": "zenn-d91598a4c5",
@@ -3093,13 +3093,13 @@
       "sub_source": "Zenn",
       "title": "いいから休め - Black October が終わる今、セキュリティエンジニアがやるべきこと",
       "url": "https://zenn.dev/nayuta/articles/aec9ab2e11a7b7",
-      "score": 101,
+      "score": 102,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 28 Oct 2026 10:14:03 GMT",
-      "hatena_count": 101
+      "hatena_count": 102
     },
     {
       "id": "zenn-4afaa72b68",
@@ -3135,13 +3135,13 @@
       "sub_source": "Zenn",
       "title": "Auto mode時代のClaude Codeを守る。検証済み10キットで始めるセキュリティ対策【全員・チーム・組織別】",
       "url": "https://zenn.dev/sonicmoov/articles/67aaeb49be69ec",
-      "score": 4,
+      "score": 6,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 28 Oct 2026 03:17:06 GMT",
-      "hatena_count": 4
+      "hatena_count": 6
     },
     {
       "id": "zenn-1ef417e2bf",
@@ -3247,13 +3247,13 @@
       "sub_source": "Zenn",
       "title": "最近の E2E 戦略（2026 年 10 月現在）",
       "url": "https://zenn.dev/polyco/articles/26624b38c951b5",
-      "score": 164,
+      "score": 173,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 26 Oct 2026 01:18:03 GMT",
-      "hatena_count": 164
+      "hatena_count": 173
     },
     {
       "id": "techracho-9300f8dd2f",
@@ -3656,7 +3656,7 @@
         "Zenn"
       ],
       "date": "Tue, 27 Oct 2026 08:23:20 GMT",
-      "hatena_count": 1
+      "hatena_count": 2
     },
     {
       "id": "zenn-b923cd5e7c",

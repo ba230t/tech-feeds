@@ -93,13 +93,13 @@
       "sub_source": "Zenn",
       "title": "最近の E2E 戦略（2026 年 10 月現在）",
       "url": "https://zenn.dev/polyco/articles/26624b38c951b5",
-      "score": 164,
+      "score": 173,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 26 Oct 2026 01:18:03 GMT",
-      "hatena_count": 164
+      "hatena_count": 173
     },
     {
       "id": "zenn-60cec5a308",
@@ -149,13 +149,13 @@
       "sub_source": "Zenn",
       "title": "いいから休め - Black October が終わる今、セキュリティエンジニアがやるべきこと",
       "url": "https://zenn.dev/nayuta/articles/aec9ab2e11a7b7",
-      "score": 101,
+      "score": 102,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 28 Oct 2026 10:14:03 GMT",
-      "hatena_count": 101
+      "hatena_count": 102
     },
     {
       "id": "zenn-89cd9f8fc3",
@@ -229,6 +229,20 @@
       "hatena_count": 44
     },
     {
+      "id": "zenn-2dc50e40ad",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "GitHub Actions で checkout@v7 のようなバージョン指定を書くのはやめよう！ 時代は actions.lock！",
+      "url": "https://zenn.dev/progate/articles/24b1140180300c",
+      "score": 43,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 29 Oct 2026 03:48:15 GMT",
+      "hatena_count": 43
+    },
+    {
       "id": "zenn-0f91e18d0b",
       "source": "sns",
       "sub_source": "Zenn",
@@ -241,20 +255,6 @@
       ],
       "date": "Tue, 20 Oct 2026 02:00:05 GMT",
       "hatena_count": 32
-    },
-    {
-      "id": "zenn-2dc50e40ad",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "GitHub Actions で checkout@v7 のようなバージョン指定を書くのはやめよう！ 時代は actions.lock！",
-      "url": "https://zenn.dev/progate/articles/24b1140180300c",
-      "score": 29,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 29 Oct 2026 03:48:15 GMT",
-      "hatena_count": 29
     },
     {
       "id": "zenn-6192aa503c",
