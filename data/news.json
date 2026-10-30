@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T23:33:45.271868+00:00",
+  "updated_at": "2026-10-30T00:15:30.710886+00:00",
   "count": 328,
   "items": [
     {
@@ -2976,6 +2976,20 @@
       "hatena_count": 1
     },
     {
+      "id": "zenn-19558615b0",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "元フロントエンドエンジニアがプロダクトエンジニアとして強制成長した1年",
+      "url": "https://zenn.dev/dress_code/articles/bbc5159fefbd2c",
+      "score": 2,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 29 Oct 2026 10:30:05 GMT",
+      "hatena_count": 2
+    },
+    {
       "id": "zenn-7fce099b12",
       "source": "sns",
       "sub_source": "Zenn",
@@ -2988,6 +3002,20 @@
       ],
       "date": "Thu, 29 Oct 2026 05:00:29 GMT",
       "hatena_count": 0
+    },
+    {
+      "id": "zenn-2dc50e40ad",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "GitHub Actions で checkout@v7 のようなバージョン指定を書くのはやめよう！ 時代は actions.lock！",
+      "url": "https://zenn.dev/progate/articles/24b1140180300c",
+      "score": 3,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 29 Oct 2026 03:48:15 GMT",
+      "hatena_count": 3
     },
     {
       "id": "zenn-d91598a4c5",
@@ -3074,20 +3102,6 @@
       "hatena_count": 101
     },
     {
-      "id": "zenn-93c2282baa",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Kaigi on Rails で聞いた Local CI を試して、見送った話",
-      "url": "https://zenn.dev/my_vision/articles/b46011780a6090",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 28 Oct 2026 08:56:01 GMT",
-      "hatena_count": 0
-    },
-    {
       "id": "zenn-4afaa72b68",
       "source": "sns",
       "sub_source": "Zenn",
@@ -3121,13 +3135,13 @@
       "sub_source": "Zenn",
       "title": "Auto mode時代のClaude Codeを守る。検証済み10キットで始めるセキュリティ対策【全員・チーム・組織別】",
       "url": "https://zenn.dev/sonicmoov/articles/67aaeb49be69ec",
-      "score": 1,
+      "score": 2,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 28 Oct 2026 03:17:06 GMT",
-      "hatena_count": 1
+      "hatena_count": 2
     },
     {
       "id": "zenn-1ef417e2bf",
@@ -3155,6 +3169,20 @@
         "Zenn"
       ],
       "date": "Wed, 28 Oct 2026 01:21:43 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-fe9c9969af",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "【Rails】焼きなまし法で会議室予約アプリに空き時間最適化機能を実装してみた",
+      "url": "https://zenn.dev/port_inc/articles/eaf460ff291c97",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 28 Oct 2026 01:00:06 GMT",
       "hatena_count": 0
     },
     {
@@ -3186,20 +3214,6 @@
       "hatena_count": 124
     },
     {
-      "id": "zenn-186afe2907",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Go で動く新世代の補完プラグイン goda-cmp.vim",
-      "url": "https://zenn.dev/shougo/articles/goda-cmp-vim-beta",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 27 Oct 2026 10:25:24 GMT",
-      "hatena_count": 0
-    },
-    {
       "id": "zenn-670467d688",
       "source": "sns",
       "sub_source": "Zenn",
@@ -3219,13 +3233,13 @@
       "sub_source": "Zenn",
       "title": "AI の謎な説明文を直すスキル",
       "url": "https://zenn.dev/microsoft/articles/explain-before-shorten",
-      "score": 161,
+      "score": 162,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 26 Oct 2026 04:32:54 GMT",
-      "hatena_count": 161
+      "hatena_count": 162
     },
     {
       "id": "zenn-f64ba0d17d",
@@ -3233,27 +3247,13 @@
       "sub_source": "Zenn",
       "title": "最近の E2E 戦略（2026 年 10 月現在）",
       "url": "https://zenn.dev/polyco/articles/26624b38c951b5",
-      "score": 128,
+      "score": 155,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 26 Oct 2026 01:18:03 GMT",
-      "hatena_count": 128
-    },
-    {
-      "id": "zenn-d00427ebdc",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "600人規模のイベント運営を支えたインカムを、学生1人で作った話",
-      "url": "https://zenn.dev/kodak_20/articles/3b0ba74333b56c",
-      "score": 1,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 24 Oct 2026 17:23:14 GMT",
-      "hatena_count": 1
+      "hatena_count": 155
     },
     {
       "id": "techracho-9300f8dd2f",
@@ -3406,46 +3406,46 @@
       "hatena_count": 0
     },
     {
-      "id": "zenn-19558615b0",
+      "id": "zenn-93c2282baa",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "元フロントエンドエンジニアがプロダクトエンジニアとして強制成長した1年",
-      "url": "https://zenn.dev/dress_code/articles/bbc5159fefbd2c",
-      "score": 2,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 29 Oct 2026 10:30:05 GMT",
-      "hatena_count": 2
-    },
-    {
-      "id": "zenn-2dc50e40ad",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "GitHub Actions で checkout@v7 のようなバージョン指定を書くのはやめよう！ 時代は actions.lock！",
-      "url": "https://zenn.dev/progate/articles/24b1140180300c",
-      "score": 3,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 29 Oct 2026 03:48:15 GMT",
-      "hatena_count": 3
-    },
-    {
-      "id": "zenn-fe9c9969af",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "【Rails】焼きなまし法で会議室予約アプリに空き時間最適化機能を実装してみた",
-      "url": "https://zenn.dev/port_inc/articles/eaf460ff291c97",
+      "title": "Kaigi on Rails で聞いた Local CI を試して、見送った話",
+      "url": "https://zenn.dev/my_vision/articles/b46011780a6090",
       "score": 0,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Wed, 28 Oct 2026 01:00:06 GMT",
+      "date": "Wed, 28 Oct 2026 08:56:01 GMT",
       "hatena_count": 0
+    },
+    {
+      "id": "zenn-186afe2907",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Go で動く新世代の補完プラグイン goda-cmp.vim",
+      "url": "https://zenn.dev/shougo/articles/goda-cmp-vim-beta",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 27 Oct 2026 10:25:24 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-d00427ebdc",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "600人規模のイベント運営を支えたインカムを、学生1人で作った話",
+      "url": "https://zenn.dev/kodak_20/articles/3b0ba74333b56c",
+      "score": 1,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 24 Oct 2026 17:23:14 GMT",
+      "hatena_count": 1
     },
     {
       "id": "zenn-a569eb7fe6",
@@ -3529,7 +3529,7 @@
         "Zenn"
       ],
       "date": "Fri, 23 Oct 2026 05:50:11 GMT",
-      "hatena_count": 76
+      "hatena_count": 77
     },
     {
       "id": "techracho-8dcfc53b6b",
