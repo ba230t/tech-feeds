@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T23:33:42.173465+00:00",
+  "updated_at": "2026-10-31T00:13:10.381132+00:00",
   "count": 361,
   "items": [
     {
@@ -3300,6 +3300,34 @@
       "hatena_count": 1
     },
     {
+      "id": "zenn-d83aa2d820",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "今後のセキュリティの考え方",
+      "url": "https://zenn.dev/cscloud_blog/articles/a987163efae5d8",
+      "score": 117,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 30 Oct 2026 10:30:27 GMT",
+      "hatena_count": 117
+    },
+    {
+      "id": "zenn-8aa53e34fe",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "フロントエンドカンファレンス関西2026に参加しました！",
+      "url": "https://zenn.dev/flagxs/articles/931d7d45292717",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 30 Oct 2026 07:50:29 GMT",
+      "hatena_count": 0
+    },
+    {
       "id": "zenn-709ca78294",
       "source": "sns",
       "sub_source": "Zenn",
@@ -3357,21 +3385,6 @@
       "hatena_count": 1
     },
     {
-      "id": "zenn-5663499ab5",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "デバッグコードを脆弱性にしない方法",
-      "url": "https://zenn.dev/yasuakiomokawa/articles/5a7188483acfe7",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 29 Oct 2026 11:30:33 GMT",
-      "severity": "high",
-      "hatena_count": 0
-    },
-    {
       "id": "zenn-19558615b0",
       "source": "sns",
       "sub_source": "Zenn",
@@ -3384,20 +3397,6 @@
       ],
       "date": "Thu, 29 Oct 2026 10:30:05 GMT",
       "hatena_count": 14
-    },
-    {
-      "id": "zenn-a31548fdaf",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "ローカルLLMは本当に騒がれてるほどか？ Qwen3.8-Flash-Nextの4bit版を家で動かして確かめた",
-      "url": "https://zenn.dev/yumeno/articles/strata-flash-next-iq4xs-80gb",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 29 Oct 2026 10:12:20 GMT",
-      "hatena_count": 0
     },
     {
       "id": "zenn-cbbebf50dc",
@@ -3573,13 +3572,13 @@
       "sub_source": "Zenn",
       "title": "最近の E2E 戦略（2026 年 10 月現在）",
       "url": "https://zenn.dev/polyco/articles/26624b38c951b5",
-      "score": 185,
+      "score": 186,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 26 Oct 2026 01:18:03 GMT",
-      "hatena_count": 185
+      "hatena_count": 186
     },
     {
       "id": "techracho-9300f8dd2f",
@@ -3732,31 +3731,32 @@
       "hatena_count": 0
     },
     {
-      "id": "zenn-d83aa2d820",
+      "id": "zenn-5663499ab5",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "今後のセキュリティの考え方",
-      "url": "https://zenn.dev/cscloud_blog/articles/a987163efae5d8",
-      "score": 76,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 30 Oct 2026 10:30:27 GMT",
-      "hatena_count": 101
-    },
-    {
-      "id": "zenn-8aa53e34fe",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "フロントエンドカンファレンス関西2026に参加しました！",
-      "url": "https://zenn.dev/flagxs/articles/931d7d45292717",
+      "title": "デバッグコードを脆弱性にしない方法",
+      "url": "https://zenn.dev/yasuakiomokawa/articles/5a7188483acfe7",
       "score": 0,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Fri, 30 Oct 2026 07:50:29 GMT",
+      "date": "Thu, 29 Oct 2026 11:30:33 GMT",
+      "severity": "high",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-a31548fdaf",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "ローカルLLMは本当に騒がれてるほどか？ Qwen3.8-Flash-Nextの4bit版を家で動かして確かめた",
+      "url": "https://zenn.dev/yumeno/articles/strata-flash-next-iq4xs-80gb",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 29 Oct 2026 10:12:20 GMT",
       "hatena_count": 0
     },
     {
