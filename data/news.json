@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T21:04:29.195985+00:00",
+  "updated_at": "2026-10-31T21:33:33.545832+00:00",
   "count": 394,
   "items": [
     {
@@ -3739,13 +3739,13 @@
       "sub_source": "Zenn",
       "title": "今後のセキュリティの考え方",
       "url": "https://zenn.dev/cscloud_blog/articles/a987163efae5d8",
-      "score": 208,
+      "score": 207,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 30 Oct 2026 10:30:27 GMT",
-      "hatena_count": 208
+      "hatena_count": 207
     },
     {
       "id": "zenn-709ca78294",
@@ -3782,13 +3782,13 @@
       "sub_source": "Zenn",
       "title": "WASIじゃない、もう一つのインターフェース「WALI」という提案",
       "url": "https://zenn.dev/progate/articles/wali-webassembly-linux-interface",
-      "score": 20,
+      "score": 19,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 30 Oct 2026 00:45:50 GMT",
-      "hatena_count": 20
+      "hatena_count": 19
     },
     {
       "id": "zenn-19558615b0",
