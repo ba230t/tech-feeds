@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T16:33:44.123405+00:00",
+  "updated_at": "2026-10-31T17:04:12.132475+00:00",
   "count": 381,
   "items": [
     {
@@ -3600,13 +3600,13 @@
       "sub_source": "Zenn",
       "title": "WASIじゃない、もう一つのインターフェース「WALI」という提案",
       "url": "https://zenn.dev/progate/articles/wali-webassembly-linux-interface",
-      "score": 14,
+      "score": 12,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 30 Oct 2026 00:45:50 GMT",
-      "hatena_count": 14
+      "hatena_count": 12
     },
     {
       "id": "zenn-19558615b0",
