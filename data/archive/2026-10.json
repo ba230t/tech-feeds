@@ -107,13 +107,13 @@
       "sub_source": "Zenn",
       "title": "今後のセキュリティの考え方",
       "url": "https://zenn.dev/cscloud_blog/articles/a987163efae5d8",
-      "score": 185,
+      "score": 186,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 30 Oct 2026 10:30:27 GMT",
-      "hatena_count": 185
+      "hatena_count": 186
     },
     {
       "id": "zenn-60cec5a308",
@@ -215,6 +215,20 @@
       "hatena_count": 90
     },
     {
+      "id": "zenn-2dc50e40ad",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "GitHub Actions で checkout@v7 のようなバージョン指定を書くのはやめよう！ 時代は actions.lock！",
+      "url": "https://zenn.dev/progate/articles/24b1140180300c",
+      "score": 76,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 29 Oct 2026 03:48:15 GMT",
+      "hatena_count": 76
+    },
+    {
       "id": "zenn-ecb9a4ef6b",
       "source": "sns",
       "sub_source": "Zenn",
@@ -227,20 +241,6 @@
       ],
       "date": "Fri, 23 Oct 2026 05:50:11 GMT",
       "hatena_count": 77
-    },
-    {
-      "id": "zenn-2dc50e40ad",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "GitHub Actions で checkout@v7 のようなバージョン指定を書くのはやめよう！ 時代は actions.lock！",
-      "url": "https://zenn.dev/progate/articles/24b1140180300c",
-      "score": 74,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 29 Oct 2026 03:48:15 GMT",
-      "hatena_count": 74
     },
     {
       "id": "zenn-1ef417e2bf",

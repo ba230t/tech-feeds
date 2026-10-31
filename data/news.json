@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T05:33:41.715431+00:00",
+  "updated_at": "2026-10-31T06:08:04.972235+00:00",
   "count": 363,
   "items": [
     {
@@ -3305,13 +3305,13 @@
       "sub_source": "Zenn",
       "title": "今後のセキュリティの考え方",
       "url": "https://zenn.dev/cscloud_blog/articles/a987163efae5d8",
-      "score": 185,
+      "score": 186,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 30 Oct 2026 10:30:27 GMT",
-      "hatena_count": 185
+      "hatena_count": 186
     },
     {
       "id": "zenn-ee96241e36",
@@ -3347,13 +3347,13 @@
       "sub_source": "Zenn",
       "title": "IVRyのSREの取り組み 2026冬",
       "url": "https://zenn.dev/ivry/articles/70d4f05ce4ae5c",
-      "score": 7,
+      "score": 9,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 30 Oct 2026 07:50:00 GMT",
-      "hatena_count": 7
+      "hatena_count": 9
     },
     {
       "id": "zenn-829de1210f",
@@ -3446,13 +3446,13 @@
       "sub_source": "Zenn",
       "title": "GitHub Actions で checkout@v7 のようなバージョン指定を書くのはやめよう！ 時代は actions.lock！",
       "url": "https://zenn.dev/progate/articles/24b1140180300c",
-      "score": 74,
+      "score": 76,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 29 Oct 2026 03:48:15 GMT",
-      "hatena_count": 74
+      "hatena_count": 76
     },
     {
       "id": "zenn-a1c2fc6d19",
@@ -4460,7 +4460,7 @@
         "Zenn"
       ],
       "date": "Mon, 26 Oct 2026 00:00:13 GMT",
-      "hatena_count": 13
+      "hatena_count": 14
     },
     {
       "id": "zenn-a547b55779",
