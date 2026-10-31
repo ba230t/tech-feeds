@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T13:04:19.059955+00:00",
+  "updated_at": "2026-10-31T13:33:14.068735+00:00",
   "count": 381,
   "items": [
     {
@@ -3501,13 +3501,13 @@
       "sub_source": "Zenn",
       "title": "【最速解説】goda.vimでHello, worldする",
       "url": "https://zenn.dev/comamoca/articles/2026-10-30-trying-hello-world-with-goda-vim",
-      "score": 0,
+      "score": 1,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sat, 31 Oct 2026 01:57:43 GMT",
-      "hatena_count": 0
+      "hatena_count": 1
     },
     {
       "id": "zenn-09d550a448",
@@ -3557,13 +3557,13 @@
       "sub_source": "Zenn",
       "title": "今後のセキュリティの考え方",
       "url": "https://zenn.dev/cscloud_blog/articles/a987163efae5d8",
-      "score": 204,
+      "score": 205,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 30 Oct 2026 10:30:27 GMT",
-      "hatena_count": 204
+      "hatena_count": 205
     },
     {
       "id": "zenn-709ca78294",
@@ -3571,13 +3571,13 @@
       "sub_source": "Zenn",
       "title": "IVRyのSREの取り組み 2026冬",
       "url": "https://zenn.dev/ivry/articles/70d4f05ce4ae5c",
-      "score": 25,
+      "score": 26,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 30 Oct 2026 07:50:00 GMT",
-      "hatena_count": 25
+      "hatena_count": 26
     },
     {
       "id": "zenn-4a5a8c3dda",
