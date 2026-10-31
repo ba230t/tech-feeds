@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-31T09:33:39.549452+00:00",
-  "count": 376,
+  "updated_at": "2026-10-31T10:04:24.640145+00:00",
+  "count": 381,
   "items": [
     {
       "id": "qiita-d6fa80e323",
@@ -3482,46 +3482,88 @@
       "hatena_count": 1
     },
     {
+      "id": "zenn-cd066b67db",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "FlutterKaigi 2026 で生字幕を映像に載せて会場スクリーンに投影しました",
+      "url": "https://zenn.dev/hiro_pon/articles/2f3b68ec60ddae",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 31 Oct 2026 06:40:40 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-9e8331269a",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "【最速解説】goda.vimでHello, worldする",
+      "url": "https://zenn.dev/comamoca/articles/2026-10-30-trying-hello-world-with-goda-vim",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 31 Oct 2026 01:57:43 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-09d550a448",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "【Apple Vision Pro】Immersive Spaceを閉じた後のonDisappear、シミュレーターと実機で桁違いだった件",
+      "url": "https://zenn.dev/mrs1669/articles/20261031_visionos-dismiss-immersive-space",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 30 Oct 2026 21:19:58 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-879e7eda4a",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Claude Code 拡張機能のバックドア事件まとめ（2.1.312・2.1.313・Cursor のマーケットプレイス）",
+      "url": "https://zenn.dev/sonsu/articles/67fbd9a1cf8914",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 30 Oct 2026 18:30:00 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-51d92c4da8",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "NoSQLのスキーマ変更は読むときに受け止めよう",
+      "url": "https://zenn.dev/michiharu/articles/9562dfd249c8e3",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 30 Oct 2026 16:53:51 GMT",
+      "hatena_count": 0
+    },
+    {
       "id": "zenn-d83aa2d820",
       "source": "sns",
       "sub_source": "Zenn",
       "title": "今後のセキュリティの考え方",
       "url": "https://zenn.dev/cscloud_blog/articles/a987163efae5d8",
-      "score": 196,
+      "score": 199,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 30 Oct 2026 10:30:27 GMT",
-      "hatena_count": 196
-    },
-    {
-      "id": "zenn-ee96241e36",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "TelegrafをARMv6で使う",
-      "url": "https://zenn.dev/nauh_blog/articles/3bf7430510d30a",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 30 Oct 2026 09:00:05 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-8aa53e34fe",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "フロントエンドカンファレンス関西2026に参加しました！",
-      "url": "https://zenn.dev/flagxs/articles/931d7d45292717",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 30 Oct 2026 07:50:29 GMT",
-      "hatena_count": 0
+      "hatena_count": 199
     },
     {
       "id": "zenn-709ca78294",
@@ -3529,27 +3571,13 @@
       "sub_source": "Zenn",
       "title": "IVRyのSREの取り組み 2026冬",
       "url": "https://zenn.dev/ivry/articles/70d4f05ce4ae5c",
-      "score": 20,
+      "score": 24,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 30 Oct 2026 07:50:00 GMT",
-      "hatena_count": 20
-    },
-    {
-      "id": "zenn-829de1210f",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "刑事告訴を予告されたとき、AIに「無実の証明」をさせない設計――GMO事案で考えた証拠と判断の境界",
-      "url": "https://zenn.dev/c_a_p_engineer/articles/gmo-legal-threat-ai-evidence-20261030",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 30 Oct 2026 04:49:33 GMT",
-      "hatena_count": 0
+      "hatena_count": 24
     },
     {
       "id": "zenn-4a5a8c3dda",
@@ -3609,20 +3637,6 @@
       "hatena_count": 0
     },
     {
-      "id": "zenn-7fce099b12",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Claude Codeで「QAチーム」を組んだら、効いたのは「捨てる仕組み」だった ― AIだけが見つけた不具合・見逃しは？",
-      "url": "https://zenn.dev/sre_holdings/articles/d4acb079680a79",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 29 Oct 2026 05:00:29 GMT",
-      "hatena_count": 0
-    },
-    {
       "id": "zenn-2dc50e40ad",
       "source": "sns",
       "sub_source": "Zenn",
@@ -3663,20 +3677,6 @@
       ],
       "date": "Wed, 28 Oct 2026 10:14:03 GMT",
       "hatena_count": 106
-    },
-    {
-      "id": "zenn-9f4cd75113",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Auto mode時代のClaude Codeを守る。検証済み10キットで始めるセキュリティ対策【全員・チーム・組織別】",
-      "url": "https://zenn.dev/sonicmoov/articles/67aaeb49be69ec",
-      "score": 11,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 28 Oct 2026 03:17:06 GMT",
-      "hatena_count": 11
     },
     {
       "id": "zenn-1ef417e2bf",
@@ -3911,6 +3911,76 @@
       ],
       "date": "Mon, 12 Oct 2026 08:00:53 +0000",
       "hatena_count": 0
+    },
+    {
+      "id": "zenn-ee96241e36",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "TelegrafをARMv6で使う",
+      "url": "https://zenn.dev/nauh_blog/articles/3bf7430510d30a",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 30 Oct 2026 09:00:05 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-8aa53e34fe",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "フロントエンドカンファレンス関西2026に参加しました！",
+      "url": "https://zenn.dev/flagxs/articles/931d7d45292717",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 30 Oct 2026 07:50:29 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-829de1210f",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "刑事告訴を予告されたとき、AIに「無実の証明」をさせない設計――GMO事案で考えた証拠と判断の境界",
+      "url": "https://zenn.dev/c_a_p_engineer/articles/gmo-legal-threat-ai-evidence-20261030",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 30 Oct 2026 04:49:33 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-7fce099b12",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Claude Codeで「QAチーム」を組んだら、効いたのは「捨てる仕組み」だった ― AIだけが見つけた不具合・見逃しは？",
+      "url": "https://zenn.dev/sre_holdings/articles/d4acb079680a79",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 29 Oct 2026 05:00:29 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-9f4cd75113",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Auto mode時代のClaude Codeを守る。検証済み10キットで始めるセキュリティ対策【全員・チーム・組織別】",
+      "url": "https://zenn.dev/sonicmoov/articles/67aaeb49be69ec",
+      "score": 11,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 28 Oct 2026 03:17:06 GMT",
+      "hatena_count": 11
     },
     {
       "id": "zenn-179ca6648a",
