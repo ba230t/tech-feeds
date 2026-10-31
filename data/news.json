@@ -1,7 +1,161 @@
 {
-  "updated_at": "2026-10-31T08:06:27.554712+00:00",
-  "count": 363,
+  "updated_at": "2026-10-31T08:33:18.855658+00:00",
+  "count": 376,
   "items": [
+    {
+      "id": "qiita-d6fa80e323",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "ADRを書いて、AIに \"Why\" を理解させよう【Architecture Decision Record】",
+      "url": "https://qiita.com/tetsuro731/items/65590daa94499e705850?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-31T14:31:15+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-509a8f8e6a",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "【自己紹介】初Qiita",
+      "url": "https://qiita.com/skotm/items/5fcde0f752be5b97ccd3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-31T14:11:50+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-fe2b568ab9",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "Jetpack AppState TransformとStateStore",
+      "url": "https://qiita.com/Nabe1216/items/cf6dec7247169b4a881b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-31T10:20:38+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-64700da286",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "【Docker入門】Ubuntu 24.04コンテナ環境構築",
+      "url": "https://qiita.com/NoguchiHikaru/items/dccd98d85a31c0cec279?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-31T09:07:52+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-39efd00790",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "デフォルト設定としての沈黙 ― 現状バイアスが並行社会を許容する : システム設計視点の行動経済学 (53)",
+      "url": "https://qiita.com/maskot1977/items/fc7cd77557e946cac2ba?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-31T05:30:48+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-ae40bc2bc6",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "サブディレクトリに対してGithub Actionsを動かしたいが動かなかった",
+      "url": "https://qiita.com/J-T_ky2g/items/4869fad4b21834f073b5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-30T23:55:54+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-c2b001fb03",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "chakra-ui v3のProviderが効かない",
+      "url": "https://qiita.com/J-T_ky2g/items/d697d5cac98a06657911?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-30T23:54:58+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-10e180c81d",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "Vitest要素を確認する",
+      "url": "https://qiita.com/J-T_ky2g/items/ba8f71945f4d6f73c77e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-30T23:54:24+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-12aeb7c915",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "Power Apps の DataGrid を使うとデータの一括更新が楽になった",
+      "url": "https://qiita.com/eigogakuto/items/ba15ba8cafe53c9a1132?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-30T23:05:51+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-3880a0c12c",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "IOS/AndroidアプリをWebViewでリリースしたので、やったことや反省点",
+      "url": "https://qiita.com/Tukirukiki/items/a6fb813d89f7d1372772?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-30T20:35:30+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-c8175e3e4b",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "誰も秘密鍵を知らないアカウントを、Symbol の上で DKG して作った",
+      "url": "https://qiita.com/HinaBlogChannel/items/4f35b1258fcea6af4055?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-30T20:28:24+09:00",
+      "hatena_count": 0
+    },
     {
       "id": "qiita-5b22b45b7e",
       "source": "sns",
@@ -17,6 +171,20 @@
       "hatena_count": 0
     },
     {
+      "id": "qiita-23fa5dd1a2",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "【備忘録】SPAのNode.jsのバージョンアップを行う",
+      "url": "https://qiita.com/ryu0947/items/cad5f6574426dae6917c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-30T20:06:54+09:00",
+      "hatena_count": 0
+    },
+    {
       "id": "qiita-b38d906a43",
       "source": "sns",
       "sub_source": "Qiita",
@@ -28,6 +196,20 @@
         "Qiita"
       ],
       "date": "2026-10-30T19:33:25+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-244a50d9f0",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "誤ってマルウェアを実行してしまった私が、AIとREA（Reverse Engineer Anything）に救われた話",
+      "url": "https://qiita.com/TOMOSIA-LinhND/items/3dec10762fcc224d9133?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-30T18:45:50+09:00",
       "hatena_count": 0
     },
     {
@@ -3305,13 +3487,13 @@
       "sub_source": "Zenn",
       "title": "今後のセキュリティの考え方",
       "url": "https://zenn.dev/cscloud_blog/articles/a987163efae5d8",
-      "score": 191,
+      "score": 192,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 30 Oct 2026 10:30:27 GMT",
-      "hatena_count": 191
+      "hatena_count": 192
     },
     {
       "id": "zenn-ee96241e36",
@@ -3347,13 +3529,13 @@
       "sub_source": "Zenn",
       "title": "IVRyのSREの取り組み 2026冬",
       "url": "https://zenn.dev/ivry/articles/70d4f05ce4ae5c",
-      "score": 15,
+      "score": 17,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 30 Oct 2026 07:50:00 GMT",
-      "hatena_count": 15
+      "hatena_count": 17
     },
     {
       "id": "zenn-829de1210f",
