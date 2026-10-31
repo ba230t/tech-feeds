@@ -1,7 +1,77 @@
 {
-  "updated_at": "2026-10-31T20:04:42.793637+00:00",
-  "count": 381,
+  "updated_at": "2026-10-31T20:33:37.195723+00:00",
+  "count": 394,
   "items": [
+    {
+      "id": "qiita-451ccee1ad",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "「暑く／寒くなるほど激しく踊る現在気温BOT」のしくみとこだわり",
+      "url": "https://qiita.com/UmiKazeYu/items/33b65f26620601120e70?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-31T22:30:51+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-d889c8679f",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "autoracex、ついに対面開催 ―― 画面越しに何度も会った人と、はじめて会った夜",
+      "url": "https://qiita.com/torifukukaiou/items/7f1468c5b566aa23a330?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-31T20:57:08+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-a502344334",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "DTO(formクラス、コマンドオブジェクト)とは？？？",
+      "url": "https://qiita.com/polymetisoutis/items/b58dfe1c575519577edf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-31T19:11:27+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-759463c769",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "PHPを使わずにPHPを使ったwebサーバーを立てる",
+      "url": "https://qiita.com/plotter/items/af837f20deba162b2955?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-31T17:33:48+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-8b308cb47c",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "AIにありがちな「イマイチなコードコメント」9パターン",
+      "url": "https://qiita.com/jnchito/items/636c519c0b1d347c79b7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-31T16:17:19+09:00",
+      "hatena_count": 0
+    },
     {
       "id": "qiita-d6fa80e323",
       "source": "sns",
@@ -31,6 +101,20 @@
       "hatena_count": 0
     },
     {
+      "id": "qiita-80dc8eb059",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "1案件4セッション - 統合リポのClaude Codeにサブリポを横断レビューさせる",
+      "url": "https://qiita.com/zucky-quest/items/74ed4d7fd676dd5f5556?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-31T11:00:50+09:00",
+      "hatena_count": 0
+    },
+    {
       "id": "qiita-fe2b568ab9",
       "source": "sns",
       "sub_source": "Qiita",
@@ -42,6 +126,20 @@
         "Qiita"
       ],
       "date": "2026-10-31T10:20:38+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-cf609d424f",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "C++とも競えるプログラミング言語 Fix が yukicoder で使えるようになりました（性能比較あり）",
+      "url": "https://qiita.com/tttmmmyyyy/items/6c3ca62c1c9c2b419e7c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-31T09:42:37+09:00",
       "hatena_count": 0
     },
     {
@@ -59,6 +157,20 @@
       "hatena_count": 0
     },
     {
+      "id": "qiita-115549866b",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "OpenHandsのDockerポート公開、全インターフェースに出る症状と1.52.0対応",
+      "url": "https://qiita.com/orca-forge/items/145909fc7dff845b19ca?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-31T08:21:47+09:00",
+      "hatena_count": 0
+    },
+    {
       "id": "qiita-39efd00790",
       "source": "sns",
       "sub_source": "Qiita",
@@ -70,6 +182,20 @@
         "Qiita"
       ],
       "date": "2026-10-31T05:30:48+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-f2421d2392",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "【AgentCore】時刻を決めてハンズオン環境をお掃除する仕組みを用意してみた",
+      "url": "https://qiita.com/ryu-ki/items/b28dca1867058156de46?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-31T02:42:21+09:00",
       "hatena_count": 0
     },
     {
@@ -115,6 +241,20 @@
       "hatena_count": 0
     },
     {
+      "id": "qiita-df0028a2bb",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "Claude CodeのMCPツール呼び出しが60秒でtimed outする — 幽霊二重実行を止めるジョブ投入パターンの完全実装",
+      "url": "https://qiita.com/yukihayama/items/ccfccdd1970291a9a834?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-30T23:14:28+09:00",
+      "hatena_count": 0
+    },
+    {
       "id": "qiita-12aeb7c915",
       "source": "sns",
       "sub_source": "Qiita",
@@ -126,6 +266,34 @@
         "Qiita"
       ],
       "date": "2026-10-30T23:05:51+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-dc7618881c",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "AIアシスタントに5日で9.5億トークン使っていた話 ― 無料枠100%から始めたトークン棚卸しとメモリ圧縮",
+      "url": "https://qiita.com/satouyoshiaki/items/4b0b174a9e370f1ead53?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-30T21:50:34+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-a02bd2a9b1",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "開発途中でAIモデルやエージェントを替えても品質を落とさない：リポジトリに残す3原則",
+      "url": "https://qiita.com/lumichy/items/2165d8f0dd84cc5e351a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-30T20:47:56+09:00",
       "hatena_count": 0
     },
     {
@@ -380,6 +548,20 @@
         "Qiita"
       ],
       "date": "2026-10-30T05:00:10+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-020360237d",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "AIエージェントの承認スキップが怖いので、Docker Sandboxes(sbx)で隔離して安全に動かしてみた【Antigravity CLI】",
+      "url": "https://qiita.com/na-tamura/items/193338c0a9154b01255f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-29T23:57:46+09:00",
       "hatena_count": 0
     },
     {
@@ -3600,13 +3782,13 @@
       "sub_source": "Zenn",
       "title": "WASIじゃない、もう一つのインターフェース「WALI」という提案",
       "url": "https://zenn.dev/progate/articles/wali-webassembly-linux-interface",
-      "score": 18,
+      "score": 19,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 30 Oct 2026 00:45:50 GMT",
-      "hatena_count": 18
+      "hatena_count": 19
     },
     {
       "id": "zenn-19558615b0",
@@ -3740,13 +3922,13 @@
       "sub_source": "Zenn",
       "title": "AI の謎な説明文を直すスキル",
       "url": "https://zenn.dev/microsoft/articles/explain-before-shorten",
-      "score": 162,
+      "score": 163,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 26 Oct 2026 04:32:54 GMT",
-      "hatena_count": 162
+      "hatena_count": 163
     },
     {
       "id": "zenn-f64ba0d17d",
