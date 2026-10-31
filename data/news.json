@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T17:04:12.132475+00:00",
+  "updated_at": "2026-10-31T17:33:24.040000+00:00",
   "count": 381,
   "items": [
     {
@@ -3557,13 +3557,13 @@
       "sub_source": "Zenn",
       "title": "今後のセキュリティの考え方",
       "url": "https://zenn.dev/cscloud_blog/articles/a987163efae5d8",
-      "score": 206,
+      "score": 207,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 30 Oct 2026 10:30:27 GMT",
-      "hatena_count": 206
+      "hatena_count": 207
     },
     {
       "id": "zenn-709ca78294",
@@ -3571,13 +3571,13 @@
       "sub_source": "Zenn",
       "title": "IVRyのSREの取り組み 2026冬",
       "url": "https://zenn.dev/ivry/articles/70d4f05ce4ae5c",
-      "score": 27,
+      "score": 28,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 30 Oct 2026 07:50:00 GMT",
-      "hatena_count": 27
+      "hatena_count": 28
     },
     {
       "id": "zenn-4a5a8c3dda",
@@ -3600,13 +3600,13 @@
       "sub_source": "Zenn",
       "title": "WASIじゃない、もう一つのインターフェース「WALI」という提案",
       "url": "https://zenn.dev/progate/articles/wali-webassembly-linux-interface",
-      "score": 12,
+      "score": 16,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 30 Oct 2026 00:45:50 GMT",
-      "hatena_count": 12
+      "hatena_count": 16
     },
     {
       "id": "zenn-19558615b0",
@@ -3740,13 +3740,13 @@
       "sub_source": "Zenn",
       "title": "AI の謎な説明文を直すスキル",
       "url": "https://zenn.dev/microsoft/articles/explain-before-shorten",
-      "score": 163,
+      "score": 162,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 26 Oct 2026 04:32:54 GMT",
-      "hatena_count": 163
+      "hatena_count": 162
     },
     {
       "id": "zenn-f64ba0d17d",
