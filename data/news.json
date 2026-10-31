@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T23:04:29.728032+00:00",
+  "updated_at": "2026-10-31T23:33:28.617179+00:00",
   "count": 397,
   "items": [
     {
@@ -3664,18 +3664,46 @@
       "hatena_count": 1
     },
     {
-      "id": "zenn-cd066b67db",
+      "id": "zenn-4f504ab158",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "FlutterKaigi 2026 で生字幕を映像に載せて会場スクリーンに投影しました",
-      "url": "https://zenn.dev/hiro_pon/articles/2f3b68ec60ddae",
+      "title": "3 人それぞれの Claude Code を Slack でつないで ISUCON2026 に参加した（207,039 点）",
+      "url": "https://zenn.dev/kauche/articles/f3736c660aab77",
+      "score": 24,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 31 Oct 2026 12:31:11 GMT",
+      "hatena_count": 24
+    },
+    {
+      "id": "zenn-1c889e9429",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "ISUCONに初めて出たら、直すたびに次のボトルネックが出てきて、超面白かった",
+      "url": "https://zenn.dev/paraponera/articles/2026-10-31-isucon-2026-isureal",
       "score": 0,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Sat, 31 Oct 2026 06:40:40 GMT",
+      "date": "Sat, 31 Oct 2026 12:17:24 GMT",
       "hatena_count": 0
+    },
+    {
+      "id": "zenn-db3575a52a",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "16GB RAM・6GB VRAM のノート PC で gpt-oss-20b とチャットする",
+      "url": "https://zenn.dev/shozotanaka/articles/01877d688dfc65",
+      "score": 1,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 31 Oct 2026 08:47:05 GMT",
+      "hatena_count": 1
     },
     {
       "id": "zenn-9e8331269a",
@@ -3690,48 +3718,6 @@
       ],
       "date": "Sat, 31 Oct 2026 01:57:43 GMT",
       "hatena_count": 1
-    },
-    {
-      "id": "zenn-09d550a448",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "【Apple Vision Pro】Immersive Spaceを閉じた後のonDisappear、シミュレーターと実機で桁違いだった件",
-      "url": "https://zenn.dev/mrs1669/articles/20261031_visionos-dismiss-immersive-space",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 30 Oct 2026 21:19:58 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-879e7eda4a",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Claude Code 拡張機能のバックドア事件まとめ（2.1.312・2.1.313・Cursor のマーケットプレイス）",
-      "url": "https://zenn.dev/sonsu/articles/67fbd9a1cf8914",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 30 Oct 2026 18:30:00 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-51d92c4da8",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "NoSQLのスキーマ変更は読むときに受け止めよう",
-      "url": "https://zenn.dev/michiharu/articles/9562dfd249c8e3",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 30 Oct 2026 16:53:51 GMT",
-      "hatena_count": 0
     },
     {
       "id": "zenn-d83aa2d820",
@@ -3782,13 +3768,13 @@
       "sub_source": "Zenn",
       "title": "WASIじゃない、もう一つのインターフェース「WALI」という提案",
       "url": "https://zenn.dev/progate/articles/wali-webassembly-linux-interface",
-      "score": 21,
+      "score": 25,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 30 Oct 2026 00:45:50 GMT",
-      "hatena_count": 21
+      "hatena_count": 25
     },
     {
       "id": "zenn-19558615b0",
@@ -3859,6 +3845,20 @@
       ],
       "date": "Wed, 28 Oct 2026 10:14:03 GMT",
       "hatena_count": 106
+    },
+    {
+      "id": "zenn-9f4cd75113",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Auto mode時代のClaude Codeを守る。検証済み10キットで始めるセキュリティ対策【全員・チーム・組織別】",
+      "url": "https://zenn.dev/sonicmoov/articles/67aaeb49be69ec",
+      "score": 11,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 28 Oct 2026 03:17:06 GMT",
+      "hatena_count": 11
     },
     {
       "id": "zenn-1ef417e2bf",
@@ -4095,60 +4095,60 @@
       "hatena_count": 0
     },
     {
-      "id": "zenn-4f504ab158",
+      "id": "zenn-cd066b67db",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "3 人それぞれの Claude Code を Slack でつないで ISUCON2026 に参加した（207,039 点）",
-      "url": "https://zenn.dev/kauche/articles/f3736c660aab77",
-      "score": 14,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 31 Oct 2026 12:31:11 GMT",
-      "hatena_count": 21
-    },
-    {
-      "id": "zenn-1c889e9429",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "ISUCONに初めて出たら、直すたびに次のボトルネックが出てきて、超面白かった",
-      "url": "https://zenn.dev/paraponera/articles/2026-10-31-isucon-2026-isureal",
+      "title": "FlutterKaigi 2026 で生字幕を映像に載せて会場スクリーンに投影しました",
+      "url": "https://zenn.dev/hiro_pon/articles/2f3b68ec60ddae",
       "score": 0,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Sat, 31 Oct 2026 12:17:24 GMT",
+      "date": "Sat, 31 Oct 2026 06:40:40 GMT",
       "hatena_count": 0
     },
     {
-      "id": "zenn-db3575a52a",
+      "id": "zenn-09d550a448",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "16GB RAM・6GB VRAM のノート PC で gpt-oss-20b とチャットする",
-      "url": "https://zenn.dev/shozotanaka/articles/01877d688dfc65",
-      "score": 1,
+      "title": "【Apple Vision Pro】Immersive Spaceを閉じた後のonDisappear、シミュレーターと実機で桁違いだった件",
+      "url": "https://zenn.dev/mrs1669/articles/20261031_visionos-dismiss-immersive-space",
+      "score": 0,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Sat, 31 Oct 2026 08:47:05 GMT",
-      "hatena_count": 1
+      "date": "Fri, 30 Oct 2026 21:19:58 GMT",
+      "hatena_count": 0
     },
     {
-      "id": "zenn-9f4cd75113",
+      "id": "zenn-879e7eda4a",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "Auto mode時代のClaude Codeを守る。検証済み10キットで始めるセキュリティ対策【全員・チーム・組織別】",
-      "url": "https://zenn.dev/sonicmoov/articles/67aaeb49be69ec",
-      "score": 11,
+      "title": "Claude Code 拡張機能のバックドア事件まとめ（2.1.312・2.1.313・Cursor のマーケットプレイス）",
+      "url": "https://zenn.dev/sonsu/articles/67fbd9a1cf8914",
+      "score": 0,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Wed, 28 Oct 2026 03:17:06 GMT",
-      "hatena_count": 11
+      "date": "Fri, 30 Oct 2026 18:30:00 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-51d92c4da8",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "NoSQLのスキーマ変更は読むときに受け止めよう",
+      "url": "https://zenn.dev/michiharu/articles/9562dfd249c8e3",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 30 Oct 2026 16:53:51 GMT",
+      "hatena_count": 0
     },
     {
       "id": "zenn-ee96241e36",
