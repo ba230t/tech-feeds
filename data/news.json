@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T09:05:48.643316+00:00",
+  "updated_at": "2026-10-31T09:33:39.549452+00:00",
   "count": 376,
   "items": [
     {
@@ -3487,13 +3487,13 @@
       "sub_source": "Zenn",
       "title": "今後のセキュリティの考え方",
       "url": "https://zenn.dev/cscloud_blog/articles/a987163efae5d8",
-      "score": 194,
+      "score": 196,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 30 Oct 2026 10:30:27 GMT",
-      "hatena_count": 194
+      "hatena_count": 196
     },
     {
       "id": "zenn-ee96241e36",
@@ -3529,13 +3529,13 @@
       "sub_source": "Zenn",
       "title": "IVRyのSREの取り組み 2026冬",
       "url": "https://zenn.dev/ivry/articles/70d4f05ce4ae5c",
-      "score": 18,
+      "score": 20,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 30 Oct 2026 07:50:00 GMT",
-      "hatena_count": 18
+      "hatena_count": 20
     },
     {
       "id": "zenn-829de1210f",
