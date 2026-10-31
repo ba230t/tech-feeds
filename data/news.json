@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T01:34:38.071491+00:00",
+  "updated_at": "2026-10-31T02:06:54.358425+00:00",
   "count": 361,
   "items": [
     {
@@ -3305,13 +3305,13 @@
       "sub_source": "Zenn",
       "title": "今後のセキュリティの考え方",
       "url": "https://zenn.dev/cscloud_blog/articles/a987163efae5d8",
-      "score": 142,
+      "score": 149,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 30 Oct 2026 10:30:27 GMT",
-      "hatena_count": 142
+      "hatena_count": 149
     },
     {
       "id": "zenn-8aa53e34fe",
@@ -3333,13 +3333,13 @@
       "sub_source": "Zenn",
       "title": "IVRyのSREの取り組み 2026冬",
       "url": "https://zenn.dev/ivry/articles/70d4f05ce4ae5c",
-      "score": 2,
+      "score": 3,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 30 Oct 2026 07:50:00 GMT",
-      "hatena_count": 2
+      "hatena_count": 3
     },
     {
       "id": "zenn-4a5a8c3dda",
@@ -3736,14 +3736,14 @@
       "sub_source": "Zenn",
       "title": "デバッグコードを脆弱性にしない方法",
       "url": "https://zenn.dev/yasuakiomokawa/articles/5a7188483acfe7",
-      "score": 0,
+      "score": 1,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 29 Oct 2026 11:30:33 GMT",
       "severity": "high",
-      "hatena_count": 0
+      "hatena_count": 1
     },
     {
       "id": "zenn-a31548fdaf",
