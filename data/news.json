@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T07:33:30.649359+00:00",
+  "updated_at": "2026-10-31T08:06:27.554712+00:00",
   "count": 363,
   "items": [
     {
@@ -3305,13 +3305,13 @@
       "sub_source": "Zenn",
       "title": "今後のセキュリティの考え方",
       "url": "https://zenn.dev/cscloud_blog/articles/a987163efae5d8",
-      "score": 188,
+      "score": 191,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 30 Oct 2026 10:30:27 GMT",
-      "hatena_count": 188
+      "hatena_count": 191
     },
     {
       "id": "zenn-ee96241e36",
@@ -3347,13 +3347,13 @@
       "sub_source": "Zenn",
       "title": "IVRyのSREの取り組み 2026冬",
       "url": "https://zenn.dev/ivry/articles/70d4f05ce4ae5c",
-      "score": 9,
+      "score": 15,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 30 Oct 2026 07:50:00 GMT",
-      "hatena_count": 9
+      "hatena_count": 15
     },
     {
       "id": "zenn-829de1210f",
@@ -3446,13 +3446,13 @@
       "sub_source": "Zenn",
       "title": "GitHub Actions で checkout@v7 のようなバージョン指定を書くのはやめよう！ 時代は actions.lock！",
       "url": "https://zenn.dev/progate/articles/24b1140180300c",
-      "score": 76,
+      "score": 77,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 29 Oct 2026 03:48:15 GMT",
-      "hatena_count": 76
+      "hatena_count": 77
     },
     {
       "id": "zenn-a1c2fc6d19",
@@ -3474,13 +3474,13 @@
       "sub_source": "Zenn",
       "title": "いいから休め - Black October が終わる今、セキュリティエンジニアがやるべきこと",
       "url": "https://zenn.dev/nayuta/articles/aec9ab2e11a7b7",
-      "score": 105,
+      "score": 106,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 28 Oct 2026 10:14:03 GMT",
-      "hatena_count": 105
+      "hatena_count": 106
     },
     {
       "id": "zenn-9f4cd75113",
@@ -3600,7 +3600,7 @@
       "source": "techracho",
       "title": "YJIT で純粋な Ruby コードがC拡張より速くなる理由（翻訳）",
       "url": "https://techracho.bpsinc.jp/hachi8833/2026_10_28/160886",
-      "score": 2,
+      "score": 3,
       "author": "Techracho",
       "tags": [
         "Ruby",
@@ -3608,7 +3608,7 @@
         "日本語"
       ],
       "date": "Wed, 28 Oct 2026 08:30:47 +0000",
-      "hatena_count": 2
+      "hatena_count": 3
     },
     {
       "id": "techracho-5c8766c6c7",
