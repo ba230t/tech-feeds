@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T02:33:31.140761+00:00",
+  "updated_at": "2026-10-31T03:05:59.178112+00:00",
   "count": 361,
   "items": [
     {
@@ -3305,13 +3305,13 @@
       "sub_source": "Zenn",
       "title": "今後のセキュリティの考え方",
       "url": "https://zenn.dev/cscloud_blog/articles/a987163efae5d8",
-      "score": 152,
+      "score": 162,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 30 Oct 2026 10:30:27 GMT",
-      "hatena_count": 152
+      "hatena_count": 162
     },
     {
       "id": "zenn-8aa53e34fe",
@@ -3347,14 +3347,14 @@
       "sub_source": "Zenn",
       "title": "yoroによろしくぅ！Ai Workforce 事業部のリモートコーディングエージェント環境 yoro のご紹介",
       "url": "https://zenn.dev/layerx/articles/a277f83a93d300",
-      "score": 1,
+      "score": 2,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 30 Oct 2026 02:11:36 GMT",
       "severity": "critical",
-      "hatena_count": 1
+      "hatena_count": 2
     },
     {
       "id": "zenn-179ca6648a",
