@@ -79,13 +79,13 @@
       "sub_source": "Zenn",
       "title": "今後のセキュリティの考え方",
       "url": "https://zenn.dev/cscloud_blog/articles/a987163efae5d8",
-      "score": 202,
+      "score": 204,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 30 Oct 2026 10:30:27 GMT",
-      "hatena_count": 202
+      "hatena_count": 204
     },
     {
       "id": "zenn-7e7a9f272a",
@@ -271,6 +271,20 @@
       "hatena_count": 32
     },
     {
+      "id": "zenn-709ca78294",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "IVRyのSREの取り組み 2026冬",
+      "url": "https://zenn.dev/ivry/articles/70d4f05ce4ae5c",
+      "score": 25,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 30 Oct 2026 07:50:00 GMT",
+      "hatena_count": 25
+    },
+    {
       "id": "zenn-6192aa503c",
       "source": "sns",
       "sub_source": "Zenn",
@@ -284,20 +298,6 @@
       "date": "Thu, 22 Oct 2026 01:30:07 GMT",
       "severity": "high",
       "hatena_count": 25
-    },
-    {
-      "id": "zenn-709ca78294",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "IVRyのSREの取り組み 2026冬",
-      "url": "https://zenn.dev/ivry/articles/70d4f05ce4ae5c",
-      "score": 24,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 30 Oct 2026 07:50:00 GMT",
-      "hatena_count": 24
     }
   ],
   "security_highlights": [
