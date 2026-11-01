@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T19:04:24.541539+00:00",
+  "updated_at": "2026-11-01T19:33:10.319545+00:00",
   "count": 412,
   "items": [
     {
@@ -3923,13 +3923,13 @@
       "sub_source": "Zenn",
       "title": "今後のセキュリティの考え方",
       "url": "https://zenn.dev/cscloud_blog/articles/a987163efae5d8",
-      "score": 226,
+      "score": 227,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 30 Oct 2026 10:30:27 GMT",
-      "hatena_count": 226
+      "hatena_count": 227
     },
     {
       "id": "zenn-dafe6c3a28",
