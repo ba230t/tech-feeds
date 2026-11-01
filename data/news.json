@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T13:04:50.069606+00:00",
+  "updated_at": "2026-11-01T13:33:26.355664+00:00",
   "count": 412,
   "items": [
     {
@@ -3839,13 +3839,13 @@
       "sub_source": "Zenn",
       "title": "3 人それぞれの Claude Code を Slack でつないで ISUCON2026 に参加した（207,039 点）",
       "url": "https://zenn.dev/kauche/articles/f3736c660aab77",
-      "score": 117,
+      "score": 118,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sat, 31 Oct 2026 12:31:11 GMT",
-      "hatena_count": 117
+      "hatena_count": 118
     },
     {
       "id": "zenn-1c889e9429",
@@ -3923,13 +3923,13 @@
       "sub_source": "Zenn",
       "title": "今後のセキュリティの考え方",
       "url": "https://zenn.dev/cscloud_blog/articles/a987163efae5d8",
-      "score": 219,
+      "score": 220,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 30 Oct 2026 10:30:27 GMT",
-      "hatena_count": 219
+      "hatena_count": 220
     },
     {
       "id": "zenn-dafe6c3a28",
@@ -4078,13 +4078,13 @@
       "sub_source": "Zenn",
       "title": "最近の E2E 戦略（2026 年 10 月現在）",
       "url": "https://zenn.dev/polyco/articles/26624b38c951b5",
-      "score": 192,
+      "score": 193,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 26 Oct 2026 01:18:03 GMT",
-      "hatena_count": 192
+      "hatena_count": 193
     },
     {
       "id": "techracho-9300f8dd2f",
@@ -5289,7 +5289,7 @@
         "Zenn"
       ],
       "date": "Wed, 21 Oct 2026 02:14:44 GMT",
-      "hatena_count": 652
+      "hatena_count": 653
     },
     {
       "id": "zenn-6d6c574d3c",
