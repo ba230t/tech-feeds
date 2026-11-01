@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-01T06:08:48.781260+00:00",
-  "count": 397,
+  "updated_at": "2026-11-01T06:35:53.490616+00:00",
+  "count": 399,
   "items": [
     {
       "id": "qiita-451ccee1ad",
@@ -3669,13 +3669,13 @@
       "sub_source": "Zenn",
       "title": "3 人それぞれの Claude Code を Slack でつないで ISUCON2026 に参加した（207,039 点）",
       "url": "https://zenn.dev/kauche/articles/f3736c660aab77",
-      "score": 92,
+      "score": 95,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sat, 31 Oct 2026 12:31:11 GMT",
-      "hatena_count": 92
+      "hatena_count": 95
     },
     {
       "id": "zenn-1c889e9429",
@@ -3689,6 +3689,34 @@
         "Zenn"
       ],
       "date": "Sat, 31 Oct 2026 12:17:24 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-7934fc26b4",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "ISUCON2026に人間1人＋AIエージェント軍団で出て19.6万点、ループは閉じたけど中身が弱かった反省文😇",
+      "url": "https://zenn.dev/tak848/articles/20261031-isucon2026-writeup",
+      "score": 1,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 31 Oct 2026 10:53:26 GMT",
+      "hatena_count": 1
+    },
+    {
+      "id": "zenn-3ee32aed16",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "ペイントツール上でニューラルネットワークを動かす",
+      "url": "https://zenn.dev/melville/articles/953aa2b41f674b",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 31 Oct 2026 10:16:28 GMT",
       "hatena_count": 0
     },
     {
@@ -3819,20 +3847,6 @@
       "hatena_count": 80
     },
     {
-      "id": "zenn-a1c2fc6d19",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "KaniによるVerylコンパイラの形式検証",
-      "url": "https://zenn.dev/dalance/articles/44a8f80ea0cfa1",
-      "score": 2,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 29 Oct 2026 03:17:06 GMT",
-      "hatena_count": 2
-    },
-    {
       "id": "zenn-47a83a0acf",
       "source": "sns",
       "sub_source": "Zenn",
@@ -3845,20 +3859,6 @@
       ],
       "date": "Wed, 28 Oct 2026 10:14:03 GMT",
       "hatena_count": 106
-    },
-    {
-      "id": "zenn-9f4cd75113",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Auto mode時代のClaude Codeを守る。検証済み10キットで始めるセキュリティ対策【全員・チーム・組織別】",
-      "url": "https://zenn.dev/sonicmoov/articles/67aaeb49be69ec",
-      "score": 11,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 28 Oct 2026 03:17:06 GMT",
-      "hatena_count": 11
     },
     {
       "id": "zenn-1ef417e2bf",
@@ -4093,6 +4093,34 @@
       ],
       "date": "Mon, 12 Oct 2026 08:00:53 +0000",
       "hatena_count": 0
+    },
+    {
+      "id": "zenn-a1c2fc6d19",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "KaniによるVerylコンパイラの形式検証",
+      "url": "https://zenn.dev/dalance/articles/44a8f80ea0cfa1",
+      "score": 2,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 29 Oct 2026 03:17:06 GMT",
+      "hatena_count": 2
+    },
+    {
+      "id": "zenn-9f4cd75113",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Auto mode時代のClaude Codeを守る。検証済み10キットで始めるセキュリティ対策【全員・チーム・組織別】",
+      "url": "https://zenn.dev/sonicmoov/articles/67aaeb49be69ec",
+      "score": 11,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 28 Oct 2026 03:17:06 GMT",
+      "hatena_count": 11
     },
     {
       "id": "zenn-cd066b67db",
