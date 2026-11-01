@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T22:04:46.276423+00:00",
+  "updated_at": "2026-11-01T22:33:14.343554+00:00",
   "count": 424,
   "items": [
     {
@@ -3979,13 +3979,13 @@
       "sub_source": "Zenn",
       "title": "ISUCON 2026 参加記",
       "url": "https://zenn.dev/catatsuy/articles/159edffe202c0c",
-      "score": 0,
+      "score": 1,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sun, 01 Nov 2026 03:40:42 GMT",
-      "hatena_count": 0
+      "hatena_count": 1
     },
     {
       "id": "zenn-a1c25bf090",
@@ -4007,13 +4007,13 @@
       "sub_source": "Zenn",
       "title": "3 人それぞれの Claude Code を Slack でつないで ISUCON2026 に参加した（207,039 点）",
       "url": "https://zenn.dev/kauche/articles/f3736c660aab77",
-      "score": 123,
+      "score": 126,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sat, 31 Oct 2026 12:31:11 GMT",
-      "hatena_count": 123
+      "hatena_count": 126
     },
     {
       "id": "zenn-1c889e9429",
@@ -4035,13 +4035,13 @@
       "sub_source": "Zenn",
       "title": "ISUCON2026に人間1人＋AIエージェント軍団で出て19.6万点、ループは閉じたけど中身が弱かった反省文😇",
       "url": "https://zenn.dev/tak848/articles/20261031-isucon2026-writeup",
-      "score": 1,
+      "score": 2,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sat, 31 Oct 2026 10:53:26 GMT",
-      "hatena_count": 1
+      "hatena_count": 2
     },
     {
       "id": "zenn-3ee32aed16",
@@ -5457,7 +5457,7 @@
         "Zenn"
       ],
       "date": "Wed, 21 Oct 2026 02:14:44 GMT",
-      "hatena_count": 653
+      "hatena_count": 654
     },
     {
       "id": "zenn-6d6c574d3c",
