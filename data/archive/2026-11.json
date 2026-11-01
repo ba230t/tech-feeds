@@ -152,6 +152,20 @@
       "hatena_count": 100
     },
     {
+      "id": "zenn-4f504ab158",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "3 人それぞれの Claude Code を Slack でつないで ISUCON2026 に参加した（207,039 点）",
+      "url": "https://zenn.dev/kauche/articles/f3736c660aab77",
+      "score": 87,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 31 Oct 2026 12:31:11 GMT",
+      "hatena_count": 87
+    },
+    {
       "id": "zenn-49bbe1bd17",
       "source": "sns",
       "sub_source": "Zenn",
@@ -164,20 +178,6 @@
       ],
       "date": "Fri, 23 Oct 2026 09:00:05 GMT",
       "hatena_count": 90
-    },
-    {
-      "id": "zenn-4f504ab158",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "3 人それぞれの Claude Code を Slack でつないで ISUCON2026 に参加した（207,039 点）",
-      "url": "https://zenn.dev/kauche/articles/f3736c660aab77",
-      "score": 83,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 31 Oct 2026 12:31:11 GMT",
-      "hatena_count": 83
     },
     {
       "id": "zenn-2dc50e40ad",
