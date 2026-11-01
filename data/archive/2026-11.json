@@ -45,13 +45,13 @@
       "sub_source": "Zenn",
       "title": "今後のセキュリティの考え方",
       "url": "https://zenn.dev/cscloud_blog/articles/a987163efae5d8",
-      "score": 213,
+      "score": 215,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 30 Oct 2026 10:30:27 GMT",
-      "hatena_count": 213
+      "hatena_count": 215
     },
     {
       "id": "zenn-f64ba0d17d",
@@ -157,13 +157,13 @@
       "sub_source": "Zenn",
       "title": "3 人それぞれの Claude Code を Slack でつないで ISUCON2026 に参加した（207,039 点）",
       "url": "https://zenn.dev/kauche/articles/f3736c660aab77",
-      "score": 95,
+      "score": 99,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sat, 31 Oct 2026 12:31:11 GMT",
-      "hatena_count": 95
+      "hatena_count": 99
     },
     {
       "id": "zenn-49bbe1bd17",
@@ -222,6 +222,20 @@
       "hatena_count": 46
     },
     {
+      "id": "zenn-3c60c695ec",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "WASIじゃない、もう一つのインターフェース「WALI」という提案",
+      "url": "https://zenn.dev/progate/articles/wali-webassembly-linux-interface",
+      "score": 32,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 30 Oct 2026 00:45:50 GMT",
+      "hatena_count": 32
+    },
+    {
       "id": "zenn-0f91e18d0b",
       "source": "sns",
       "sub_source": "Zenn",
@@ -234,20 +248,6 @@
       ],
       "date": "Tue, 20 Oct 2026 02:00:05 GMT",
       "hatena_count": 32
-    },
-    {
-      "id": "zenn-3c60c695ec",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "WASIじゃない、もう一つのインターフェース「WALI」という提案",
-      "url": "https://zenn.dev/progate/articles/wali-webassembly-linux-interface",
-      "score": 30,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 30 Oct 2026 00:45:50 GMT",
-      "hatena_count": 30
     },
     {
       "id": "zenn-709ca78294",
