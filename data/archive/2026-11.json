@@ -45,13 +45,13 @@
       "sub_source": "Zenn",
       "title": "今後のセキュリティの考え方",
       "url": "https://zenn.dev/cscloud_blog/articles/a987163efae5d8",
-      "score": 208,
+      "score": 210,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 30 Oct 2026 10:30:27 GMT",
-      "hatena_count": 208
+      "hatena_count": 210
     },
     {
       "id": "zenn-7e7a9f272a",
@@ -121,7 +121,7 @@
         "Zenn"
       ],
       "date": "Sun, 25 Oct 2026 22:44:03 GMT",
-      "hatena_count": 121
+      "hatena_count": 122
     },
     {
       "id": "zenn-47a83a0acf",
@@ -199,13 +199,13 @@
       "sub_source": "Zenn",
       "title": "3 人それぞれの Claude Code を Slack でつないで ISUCON2026 に参加した（207,039 点）",
       "url": "https://zenn.dev/kauche/articles/f3736c660aab77",
-      "score": 53,
+      "score": 71,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sat, 31 Oct 2026 12:31:11 GMT",
-      "hatena_count": 53
+      "hatena_count": 71
     },
     {
       "id": "zenn-1ef417e2bf",
@@ -236,6 +236,20 @@
       "hatena_count": 32
     },
     {
+      "id": "zenn-3c60c695ec",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "WASIじゃない、もう一つのインターフェース「WALI」という提案",
+      "url": "https://zenn.dev/progate/articles/wali-webassembly-linux-interface",
+      "score": 30,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 30 Oct 2026 00:45:50 GMT",
+      "hatena_count": 30
+    },
+    {
       "id": "zenn-709ca78294",
       "source": "sns",
       "sub_source": "Zenn",
@@ -248,20 +262,6 @@
       ],
       "date": "Fri, 30 Oct 2026 07:50:00 GMT",
       "hatena_count": 29
-    },
-    {
-      "id": "zenn-3c60c695ec",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "WASIじゃない、もう一つのインターフェース「WALI」という提案",
-      "url": "https://zenn.dev/progate/articles/wali-webassembly-linux-interface",
-      "score": 28,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 30 Oct 2026 00:45:50 GMT",
-      "hatena_count": 28
     },
     {
       "id": "zenn-6192aa503c",
