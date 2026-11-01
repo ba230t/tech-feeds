@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T04:06:21.661963+00:00",
+  "updated_at": "2026-11-01T04:33:29.932743+00:00",
   "count": 397,
   "items": [
     {
@@ -3669,13 +3669,13 @@
       "sub_source": "Zenn",
       "title": "3 人それぞれの Claude Code を Slack でつないで ISUCON2026 に参加した（207,039 点）",
       "url": "https://zenn.dev/kauche/articles/f3736c660aab77",
-      "score": 78,
+      "score": 83,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sat, 31 Oct 2026 12:31:11 GMT",
-      "hatena_count": 78
+      "hatena_count": 83
     },
     {
       "id": "zenn-1c889e9429",
@@ -3725,13 +3725,13 @@
       "sub_source": "Zenn",
       "title": "今後のセキュリティの考え方",
       "url": "https://zenn.dev/cscloud_blog/articles/a987163efae5d8",
-      "score": 212,
+      "score": 213,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 30 Oct 2026 10:30:27 GMT",
-      "hatena_count": 212
+      "hatena_count": 213
     },
     {
       "id": "zenn-709ca78294",
@@ -3796,13 +3796,13 @@
       "sub_source": "Zenn",
       "title": "人間がコードを読まずにPRをマージする技術 ─ それでも、品質は手放さない",
       "url": "https://zenn.dev/karamage/articles/ac71f1c89c73ff",
-      "score": 1,
+      "score": 2,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 29 Oct 2026 08:26:16 GMT",
-      "hatena_count": 1
+      "hatena_count": 2
     },
     {
       "id": "zenn-2dc50e40ad",

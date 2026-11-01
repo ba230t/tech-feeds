@@ -45,13 +45,13 @@
       "sub_source": "Zenn",
       "title": "今後のセキュリティの考え方",
       "url": "https://zenn.dev/cscloud_blog/articles/a987163efae5d8",
-      "score": 212,
+      "score": 213,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 30 Oct 2026 10:30:27 GMT",
-      "hatena_count": 212
+      "hatena_count": 213
     },
     {
       "id": "zenn-f64ba0d17d",
@@ -166,6 +166,20 @@
       "hatena_count": 90
     },
     {
+      "id": "zenn-4f504ab158",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "3 人それぞれの Claude Code を Slack でつないで ISUCON2026 に参加した（207,039 点）",
+      "url": "https://zenn.dev/kauche/articles/f3736c660aab77",
+      "score": 83,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 31 Oct 2026 12:31:11 GMT",
+      "hatena_count": 83
+    },
+    {
       "id": "zenn-2dc50e40ad",
       "source": "sns",
       "sub_source": "Zenn",
@@ -178,20 +192,6 @@
       ],
       "date": "Thu, 29 Oct 2026 03:48:15 GMT",
       "hatena_count": 80
-    },
-    {
-      "id": "zenn-4f504ab158",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "3 人それぞれの Claude Code を Slack でつないで ISUCON2026 に参加した（207,039 点）",
-      "url": "https://zenn.dev/kauche/articles/f3736c660aab77",
-      "score": 78,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 31 Oct 2026 12:31:11 GMT",
-      "hatena_count": 78
     },
     {
       "id": "zenn-ecb9a4ef6b",
