@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T12:33:13.812501+00:00",
+  "updated_at": "2026-11-01T13:04:50.069606+00:00",
   "count": 412,
   "items": [
     {
@@ -3806,6 +3806,34 @@
       "hatena_count": 1
     },
     {
+      "id": "zenn-cd291dcdde",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "ISUCON 2026 参加記",
+      "url": "https://zenn.dev/catatsuy/articles/159edffe202c0c",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 01 Nov 2026 03:40:42 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-a1c25bf090",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "ISUCON2026 本番に出た",
+      "url": "https://zenn.dev/ntk221/articles/98b17a773669a1",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 31 Oct 2026 13:14:45 GMT",
+      "hatena_count": 0
+    },
+    {
       "id": "zenn-4f504ab158",
       "source": "sns",
       "sub_source": "Zenn",
@@ -3895,27 +3923,27 @@
       "sub_source": "Zenn",
       "title": "今後のセキュリティの考え方",
       "url": "https://zenn.dev/cscloud_blog/articles/a987163efae5d8",
-      "score": 218,
+      "score": 219,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 30 Oct 2026 10:30:27 GMT",
-      "hatena_count": 218
+      "hatena_count": 219
     },
     {
-      "id": "zenn-709ca78294",
+      "id": "zenn-dafe6c3a28",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "IVRyのSREの取り組み 2026冬",
-      "url": "https://zenn.dev/ivry/articles/70d4f05ce4ae5c",
-      "score": 29,
+      "title": "Cloudflare Workers を触ってみた",
+      "url": "https://zenn.dev/atware/articles/ec1dfd799289b7",
+      "score": 2,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Fri, 30 Oct 2026 07:50:00 GMT",
-      "hatena_count": 29
+      "date": "Fri, 30 Oct 2026 05:01:51 GMT",
+      "hatena_count": 2
     },
     {
       "id": "zenn-4a5a8c3dda",
@@ -3959,20 +3987,6 @@
       ],
       "date": "Thu, 29 Oct 2026 10:30:05 GMT",
       "hatena_count": 14
-    },
-    {
-      "id": "zenn-cbbebf50dc",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "人間がコードを読まずにPRをマージする技術 ─ それでも、品質は手放さない",
-      "url": "https://zenn.dev/karamage/articles/ac71f1c89c73ff",
-      "score": 2,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 29 Oct 2026 08:26:16 GMT",
-      "hatena_count": 2
     },
     {
       "id": "zenn-2dc50e40ad",
@@ -4057,20 +4071,6 @@
       ],
       "date": "Mon, 26 Oct 2026 13:54:50 GMT",
       "hatena_count": 0
-    },
-    {
-      "id": "zenn-60cec5a308",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "AI の謎な説明文を直すスキル",
-      "url": "https://zenn.dev/microsoft/articles/explain-before-shorten",
-      "score": 163,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 26 Oct 2026 04:32:54 GMT",
-      "hatena_count": 163
     },
     {
       "id": "zenn-f64ba0d17d",
@@ -4237,46 +4237,46 @@
       "hatena_count": 0
     },
     {
-      "id": "zenn-cd291dcdde",
+      "id": "zenn-709ca78294",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "ISUCON 2026 参加記",
-      "url": "https://zenn.dev/catatsuy/articles/159edffe202c0c",
-      "score": 0,
+      "title": "IVRyのSREの取り組み 2026冬",
+      "url": "https://zenn.dev/ivry/articles/70d4f05ce4ae5c",
+      "score": 29,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Sun, 01 Nov 2026 03:40:42 GMT",
-      "hatena_count": 0
+      "date": "Fri, 30 Oct 2026 07:50:00 GMT",
+      "hatena_count": 29
     },
     {
-      "id": "zenn-a1c25bf090",
+      "id": "zenn-cbbebf50dc",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "ISUCON2026 本番に出た",
-      "url": "https://zenn.dev/ntk221/articles/98b17a773669a1",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 31 Oct 2026 13:14:45 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-dafe6c3a28",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Cloudflare Workers を触ってみた",
-      "url": "https://zenn.dev/atware/articles/ec1dfd799289b7",
+      "title": "人間がコードを読まずにPRをマージする技術 ─ それでも、品質は手放さない",
+      "url": "https://zenn.dev/karamage/articles/ac71f1c89c73ff",
       "score": 2,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Fri, 30 Oct 2026 05:01:51 GMT",
+      "date": "Thu, 29 Oct 2026 08:26:16 GMT",
       "hatena_count": 2
+    },
+    {
+      "id": "zenn-60cec5a308",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "AI の謎な説明文を直すスキル",
+      "url": "https://zenn.dev/microsoft/articles/explain-before-shorten",
+      "score": 163,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 26 Oct 2026 04:32:54 GMT",
+      "hatena_count": 163
     },
     {
       "id": "zenn-a1c2fc6d19",
