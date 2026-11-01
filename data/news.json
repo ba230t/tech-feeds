@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-01T22:33:14.343554+00:00",
-  "count": 424,
+  "updated_at": "2026-11-01T23:04:30.699693+00:00",
+  "count": 428,
   "items": [
     {
       "id": "qiita-ef4ea4d6a2",
@@ -3974,6 +3974,48 @@
       "hatena_count": 1
     },
     {
+      "id": "zenn-fa49f4d51c",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "ISUCON 2026 Writeup / チーム nicklegr",
+      "url": "https://zenn.dev/nicklegr/articles/de0a6fd86b6ce3",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 01 Nov 2026 12:20:12 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-bd2d2f6bd8",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "ISUCON2026 にツールを捨てて勝ちたかった",
+      "url": "https://zenn.dev/mazrean/articles/5c968503fd69a3",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 01 Nov 2026 12:16:33 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-756c8bc67f",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "パフォーマンスチューニング経験ゼロ、事前準備ゼロでISUCON2026に出て、良い経験になった話",
+      "url": "https://zenn.dev/go_furu93/articles/isucon2026-solo-retro-20261031-bc4f82",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 01 Nov 2026 04:39:46 GMT",
+      "hatena_count": 0
+    },
+    {
       "id": "zenn-cd291dcdde",
       "source": "sns",
       "sub_source": "Zenn",
@@ -4058,20 +4100,6 @@
       "hatena_count": 1
     },
     {
-      "id": "zenn-db3575a52a",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "16GB RAM・6GB VRAM のノート PC で gpt-oss-20b とチャットする",
-      "url": "https://zenn.dev/shozotanaka/articles/01877d688dfc65",
-      "score": 1,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 31 Oct 2026 08:47:05 GMT",
-      "hatena_count": 1
-    },
-    {
       "id": "zenn-9e8331269a",
       "source": "sns",
       "sub_source": "Zenn",
@@ -4091,13 +4119,27 @@
       "sub_source": "Zenn",
       "title": "今後のセキュリティの考え方",
       "url": "https://zenn.dev/cscloud_blog/articles/a987163efae5d8",
-      "score": 227,
+      "score": 228,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 30 Oct 2026 10:30:27 GMT",
-      "hatena_count": 227
+      "hatena_count": 228
+    },
+    {
+      "id": "zenn-5992d09aad",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "プロダクトの情報を「浴びるように」見られる場所を作った話",
+      "url": "https://zenn.dev/tokium_dev/articles/product-cockpit-for-product-teams",
+      "score": 1,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 30 Oct 2026 08:18:26 GMT",
+      "hatena_count": 1
     },
     {
       "id": "zenn-dafe6c3a28",
@@ -4143,18 +4185,18 @@
       "hatena_count": 36
     },
     {
-      "id": "zenn-19558615b0",
+      "id": "zenn-cbbebf50dc",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "元フロントエンドエンジニアがプロダクトエンジニアとして強制成長した1年",
-      "url": "https://zenn.dev/dress_code/articles/bbc5159fefbd2c",
-      "score": 14,
+      "title": "人間がコードを読まずにPRをマージする技術 ─ それでも、品質は手放さない",
+      "url": "https://zenn.dev/karamage/articles/ac71f1c89c73ff",
+      "score": 2,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Thu, 29 Oct 2026 10:30:05 GMT",
-      "hatena_count": 14
+      "date": "Thu, 29 Oct 2026 08:26:16 GMT",
+      "hatena_count": 2
     },
     {
       "id": "zenn-2dc50e40ad",
@@ -4171,18 +4213,18 @@
       "hatena_count": 81
     },
     {
-      "id": "zenn-47a83a0acf",
+      "id": "zenn-a1c2fc6d19",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "いいから休め - Black October が終わる今、セキュリティエンジニアがやるべきこと",
-      "url": "https://zenn.dev/nayuta/articles/aec9ab2e11a7b7",
-      "score": 107,
+      "title": "KaniによるVerylコンパイラの形式検証",
+      "url": "https://zenn.dev/dalance/articles/44a8f80ea0cfa1",
+      "score": 2,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Wed, 28 Oct 2026 10:14:03 GMT",
-      "hatena_count": 107
+      "date": "Thu, 29 Oct 2026 03:17:06 GMT",
+      "hatena_count": 2
     },
     {
       "id": "zenn-1ef417e2bf",
@@ -4199,20 +4241,6 @@
       "hatena_count": 46
     },
     {
-      "id": "zenn-2e4ea0d7bc",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "AIエージェントに設計書レビューを任せたらレビュワーは楽になった。でも現場は？？",
-      "url": "https://zenn.dev/nttdata_tech/articles/6a06f484ebfab7",
-      "score": 1,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 28 Oct 2026 01:21:43 GMT",
-      "hatena_count": 1
-    },
-    {
       "id": "zenn-ed54cd5c88",
       "source": "sns",
       "sub_source": "Zenn",
@@ -4225,34 +4253,6 @@
       ],
       "date": "Tue, 27 Oct 2026 11:00:05 GMT",
       "hatena_count": 127
-    },
-    {
-      "id": "zenn-670467d688",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "学生2人で日本語音声LLMを作り、FT-LLM 2026 自由形タスクで1位を獲得した話",
-      "url": "https://zenn.dev/ayutaso/articles/ftllm2026-ja-speech-llm",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 26 Oct 2026 13:54:50 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-f64ba0d17d",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "最近の E2E 戦略（2026 年 10 月現在）",
-      "url": "https://zenn.dev/polyco/articles/26624b38c951b5",
-      "score": 195,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 26 Oct 2026 01:18:03 GMT",
-      "hatena_count": 195
     },
     {
       "id": "techracho-9300f8dd2f",
@@ -4405,6 +4405,90 @@
       "hatena_count": 0
     },
     {
+      "id": "zenn-db3575a52a",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "16GB RAM・6GB VRAM のノート PC で gpt-oss-20b とチャットする",
+      "url": "https://zenn.dev/shozotanaka/articles/01877d688dfc65",
+      "score": 1,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 31 Oct 2026 08:47:05 GMT",
+      "hatena_count": 1
+    },
+    {
+      "id": "zenn-19558615b0",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "元フロントエンドエンジニアがプロダクトエンジニアとして強制成長した1年",
+      "url": "https://zenn.dev/dress_code/articles/bbc5159fefbd2c",
+      "score": 14,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 29 Oct 2026 10:30:05 GMT",
+      "hatena_count": 14
+    },
+    {
+      "id": "zenn-47a83a0acf",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "いいから休め - Black October が終わる今、セキュリティエンジニアがやるべきこと",
+      "url": "https://zenn.dev/nayuta/articles/aec9ab2e11a7b7",
+      "score": 107,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 28 Oct 2026 10:14:03 GMT",
+      "hatena_count": 107
+    },
+    {
+      "id": "zenn-2e4ea0d7bc",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "AIエージェントに設計書レビューを任せたらレビュワーは楽になった。でも現場は？？",
+      "url": "https://zenn.dev/nttdata_tech/articles/6a06f484ebfab7",
+      "score": 1,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 28 Oct 2026 01:21:43 GMT",
+      "hatena_count": 1
+    },
+    {
+      "id": "zenn-670467d688",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "学生2人で日本語音声LLMを作り、FT-LLM 2026 自由形タスクで1位を獲得した話",
+      "url": "https://zenn.dev/ayutaso/articles/ftllm2026-ja-speech-llm",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 26 Oct 2026 13:54:50 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-f64ba0d17d",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "最近の E2E 戦略（2026 年 10 月現在）",
+      "url": "https://zenn.dev/polyco/articles/26624b38c951b5",
+      "score": 195,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 26 Oct 2026 01:18:03 GMT",
+      "hatena_count": 195
+    },
+    {
       "id": "zenn-709ca78294",
       "source": "sns",
       "sub_source": "Zenn",
@@ -4419,20 +4503,6 @@
       "hatena_count": 29
     },
     {
-      "id": "zenn-cbbebf50dc",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "人間がコードを読まずにPRをマージする技術 ─ それでも、品質は手放さない",
-      "url": "https://zenn.dev/karamage/articles/ac71f1c89c73ff",
-      "score": 2,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 29 Oct 2026 08:26:16 GMT",
-      "hatena_count": 2
-    },
-    {
       "id": "zenn-60cec5a308",
       "source": "sns",
       "sub_source": "Zenn",
@@ -4445,20 +4515,6 @@
       ],
       "date": "Mon, 26 Oct 2026 04:32:54 GMT",
       "hatena_count": 164
-    },
-    {
-      "id": "zenn-a1c2fc6d19",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "KaniによるVerylコンパイラの形式検証",
-      "url": "https://zenn.dev/dalance/articles/44a8f80ea0cfa1",
-      "score": 2,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 29 Oct 2026 03:17:06 GMT",
-      "hatena_count": 2
     },
     {
       "id": "zenn-9f4cd75113",
