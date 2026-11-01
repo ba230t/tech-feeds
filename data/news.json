@@ -1,7 +1,63 @@
 {
-  "updated_at": "2026-11-01T20:05:05.592290+00:00",
-  "count": 412,
+  "updated_at": "2026-11-01T20:33:44.894130+00:00",
+  "count": 424,
   "items": [
+    {
+      "id": "qiita-ef4ea4d6a2",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "compact の使い方、間違えるとトークン代 2.75 倍？ Claude Code で測ってわかった 5 つの結論【2026年版】",
+      "url": "https://qiita.com/songchong/items/ac9779bb8e8838b546b9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-02T04:05:20+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-80280adecb",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "【みのるん式】Claude Code仕事術を読んだら、自分のモノレポの答え合わせになりました！",
+      "url": "https://qiita.com/yosuke-suzuki/items/94a3794c8c6bb5e10079?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-01T23:59:28+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-335be4700d",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "【未来を解説】AIでエンジニア格差を生み出す質とスピードの考え方",
+      "url": "https://qiita.com/Sicut_study/items/b9e38c0584d4aa720d31?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-01T17:41:55+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-9a96e277a1",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "AIに証明を書かせてセキュアに開発する言語 Tauto をリリースしました！",
+      "url": "https://qiita.com/ryo33/items/3a1a9d1ba2b289b23244?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-01T17:06:32+09:00",
+      "hatena_count": 0
+    },
     {
       "id": "qiita-bcbc8c3736",
       "source": "sns",
@@ -14,6 +70,48 @@
         "Qiita"
       ],
       "date": "2026-11-01T12:30:43+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-bd8dc8c4fd",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "「画面でデプロイしてください」と AI に言わせない ── GAS をブラウザゼロ・1秒台で直しきる『秀GASマネージャー』ができるまで",
+      "url": "https://qiita.com/shu15511551/items/228dfa134c76e15ab1a8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-01T08:24:19+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-334d381771",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "ローカル LLM の監視強化（前編）：Qwen の「外への送信」報道を受けて、AI エージェントを OS とネットワークで止める",
+      "url": "https://qiita.com/nabe2030/items/0b89543adbf2ba60bf25?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-01T08:07:08+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-a315a0e212",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "受験生用鉄緑風プリント作成プロンプト",
+      "url": "https://qiita.com/KKTeX/items/c2612d68b2882afd620a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-01T07:55:06+09:00",
       "hatena_count": 0
     },
     {
@@ -43,6 +141,34 @@
         "Qiita"
       ],
       "date": "2026-11-01T02:41:28+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-96aff116ad",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "PicoRubyKaigi 2026 に行ってきた",
+      "url": "https://qiita.com/tomoasleep/items/80b624b64d17eeb14d74?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-31T23:12:08+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-f76f235cd3",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "Claudeくん！これ作って！~コスト可視化~",
+      "url": "https://qiita.com/hotate_2235/items/b72c85b001fcf6b575da?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-31T23:09:12+09:00",
       "hatena_count": 0
     },
     {
@@ -102,6 +228,20 @@
       "hatena_count": 0
     },
     {
+      "id": "qiita-a7ff99e604",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "世界を「巨大なJSON」として捉えたら、人間関係のバグとAIのディストピアに気づいてゾッとした話",
+      "url": "https://qiita.com/nuhaha_2023/items/30d0bc3cc1149bca17b7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-31T20:21:35+09:00",
+      "hatena_count": 0
+    },
+    {
       "id": "qiita-5e3c3d5aec",
       "source": "sns",
       "sub_source": "Qiita",
@@ -127,6 +267,20 @@
         "Qiita"
       ],
       "date": "2026-10-31T19:11:27+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-fa209a88d6",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "逸般家庭のProxmoxにPenpotを立てて、Claude Codeにデザインを見ながらアプリを作ってもらう",
+      "url": "https://qiita.com/hikaruright/items/b2d741c38f3f97366e56?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-31T18:47:11+09:00",
       "hatena_count": 0
     },
     {
@@ -380,6 +534,20 @@
         "Qiita"
       ],
       "date": "2026-10-30T23:54:24+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-6cd572db07",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "「git@github.com: Permission denied (publickey).」の解決方法",
+      "url": "https://qiita.com/keikeigo/items/6abe6791ddba060c16a0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-30T23:54:12+09:00",
       "hatena_count": 0
     },
     {
@@ -3839,13 +4007,13 @@
       "sub_source": "Zenn",
       "title": "3 人それぞれの Claude Code を Slack でつないで ISUCON2026 に参加した（207,039 点）",
       "url": "https://zenn.dev/kauche/articles/f3736c660aab77",
-      "score": 120,
+      "score": 121,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sat, 31 Oct 2026 12:31:11 GMT",
-      "hatena_count": 120
+      "hatena_count": 121
     },
     {
       "id": "zenn-1c889e9429",
