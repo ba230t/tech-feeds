@@ -1,14 +1,14 @@
 {
   "month": "2026-10",
-  "total_articles": 241,
+  "total_articles": 250,
   "summary": "# 2026-10の技術動向レポート\n\n**セキュリティ動向 (6件)**\n\n1. 【事前準備のお願い】PHPのセキュリティリリース公開予定について\n\n2. Oracle Java の脆弱性対策について(2026年10月)\n\n3. 更新：PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell)\n\n4. 注意喚起: PHPにおける複数の脆弱性（CVE-2026-109618、CVE-2026-109619）に関する注意喚起  (更新)\n\n5. 注意喚起: BrotliのC言語実装における境界外書き込みの脆弱性（CVE-2026-111497）に関する注意喚起  (公開)\n\n6. 注意喚起: SiteGuard Server EditionにおけるOSコマンドインジェクションの脆弱性（CVE-2026-106931）に関する注意喚起  (公開)\n\n**AI・機械学習動向 (2件)**\n\n1. Xで話題の、原文をたどってドメイン知識を集めるスキル「imozuru」を普通のAI検索と比べてみた\n\n2. 実際に試したClaude便利術20選 まとめ\n\n**技術トレンド (2件)**\n\n1. 注意喚起: 直近で相次いでいる国内組織における不正アクセスに関する注意喚起  (更新)\n\n2. 不正アクセスによる漏えい等の事案を踏まえ、速やかに実施すべき対策等について",
   "source_counts": {
-    "sns": 190,
+    "sns": 199,
     "jpcert": 45,
     "ipa": 6
   },
   "severity_counts": {
-    "high": 11,
+    "high": 13,
     "medium": 7,
     "critical": 6,
     "info": 38
@@ -292,21 +292,52 @@
       "hatena_count": 1
     },
     {
-      "id": "qiita-451ccee1ad",
+      "id": "qiita-3013fe5eb9",
       "source": "sns",
       "sub_source": "Qiita",
-      "title": "「暑く／寒くなるほど激しく踊る現在気温BOT」のしくみとこだわり",
-      "url": "https://qiita.com/UmiKazeYu/items/33b65f26620601120e70?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "title": "脆弱性情報を開発チームで見逃さないようにSlackにRSSフィードを設定してみた",
+      "url": "https://qiita.com/yukmaru/items/a3f358cc3e58e435df61?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
       "score": 0,
       "author": "Qiita",
       "tags": [
         "Qiita"
       ],
-      "date": "2026-10-31T22:30:51+09:00",
+      "date": "2026-11-01T03:52:30+09:00",
+      "severity": "high",
       "hatena_count": 0
     }
   ],
   "security_highlights": [
+    {
+      "id": "qiita-3013fe5eb9",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "脆弱性情報を開発チームで見逃さないようにSlackにRSSフィードを設定してみた",
+      "url": "https://qiita.com/yukmaru/items/a3f358cc3e58e435df61?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-01T03:52:30+09:00",
+      "severity": "high",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-ba0acee5c2",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "自宅ラズパイの脆弱性チェックをしたらHIGH以上が2000件見つかった",
+      "url": "https://qiita.com/yugulab/items/5cdb6f191ef5171adc79?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-31T17:52:53+09:00",
+      "severity": "high",
+      "hatena_count": 0
+    },
     {
       "id": "qiita-52603f0628",
       "source": "sns",

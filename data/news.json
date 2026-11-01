@@ -1,7 +1,64 @@
 {
-  "updated_at": "2026-11-01T08:06:25.752480+00:00",
-  "count": 399,
+  "updated_at": "2026-11-01T08:33:36.607788+00:00",
+  "count": 409,
   "items": [
+    {
+      "id": "qiita-bcbc8c3736",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "10か月間レートが停滞した自分が突如黄パフォを出し青コーダーになれた理由",
+      "url": "https://qiita.com/river0525/items/b1a996308f0566a01384?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-01T12:30:43+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-3013fe5eb9",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "脆弱性情報を開発チームで見逃さないようにSlackにRSSフィードを設定してみた",
+      "url": "https://qiita.com/yukmaru/items/a3f358cc3e58e435df61?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-01T03:52:30+09:00",
+      "severity": "high",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-884bed9736",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "JavaScriptのdocumentをインスタンス化せずに使える理由とDOMの実体を調べてみた",
+      "url": "https://qiita.com/yukmaru/items/7ef2bebeb3e227baa8d4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-01T02:41:28+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-dc7b62403c",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "APEXlangでVibe Coding：画面デザイン集",
+      "url": "https://qiita.com/araidon/items/d38d616dce3b3e3109c0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-31T22:58:17+09:00",
+      "hatena_count": 0
+    },
     {
       "id": "qiita-451ccee1ad",
       "source": "sns",
@@ -14,6 +71,20 @@
         "Qiita"
       ],
       "date": "2026-10-31T22:30:51+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-f9e6da427b",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "【ServiceNow】これから始めるAI Control Tower実践：実画面で見る「何ができるのか」",
+      "url": "https://qiita.com/AoraNow_Yoshiyuki_Ito/items/c780df751b781bc06d6c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-31T21:55:17+09:00",
       "hatena_count": 0
     },
     {
@@ -31,6 +102,20 @@
       "hatena_count": 0
     },
     {
+      "id": "qiita-5e3c3d5aec",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "Databricks発のOSS Omnigentの解説書『Omnigentによるメタハーネス入門』が全3巻そろいました — エンタープライズ編の中身と、どの巻から読むか",
+      "url": "https://qiita.com/taka_yayoi/items/7767dbdfb9234560de1a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-31T19:22:52+09:00",
+      "hatena_count": 0
+    },
+    {
       "id": "qiita-a502344334",
       "source": "sns",
       "sub_source": "Qiita",
@@ -42,6 +127,21 @@
         "Qiita"
       ],
       "date": "2026-10-31T19:11:27+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-ba0acee5c2",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "自宅ラズパイの脆弱性チェックをしたらHIGH以上が2000件見つかった",
+      "url": "https://qiita.com/yugulab/items/5cdb6f191ef5171adc79?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-31T17:52:53+09:00",
+      "severity": "high",
       "hatena_count": 0
     },
     {
@@ -70,6 +170,34 @@
         "Qiita"
       ],
       "date": "2026-10-31T16:17:19+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-6d4b5037ed",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "【テスト入門】Vitestの導入とテストを行う",
+      "url": "https://qiita.com/ryu0947/items/0c96cb3a529feb18e33a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-31T15:42:07+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-df3b6a914a",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "SORACOM の白ボタンを押すと ServiceNow にインシデントが起票される仕組みを作った（SORACOM UG Explorer 2026）",
+      "url": "https://qiita.com/takagiko/items/0cb14cdf2de9fea1a6c0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-31T15:29:02+09:00",
       "hatena_count": 0
     },
     {
@@ -126,6 +254,20 @@
         "Qiita"
       ],
       "date": "2026-10-31T10:20:38+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-84d37de3bd",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "Vitestでdata-testidで取得した要素の文字列だけを期待したい",
+      "url": "https://qiita.com/J-T_ky2g/items/e6df6e90c887421efeb1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-31T09:48:15+09:00",
       "hatena_count": 0
     },
     {
@@ -3669,13 +3811,13 @@
       "sub_source": "Zenn",
       "title": "3 人それぞれの Claude Code を Slack でつないで ISUCON2026 に参加した（207,039 点）",
       "url": "https://zenn.dev/kauche/articles/f3736c660aab77",
-      "score": 103,
+      "score": 104,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sat, 31 Oct 2026 12:31:11 GMT",
-      "hatena_count": 103
+      "hatena_count": 104
     },
     {
       "id": "zenn-1c889e9429",
@@ -5105,7 +5247,7 @@
         "Zenn"
       ],
       "date": "Wed, 21 Oct 2026 02:14:44 GMT",
-      "hatena_count": 651
+      "hatena_count": 652
     },
     {
       "id": "zenn-6d6c574d3c",
