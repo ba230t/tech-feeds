@@ -1,9 +1,9 @@
 {
   "month": "2026-11",
-  "total_articles": 180,
-  "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (3件)**\n\n1. 今後のセキュリティの考え方\n\n2. 厳選・セキュリティが心配ならClaude Codeにこの問いかけをコピペするべし20\n\n3. いいから休め - Black October が終わる今、セキュリティエンジニアがやるべきこと\n\n**AI・機械学習動向 (3件)**\n\n1. 仕組みを理解する動画を、Claude Codeに作らせると便利すぎる\n\n2. AI の謎な説明文を直すスキル\n\n3. 3 人それぞれの Claude Code を Slack でつないで ISUCON2026 に参加した（207,039 点）\n\n**技術トレンド (4件)**\n\n1. バイブコーディングを6週間続けたら、Mac の起動が20分かかるようになった\n\n2. 最近の E2E 戦略（2026 年 10 月現在）\n\n3. コードを読まずにマージするために必要なこと\n\n4. 私が5種類のコーディングエージェントを使い分ける理由",
+  "total_articles": 185,
+  "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (2件)**\n\n1. 今後のセキュリティの考え方\n\n2. 厳選・セキュリティが心配ならClaude Codeにこの問いかけをコピペするべし20\n\n**AI・機械学習動向 (3件)**\n\n1. 仕組みを理解する動画を、Claude Codeに作らせると便利すぎる\n\n2. AI の謎な説明文を直すスキル\n\n3. 3 人それぞれの Claude Code を Slack でつないで ISUCON2026 に参加した（207,039 点）\n\n**技術トレンド (5件)**\n\n1. バイブコーディングを6週間続けたら、Mac の起動が20分かかるようになった\n\n2. 最近の E2E 戦略（2026 年 10 月現在）\n\n3. ISUCON2026 で優勝しました（当日編）\n\n4. コードを読まずにマージするために必要なこと\n\n5. 私が5種類のコーディングエージェントを使い分ける理由",
   "source_counts": {
-    "sns": 165,
+    "sns": 170,
     "ipa": 1,
     "techracho": 14
   },
@@ -98,6 +98,20 @@
       "hatena_count": 164
     },
     {
+      "id": "zenn-43bee14924",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "ISUCON2026 で優勝しました（当日編）",
+      "url": "https://zenn.dev/luvtechno/articles/isucon2026-competition-day",
+      "score": 160,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 02 Nov 2026 13:26:09 GMT",
+      "hatena_count": 160
+    },
+    {
       "id": "zenn-4f504ab158",
       "source": "sns",
       "sub_source": "Zenn",
@@ -154,6 +168,20 @@
       "hatena_count": 107
     },
     {
+      "id": "zenn-9b1348f0a8",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "日本の全法令を git の履歴にしてみた",
+      "url": "https://zenn.dev/koheiwada/articles/houritsu-japanese-laws-as-git",
+      "score": 100,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 01 Nov 2026 03:36:05 GMT",
+      "hatena_count": 100
+    },
+    {
       "id": "zenn-89cd9f8fc3",
       "source": "sns",
       "sub_source": "Zenn",
@@ -166,20 +194,6 @@
       ],
       "date": "Wed, 21 Oct 2026 20:00:09 GMT",
       "hatena_count": 101
-    },
-    {
-      "id": "zenn-9b1348f0a8",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "日本の全法令を git の履歴にしてみた",
-      "url": "https://zenn.dev/koheiwada/articles/houritsu-japanese-laws-as-git",
-      "score": 91,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 01 Nov 2026 03:36:05 GMT",
-      "hatena_count": 91
     },
     {
       "id": "zenn-49bbe1bd17",
@@ -224,6 +238,20 @@
       "hatena_count": 77
     },
     {
+      "id": "zenn-49fbe9e192",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "AIが書く「読みづらいADR」に発狂しかけたので、ADRのガイドラインを作った",
+      "url": "https://zenn.dev/tokium_dev/articles/adr-authoring-guideline",
+      "score": 67,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 02 Nov 2026 06:00:05 GMT",
+      "hatena_count": 67
+    },
+    {
       "id": "zenn-1ef417e2bf",
       "source": "sns",
       "sub_source": "Zenn",
@@ -264,35 +292,6 @@
       ],
       "date": "Tue, 20 Oct 2026 02:00:05 GMT",
       "hatena_count": 32
-    },
-    {
-      "id": "zenn-709ca78294",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "IVRyのSREの取り組み 2026冬",
-      "url": "https://zenn.dev/ivry/articles/70d4f05ce4ae5c",
-      "score": 29,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 30 Oct 2026 07:50:00 GMT",
-      "hatena_count": 29
-    },
-    {
-      "id": "zenn-6192aa503c",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "脆弱性管理の仕組みを整えた",
-      "url": "https://zenn.dev/dress_code/articles/be5550254695cd",
-      "score": 25,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 22 Oct 2026 01:30:07 GMT",
-      "severity": "high",
-      "hatena_count": 25
     }
   ],
   "security_highlights": [
