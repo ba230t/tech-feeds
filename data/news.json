@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T15:05:58.431269+00:00",
+  "updated_at": "2026-11-02T15:34:04.217234+00:00",
   "count": 448,
   "items": [
     {
@@ -4259,13 +4259,13 @@
       "sub_source": "Zenn",
       "title": "日本の全法令を git の履歴にしてみた",
       "url": "https://zenn.dev/koheiwada/articles/houritsu-japanese-laws-as-git",
-      "score": 3,
+      "score": 13,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sun, 01 Nov 2026 03:36:05 GMT",
-      "hatena_count": 3
+      "hatena_count": 13
     },
     {
       "id": "zenn-bd31096d05",
@@ -4287,13 +4287,13 @@
       "sub_source": "Zenn",
       "title": "3 人それぞれの Claude Code を Slack でつないで ISUCON2026 に参加した（207,039 点）",
       "url": "https://zenn.dev/kauche/articles/f3736c660aab77",
-      "score": 135,
+      "score": 137,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sat, 31 Oct 2026 12:31:11 GMT",
-      "hatena_count": 135
+      "hatena_count": 137
     },
     {
       "id": "zenn-1c889e9429",
@@ -4414,13 +4414,13 @@
       "sub_source": "Zenn",
       "title": "GitHub Actions で checkout@v7 のようなバージョン指定を書くのはやめよう！ 時代は actions.lock！",
       "url": "https://zenn.dev/progate/articles/24b1140180300c",
-      "score": 83,
+      "score": 84,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 29 Oct 2026 03:48:15 GMT",
-      "hatena_count": 83
+      "hatena_count": 84
     },
     {
       "id": "zenn-1ef417e2bf",
@@ -4683,7 +4683,7 @@
         "Zenn"
       ],
       "date": "Fri, 30 Oct 2026 00:45:50 GMT",
-      "hatena_count": 36
+      "hatena_count": 37
     },
     {
       "id": "zenn-a1c2fc6d19",
@@ -4935,7 +4935,7 @@
         "Zenn"
       ],
       "date": "Fri, 30 Oct 2026 00:55:31 GMT",
-      "hatena_count": 15
+      "hatena_count": 19
     },
     {
       "id": "zenn-d91598a4c5",
