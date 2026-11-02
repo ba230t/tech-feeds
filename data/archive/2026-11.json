@@ -1,9 +1,9 @@
 {
   "month": "2026-11",
-  "total_articles": 155,
+  "total_articles": 156,
   "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (3件)**\n\n1. 今後のセキュリティの考え方\n\n2. 厳選・セキュリティが心配ならClaude Codeにこの問いかけをコピペするべし20\n\n3. いいから休め - Black October が終わる今、セキュリティエンジニアがやるべきこと\n\n**AI・機械学習動向 (3件)**\n\n1. 仕組みを理解する動画を、Claude Codeに作らせると便利すぎる\n\n2. AI の謎な説明文を直すスキル\n\n3. 3 人それぞれの Claude Code を Slack でつないで ISUCON2026 に参加した（207,039 点）\n\n**技術トレンド (4件)**\n\n1. バイブコーディングを6週間続けたら、Mac の起動が20分かかるようになった\n\n2. 最近の E2E 戦略（2026 年 10 月現在）\n\n3. コードを読まずにマージするために必要なこと\n\n4. 私が5種類のコーディングエージェントを使い分ける理由",
   "source_counts": {
-    "sns": 142,
+    "sns": 143,
     "techracho": 13
   },
   "severity_counts": {
@@ -45,13 +45,13 @@
       "sub_source": "Zenn",
       "title": "今後のセキュリティの考え方",
       "url": "https://zenn.dev/cscloud_blog/articles/a987163efae5d8",
-      "score": 228,
+      "score": 230,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 30 Oct 2026 10:30:27 GMT",
-      "hatena_count": 228
+      "hatena_count": 230
     },
     {
       "id": "zenn-f64ba0d17d",
@@ -101,13 +101,13 @@
       "sub_source": "Zenn",
       "title": "3 人それぞれの Claude Code を Slack でつないで ISUCON2026 に参加した（207,039 点）",
       "url": "https://zenn.dev/kauche/articles/f3736c660aab77",
-      "score": 127,
+      "score": 128,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sat, 31 Oct 2026 12:31:11 GMT",
-      "hatena_count": 127
+      "hatena_count": 128
     },
     {
       "id": "zenn-ed54cd5c88",
