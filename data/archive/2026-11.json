@@ -168,6 +168,20 @@
       "hatena_count": 101
     },
     {
+      "id": "zenn-9b1348f0a8",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "日本の全法令を git の履歴にしてみた",
+      "url": "https://zenn.dev/koheiwada/articles/houritsu-japanese-laws-as-git",
+      "score": 91,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 01 Nov 2026 03:36:05 GMT",
+      "hatena_count": 91
+    },
+    {
       "id": "zenn-49bbe1bd17",
       "source": "sns",
       "sub_source": "Zenn",
@@ -208,20 +222,6 @@
       ],
       "date": "Fri, 23 Oct 2026 05:50:11 GMT",
       "hatena_count": 77
-    },
-    {
-      "id": "zenn-9b1348f0a8",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "日本の全法令を git の履歴にしてみた",
-      "url": "https://zenn.dev/koheiwada/articles/houritsu-japanese-laws-as-git",
-      "score": 60,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 01 Nov 2026 03:36:05 GMT",
-      "hatena_count": 60
     },
     {
       "id": "zenn-1ef417e2bf",
