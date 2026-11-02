@@ -1,7 +1,147 @@
 {
-  "updated_at": "2026-11-02T08:08:40.568034+00:00",
-  "count": 433,
+  "updated_at": "2026-11-02T08:33:33.828251+00:00",
+  "count": 447,
   "items": [
+    {
+      "id": "qiita-bc792f9f8f",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "耳で聞く！Python で学ぶ マクロ経済学 入門 39",
+      "url": "https://qiita.com/maskot1977/items/5184c2ead8309c1095d5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-02T15:33:07+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-b529cc61fd",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "見える被害と見えない被害 ― 利用可能性ヒューリスティックの逆転 : システム設計視点の行動経済学 (54)",
+      "url": "https://qiita.com/maskot1977/items/124e3010ec939c1d910b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-02T15:10:48+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-93f6d7bc6e",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "Qiita Advent Calendar 2026のアップデートの紹介",
+      "url": "https://qiita.com/Qiita/items/64672279a5a83b739f7a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-02T15:10:19+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-77b1a25997",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "EC2が起動できない！？原因は「AZ」だった話",
+      "url": "https://qiita.com/AyaKunisawa/items/5af0d4f3c61e7dc4d27d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-02T14:50:38+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-39ad59baee",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "AI に書かせた PR の説明や README は「AI っぽい」のか？ 3つのツールの108本を Wikipedia の見分け方で数えた",
+      "url": "https://qiita.com/suwa_nobu/items/6037f16f524d82638f1c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-02T11:41:57+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-9874a06788",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "2026年11月2日 今日のQiitaトレンド記事をポッドキャストで聴こう！",
+      "url": "https://qiita.com/ennagara128/items/e3cd5d12d9ffada2807e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-02T10:18:31+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-e5805887b7",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "ClaudeCodeで自律的に調査させてみたら大失敗した",
+      "url": "https://qiita.com/sai029/items/57b38881f03f7ff0638c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-02T09:18:14+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-2bee75e539",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "Cursor で Claude Code 拡張 2.1.312・2.1.313 が改ざんされていた件、Windows で自分の PC を確かめた",
+      "url": "https://qiita.com/suwa_nobu/items/3cd02fa0f1cec7ea979c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-02T09:09:57+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-7573fcbf44",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "生成 AI が進化する今こそ、「人材育成」が経営の重要課題ではないか",
+      "url": "https://qiita.com/Takashi_Masumori/items/3c3091a6142d3e05385b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-02T08:53:15+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-26a81b312a",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "【AWS】Step Functionsをエージェントのツールにしてみた：ピン・IAM・トークンの効き方を検証【AgentCore】",
+      "url": "https://qiita.com/Nana_777/items/4df8731bd53a6ab7a31f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-02T07:39:42+09:00",
+      "hatena_count": 0
+    },
     {
       "id": "qiita-ef4ea4d6a2",
       "source": "sns",
@@ -14,6 +154,20 @@
         "Qiita"
       ],
       "date": "2026-11-02T04:05:20+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-311caeec3d",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "Amazon Bedrock ガードレールでマイナンバーをどこまで検出できるか試してみた",
+      "url": "https://qiita.com/takeda_h/items/1819f00de8f2b93034c0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-02T03:31:05+09:00",
       "hatena_count": 0
     },
     {
@@ -43,6 +197,20 @@
         "Qiita"
       ],
       "date": "2026-11-01T23:59:28+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-401639cb6d",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "新しいRAG「Decision RAG」は速い！安い！上手い！🍜",
+      "url": "https://qiita.com/kikuziro/items/cc82e6e4e4c215eac99f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-01T23:05:25+09:00",
       "hatena_count": 0
     },
     {
@@ -99,6 +267,20 @@
         "Qiita"
       ],
       "date": "2026-11-01T12:30:43+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-0ac759da20",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "2026年11月1日 今日のQiitaトレンド記事をポッドキャストで聴こう！",
+      "url": "https://qiita.com/ennagara128/items/5b3bd9a902aa12c2f5c3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-01T09:33:11+09:00",
       "hatena_count": 0
     },
     {
@@ -4269,6 +4451,21 @@
       "hatena_count": 127
     },
     {
+      "id": "techracho-b23695913c",
+      "source": "techracho",
+      "title": "Ruby: C拡張をRuby 4のVM APIに合わせて効率化するためのtips集（翻訳）",
+      "url": "https://techracho.bpsinc.jp/hachi8833/2026_11_02/160896",
+      "score": 0,
+      "author": "Techracho",
+      "tags": [
+        "Ruby",
+        "Rails",
+        "日本語"
+      ],
+      "date": "Mon, 02 Nov 2026 08:30:18 +0000",
+      "hatena_count": 0
+    },
+    {
       "id": "techracho-9300f8dd2f",
       "source": "techracho",
       "title": "RailsのコードをRactorセーフにするリファクタリングパターン集（翻訳）",
@@ -4977,7 +5174,7 @@
         "Zenn"
       ],
       "date": "Mon, 26 Oct 2026 09:44:58 GMT",
-      "hatena_count": 23
+      "hatena_count": 24
     },
     {
       "id": "zenn-4227f17a42",
