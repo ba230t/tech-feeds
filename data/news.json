@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T12:34:49.923050+00:00",
+  "updated_at": "2026-11-02T13:07:12.988542+00:00",
   "count": 448,
   "items": [
     {
@@ -4170,6 +4170,20 @@
       "hatena_count": 1
     },
     {
+      "id": "zenn-fe262064cc",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Snowflake: Optima Clustering による 1KB クラスタリングキーでの日本語フィルタの改善",
+      "url": "https://zenn.dev/snowflakejp/articles/d907c02698d748",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 02 Nov 2026 04:03:34 GMT",
+      "hatena_count": 0
+    },
+    {
       "id": "zenn-beeebffada",
       "source": "sns",
       "sub_source": "Zenn",
@@ -4210,20 +4224,6 @@
       ],
       "date": "Sun, 01 Nov 2026 12:16:33 GMT",
       "hatena_count": 8
-    },
-    {
-      "id": "zenn-5b89b475c2",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "RAGが一度も効いていなかった話",
-      "url": "https://zenn.dev/ohgy/articles/ede0bdff101d76",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 01 Nov 2026 06:53:45 GMT",
-      "hatena_count": 0
     },
     {
       "id": "zenn-756c8bc67f",
@@ -4338,6 +4338,20 @@
       "hatena_count": 1
     },
     {
+      "id": "zenn-cd066b67db",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "FlutterKaigi 2026 で生字幕を映像に載せて会場スクリーンに投影しました",
+      "url": "https://zenn.dev/hiro_pon/articles/2f3b68ec60ddae",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 31 Oct 2026 06:40:40 GMT",
+      "hatena_count": 0
+    },
+    {
       "id": "zenn-9e8331269a",
       "source": "sns",
       "sub_source": "Zenn",
@@ -4357,13 +4371,13 @@
       "sub_source": "Zenn",
       "title": "今後のセキュリティの考え方",
       "url": "https://zenn.dev/cscloud_blog/articles/a987163efae5d8",
-      "score": 236,
+      "score": 237,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 30 Oct 2026 10:30:27 GMT",
-      "hatena_count": 236
+      "hatena_count": 237
     },
     {
       "id": "zenn-5992d09aad",
@@ -4378,20 +4392,6 @@
       ],
       "date": "Fri, 30 Oct 2026 08:18:26 GMT",
       "hatena_count": 3
-    },
-    {
-      "id": "zenn-dafe6c3a28",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Cloudflare Workers を触ってみた",
-      "url": "https://zenn.dev/atware/articles/ec1dfd799289b7",
-      "score": 2,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 30 Oct 2026 05:01:51 GMT",
-      "hatena_count": 2
     },
     {
       "id": "zenn-4a5a8c3dda",
@@ -4409,20 +4409,6 @@
       "hatena_count": 3
     },
     {
-      "id": "zenn-cbbebf50dc",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "人間がコードを読まずにPRをマージする技術 ─ それでも、品質は手放さない",
-      "url": "https://zenn.dev/karamage/articles/ac71f1c89c73ff",
-      "score": 2,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 29 Oct 2026 08:26:16 GMT",
-      "hatena_count": 2
-    },
-    {
       "id": "zenn-2dc50e40ad",
       "source": "sns",
       "sub_source": "Zenn",
@@ -4435,6 +4421,20 @@
       ],
       "date": "Thu, 29 Oct 2026 03:48:15 GMT",
       "hatena_count": 83
+    },
+    {
+      "id": "zenn-1ef417e2bf",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Flutter やめました。電話アプリを Native にした理由",
+      "url": "https://zenn.dev/ivry/articles/d155267331a3ca",
+      "score": 46,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 28 Oct 2026 02:39:36 GMT",
+      "hatena_count": 46
     },
     {
       "id": "zenn-ed54cd5c88",
@@ -4601,46 +4601,46 @@
       "hatena_count": 1
     },
     {
-      "id": "zenn-fe262064cc",
+      "id": "zenn-5b89b475c2",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "Snowflake: Optima Clustering による 1KB クラスタリングキーでの日本語フィルタの改善",
-      "url": "https://zenn.dev/snowflakejp/articles/d907c02698d748",
+      "title": "RAGが一度も効いていなかった話",
+      "url": "https://zenn.dev/ohgy/articles/ede0bdff101d76",
       "score": 0,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Mon, 02 Nov 2026 04:03:34 GMT",
+      "date": "Sun, 01 Nov 2026 06:53:45 GMT",
       "hatena_count": 0
     },
     {
-      "id": "zenn-cd066b67db",
+      "id": "zenn-dafe6c3a28",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "FlutterKaigi 2026 で生字幕を映像に載せて会場スクリーンに投影しました",
-      "url": "https://zenn.dev/hiro_pon/articles/2f3b68ec60ddae",
-      "score": 0,
+      "title": "Cloudflare Workers を触ってみた",
+      "url": "https://zenn.dev/atware/articles/ec1dfd799289b7",
+      "score": 2,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Sat, 31 Oct 2026 06:40:40 GMT",
-      "hatena_count": 0
+      "date": "Fri, 30 Oct 2026 05:01:51 GMT",
+      "hatena_count": 2
     },
     {
-      "id": "zenn-1ef417e2bf",
+      "id": "zenn-cbbebf50dc",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "Flutter やめました。電話アプリを Native にした理由",
-      "url": "https://zenn.dev/ivry/articles/d155267331a3ca",
-      "score": 46,
+      "title": "人間がコードを読まずにPRをマージする技術 ─ それでも、品質は手放さない",
+      "url": "https://zenn.dev/karamage/articles/ac71f1c89c73ff",
+      "score": 2,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Wed, 28 Oct 2026 02:39:36 GMT",
-      "hatena_count": 46
+      "date": "Thu, 29 Oct 2026 08:26:16 GMT",
+      "hatena_count": 2
     },
     {
       "id": "techracho-4a124672e8",
@@ -4781,7 +4781,7 @@
         "Zenn"
       ],
       "date": "Mon, 26 Oct 2026 01:18:03 GMT",
-      "hatena_count": 196
+      "hatena_count": 197
     },
     {
       "id": "zenn-709ca78294",
@@ -4935,7 +4935,7 @@
         "Zenn"
       ],
       "date": "Fri, 30 Oct 2026 00:55:31 GMT",
-      "hatena_count": 6
+      "hatena_count": 7
     },
     {
       "id": "zenn-d91598a4c5",
