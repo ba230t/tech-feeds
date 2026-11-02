@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T01:34:26.365425+00:00",
+  "updated_at": "2026-11-02T02:07:41.911317+00:00",
   "count": 429,
   "items": [
     {
@@ -15,6 +15,21 @@
       ],
       "date": "2026-11-02T04:05:20+09:00",
       "hatena_count": 0
+    },
+    {
+      "id": "ipa-ee45d6bd49",
+      "source": "ipa",
+      "title": "更新：PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell)",
+      "url": "https://www.ipa.go.jp/security/security-alert/2026/alert20261022.html",
+      "score": 21,
+      "author": "IPA",
+      "tags": [
+        "IPA",
+        "セキュリティ"
+      ],
+      "severity": "medium",
+      "date": "2026-11-02T00:00:00+09:00",
+      "hatena_count": 21
     },
     {
       "id": "qiita-80280adecb",
@@ -1957,21 +1972,6 @@
       "hatena_count": 1
     },
     {
-      "id": "ipa-ee45d6bd49",
-      "source": "ipa",
-      "title": "更新：PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell)",
-      "url": "https://www.ipa.go.jp/security/security-alert/2026/alert20261022.html",
-      "score": 21,
-      "author": "IPA",
-      "tags": [
-        "IPA",
-        "セキュリティ"
-      ],
-      "severity": "medium",
-      "date": "2026-10-27T00:00:00+09:00",
-      "hatena_count": 21
-    },
-    {
       "id": "qiita-2493efe6ae",
       "source": "sns",
       "sub_source": "Qiita",
@@ -2074,7 +2074,7 @@
       "source": "jpcert",
       "title": "注意喚起: BrotliのC言語実装における境界外書き込みの脆弱性（CVE-2026-111497）に関する注意喚起  (公開)",
       "url": "https://www.jpcert.or.jp/at/2026/at260034.html",
-      "score": 4,
+      "score": 5,
       "author": "JPCERT/CC",
       "tags": [
         "JPCERT",
@@ -2082,7 +2082,7 @@
       ],
       "severity": "high",
       "date": "2026-10-26T16:25+09:00",
-      "hatena_count": 4
+      "hatena_count": 5
     },
     {
       "id": "qiita-392d65b036",
@@ -3993,13 +3993,13 @@
       "sub_source": "Zenn",
       "title": "ISUCON 2026 Writeup / チーム nicklegr",
       "url": "https://zenn.dev/nicklegr/articles/de0a6fd86b6ce3",
-      "score": 0,
+      "score": 1,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sun, 01 Nov 2026 12:20:12 GMT",
-      "hatena_count": 0
+      "hatena_count": 1
     },
     {
       "id": "zenn-bd2d2f6bd8",
@@ -4063,13 +4063,13 @@
       "sub_source": "Zenn",
       "title": "3 人それぞれの Claude Code を Slack でつないで ISUCON2026 に参加した（207,039 点）",
       "url": "https://zenn.dev/kauche/articles/f3736c660aab77",
-      "score": 128,
+      "score": 131,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sat, 31 Oct 2026 12:31:11 GMT",
-      "hatena_count": 128
+      "hatena_count": 131
     },
     {
       "id": "zenn-1c889e9429",
@@ -4133,13 +4133,13 @@
       "sub_source": "Zenn",
       "title": "今後のセキュリティの考え方",
       "url": "https://zenn.dev/cscloud_blog/articles/a987163efae5d8",
-      "score": 230,
+      "score": 232,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 30 Oct 2026 10:30:27 GMT",
-      "hatena_count": 230
+      "hatena_count": 232
     },
     {
       "id": "zenn-5992d09aad",
@@ -4218,13 +4218,13 @@
       "sub_source": "Zenn",
       "title": "GitHub Actions で checkout@v7 のようなバージョン指定を書くのはやめよう！ 時代は actions.lock！",
       "url": "https://zenn.dev/progate/articles/24b1140180300c",
-      "score": 81,
+      "score": 82,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 29 Oct 2026 03:48:15 GMT",
-      "hatena_count": 81
+      "hatena_count": 82
     },
     {
       "id": "zenn-a1c2fc6d19",

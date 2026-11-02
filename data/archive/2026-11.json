@@ -1,12 +1,14 @@
 {
   "month": "2026-11",
-  "total_articles": 156,
+  "total_articles": 157,
   "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (3件)**\n\n1. 今後のセキュリティの考え方\n\n2. 厳選・セキュリティが心配ならClaude Codeにこの問いかけをコピペするべし20\n\n3. いいから休め - Black October が終わる今、セキュリティエンジニアがやるべきこと\n\n**AI・機械学習動向 (3件)**\n\n1. 仕組みを理解する動画を、Claude Codeに作らせると便利すぎる\n\n2. AI の謎な説明文を直すスキル\n\n3. 3 人それぞれの Claude Code を Slack でつないで ISUCON2026 に参加した（207,039 点）\n\n**技術トレンド (4件)**\n\n1. バイブコーディングを6週間続けたら、Mac の起動が20分かかるようになった\n\n2. 最近の E2E 戦略（2026 年 10 月現在）\n\n3. コードを読まずにマージするために必要なこと\n\n4. 私が5種類のコーディングエージェントを使い分ける理由",
   "source_counts": {
     "sns": 143,
+    "ipa": 1,
     "techracho": 13
   },
   "severity_counts": {
+    "medium": 1,
     "critical": 1,
     "high": 4
   },
@@ -45,13 +47,13 @@
       "sub_source": "Zenn",
       "title": "今後のセキュリティの考え方",
       "url": "https://zenn.dev/cscloud_blog/articles/a987163efae5d8",
-      "score": 230,
+      "score": 232,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 30 Oct 2026 10:30:27 GMT",
-      "hatena_count": 230
+      "hatena_count": 232
     },
     {
       "id": "zenn-f64ba0d17d",
@@ -101,13 +103,13 @@
       "sub_source": "Zenn",
       "title": "3 人それぞれの Claude Code を Slack でつないで ISUCON2026 に参加した（207,039 点）",
       "url": "https://zenn.dev/kauche/articles/f3736c660aab77",
-      "score": 128,
+      "score": 131,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sat, 31 Oct 2026 12:31:11 GMT",
-      "hatena_count": 128
+      "hatena_count": 131
     },
     {
       "id": "zenn-ed54cd5c88",
@@ -185,13 +187,13 @@
       "sub_source": "Zenn",
       "title": "GitHub Actions で checkout@v7 のようなバージョン指定を書くのはやめよう！ 時代は actions.lock！",
       "url": "https://zenn.dev/progate/articles/24b1140180300c",
-      "score": 81,
+      "score": 82,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 29 Oct 2026 03:48:15 GMT",
-      "hatena_count": 81
+      "hatena_count": 82
     },
     {
       "id": "zenn-ecb9a4ef6b",
@@ -279,18 +281,19 @@
       "hatena_count": 25
     },
     {
-      "id": "zenn-a060baa090",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "「シンプルに」と「多機能に」は、両立できる──マリオに学ぶUX設計",
-      "url": "https://zenn.dev/upgradetech/articles/0882ef73e9c025",
-      "score": 20,
-      "author": "Zenn",
+      "id": "ipa-ee45d6bd49",
+      "source": "ipa",
+      "title": "更新：PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell)",
+      "url": "https://www.ipa.go.jp/security/security-alert/2026/alert20261022.html",
+      "score": 21,
+      "author": "IPA",
       "tags": [
-        "Zenn"
+        "IPA",
+        "セキュリティ"
       ],
-      "date": "Mon, 26 Oct 2026 09:44:58 GMT",
-      "hatena_count": 23
+      "severity": "medium",
+      "date": "2026-11-02T00:00:00+09:00",
+      "hatena_count": 21
     }
   ],
   "security_highlights": [
