@@ -1,7 +1,63 @@
 {
-  "updated_at": "2026-11-02T20:04:55.829467+00:00",
-  "count": 448,
+  "updated_at": "2026-11-02T20:33:26.417617+00:00",
+  "count": 452,
   "items": [
+    {
+      "id": "qiita-1c32d52cd7",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "【Vue.js_1時間入門⏰】1時間でローカル環境の構築からシンプルなカウンターアプリを作るまで🔢【初心者向け】",
+      "url": "https://qiita.com/saito_next/items/5c9c643228e33b3d6e3e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-02T17:58:47+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-a9200babc4",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "Figma Motionで作ったUIアニメーションをCSSで再現してみた",
+      "url": "https://qiita.com/pengin_r/items/a13f3020137816bc532a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-02T17:30:40+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-63dcd5a5e9",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "S3への画像アップロード、署名付きPUTとPOSTはどう使い分ける？",
+      "url": "https://qiita.com/pengin_r/items/d3f3fbe1b4ba1e648ed7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-02T17:30:25+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-15e9d52382",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "Microsoft Student Ambassadorsとは？ なり方を画面つきで解説！",
+      "url": "https://qiita.com/shahin0809/items/2365fbcb09411bb3e51c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-02T17:10:11+09:00",
+      "hatena_count": 0
+    },
     {
       "id": "qiita-bc792f9f8f",
       "source": "sns",
@@ -4259,13 +4315,13 @@
       "sub_source": "Zenn",
       "title": "日本の全法令を git の履歴にしてみた",
       "url": "https://zenn.dev/koheiwada/articles/houritsu-japanese-laws-as-git",
-      "score": 50,
+      "score": 51,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sun, 01 Nov 2026 03:36:05 GMT",
-      "hatena_count": 50
+      "hatena_count": 51
     },
     {
       "id": "zenn-bd31096d05",
@@ -4935,7 +4991,7 @@
         "Zenn"
       ],
       "date": "Fri, 30 Oct 2026 00:55:31 GMT",
-      "hatena_count": 25
+      "hatena_count": 26
     },
     {
       "id": "zenn-d91598a4c5",
