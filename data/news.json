@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T10:06:20.110070+00:00",
+  "updated_at": "2026-11-02T10:33:51.535393+00:00",
   "count": 447,
   "items": [
     {
@@ -4203,13 +4203,13 @@
       "sub_source": "Zenn",
       "title": "ISUCON2026 にツールを捨てて勝ちたかった",
       "url": "https://zenn.dev/mazrean/articles/5c968503fd69a3",
-      "score": 2,
+      "score": 4,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sun, 01 Nov 2026 12:16:33 GMT",
-      "hatena_count": 2
+      "hatena_count": 4
     },
     {
       "id": "zenn-5b89b475c2",
@@ -4357,13 +4357,13 @@
       "sub_source": "Zenn",
       "title": "今後のセキュリティの考え方",
       "url": "https://zenn.dev/cscloud_blog/articles/a987163efae5d8",
-      "score": 233,
+      "score": 234,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 30 Oct 2026 10:30:27 GMT",
-      "hatena_count": 233
+      "hatena_count": 234
     },
     {
       "id": "zenn-5992d09aad",
