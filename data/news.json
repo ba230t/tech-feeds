@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-02T03:33:47.033877+00:00",
-  "count": 429,
+  "updated_at": "2026-11-02T04:06:33.580356+00:00",
+  "count": 433,
   "items": [
     {
       "id": "qiita-ef4ea4d6a2",
@@ -3988,6 +3988,20 @@
       "hatena_count": 1
     },
     {
+      "id": "zenn-beeebffada",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Agent DX 〜 AI時代にフレームワークHonoは必要か",
+      "url": "https://zenn.dev/yusukebe/articles/3d3dc6605ca1b1",
+      "score": 2,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 01 Nov 2026 13:58:21 GMT",
+      "hatena_count": 2
+    },
+    {
       "id": "zenn-fa49f4d51c",
       "source": "sns",
       "sub_source": "Zenn",
@@ -4013,6 +4027,20 @@
         "Zenn"
       ],
       "date": "Sun, 01 Nov 2026 12:16:33 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-5b89b475c2",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "RAGが一度も効いていなかった話",
+      "url": "https://zenn.dev/ohgy/articles/ede0bdff101d76",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 01 Nov 2026 06:53:45 GMT",
       "hatena_count": 0
     },
     {
@@ -4044,17 +4072,31 @@
       "hatena_count": 1
     },
     {
-      "id": "zenn-a1c25bf090",
+      "id": "zenn-9b1348f0a8",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "ISUCON2026 本番に出た",
-      "url": "https://zenn.dev/ntk221/articles/98b17a773669a1",
+      "title": "日本の全法令を git の履歴にしてみた",
+      "url": "https://zenn.dev/koheiwada/articles/houritsu-japanese-laws-as-git",
       "score": 0,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Sat, 31 Oct 2026 13:14:45 GMT",
+      "date": "Sun, 01 Nov 2026 03:36:05 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-bd31096d05",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "新卒1年目の駆け出しエンジニア2人で ISUCON2026 に出てみた",
+      "url": "https://zenn.dev/hazelnut_smnth/articles/3b5e5d38937841",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 31 Oct 2026 12:54:20 GMT",
       "hatena_count": 0
     },
     {
@@ -4185,20 +4227,6 @@
       "hatena_count": 3
     },
     {
-      "id": "zenn-3c60c695ec",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "WASIじゃない、もう一つのインターフェース「WALI」という提案",
-      "url": "https://zenn.dev/progate/articles/wali-webassembly-linux-interface",
-      "score": 36,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 30 Oct 2026 00:45:50 GMT",
-      "hatena_count": 36
-    },
-    {
       "id": "zenn-cbbebf50dc",
       "source": "sns",
       "sub_source": "Zenn",
@@ -4225,34 +4253,6 @@
       ],
       "date": "Thu, 29 Oct 2026 03:48:15 GMT",
       "hatena_count": 82
-    },
-    {
-      "id": "zenn-a1c2fc6d19",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "KaniによるVerylコンパイラの形式検証",
-      "url": "https://zenn.dev/dalance/articles/44a8f80ea0cfa1",
-      "score": 2,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 29 Oct 2026 03:17:06 GMT",
-      "hatena_count": 2
-    },
-    {
-      "id": "zenn-1ef417e2bf",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Flutter やめました。電話アプリを Native にした理由",
-      "url": "https://zenn.dev/ivry/articles/d155267331a3ca",
-      "score": 46,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 28 Oct 2026 02:39:36 GMT",
-      "hatena_count": 46
     },
     {
       "id": "zenn-ed54cd5c88",
@@ -4417,6 +4417,62 @@
       ],
       "date": "Mon, 12 Oct 2026 08:00:53 +0000",
       "hatena_count": 0
+    },
+    {
+      "id": "zenn-a1c25bf090",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "ISUCON2026 本番に出た",
+      "url": "https://zenn.dev/ntk221/articles/98b17a773669a1",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 31 Oct 2026 13:14:45 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-3c60c695ec",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "WASIじゃない、もう一つのインターフェース「WALI」という提案",
+      "url": "https://zenn.dev/progate/articles/wali-webassembly-linux-interface",
+      "score": 36,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 30 Oct 2026 00:45:50 GMT",
+      "hatena_count": 36
+    },
+    {
+      "id": "zenn-a1c2fc6d19",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "KaniによるVerylコンパイラの形式検証",
+      "url": "https://zenn.dev/dalance/articles/44a8f80ea0cfa1",
+      "score": 2,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 29 Oct 2026 03:17:06 GMT",
+      "hatena_count": 2
+    },
+    {
+      "id": "zenn-1ef417e2bf",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Flutter やめました。電話アプリを Native にした理由",
+      "url": "https://zenn.dev/ivry/articles/d155267331a3ca",
+      "score": 46,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 28 Oct 2026 02:39:36 GMT",
+      "hatena_count": 46
     },
     {
       "id": "zenn-db3575a52a",
