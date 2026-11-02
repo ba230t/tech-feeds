@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T09:07:40.193806+00:00",
+  "updated_at": "2026-11-02T09:33:31.563694+00:00",
   "count": 447,
   "items": [
     {
@@ -4259,13 +4259,13 @@
       "sub_source": "Zenn",
       "title": "日本の全法令を git の履歴にしてみた",
       "url": "https://zenn.dev/koheiwada/articles/houritsu-japanese-laws-as-git",
-      "score": 1,
+      "score": 2,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sun, 01 Nov 2026 03:36:05 GMT",
-      "hatena_count": 1
+      "hatena_count": 2
     },
     {
       "id": "zenn-bd31096d05",
@@ -4455,7 +4455,7 @@
       "source": "techracho",
       "title": "Ruby: C拡張をRuby 4のVM APIに合わせて効率化するためのtips集（翻訳）",
       "url": "https://techracho.bpsinc.jp/hachi8833/2026_11_02/160896",
-      "score": 0,
+      "score": 1,
       "author": "Techracho",
       "tags": [
         "Ruby",
@@ -4463,7 +4463,7 @@
         "日本語"
       ],
       "date": "Mon, 02 Nov 2026 08:30:18 +0000",
-      "hatena_count": 0
+      "hatena_count": 1
     },
     {
       "id": "techracho-9300f8dd2f",
