@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T19:04:44.317942+00:00",
+  "updated_at": "2026-11-02T19:33:52.786357+00:00",
   "count": 448,
   "items": [
     {
@@ -4259,13 +4259,13 @@
       "sub_source": "Zenn",
       "title": "日本の全法令を git の履歴にしてみた",
       "url": "https://zenn.dev/koheiwada/articles/houritsu-japanese-laws-as-git",
-      "score": 44,
+      "score": 45,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sun, 01 Nov 2026 03:36:05 GMT",
-      "hatena_count": 44
+      "hatena_count": 45
     },
     {
       "id": "zenn-bd31096d05",
@@ -4935,7 +4935,7 @@
         "Zenn"
       ],
       "date": "Fri, 30 Oct 2026 00:55:31 GMT",
-      "hatena_count": 24
+      "hatena_count": 25
     },
     {
       "id": "zenn-d91598a4c5",
