@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T05:06:17.382588+00:00",
+  "updated_at": "2026-11-02T05:33:55.223691+00:00",
   "count": 433,
   "items": [
     {
@@ -4021,13 +4021,13 @@
       "sub_source": "Zenn",
       "title": "ISUCON2026 にツールを捨てて勝ちたかった",
       "url": "https://zenn.dev/mazrean/articles/5c968503fd69a3",
-      "score": 0,
+      "score": 2,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sun, 01 Nov 2026 12:16:33 GMT",
-      "hatena_count": 0
+      "hatena_count": 2
     },
     {
       "id": "zenn-5b89b475c2",
@@ -4077,13 +4077,13 @@
       "sub_source": "Zenn",
       "title": "日本の全法令を git の履歴にしてみた",
       "url": "https://zenn.dev/koheiwada/articles/houritsu-japanese-laws-as-git",
-      "score": 0,
+      "score": 1,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sun, 01 Nov 2026 03:36:05 GMT",
-      "hatena_count": 0
+      "hatena_count": 1
     },
     {
       "id": "zenn-bd31096d05",
@@ -4105,13 +4105,13 @@
       "sub_source": "Zenn",
       "title": "3 人それぞれの Claude Code を Slack でつないで ISUCON2026 に参加した（207,039 点）",
       "url": "https://zenn.dev/kauche/articles/f3736c660aab77",
-      "score": 132,
+      "score": 133,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sat, 31 Oct 2026 12:31:11 GMT",
-      "hatena_count": 132
+      "hatena_count": 133
     },
     {
       "id": "zenn-1c889e9429",
@@ -4189,13 +4189,13 @@
       "sub_source": "Zenn",
       "title": "プロダクトの情報を「浴びるように」見られる場所を作った話",
       "url": "https://zenn.dev/tokium_dev/articles/product-cockpit-for-product-teams",
-      "score": 1,
+      "score": 2,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 30 Oct 2026 08:18:26 GMT",
-      "hatena_count": 1
+      "hatena_count": 2
     },
     {
       "id": "zenn-dafe6c3a28",
@@ -4246,13 +4246,13 @@
       "sub_source": "Zenn",
       "title": "GitHub Actions で checkout@v7 のようなバージョン指定を書くのはやめよう！ 時代は actions.lock！",
       "url": "https://zenn.dev/progate/articles/24b1140180300c",
-      "score": 82,
+      "score": 83,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 29 Oct 2026 03:48:15 GMT",
-      "hatena_count": 82
+      "hatena_count": 83
     },
     {
       "id": "zenn-ed54cd5c88",
@@ -4556,7 +4556,7 @@
         "Zenn"
       ],
       "date": "Mon, 26 Oct 2026 01:18:03 GMT",
-      "hatena_count": 195
+      "hatena_count": 196
     },
     {
       "id": "zenn-709ca78294",
@@ -5070,13 +5070,13 @@
       "sub_source": "Zenn",
       "title": "WordPress製LPに潜むCWE-219、確認のススメ",
       "url": "https://zenn.dev/yomogi_cat/articles/wordpress-lp-cwe-219-check",
-      "score": 0,
+      "score": 1,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 27 Oct 2026 12:13:56 GMT",
-      "hatena_count": 0
+      "hatena_count": 1
     },
     {
       "id": "zenn-42e5889d16",
