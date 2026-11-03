@@ -33,13 +33,13 @@
       "sub_source": "Zenn",
       "title": "ISUCON2026 で優勝しました（当日編）",
       "url": "https://zenn.dev/luvtechno/articles/isucon2026-competition-day",
-      "score": 359,
+      "score": 360,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 02 Nov 2026 13:26:09 GMT",
-      "hatena_count": 359
+      "hatena_count": 360
     },
     {
       "id": "zenn-9b1348f0a8",
@@ -47,13 +47,13 @@
       "sub_source": "Zenn",
       "title": "日本の全法令を git の履歴にしてみた",
       "url": "https://zenn.dev/koheiwada/articles/houritsu-japanese-laws-as-git",
-      "score": 340,
+      "score": 341,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sun, 01 Nov 2026 03:36:05 GMT",
-      "hatena_count": 340
+      "hatena_count": 341
     },
     {
       "id": "zenn-d83aa2d820",
@@ -117,13 +117,13 @@
       "sub_source": "Zenn",
       "title": "AIが書く「読みづらいADR」に発狂しかけたので、ADRのガイドラインを作った",
       "url": "https://zenn.dev/tokium_dev/articles/adr-authoring-guideline",
-      "score": 173,
+      "score": 174,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 02 Nov 2026 06:00:05 GMT",
-      "hatena_count": 173
+      "hatena_count": 174
     },
     {
       "id": "zenn-60cec5a308",
@@ -252,6 +252,20 @@
       "hatena_count": 77
     },
     {
+      "id": "zenn-db23a67f04",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "ADRをregoでlintする",
+      "url": "https://zenn.dev/babarot/articles/regomark-adr-checker",
+      "score": 47,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 03 Nov 2026 07:59:33 GMT",
+      "hatena_count": 47
+    },
+    {
       "id": "zenn-1ef417e2bf",
       "source": "sns",
       "sub_source": "Zenn",
@@ -264,20 +278,6 @@
       ],
       "date": "Wed, 28 Oct 2026 02:39:36 GMT",
       "hatena_count": 46
-    },
-    {
-      "id": "zenn-db23a67f04",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "ADRをregoでlintする",
-      "url": "https://zenn.dev/babarot/articles/regomark-adr-checker",
-      "score": 45,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 03 Nov 2026 07:59:33 GMT",
-      "hatena_count": 45
     },
     {
       "id": "zenn-3c60c695ec",
