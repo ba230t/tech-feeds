@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T14:05:44.718348+00:00",
+  "updated_at": "2026-11-03T14:33:52.641409+00:00",
   "count": 478,
   "items": [
     {
@@ -4401,13 +4401,13 @@
       "sub_source": "Zenn",
       "title": "ADRをregoでlintする",
       "url": "https://zenn.dev/babarot/articles/regomark-adr-checker",
-      "score": 3,
+      "score": 13,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 03 Nov 2026 07:59:33 GMT",
-      "hatena_count": 3
+      "hatena_count": 13
     },
     {
       "id": "zenn-6417939ef5",
@@ -4471,13 +4471,13 @@
       "sub_source": "Zenn",
       "title": "ISUCON2026 で優勝しました（当日編）",
       "url": "https://zenn.dev/luvtechno/articles/isucon2026-competition-day",
-      "score": 341,
+      "score": 349,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 02 Nov 2026 13:26:09 GMT",
-      "hatena_count": 341
+      "hatena_count": 349
     },
     {
       "id": "zenn-2a6138d3c6",
@@ -4541,13 +4541,13 @@
       "sub_source": "Zenn",
       "title": "AIが書く「読みづらいADR」に発狂しかけたので、ADRのガイドラインを作った",
       "url": "https://zenn.dev/tokium_dev/articles/adr-authoring-guideline",
-      "score": 165,
+      "score": 169,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 02 Nov 2026 06:00:05 GMT",
-      "hatena_count": 165
+      "hatena_count": 169
     },
     {
       "id": "zenn-beeebffada",
@@ -4583,13 +4583,13 @@
       "sub_source": "Zenn",
       "title": "ISUCON2026 にツールを捨てて勝ちたかった",
       "url": "https://zenn.dev/mazrean/articles/5c968503fd69a3",
-      "score": 12,
+      "score": 13,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sun, 01 Nov 2026 12:16:33 GMT",
-      "hatena_count": 12
+      "hatena_count": 13
     },
     {
       "id": "zenn-9b1348f0a8",
@@ -4597,13 +4597,13 @@
       "sub_source": "Zenn",
       "title": "日本の全法令を git の履歴にしてみた",
       "url": "https://zenn.dev/koheiwada/articles/houritsu-japanese-laws-as-git",
-      "score": 329,
+      "score": 332,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sun, 01 Nov 2026 03:36:05 GMT",
-      "hatena_count": 329
+      "hatena_count": 332
     },
     {
       "id": "zenn-4f504ab158",
@@ -4611,13 +4611,13 @@
       "sub_source": "Zenn",
       "title": "3 人それぞれの Claude Code を Slack でつないで ISUCON2026 に参加した（207,039 点）",
       "url": "https://zenn.dev/kauche/articles/f3736c660aab77",
-      "score": 138,
+      "score": 139,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sat, 31 Oct 2026 12:31:11 GMT",
-      "hatena_count": 138
+      "hatena_count": 139
     },
     {
       "id": "zenn-3ee32aed16",
@@ -4639,13 +4639,13 @@
       "sub_source": "Zenn",
       "title": "今後のセキュリティの考え方",
       "url": "https://zenn.dev/cscloud_blog/articles/a987163efae5d8",
-      "score": 242,
+      "score": 243,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 30 Oct 2026 10:30:27 GMT",
-      "hatena_count": 242
+      "hatena_count": 243
     },
     {
       "id": "zenn-5992d09aad",
@@ -5105,7 +5105,7 @@
         "Zenn"
       ],
       "date": "Fri, 30 Oct 2026 00:45:50 GMT",
-      "hatena_count": 37
+      "hatena_count": 38
     },
     {
       "id": "zenn-a1c2fc6d19",
@@ -5161,7 +5161,7 @@
         "Zenn"
       ],
       "date": "Wed, 28 Oct 2026 10:14:03 GMT",
-      "hatena_count": 107
+      "hatena_count": 108
     },
     {
       "id": "zenn-2e4ea0d7bc",
@@ -6567,7 +6567,7 @@
         "Zenn"
       ],
       "date": "Wed, 21 Oct 2026 01:39:50 GMT",
-      "hatena_count": 131
+      "hatena_count": 141
     },
     {
       "id": "zenn-f0d56afe76",
