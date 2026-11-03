@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T12:07:31.314973+00:00",
+  "updated_at": "2026-11-03T12:34:48.038368+00:00",
   "count": 478,
   "items": [
     {
@@ -4471,13 +4471,13 @@
       "sub_source": "Zenn",
       "title": "ISUCON2026 で優勝しました（当日編）",
       "url": "https://zenn.dev/luvtechno/articles/isucon2026-competition-day",
-      "score": 329,
+      "score": 335,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 02 Nov 2026 13:26:09 GMT",
-      "hatena_count": 329
+      "hatena_count": 335
     },
     {
       "id": "zenn-2a6138d3c6",
@@ -4541,13 +4541,13 @@
       "sub_source": "Zenn",
       "title": "AIが書く「読みづらいADR」に発狂しかけたので、ADRのガイドラインを作った",
       "url": "https://zenn.dev/tokium_dev/articles/adr-authoring-guideline",
-      "score": 160,
+      "score": 163,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 02 Nov 2026 06:00:05 GMT",
-      "hatena_count": 160
+      "hatena_count": 163
     },
     {
       "id": "zenn-beeebffada",
@@ -6567,7 +6567,7 @@
         "Zenn"
       ],
       "date": "Wed, 21 Oct 2026 01:39:50 GMT",
-      "hatena_count": 118
+      "hatena_count": 121
     },
     {
       "id": "zenn-f0d56afe76",
