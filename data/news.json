@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T23:33:29.195712+00:00",
+  "updated_at": "2026-11-03T00:13:02.579068+00:00",
   "count": 457,
   "items": [
     {
@@ -4226,48 +4226,6 @@
       "hatena_count": 1
     },
     {
-      "id": "zenn-43bee14924",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "ISUCON2026 で優勝しました（当日編）",
-      "url": "https://zenn.dev/luvtechno/articles/isucon2026-competition-day",
-      "score": 160,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 02 Nov 2026 13:26:09 GMT",
-      "hatena_count": 160
-    },
-    {
-      "id": "zenn-5a2af32f86",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "学部生3人でISUCON2026に出て、最後に証拠より常識を選んで負けた話",
-      "url": "https://zenn.dev/enari_k/articles/b512e044ec9240",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 02 Nov 2026 07:00:35 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-49fbe9e192",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "AIが書く「読みづらいADR」に発狂しかけたので、ADRのガイドラインを作った",
-      "url": "https://zenn.dev/tokium_dev/articles/adr-authoring-guideline",
-      "score": 67,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 02 Nov 2026 06:00:05 GMT",
-      "hatena_count": 67
-    },
-    {
       "id": "zenn-fe262064cc",
       "source": "sns",
       "sub_source": "Zenn",
@@ -4279,34 +4237,6 @@
         "Zenn"
       ],
       "date": "Mon, 02 Nov 2026 04:03:34 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-dda79d10be",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "弊社がAIでPlaywrightテストコードを生成するために調整したこと",
-      "url": "https://zenn.dev/castingone_dev/articles/casone_playwright_for_claude",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 02 Nov 2026 02:58:52 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-918b8ad880",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "ローカルLLMはどんな業務で使えるのか？ DGX Spark + DeepSeek V4-FlashのSlackチャットボットを評価した",
-      "url": "https://zenn.dev/sompojapan_dx/articles/05f34316118943",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 02 Nov 2026 00:06:09 GMT",
       "hatena_count": 0
     },
     {
@@ -4385,13 +4315,27 @@
       "sub_source": "Zenn",
       "title": "日本の全法令を git の履歴にしてみた",
       "url": "https://zenn.dev/koheiwada/articles/houritsu-japanese-laws-as-git",
-      "score": 100,
+      "score": 129,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sun, 01 Nov 2026 03:36:05 GMT",
-      "hatena_count": 100
+      "hatena_count": 129
+    },
+    {
+      "id": "zenn-bd31096d05",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "新卒1年目の駆け出しエンジニア2人で ISUCON2026 に出てみた",
+      "url": "https://zenn.dev/hazelnut_smnth/articles/3b5e5d38937841",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 31 Oct 2026 12:54:20 GMT",
+      "hatena_count": 0
     },
     {
       "id": "zenn-4f504ab158",
@@ -4420,6 +4364,20 @@
       ],
       "date": "Sat, 31 Oct 2026 12:17:24 GMT",
       "hatena_count": 0
+    },
+    {
+      "id": "zenn-7934fc26b4",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "ISUCON2026に人間1人＋AIエージェント軍団で出て19.6万点、ループは閉じたけど中身が弱かった反省文😇",
+      "url": "https://zenn.dev/tak848/articles/20261031-isucon2026-writeup",
+      "score": 2,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 31 Oct 2026 10:53:26 GMT",
+      "hatena_count": 2
     },
     {
       "id": "zenn-3ee32aed16",
@@ -4492,6 +4450,21 @@
       "hatena_count": 3
     },
     {
+      "id": "zenn-4a5a8c3dda",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "yoroによろしくぅ！Ai Workforce 事業部のリモートコーディングエージェント環境 yoro のご紹介",
+      "url": "https://zenn.dev/layerx/articles/a277f83a93d300",
+      "score": 3,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 30 Oct 2026 02:11:36 GMT",
+      "severity": "critical",
+      "hatena_count": 3
+    },
+    {
       "id": "zenn-2dc50e40ad",
       "source": "sns",
       "sub_source": "Zenn",
@@ -4504,6 +4477,34 @@
       ],
       "date": "Thu, 29 Oct 2026 03:48:15 GMT",
       "hatena_count": 84
+    },
+    {
+      "id": "zenn-1ef417e2bf",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Flutter やめました。電話アプリを Native にした理由",
+      "url": "https://zenn.dev/ivry/articles/d155267331a3ca",
+      "score": 46,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 28 Oct 2026 02:39:36 GMT",
+      "hatena_count": 46
+    },
+    {
+      "id": "zenn-ed54cd5c88",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "コードを読まずにマージするために必要なこと",
+      "url": "https://zenn.dev/nrs/articles/c777388530aa84",
+      "score": 127,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 27 Oct 2026 11:00:05 GMT",
+      "hatena_count": 127
     },
     {
       "id": "techracho-b23695913c",
@@ -4656,75 +4657,74 @@
       "hatena_count": 1
     },
     {
-      "id": "zenn-bd31096d05",
+      "id": "zenn-43bee14924",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "新卒1年目の駆け出しエンジニア2人で ISUCON2026 に出てみた",
-      "url": "https://zenn.dev/hazelnut_smnth/articles/3b5e5d38937841",
+      "title": "ISUCON2026 で優勝しました（当日編）",
+      "url": "https://zenn.dev/luvtechno/articles/isucon2026-competition-day",
+      "score": 160,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 02 Nov 2026 13:26:09 GMT",
+      "hatena_count": 176
+    },
+    {
+      "id": "zenn-5a2af32f86",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "学部生3人でISUCON2026に出て、最後に証拠より常識を選んで負けた話",
+      "url": "https://zenn.dev/enari_k/articles/b512e044ec9240",
       "score": 0,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Sat, 31 Oct 2026 12:54:20 GMT",
+      "date": "Mon, 02 Nov 2026 07:00:35 GMT",
       "hatena_count": 0
     },
     {
-      "id": "zenn-7934fc26b4",
+      "id": "zenn-49fbe9e192",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "ISUCON2026に人間1人＋AIエージェント軍団で出て19.6万点、ループは閉じたけど中身が弱かった反省文😇",
-      "url": "https://zenn.dev/tak848/articles/20261031-isucon2026-writeup",
-      "score": 2,
+      "title": "AIが書く「読みづらいADR」に発狂しかけたので、ADRのガイドラインを作った",
+      "url": "https://zenn.dev/tokium_dev/articles/adr-authoring-guideline",
+      "score": 67,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Sat, 31 Oct 2026 10:53:26 GMT",
-      "hatena_count": 2
+      "date": "Mon, 02 Nov 2026 06:00:05 GMT",
+      "hatena_count": 80
     },
     {
-      "id": "zenn-4a5a8c3dda",
+      "id": "zenn-dda79d10be",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "yoroによろしくぅ！Ai Workforce 事業部のリモートコーディングエージェント環境 yoro のご紹介",
-      "url": "https://zenn.dev/layerx/articles/a277f83a93d300",
-      "score": 3,
+      "title": "弊社がAIでPlaywrightテストコードを生成するために調整したこと",
+      "url": "https://zenn.dev/castingone_dev/articles/casone_playwright_for_claude",
+      "score": 0,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Fri, 30 Oct 2026 02:11:36 GMT",
-      "severity": "critical",
-      "hatena_count": 3
+      "date": "Mon, 02 Nov 2026 02:58:52 GMT",
+      "hatena_count": 0
     },
     {
-      "id": "zenn-1ef417e2bf",
+      "id": "zenn-918b8ad880",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "Flutter やめました。電話アプリを Native にした理由",
-      "url": "https://zenn.dev/ivry/articles/d155267331a3ca",
-      "score": 46,
+      "title": "ローカルLLMはどんな業務で使えるのか？ DGX Spark + DeepSeek V4-FlashのSlackチャットボットを評価した",
+      "url": "https://zenn.dev/sompojapan_dx/articles/05f34316118943",
+      "score": 0,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Wed, 28 Oct 2026 02:39:36 GMT",
-      "hatena_count": 46
-    },
-    {
-      "id": "zenn-ed54cd5c88",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "コードを読まずにマージするために必要なこと",
-      "url": "https://zenn.dev/nrs/articles/c777388530aa84",
-      "score": 127,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 27 Oct 2026 11:00:05 GMT",
-      "hatena_count": 127
+      "date": "Mon, 02 Nov 2026 00:06:09 GMT",
+      "hatena_count": 0
     },
     {
       "id": "zenn-5b89b475c2",

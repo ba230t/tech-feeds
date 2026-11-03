@@ -1,7 +1,7 @@
 {
   "month": "2026-11",
   "total_articles": 185,
-  "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (2件)**\n\n1. 今後のセキュリティの考え方\n\n2. 厳選・セキュリティが心配ならClaude Codeにこの問いかけをコピペするべし20\n\n**AI・機械学習動向 (3件)**\n\n1. 仕組みを理解する動画を、Claude Codeに作らせると便利すぎる\n\n2. AI の謎な説明文を直すスキル\n\n3. 3 人それぞれの Claude Code を Slack でつないで ISUCON2026 に参加した（207,039 点）\n\n**技術トレンド (5件)**\n\n1. バイブコーディングを6週間続けたら、Mac の起動が20分かかるようになった\n\n2. 最近の E2E 戦略（2026 年 10 月現在）\n\n3. ISUCON2026 で優勝しました（当日編）\n\n4. コードを読まずにマージするために必要なこと\n\n5. 私が5種類のコーディングエージェントを使い分ける理由",
+  "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (2件)**\n\n1. 今後のセキュリティの考え方\n\n2. 厳選・セキュリティが心配ならClaude Codeにこの問いかけをコピペするべし20\n\n**AI・機械学習動向 (3件)**\n\n1. 仕組みを理解する動画を、Claude Codeに作らせると便利すぎる\n\n2. AI の謎な説明文を直すスキル\n\n3. 3 人それぞれの Claude Code を Slack でつないで ISUCON2026 に参加した（207,039 点）\n\n**技術トレンド (5件)**\n\n1. バイブコーディングを6週間続けたら、Mac の起動が20分かかるようになった\n\n2. 最近の E2E 戦略（2026 年 10 月現在）\n\n3. ISUCON2026 で優勝しました（当日編）\n\n4. 日本の全法令を git の履歴にしてみた\n\n5. コードを読まずにマージするために必要なこと",
   "source_counts": {
     "sns": 170,
     "ipa": 1,
@@ -109,7 +109,7 @@
         "Zenn"
       ],
       "date": "Mon, 02 Nov 2026 13:26:09 GMT",
-      "hatena_count": 160
+      "hatena_count": 176
     },
     {
       "id": "zenn-4f504ab158",
@@ -124,6 +124,20 @@
       ],
       "date": "Sat, 31 Oct 2026 12:31:11 GMT",
       "hatena_count": 137
+    },
+    {
+      "id": "zenn-9b1348f0a8",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "日本の全法令を git の履歴にしてみた",
+      "url": "https://zenn.dev/koheiwada/articles/houritsu-japanese-laws-as-git",
+      "score": 129,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 01 Nov 2026 03:36:05 GMT",
+      "hatena_count": 129
     },
     {
       "id": "zenn-ed54cd5c88",
@@ -166,20 +180,6 @@
       ],
       "date": "Wed, 28 Oct 2026 10:14:03 GMT",
       "hatena_count": 107
-    },
-    {
-      "id": "zenn-9b1348f0a8",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "日本の全法令を git の履歴にしてみた",
-      "url": "https://zenn.dev/koheiwada/articles/houritsu-japanese-laws-as-git",
-      "score": 100,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 01 Nov 2026 03:36:05 GMT",
-      "hatena_count": 100
     },
     {
       "id": "zenn-89cd9f8fc3",
@@ -249,7 +249,7 @@
         "Zenn"
       ],
       "date": "Mon, 02 Nov 2026 06:00:05 GMT",
-      "hatena_count": 67
+      "hatena_count": 80
     },
     {
       "id": "zenn-1ef417e2bf",
