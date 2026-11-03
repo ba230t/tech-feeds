@@ -70,6 +70,20 @@
       "hatena_count": 197
     },
     {
+      "id": "zenn-43bee14924",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "ISUCON2026 で優勝しました（当日編）",
+      "url": "https://zenn.dev/luvtechno/articles/isucon2026-competition-day",
+      "score": 192,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 02 Nov 2026 13:26:09 GMT",
+      "hatena_count": 192
+    },
+    {
       "id": "zenn-7e7a9f272a",
       "source": "sns",
       "sub_source": "Zenn",
@@ -98,18 +112,18 @@
       "hatena_count": 164
     },
     {
-      "id": "zenn-43bee14924",
+      "id": "zenn-9b1348f0a8",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "ISUCON2026 で優勝しました（当日編）",
-      "url": "https://zenn.dev/luvtechno/articles/isucon2026-competition-day",
-      "score": 160,
+      "title": "日本の全法令を git の履歴にしてみた",
+      "url": "https://zenn.dev/koheiwada/articles/houritsu-japanese-laws-as-git",
+      "score": 158,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Mon, 02 Nov 2026 13:26:09 GMT",
-      "hatena_count": 176
+      "date": "Sun, 01 Nov 2026 03:36:05 GMT",
+      "hatena_count": 158
     },
     {
       "id": "zenn-4f504ab158",
@@ -124,20 +138,6 @@
       ],
       "date": "Sat, 31 Oct 2026 12:31:11 GMT",
       "hatena_count": 137
-    },
-    {
-      "id": "zenn-9b1348f0a8",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "日本の全法令を git の履歴にしてみた",
-      "url": "https://zenn.dev/koheiwada/articles/houritsu-japanese-laws-as-git",
-      "score": 129,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 01 Nov 2026 03:36:05 GMT",
-      "hatena_count": 129
     },
     {
       "id": "zenn-ed54cd5c88",
@@ -196,6 +196,20 @@
       "hatena_count": 101
     },
     {
+      "id": "zenn-49fbe9e192",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "AIが書く「読みづらいADR」に発狂しかけたので、ADRのガイドラインを作った",
+      "url": "https://zenn.dev/tokium_dev/articles/adr-authoring-guideline",
+      "score": 89,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 02 Nov 2026 06:00:05 GMT",
+      "hatena_count": 89
+    },
+    {
       "id": "zenn-49bbe1bd17",
       "source": "sns",
       "sub_source": "Zenn",
@@ -236,20 +250,6 @@
       ],
       "date": "Fri, 23 Oct 2026 05:50:11 GMT",
       "hatena_count": 77
-    },
-    {
-      "id": "zenn-49fbe9e192",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "AIが書く「読みづらいADR」に発狂しかけたので、ADRのガイドラインを作った",
-      "url": "https://zenn.dev/tokium_dev/articles/adr-authoring-guideline",
-      "score": 67,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 02 Nov 2026 06:00:05 GMT",
-      "hatena_count": 80
     },
     {
       "id": "zenn-1ef417e2bf",
