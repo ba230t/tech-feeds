@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-03T11:33:43.313669+00:00",
-  "count": 472,
+  "updated_at": "2026-11-03T12:07:31.314973+00:00",
+  "count": 478,
   "items": [
     {
       "id": "qiita-152e76fc99",
@@ -4396,10 +4396,52 @@
       "hatena_count": 1
     },
     {
+      "id": "zenn-db23a67f04",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "ADRをregoでlintする",
+      "url": "https://zenn.dev/babarot/articles/regomark-adr-checker",
+      "score": 1,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 03 Nov 2026 07:59:33 GMT",
+      "hatena_count": 1
+    },
+    {
+      "id": "zenn-6417939ef5",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "バイブコーディングで機能を継ぎ足していて見えてきたClaudeCodeの実装のクセ",
+      "url": "https://zenn.dev/uguisu_blog/articles/45d1f446ece415",
+      "score": 1,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 03 Nov 2026 03:30:05 GMT",
+      "hatena_count": 1
+    },
+    {
+      "id": "zenn-482e1af2f2",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "quench を管理者アカウントから卒業させる：シャットダウン専用の Windows アカウント svc-power",
+      "url": "https://zenn.dev/ryuchama/articles/forge-svc-power-account",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 03 Nov 2026 02:25:50 GMT",
+      "hatena_count": 0
+    },
+    {
       "id": "zenn-9288e9b5eb",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "Human-out-of-the-loop(もどき)で戦うISUCON2026",
+      "title": "Human-out-of-the-loop(もどき)で戦うISUCON2026 (301,558 点 | 12 位)",
       "url": "https://zenn.dev/ponyo877/articles/2a8a24acc2ea3b",
       "score": 2,
       "author": "Zenn",
@@ -4429,13 +4471,41 @@
       "sub_source": "Zenn",
       "title": "ISUCON2026 で優勝しました（当日編）",
       "url": "https://zenn.dev/luvtechno/articles/isucon2026-competition-day",
-      "score": 326,
+      "score": 329,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 02 Nov 2026 13:26:09 GMT",
-      "hatena_count": 326
+      "hatena_count": 329
+    },
+    {
+      "id": "zenn-2a6138d3c6",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Tauto で型付き言語を作る: 型付け規則から証明付きの検査器を生成する",
+      "url": "https://zenn.dev/ryo33/articles/tauto-typed-lang-proof",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 02 Nov 2026 12:06:50 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-4ac0e93a81",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "DeepSeek が描く AI エージェントの未来像",
+      "url": "https://zenn.dev/marvelousu/articles/deepseek-super-agent-design",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 02 Nov 2026 11:37:23 GMT",
+      "hatena_count": 0
     },
     {
       "id": "zenn-05577398c2",
@@ -4471,27 +4541,13 @@
       "sub_source": "Zenn",
       "title": "AIが書く「読みづらいADR」に発狂しかけたので、ADRのガイドラインを作った",
       "url": "https://zenn.dev/tokium_dev/articles/adr-authoring-guideline",
-      "score": 156,
+      "score": 160,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 02 Nov 2026 06:00:05 GMT",
-      "hatena_count": 156
-    },
-    {
-      "id": "zenn-fe262064cc",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Snowflake: Optima Clustering による 1KB クラスタリングキーでの日本語フィルタの改善",
-      "url": "https://zenn.dev/snowflakejp/articles/d907c02698d748",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 02 Nov 2026 04:03:34 GMT",
-      "hatena_count": 0
+      "hatena_count": 160
     },
     {
       "id": "zenn-beeebffada",
@@ -4508,18 +4564,18 @@
       "hatena_count": 2
     },
     {
-      "id": "zenn-fa49f4d51c",
+      "id": "zenn-ac6e542257",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "ISUCON 2026 Writeup / チーム nicklegr",
-      "url": "https://zenn.dev/nicklegr/articles/de0a6fd86b6ce3",
-      "score": 1,
+      "title": "Amazon Bedrock の構造化出力を破壊しようとしてみた（失敗）",
+      "url": "https://zenn.dev/aws_japan/articles/bedrock-structured-outputs-adversarial",
+      "score": 0,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Sun, 01 Nov 2026 12:20:12 GMT",
-      "hatena_count": 1
+      "date": "Sun, 01 Nov 2026 12:51:18 GMT",
+      "hatena_count": 0
     },
     {
       "id": "zenn-bd2d2f6bd8",
@@ -4536,32 +4592,18 @@
       "hatena_count": 12
     },
     {
-      "id": "zenn-756c8bc67f",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "パフォーマンスチューニング経験ゼロ、事前準備ゼロでISUCON2026に出て、良い経験になった話",
-      "url": "https://zenn.dev/go_furu93/articles/isucon2026-solo-retro-20261031-bc4f82",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 01 Nov 2026 04:39:46 GMT",
-      "hatena_count": 0
-    },
-    {
       "id": "zenn-9b1348f0a8",
       "source": "sns",
       "sub_source": "Zenn",
       "title": "日本の全法令を git の履歴にしてみた",
       "url": "https://zenn.dev/koheiwada/articles/houritsu-japanese-laws-as-git",
-      "score": 315,
+      "score": 321,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sun, 01 Nov 2026 03:36:05 GMT",
-      "hatena_count": 315
+      "hatena_count": 321
     },
     {
       "id": "zenn-4f504ab158",
@@ -4578,20 +4620,6 @@
       "hatena_count": 138
     },
     {
-      "id": "zenn-1c889e9429",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "ISUCONに初めて出たら、直すたびに次のボトルネックが出てきて、超面白かった",
-      "url": "https://zenn.dev/paraponera/articles/2026-10-31-isucon-2026-isureal",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 31 Oct 2026 12:17:24 GMT",
-      "hatena_count": 0
-    },
-    {
       "id": "zenn-3ee32aed16",
       "source": "sns",
       "sub_source": "Zenn",
@@ -4604,20 +4632,6 @@
       ],
       "date": "Sat, 31 Oct 2026 10:16:28 GMT",
       "hatena_count": 1
-    },
-    {
-      "id": "zenn-cd066b67db",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "FlutterKaigi 2026 で生字幕を映像に載せて会場スクリーンに投影しました",
-      "url": "https://zenn.dev/hiro_pon/articles/2f3b68ec60ddae",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 31 Oct 2026 06:40:40 GMT",
-      "hatena_count": 0
     },
     {
       "id": "zenn-d83aa2d820",
@@ -4646,20 +4660,6 @@
       ],
       "date": "Fri, 30 Oct 2026 08:18:26 GMT",
       "hatena_count": 3
-    },
-    {
-      "id": "zenn-dafe6c3a28",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Cloudflare Workers を触ってみた",
-      "url": "https://zenn.dev/atware/articles/ec1dfd799289b7",
-      "score": 2,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 30 Oct 2026 05:01:51 GMT",
-      "hatena_count": 2
     },
     {
       "id": "zenn-2dc50e40ad",
@@ -4824,6 +4824,90 @@
       ],
       "date": "Tue, 13 Oct 2026 08:30:41 +0000",
       "hatena_count": 1
+    },
+    {
+      "id": "zenn-fe262064cc",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Snowflake: Optima Clustering による 1KB クラスタリングキーでの日本語フィルタの改善",
+      "url": "https://zenn.dev/snowflakejp/articles/d907c02698d748",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 02 Nov 2026 04:03:34 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-fa49f4d51c",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "ISUCON 2026 Writeup / チーム nicklegr",
+      "url": "https://zenn.dev/nicklegr/articles/de0a6fd86b6ce3",
+      "score": 1,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 01 Nov 2026 12:20:12 GMT",
+      "hatena_count": 1
+    },
+    {
+      "id": "zenn-756c8bc67f",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "パフォーマンスチューニング経験ゼロ、事前準備ゼロでISUCON2026に出て、良い経験になった話",
+      "url": "https://zenn.dev/go_furu93/articles/isucon2026-solo-retro-20261031-bc4f82",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 01 Nov 2026 04:39:46 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-1c889e9429",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "ISUCONに初めて出たら、直すたびに次のボトルネックが出てきて、超面白かった",
+      "url": "https://zenn.dev/paraponera/articles/2026-10-31-isucon-2026-isureal",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 31 Oct 2026 12:17:24 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-cd066b67db",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "FlutterKaigi 2026 で生字幕を映像に載せて会場スクリーンに投影しました",
+      "url": "https://zenn.dev/hiro_pon/articles/2f3b68ec60ddae",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 31 Oct 2026 06:40:40 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-dafe6c3a28",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Cloudflare Workers を触ってみた",
+      "url": "https://zenn.dev/atware/articles/ec1dfd799289b7",
+      "score": 2,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 30 Oct 2026 05:01:51 GMT",
+      "hatena_count": 2
     },
     {
       "id": "zenn-dda79d10be",
@@ -6483,7 +6567,7 @@
         "Zenn"
       ],
       "date": "Wed, 21 Oct 2026 01:39:50 GMT",
-      "hatena_count": 113
+      "hatena_count": 118
     },
     {
       "id": "zenn-f0d56afe76",
