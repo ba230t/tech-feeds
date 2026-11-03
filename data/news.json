@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T20:33:50.354079+00:00",
+  "updated_at": "2026-11-03T21:04:57.046875+00:00",
   "count": 488,
   "items": [
     {
@@ -4541,13 +4541,13 @@
       "sub_source": "Zenn",
       "title": "ADRをregoでlintする",
       "url": "https://zenn.dev/babarot/articles/regomark-adr-checker",
-      "score": 36,
+      "score": 37,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 03 Nov 2026 07:59:33 GMT",
-      "hatena_count": 36
+      "hatena_count": 37
     },
     {
       "id": "zenn-6417939ef5",
@@ -6707,7 +6707,7 @@
         "Zenn"
       ],
       "date": "Wed, 21 Oct 2026 01:39:50 GMT",
-      "hatena_count": 149
+      "hatena_count": 150
     },
     {
       "id": "zenn-f0d56afe76",
