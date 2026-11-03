@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T09:06:13.719123+00:00",
+  "updated_at": "2026-11-03T09:33:41.906608+00:00",
   "count": 472,
   "items": [
     {
@@ -4429,13 +4429,13 @@
       "sub_source": "Zenn",
       "title": "ISUCON2026 で優勝しました（当日編）",
       "url": "https://zenn.dev/luvtechno/articles/isucon2026-competition-day",
-      "score": 312,
+      "score": 314,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 02 Nov 2026 13:26:09 GMT",
-      "hatena_count": 312
+      "hatena_count": 314
     },
     {
       "id": "zenn-05577398c2",
@@ -4667,13 +4667,13 @@
       "sub_source": "Zenn",
       "title": "GitHub Actions で checkout@v7 のようなバージョン指定を書くのはやめよう！ 時代は actions.lock！",
       "url": "https://zenn.dev/progate/articles/24b1140180300c",
-      "score": 84,
+      "score": 85,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 29 Oct 2026 03:48:15 GMT",
-      "hatena_count": 84
+      "hatena_count": 85
     },
     {
       "id": "techracho-b23695913c",
@@ -5161,7 +5161,7 @@
         "Zenn"
       ],
       "date": "Wed, 28 Oct 2026 03:17:06 GMT",
-      "hatena_count": 11
+      "hatena_count": 12
     },
     {
       "id": "zenn-09d550a448",
@@ -6483,7 +6483,7 @@
         "Zenn"
       ],
       "date": "Wed, 21 Oct 2026 01:39:50 GMT",
-      "hatena_count": 95
+      "hatena_count": 97
     },
     {
       "id": "zenn-f0d56afe76",
