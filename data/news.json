@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T07:34:02.291808+00:00",
+  "updated_at": "2026-11-03T08:07:22.104323+00:00",
   "count": 460,
   "items": [
     {
@@ -4231,13 +4231,13 @@
       "sub_source": "Zenn",
       "title": "Human-out-of-the-loop(もどき)で戦うISUCON2026",
       "url": "https://zenn.dev/ponyo877/articles/2a8a24acc2ea3b",
-      "score": 1,
+      "score": 2,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 02 Nov 2026 14:52:35 GMT",
-      "hatena_count": 1
+      "hatena_count": 2
     },
     {
       "id": "zenn-396a83fd9d",
@@ -4259,13 +4259,13 @@
       "sub_source": "Zenn",
       "title": "ISUCON2026 で優勝しました（当日編）",
       "url": "https://zenn.dev/luvtechno/articles/isucon2026-competition-day",
-      "score": 292,
+      "score": 306,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 02 Nov 2026 13:26:09 GMT",
-      "hatena_count": 292
+      "hatena_count": 306
     },
     {
       "id": "zenn-05577398c2",
@@ -4301,13 +4301,13 @@
       "sub_source": "Zenn",
       "title": "AIが書く「読みづらいADR」に発狂しかけたので、ADRのガイドラインを作った",
       "url": "https://zenn.dev/tokium_dev/articles/adr-authoring-guideline",
-      "score": 145,
+      "score": 151,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 02 Nov 2026 06:00:05 GMT",
-      "hatena_count": 145
+      "hatena_count": 151
     },
     {
       "id": "zenn-fe262064cc",
@@ -4357,13 +4357,13 @@
       "sub_source": "Zenn",
       "title": "ISUCON2026 にツールを捨てて勝ちたかった",
       "url": "https://zenn.dev/mazrean/articles/5c968503fd69a3",
-      "score": 11,
+      "score": 12,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sun, 01 Nov 2026 12:16:33 GMT",
-      "hatena_count": 11
+      "hatena_count": 12
     },
     {
       "id": "zenn-756c8bc67f",
@@ -4385,13 +4385,13 @@
       "sub_source": "Zenn",
       "title": "日本の全法令を git の履歴にしてみた",
       "url": "https://zenn.dev/koheiwada/articles/houritsu-japanese-laws-as-git",
-      "score": 295,
+      "score": 306,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sun, 01 Nov 2026 03:36:05 GMT",
-      "hatena_count": 295
+      "hatena_count": 306
     },
     {
       "id": "zenn-4f504ab158",
@@ -4455,13 +4455,13 @@
       "sub_source": "Zenn",
       "title": "今後のセキュリティの考え方",
       "url": "https://zenn.dev/cscloud_blog/articles/a987163efae5d8",
-      "score": 238,
+      "score": 239,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 30 Oct 2026 10:30:27 GMT",
-      "hatena_count": 238
+      "hatena_count": 239
     },
     {
       "id": "zenn-5992d09aad",
@@ -5103,7 +5103,7 @@
         "Zenn"
       ],
       "date": "Fri, 30 Oct 2026 00:55:31 GMT",
-      "hatena_count": 38
+      "hatena_count": 42
     },
     {
       "id": "zenn-d91598a4c5",
@@ -6313,7 +6313,7 @@
         "Zenn"
       ],
       "date": "Wed, 21 Oct 2026 01:39:50 GMT",
-      "hatena_count": 67
+      "hatena_count": 86
     },
     {
       "id": "zenn-f0d56afe76",
