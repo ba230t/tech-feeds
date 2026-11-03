@@ -1,7 +1,7 @@
 {
   "month": "2026-11",
   "total_articles": 185,
-  "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (2件)**\n\n1. 今後のセキュリティの考え方\n\n2. 厳選・セキュリティが心配ならClaude Codeにこの問いかけをコピペするべし20\n\n**AI・機械学習動向 (3件)**\n\n1. 仕組みを理解する動画を、Claude Codeに作らせると便利すぎる\n\n2. AI の謎な説明文を直すスキル\n\n3. 3 人それぞれの Claude Code を Slack でつないで ISUCON2026 に参加した（207,039 点）\n\n**技術トレンド (5件)**\n\n1. バイブコーディングを6週間続けたら、Mac の起動が20分かかるようになった\n\n2. ISUCON2026 で優勝しました（当日編）\n\n3. 日本の全法令を git の履歴にしてみた\n\n4. 最近の E2E 戦略（2026 年 10 月現在）\n\n5. コードを読まずにマージするために必要なこと",
+  "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (2件)**\n\n1. 今後のセキュリティの考え方\n\n2. 厳選・セキュリティが心配ならClaude Codeにこの問いかけをコピペするべし20\n\n**AI・機械学習動向 (3件)**\n\n1. 仕組みを理解する動画を、Claude Codeに作らせると便利すぎる\n\n2. AI の謎な説明文を直すスキル\n\n3. 3 人それぞれの Claude Code を Slack でつないで ISUCON2026 に参加した（207,039 点）\n\n**技術トレンド (5件)**\n\n1. ISUCON2026 で優勝しました（当日編）\n\n2. バイブコーディングを6週間続けたら、Mac の起動が20分かかるようになった\n\n3. 日本の全法令を git の履歴にしてみた\n\n4. 最近の E2E 戦略（2026 年 10 月現在）\n\n5. コードを読まずにマージするために必要なこと",
   "source_counts": {
     "sns": 170,
     "ipa": 1,
@@ -26,6 +26,20 @@
       ],
       "date": "Wed, 21 Oct 2026 02:14:44 GMT",
       "hatena_count": 654
+    },
+    {
+      "id": "zenn-43bee14924",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "ISUCON2026 で優勝しました（当日編）",
+      "url": "https://zenn.dev/luvtechno/articles/isucon2026-competition-day",
+      "score": 253,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 02 Nov 2026 13:26:09 GMT",
+      "hatena_count": 253
     },
     {
       "id": "zenn-d83aa2d820",
@@ -56,32 +70,18 @@
       "hatena_count": 236
     },
     {
-      "id": "zenn-43bee14924",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "ISUCON2026 で優勝しました（当日編）",
-      "url": "https://zenn.dev/luvtechno/articles/isucon2026-competition-day",
-      "score": 232,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 02 Nov 2026 13:26:09 GMT",
-      "hatena_count": 232
-    },
-    {
       "id": "zenn-9b1348f0a8",
       "source": "sns",
       "sub_source": "Zenn",
       "title": "日本の全法令を git の履歴にしてみた",
       "url": "https://zenn.dev/koheiwada/articles/houritsu-japanese-laws-as-git",
-      "score": 203,
+      "score": 227,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sun, 01 Nov 2026 03:36:05 GMT",
-      "hatena_count": 203
+      "hatena_count": 227
     },
     {
       "id": "zenn-f64ba0d17d",
@@ -154,6 +154,20 @@
       "hatena_count": 127
     },
     {
+      "id": "zenn-49fbe9e192",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "AIが書く「読みづらいADR」に発狂しかけたので、ADRのガイドラインを作った",
+      "url": "https://zenn.dev/tokium_dev/articles/adr-authoring-guideline",
+      "score": 123,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 02 Nov 2026 06:00:05 GMT",
+      "hatena_count": 123
+    },
+    {
       "id": "zenn-1adc6c7b1e",
       "source": "sns",
       "sub_source": "Zenn",
@@ -165,21 +179,7 @@
         "Zenn"
       ],
       "date": "Sun, 25 Oct 2026 22:44:03 GMT",
-      "hatena_count": 122
-    },
-    {
-      "id": "zenn-49fbe9e192",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "AIが書く「読みづらいADR」に発狂しかけたので、ADRのガイドラインを作った",
-      "url": "https://zenn.dev/tokium_dev/articles/adr-authoring-guideline",
-      "score": 110,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 02 Nov 2026 06:00:05 GMT",
-      "hatena_count": 110
+      "hatena_count": 123
     },
     {
       "id": "zenn-47a83a0acf",
