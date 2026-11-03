@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-03T04:06:20.311987+00:00",
-  "count": 457,
+  "updated_at": "2026-11-03T04:33:46.456625+00:00",
+  "count": 460,
   "items": [
     {
       "id": "qiita-1c32d52cd7",
@@ -4226,18 +4226,60 @@
       "hatena_count": 1
     },
     {
+      "id": "zenn-9288e9b5eb",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Human-out-of-the-loop(もどき)で戦うISUCON2026",
+      "url": "https://zenn.dev/ponyo877/articles/2a8a24acc2ea3b",
+      "score": 1,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 02 Nov 2026 14:52:35 GMT",
+      "hatena_count": 1
+    },
+    {
+      "id": "zenn-396a83fd9d",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "GitHub Copilot App のサンドボックスで .NET アプリを開発するための設定を試してみた",
+      "url": "https://zenn.dev/microsoft/articles/copilot-app-dotnet-windows-sandbox",
+      "score": 1,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 02 Nov 2026 13:51:52 GMT",
+      "hatena_count": 1
+    },
+    {
       "id": "zenn-43bee14924",
       "source": "sns",
       "sub_source": "Zenn",
       "title": "ISUCON2026 で優勝しました（当日編）",
       "url": "https://zenn.dev/luvtechno/articles/isucon2026-competition-day",
-      "score": 257,
+      "score": 272,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 02 Nov 2026 13:26:09 GMT",
-      "hatena_count": 257
+      "hatena_count": 272
+    },
+    {
+      "id": "zenn-05577398c2",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "【LLMOps】FDEの開発を支えるトレーシング基盤の開発",
+      "url": "https://zenn.dev/aishift/articles/e761cff4f079cd",
+      "score": 1,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 02 Nov 2026 09:00:08 GMT",
+      "hatena_count": 1
     },
     {
       "id": "zenn-5a2af32f86",
@@ -4259,13 +4301,13 @@
       "sub_source": "Zenn",
       "title": "AIが書く「読みづらいADR」に発狂しかけたので、ADRのガイドラインを作った",
       "url": "https://zenn.dev/tokium_dev/articles/adr-authoring-guideline",
-      "score": 131,
+      "score": 140,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 02 Nov 2026 06:00:05 GMT",
-      "hatena_count": 131
+      "hatena_count": 140
     },
     {
       "id": "zenn-fe262064cc",
@@ -4279,34 +4321,6 @@
         "Zenn"
       ],
       "date": "Mon, 02 Nov 2026 04:03:34 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-dda79d10be",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "弊社がAIでPlaywrightテストコードを生成するために調整したこと",
-      "url": "https://zenn.dev/castingone_dev/articles/casone_playwright_for_claude",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 02 Nov 2026 02:58:52 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-918b8ad880",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "ローカルLLMはどんな業務で使えるのか？ DGX Spark + DeepSeek V4-FlashのSlackチャットボットを評価した",
-      "url": "https://zenn.dev/sompojapan_dx/articles/05f34316118943",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 02 Nov 2026 00:06:09 GMT",
       "hatena_count": 0
     },
     {
@@ -4366,32 +4380,18 @@
       "hatena_count": 0
     },
     {
-      "id": "zenn-cd291dcdde",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "ISUCON 2026 参加記",
-      "url": "https://zenn.dev/catatsuy/articles/159edffe202c0c",
-      "score": 1,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 01 Nov 2026 03:40:42 GMT",
-      "hatena_count": 1
-    },
-    {
       "id": "zenn-9b1348f0a8",
       "source": "sns",
       "sub_source": "Zenn",
       "title": "日本の全法令を git の履歴にしてみた",
       "url": "https://zenn.dev/koheiwada/articles/houritsu-japanese-laws-as-git",
-      "score": 237,
+      "score": 265,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sun, 01 Nov 2026 03:36:05 GMT",
-      "hatena_count": 237
+      "hatena_count": 265
     },
     {
       "id": "zenn-4f504ab158",
@@ -4450,20 +4450,6 @@
       "hatena_count": 0
     },
     {
-      "id": "zenn-9e8331269a",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "【最速解説】goda.vimでHello, worldする",
-      "url": "https://zenn.dev/comamoca/articles/2026-10-30-trying-hello-world-with-goda-vim",
-      "score": 1,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 31 Oct 2026 01:57:43 GMT",
-      "hatena_count": 1
-    },
-    {
       "id": "zenn-d83aa2d820",
       "source": "sns",
       "sub_source": "Zenn",
@@ -4490,6 +4476,20 @@
       ],
       "date": "Fri, 30 Oct 2026 08:18:26 GMT",
       "hatena_count": 3
+    },
+    {
+      "id": "zenn-dafe6c3a28",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Cloudflare Workers を触ってみた",
+      "url": "https://zenn.dev/atware/articles/ec1dfd799289b7",
+      "score": 2,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 30 Oct 2026 05:01:51 GMT",
+      "hatena_count": 2
     },
     {
       "id": "zenn-2dc50e40ad",
@@ -4656,6 +4656,62 @@
       "hatena_count": 1
     },
     {
+      "id": "zenn-dda79d10be",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "弊社がAIでPlaywrightテストコードを生成するために調整したこと",
+      "url": "https://zenn.dev/castingone_dev/articles/casone_playwright_for_claude",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 02 Nov 2026 02:58:52 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-918b8ad880",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "ローカルLLMはどんな業務で使えるのか？ DGX Spark + DeepSeek V4-FlashのSlackチャットボットを評価した",
+      "url": "https://zenn.dev/sompojapan_dx/articles/05f34316118943",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 02 Nov 2026 00:06:09 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-cd291dcdde",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "ISUCON 2026 参加記",
+      "url": "https://zenn.dev/catatsuy/articles/159edffe202c0c",
+      "score": 1,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 01 Nov 2026 03:40:42 GMT",
+      "hatena_count": 1
+    },
+    {
+      "id": "zenn-9e8331269a",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "【最速解説】goda.vimでHello, worldする",
+      "url": "https://zenn.dev/comamoca/articles/2026-10-30-trying-hello-world-with-goda-vim",
+      "score": 1,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 31 Oct 2026 01:57:43 GMT",
+      "hatena_count": 1
+    },
+    {
       "id": "zenn-bd31096d05",
       "source": "sns",
       "sub_source": "Zenn",
@@ -4739,20 +4795,6 @@
       ],
       "date": "Sun, 01 Nov 2026 06:53:45 GMT",
       "hatena_count": 0
-    },
-    {
-      "id": "zenn-dafe6c3a28",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Cloudflare Workers を触ってみた",
-      "url": "https://zenn.dev/atware/articles/ec1dfd799289b7",
-      "score": 2,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 30 Oct 2026 05:01:51 GMT",
-      "hatena_count": 2
     },
     {
       "id": "zenn-cbbebf50dc",
@@ -5061,7 +5103,7 @@
         "Zenn"
       ],
       "date": "Fri, 30 Oct 2026 00:55:31 GMT",
-      "hatena_count": 36
+      "hatena_count": 37
     },
     {
       "id": "zenn-d91598a4c5",
@@ -6271,7 +6313,7 @@
         "Zenn"
       ],
       "date": "Wed, 21 Oct 2026 01:39:50 GMT",
-      "hatena_count": 27
+      "hatena_count": 39
     },
     {
       "id": "zenn-f0d56afe76",
