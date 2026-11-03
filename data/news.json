@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T12:34:48.038368+00:00",
+  "updated_at": "2026-11-03T13:05:57.209050+00:00",
   "count": 478,
   "items": [
     {
@@ -4401,13 +4401,13 @@
       "sub_source": "Zenn",
       "title": "ADRをregoでlintする",
       "url": "https://zenn.dev/babarot/articles/regomark-adr-checker",
-      "score": 1,
+      "score": 2,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 03 Nov 2026 07:59:33 GMT",
-      "hatena_count": 1
+      "hatena_count": 2
     },
     {
       "id": "zenn-6417939ef5",
@@ -4471,13 +4471,13 @@
       "sub_source": "Zenn",
       "title": "ISUCON2026 で優勝しました（当日編）",
       "url": "https://zenn.dev/luvtechno/articles/isucon2026-competition-day",
-      "score": 335,
+      "score": 337,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 02 Nov 2026 13:26:09 GMT",
-      "hatena_count": 335
+      "hatena_count": 337
     },
     {
       "id": "zenn-2a6138d3c6",
@@ -4541,13 +4541,13 @@
       "sub_source": "Zenn",
       "title": "AIが書く「読みづらいADR」に発狂しかけたので、ADRのガイドラインを作った",
       "url": "https://zenn.dev/tokium_dev/articles/adr-authoring-guideline",
-      "score": 163,
+      "score": 164,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 02 Nov 2026 06:00:05 GMT",
-      "hatena_count": 163
+      "hatena_count": 164
     },
     {
       "id": "zenn-beeebffada",
@@ -4597,13 +4597,13 @@
       "sub_source": "Zenn",
       "title": "日本の全法令を git の履歴にしてみた",
       "url": "https://zenn.dev/koheiwada/articles/houritsu-japanese-laws-as-git",
-      "score": 321,
+      "score": 327,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sun, 01 Nov 2026 03:36:05 GMT",
-      "hatena_count": 321
+      "hatena_count": 327
     },
     {
       "id": "zenn-4f504ab158",
@@ -6567,7 +6567,7 @@
         "Zenn"
       ],
       "date": "Wed, 21 Oct 2026 01:39:50 GMT",
-      "hatena_count": 121
+      "hatena_count": 124
     },
     {
       "id": "zenn-f0d56afe76",
