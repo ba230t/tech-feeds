@@ -1,7 +1,163 @@
 {
-  "updated_at": "2026-11-03T08:07:22.104323+00:00",
-  "count": 460,
+  "updated_at": "2026-11-03T08:33:32.493151+00:00",
+  "count": 472,
   "items": [
+    {
+      "id": "qiita-152e76fc99",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "営業こそコミュニティでは「No sell」でいよう",
+      "url": "https://qiita.com/sadabon444/items/83535ce9f3dd7d56600e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-03T13:13:45+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-9b6b718ccb",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "ナレッジグラフを自動生成!?Oracle AI Database 26aiの23.26.4で追加されたGraphRAG機能を試してみた",
+      "url": "https://qiita.com/ssfujita/items/62b9502167c97f898b90?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-03T12:31:46+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-0d2a3c57af",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "Claude CodeとArduino CLIは相性バツグン！時代はバイブIoTだー",
+      "url": "https://qiita.com/moritalous/items/744f13ec61892e9c520b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-03T11:14:37+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-fffc46ecd2",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "Strataを使ってMac mini（32GB）でQwen3.8-Flash-Next（125B）を動かす",
+      "url": "https://qiita.com/eiji-noguchi/items/174b7557ffcdb932ca40?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-03T06:47:01+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-d8a8c91758",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "キャラに合う2D背景が見つからないので、Claude Codeにプロンプトを書かせてChatGPTで一から作った",
+      "url": "https://qiita.com/yasuharusmooth/items/450fe98c52ea6fc8b5a8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-03T04:46:26+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-a4da8714ba",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "watsonx.aiのLLMで作ったAIヘルプデスクRAGをフロンティアモデルで評価・改善する",
+      "url": "https://qiita.com/mizuk1013/items/e09acc41e1445b9fa7ac?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-02T22:29:44+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-c2ee290858",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "AI から答えを取り上げた上長が、今度は評価から「コード」を取り上げることにした",
+      "url": "https://qiita.com/jksoft/items/e09426e5fbf291dcf146?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-02T21:54:50+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-289831eab1",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "【Curl】致命傷じゃないセキュリティ脆弱性はフルオープンにするわ",
+      "url": "https://qiita.com/rana_kualu/items/dd8e9a8e7d3759adf943?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-02T21:28:21+09:00",
+      "severity": "high",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-8dc8e9508d",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "インフラの開発環境構築を3ヶ月→1ヶ月にしたClaude Codeの使い方（AWS / ECS 9サービス）",
+      "url": "https://qiita.com/shainfra07/items/c149c06162ab1f3b136a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-02T21:25:03+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-9e1ea27bba",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "【Rails初学者向け】Railsサーバーのログが読めないので分解して読み解いてみた",
+      "url": "https://qiita.com/Iriei/items/4523d2034b01aaa7f8b0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-02T20:31:44+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-b6fcc93790",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "PHPの脆弱性「php2shell」が来たので、Amazonの公式パッケージを待たずにPHPを自分でビルドして本番に入れた話",
+      "url": "https://qiita.com/Tukirukiki/items/beec6fedd37f63e1c231?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-02T20:05:13+09:00",
+      "severity": "high",
+      "hatena_count": 0
+    },
     {
       "id": "qiita-1c32d52cd7",
       "source": "sns",
@@ -112,6 +268,20 @@
         "Qiita"
       ],
       "date": "2026-11-02T14:50:38+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-9e747f43a9",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "自分の書いたコードを検査する ── 静的解析",
+      "url": "https://qiita.com/chooser/items/639fc22081eabdec1b0d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-02T14:49:32+09:00",
       "hatena_count": 0
     },
     {
@@ -4259,13 +4429,13 @@
       "sub_source": "Zenn",
       "title": "ISUCON2026 で優勝しました（当日編）",
       "url": "https://zenn.dev/luvtechno/articles/isucon2026-competition-day",
-      "score": 306,
+      "score": 310,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 02 Nov 2026 13:26:09 GMT",
-      "hatena_count": 306
+      "hatena_count": 310
     },
     {
       "id": "zenn-05577398c2",
@@ -4301,13 +4471,13 @@
       "sub_source": "Zenn",
       "title": "AIが書く「読みづらいADR」に発狂しかけたので、ADRのガイドラインを作った",
       "url": "https://zenn.dev/tokium_dev/articles/adr-authoring-guideline",
-      "score": 151,
+      "score": 152,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 02 Nov 2026 06:00:05 GMT",
-      "hatena_count": 151
+      "hatena_count": 152
     },
     {
       "id": "zenn-fe262064cc",
@@ -4385,13 +4555,13 @@
       "sub_source": "Zenn",
       "title": "日本の全法令を git の履歴にしてみた",
       "url": "https://zenn.dev/koheiwada/articles/houritsu-japanese-laws-as-git",
-      "score": 306,
+      "score": 308,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sun, 01 Nov 2026 03:36:05 GMT",
-      "hatena_count": 306
+      "hatena_count": 308
     },
     {
       "id": "zenn-4f504ab158",
@@ -6313,7 +6483,7 @@
         "Zenn"
       ],
       "date": "Wed, 21 Oct 2026 01:39:50 GMT",
-      "hatena_count": 86
+      "hatena_count": 90
     },
     {
       "id": "zenn-f0d56afe76",
