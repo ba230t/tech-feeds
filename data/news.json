@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T10:05:40.045751+00:00",
+  "updated_at": "2026-11-03T10:33:51.915699+00:00",
   "count": 472,
   "items": [
     {
@@ -4429,13 +4429,13 @@
       "sub_source": "Zenn",
       "title": "ISUCON2026 で優勝しました（当日編）",
       "url": "https://zenn.dev/luvtechno/articles/isucon2026-competition-day",
-      "score": 314,
+      "score": 321,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 02 Nov 2026 13:26:09 GMT",
-      "hatena_count": 314
+      "hatena_count": 321
     },
     {
       "id": "zenn-05577398c2",
@@ -4555,13 +4555,13 @@
       "sub_source": "Zenn",
       "title": "日本の全法令を git の履歴にしてみた",
       "url": "https://zenn.dev/koheiwada/articles/houritsu-japanese-laws-as-git",
-      "score": 310,
+      "score": 315,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sun, 01 Nov 2026 03:36:05 GMT",
-      "hatena_count": 310
+      "hatena_count": 315
     },
     {
       "id": "zenn-4f504ab158",
@@ -4625,13 +4625,13 @@
       "sub_source": "Zenn",
       "title": "今後のセキュリティの考え方",
       "url": "https://zenn.dev/cscloud_blog/articles/a987163efae5d8",
-      "score": 239,
+      "score": 242,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 30 Oct 2026 10:30:27 GMT",
-      "hatena_count": 239
+      "hatena_count": 242
     },
     {
       "id": "zenn-5992d09aad",
@@ -5133,7 +5133,7 @@
         "Zenn"
       ],
       "date": "Fri, 30 Oct 2026 07:50:00 GMT",
-      "hatena_count": 29
+      "hatena_count": 30
     },
     {
       "id": "zenn-60cec5a308",
@@ -6483,7 +6483,7 @@
         "Zenn"
       ],
       "date": "Wed, 21 Oct 2026 01:39:50 GMT",
-      "hatena_count": 97
+      "hatena_count": 103
     },
     {
       "id": "zenn-f0d56afe76",
