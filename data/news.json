@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T15:33:41.129499+00:00",
+  "updated_at": "2026-11-03T16:05:58.121496+00:00",
   "count": 478,
   "items": [
     {
@@ -4401,13 +4401,13 @@
       "sub_source": "Zenn",
       "title": "ADRをregoでlintする",
       "url": "https://zenn.dev/babarot/articles/regomark-adr-checker",
-      "score": 21,
+      "score": 26,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 03 Nov 2026 07:59:33 GMT",
-      "hatena_count": 21
+      "hatena_count": 26
     },
     {
       "id": "zenn-6417939ef5",
@@ -4471,13 +4471,13 @@
       "sub_source": "Zenn",
       "title": "ISUCON2026 で優勝しました（当日編）",
       "url": "https://zenn.dev/luvtechno/articles/isucon2026-competition-day",
-      "score": 351,
+      "score": 352,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 02 Nov 2026 13:26:09 GMT",
-      "hatena_count": 351
+      "hatena_count": 352
     },
     {
       "id": "zenn-2a6138d3c6",
@@ -4597,13 +4597,13 @@
       "sub_source": "Zenn",
       "title": "日本の全法令を git の履歴にしてみた",
       "url": "https://zenn.dev/koheiwada/articles/houritsu-japanese-laws-as-git",
-      "score": 335,
+      "score": 336,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sun, 01 Nov 2026 03:36:05 GMT",
-      "hatena_count": 335
+      "hatena_count": 336
     },
     {
       "id": "zenn-4f504ab158",
@@ -4887,13 +4887,13 @@
       "sub_source": "Zenn",
       "title": "FlutterKaigi 2026 で生字幕を映像に載せて会場スクリーンに投影しました",
       "url": "https://zenn.dev/hiro_pon/articles/2f3b68ec60ddae",
-      "score": 0,
+      "score": 1,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sat, 31 Oct 2026 06:40:40 GMT",
-      "hatena_count": 0
+      "hatena_count": 1
     },
     {
       "id": "zenn-dafe6c3a28",
@@ -5357,7 +5357,7 @@
         "Zenn"
       ],
       "date": "Fri, 30 Oct 2026 00:55:31 GMT",
-      "hatena_count": 42
+      "hatena_count": 43
     },
     {
       "id": "zenn-d91598a4c5",
