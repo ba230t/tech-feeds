@@ -1,7 +1,91 @@
 {
-  "updated_at": "2026-11-03T20:05:54.984089+00:00",
-  "count": 478,
+  "updated_at": "2026-11-03T20:33:50.354079+00:00",
+  "count": 488,
   "items": [
+    {
+      "id": "qiita-12028bc94c",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "⚪︎⚪︎はしないで！AI エージェントの行動を制限する 5 つの方法を、守られる強さで比べた",
+      "url": "https://qiita.com/songchong/items/945479177d4dcbb80f69?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-04T04:35:02+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-2b9d534bad",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "テストする側から創る側になって気づいたこと - 初めてSlackBotを制作した話",
+      "url": "https://qiita.com/Mihyang_Cho/items/498e916f68ea91b977c8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-04T00:07:38+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-dcbbb29446",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "プロダクト検証基盤の整備に向けてテスト工程を支えるスキルを作成した",
+      "url": "https://qiita.com/Mihyang_Cho/items/dfa26f98b73326734943?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-04T00:06:48+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-8ac5d1a24b",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "[AWS]日本語OCRがついにきちゃー！ ~Textractにいろいろ読ませてみた~",
+      "url": "https://qiita.com/kikuziro/items/9aff0fefe89cfa13192e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-03T22:54:09+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-2cbd62ea0e",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "防御側の LLM 活用：ログ分析・アラート一次対応・脅威インテリジェンスで「ログを入力として疑う」設計",
+      "url": "https://qiita.com/shalXXXX/items/5920c6ba75c2f1203f1b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-03T17:00:25+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-2bba187901",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "【AWS】GitHubのトラフィックを定期的に集計するダッシュボードを作ってみた",
+      "url": "https://qiita.com/yakumo_09/items/e3a3235210220486621d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-03T15:00:39+09:00",
+      "hatena_count": 0
+    },
     {
       "id": "qiita-152e76fc99",
       "source": "sns",
@@ -70,6 +154,20 @@
         "Qiita"
       ],
       "date": "2026-11-03T04:46:26+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-0f91c0a069",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "Vitest, RTL導入メモ",
+      "url": "https://qiita.com/J-T_ky2g/items/711a6059a17a549edde0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-03T00:53:33+09:00",
       "hatena_count": 0
     },
     {
@@ -215,6 +313,34 @@
       "hatena_count": 0
     },
     {
+      "id": "qiita-8e8b08d4df",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "Claude Codeを導入して開発速度が5倍になったのに、なぜ私の疲労度は10倍になったのか",
+      "url": "https://qiita.com/xiaoy/items/c4340fda4f660e9c2e4b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-02T16:24:46+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-21a66ff00a",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "第5回 AIに頼みやすい単位で開発を分割するコツ（プロンプト設計の基本）",
+      "url": "https://qiita.com/oanda2/items/16ef492fb3daae0aabf7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-02T15:40:16+09:00",
+      "hatena_count": 0
+    },
+    {
       "id": "qiita-bc792f9f8f",
       "source": "sns",
       "sub_source": "Qiita",
@@ -226,6 +352,20 @@
         "Qiita"
       ],
       "date": "2026-11-02T15:33:07+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-6eaea3c5b3",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "第4回 Claude Code超入門：画面の見方とAIに「変えて」と頼む基本動作",
+      "url": "https://qiita.com/oanda2/items/c1a3ef6f21569dd56252?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-02T15:11:49+09:00",
       "hatena_count": 0
     },
     {
@@ -4401,13 +4541,13 @@
       "sub_source": "Zenn",
       "title": "ADRをregoでlintする",
       "url": "https://zenn.dev/babarot/articles/regomark-adr-checker",
-      "score": 35,
+      "score": 36,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 03 Nov 2026 07:59:33 GMT",
-      "hatena_count": 35
+      "hatena_count": 36
     },
     {
       "id": "zenn-6417939ef5",
