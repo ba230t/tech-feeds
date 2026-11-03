@@ -280,18 +280,18 @@
       "hatena_count": 38
     },
     {
-      "id": "zenn-0f91e18d0b",
+      "id": "zenn-db23a67f04",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "Oxlint + Oxfmt で規約をコード化するモノレポ運用",
-      "url": "https://zenn.dev/reality_tech/articles/oxc-monorepo-20261006",
-      "score": 32,
+      "title": "ADRをregoでlintする",
+      "url": "https://zenn.dev/babarot/articles/regomark-adr-checker",
+      "score": 33,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Tue, 20 Oct 2026 02:00:05 GMT",
-      "hatena_count": 32
+      "date": "Tue, 03 Nov 2026 07:59:33 GMT",
+      "hatena_count": 33
     }
   ],
   "security_highlights": [
