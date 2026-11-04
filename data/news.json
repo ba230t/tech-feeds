@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T08:34:00.428900+00:00",
+  "updated_at": "2026-11-04T09:06:30.806420+00:00",
   "count": 500,
   "items": [
     {
@@ -4723,13 +4723,13 @@
       "sub_source": "Zenn",
       "title": "高市総理のPHP投稿で何がうれしかったのか？今後の説得に使っていくよ～",
       "url": "https://zenn.dev/tyamadadd/articles/36f975db1c41d8",
-      "score": 2,
+      "score": 3,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 03 Nov 2026 10:35:09 GMT",
-      "hatena_count": 2
+      "hatena_count": 3
     },
     {
       "id": "zenn-3d85d861eb",
@@ -4751,13 +4751,13 @@
       "sub_source": "Zenn",
       "title": "ADRをregoでlintする",
       "url": "https://zenn.dev/babarot/articles/regomark-adr-checker",
-      "score": 64,
+      "score": 65,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 03 Nov 2026 07:59:33 GMT",
-      "hatena_count": 64
+      "hatena_count": 65
     },
     {
       "id": "zenn-2af9c0e930",
@@ -4779,13 +4779,13 @@
       "sub_source": "Zenn",
       "title": "バイブコーディングで機能を継ぎ足していて見えてきたClaudeCodeの実装のクセ",
       "url": "https://zenn.dev/uguisu_blog/articles/45d1f446ece415",
-      "score": 69,
+      "score": 71,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 03 Nov 2026 03:30:05 GMT",
-      "hatena_count": 69
+      "hatena_count": 71
     },
     {
       "id": "zenn-9288e9b5eb",
@@ -4807,13 +4807,13 @@
       "sub_source": "Zenn",
       "title": "ISUCON2026 で優勝しました（当日編）",
       "url": "https://zenn.dev/luvtechno/articles/isucon2026-competition-day",
-      "score": 387,
+      "score": 389,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 02 Nov 2026 13:26:09 GMT",
-      "hatena_count": 387
+      "hatena_count": 389
     },
     {
       "id": "zenn-5a2af32f86",
