@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T06:08:57.454751+00:00",
+  "updated_at": "2026-11-04T06:38:04.863383+00:00",
   "count": 496,
   "items": [
     {
@@ -4536,20 +4536,6 @@
       "hatena_count": 1
     },
     {
-      "id": "zenn-10287d6da9",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "ISUCON2026で126,634点でした",
-      "url": "https://zenn.dev/o8n/articles/isucon2026-app-agent-retrospective",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 04 Nov 2026 01:46:01 GMT",
-      "hatena_count": 0
-    },
-    {
       "id": "zenn-a8999cdd4a",
       "source": "sns",
       "sub_source": "Zenn",
@@ -4564,34 +4550,6 @@
       "hatena_count": 0
     },
     {
-      "id": "zenn-f25e0edaaa",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "NVIDIAの音声修復モデルRE-USEでポッドキャストのノイズ除去と文字起こしを比較してみた",
-      "url": "https://zenn.dev/karaage0703/articles/podcast-reuse-whisper-workflow",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 03 Nov 2026 14:13:12 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-c230c5b05d",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "高市総理のPHP投稿で何がうれしかったのか？今後の説得に使っていくよ～",
-      "url": "https://zenn.dev/tyamadadd/articles/36f975db1c41d8",
-      "score": 2,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 03 Nov 2026 10:35:09 GMT",
-      "hatena_count": 2
-    },
-    {
       "id": "zenn-3d85d861eb",
       "source": "sns",
       "sub_source": "Zenn",
@@ -4603,6 +4561,20 @@
         "Zenn"
       ],
       "date": "Tue, 03 Nov 2026 09:56:38 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-6325492b2d",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Aurora とDynamoDBとTimestreamとBigQueryを2400万レコードで性能比較してみた",
+      "url": "https://zenn.dev/ncdc/articles/c47df2c1f32e0c",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 03 Nov 2026 09:39:55 GMT",
       "hatena_count": 0
     },
     {
@@ -4639,13 +4611,27 @@
       "sub_source": "Zenn",
       "title": "バイブコーディングで機能を継ぎ足していて見えてきたClaudeCodeの実装のクセ",
       "url": "https://zenn.dev/uguisu_blog/articles/45d1f446ece415",
-      "score": 58,
+      "score": 60,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 03 Nov 2026 03:30:05 GMT",
-      "hatena_count": 58
+      "hatena_count": 60
+    },
+    {
+      "id": "zenn-482e1af2f2",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "quench を管理者アカウントから卒業させる：シャットダウン専用の Windows アカウント svc-power",
+      "url": "https://zenn.dev/ryuchama/articles/forge-svc-power-account",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 03 Nov 2026 02:25:50 GMT",
+      "hatena_count": 0
     },
     {
       "id": "zenn-9288e9b5eb",
@@ -4785,6 +4771,20 @@
         "Zenn"
       ],
       "date": "Sat, 31 Oct 2026 10:16:28 GMT",
+      "hatena_count": 1
+    },
+    {
+      "id": "zenn-cd066b67db",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "FlutterKaigi 2026 で生字幕を映像に載せて会場スクリーンに投影しました",
+      "url": "https://zenn.dev/hiro_pon/articles/2f3b68ec60ddae",
+      "score": 1,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 31 Oct 2026 06:40:40 GMT",
       "hatena_count": 1
     },
     {
@@ -4966,6 +4966,48 @@
       "hatena_count": 1
     },
     {
+      "id": "zenn-10287d6da9",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "ISUCON2026で126,634点でした",
+      "url": "https://zenn.dev/o8n/articles/isucon2026-app-agent-retrospective",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 04 Nov 2026 01:46:01 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-f25e0edaaa",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "NVIDIAの音声修復モデルRE-USEでポッドキャストのノイズ除去と文字起こしを比較してみた",
+      "url": "https://zenn.dev/karaage0703/articles/podcast-reuse-whisper-workflow",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 03 Nov 2026 14:13:12 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-c230c5b05d",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "高市総理のPHP投稿で何がうれしかったのか？今後の説得に使っていくよ～",
+      "url": "https://zenn.dev/tyamadadd/articles/36f975db1c41d8",
+      "score": 2,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 03 Nov 2026 10:35:09 GMT",
+      "hatena_count": 2
+    },
+    {
       "id": "techracho-f5746e4b07",
       "source": "techracho",
       "title": "Rails 8.1.4 Changelog（全項目リンク付き）: Active Model、Action Pack、Active Job",
@@ -4978,48 +5020,6 @@
         "日本語"
       ],
       "date": "Tue, 13 Oct 2026 08:30:41 +0000",
-      "hatena_count": 1
-    },
-    {
-      "id": "zenn-6325492b2d",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Aurora とDynamoDBとTimestreamとBigQueryを2400万レコードで性能比較してみた",
-      "url": "https://zenn.dev/ncdc/articles/c47df2c1f32e0c",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 03 Nov 2026 09:39:55 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-482e1af2f2",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "quench を管理者アカウントから卒業させる：シャットダウン専用の Windows アカウント svc-power",
-      "url": "https://zenn.dev/ryuchama/articles/forge-svc-power-account",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 03 Nov 2026 02:25:50 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-cd066b67db",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "FlutterKaigi 2026 で生字幕を映像に載せて会場スクリーンに投影しました",
-      "url": "https://zenn.dev/hiro_pon/articles/2f3b68ec60ddae",
-      "score": 1,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 31 Oct 2026 06:40:40 GMT",
       "hatena_count": 1
     },
     {
