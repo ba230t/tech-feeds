@@ -33,13 +33,13 @@
       "sub_source": "Zenn",
       "title": "ISUCON2026 で優勝しました（当日編）",
       "url": "https://zenn.dev/luvtechno/articles/isucon2026-competition-day",
-      "score": 377,
+      "score": 378,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 02 Nov 2026 13:26:09 GMT",
-      "hatena_count": 377
+      "hatena_count": 378
     },
     {
       "id": "zenn-9b1348f0a8",
@@ -117,13 +117,13 @@
       "sub_source": "Zenn",
       "title": "AIが書く「読みづらいADR」に発狂しかけたので、ADRのガイドラインを作った",
       "url": "https://zenn.dev/tokium_dev/articles/adr-authoring-guideline",
-      "score": 176,
+      "score": 177,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 02 Nov 2026 06:00:05 GMT",
-      "hatena_count": 176
+      "hatena_count": 177
     },
     {
       "id": "zenn-60cec5a308",
@@ -145,13 +145,13 @@
       "sub_source": "Zenn",
       "title": "3 人それぞれの Claude Code を Slack でつないで ISUCON2026 に参加した（207,039 点）",
       "url": "https://zenn.dev/kauche/articles/f3736c660aab77",
-      "score": 139,
+      "score": 141,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sat, 31 Oct 2026 12:31:11 GMT",
-      "hatena_count": 139
+      "hatena_count": 141
     },
     {
       "id": "zenn-ed54cd5c88",
@@ -257,13 +257,13 @@
       "sub_source": "Zenn",
       "title": "ADRをregoでlintする",
       "url": "https://zenn.dev/babarot/articles/regomark-adr-checker",
-      "score": 57,
+      "score": 60,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 03 Nov 2026 07:59:33 GMT",
-      "hatena_count": 57
+      "hatena_count": 60
     },
     {
       "id": "zenn-1ef417e2bf",
@@ -280,18 +280,18 @@
       "hatena_count": 46
     },
     {
-      "id": "zenn-3c60c695ec",
+      "id": "zenn-6417939ef5",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "WASIじゃない、もう一つのインターフェース「WALI」という提案",
-      "url": "https://zenn.dev/progate/articles/wali-webassembly-linux-interface",
-      "score": 36,
+      "title": "バイブコーディングで機能を継ぎ足していて見えてきたClaudeCodeの実装のクセ",
+      "url": "https://zenn.dev/uguisu_blog/articles/45d1f446ece415",
+      "score": 42,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Fri, 30 Oct 2026 00:45:50 GMT",
-      "hatena_count": 38
+      "date": "Tue, 03 Nov 2026 03:30:05 GMT",
+      "hatena_count": 42
     }
   ],
   "security_highlights": [
