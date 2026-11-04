@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T13:05:28.267965+00:00",
+  "updated_at": "2026-11-04T13:33:52.087725+00:00",
   "count": 500,
   "items": [
     {
@@ -4681,13 +4681,13 @@
       "sub_source": "Zenn",
       "title": "SigLIP2に匹敵する画像エンコーダーをフルスクラッチで開発した話",
       "url": "https://zenn.dev/noetra_techblog/articles/0cea39ce67d2c2",
-      "score": 0,
+      "score": 1,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 04 Nov 2026 05:42:59 GMT",
-      "hatena_count": 0
+      "hatena_count": 1
     },
     {
       "id": "zenn-d0aa8bee72",
@@ -4723,13 +4723,13 @@
       "sub_source": "Zenn",
       "title": "OpenCode+Docker+GitHub Actionsで全自動AIペネトレーションテストはじめました",
       "url": "https://zenn.dev/team_zenn/articles/opencode-docker-actions-ai-pentest",
-      "score": 50,
+      "score": 57,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 04 Nov 2026 01:19:56 GMT",
-      "hatena_count": 50
+      "hatena_count": 57
     },
     {
       "id": "zenn-a8999cdd4a",
@@ -4807,13 +4807,13 @@
       "sub_source": "Zenn",
       "title": "バイブコーディングで機能を継ぎ足していて見えてきたClaudeCodeの実装のクセ",
       "url": "https://zenn.dev/uguisu_blog/articles/45d1f446ece415",
-      "score": 74,
+      "score": 76,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 03 Nov 2026 03:30:05 GMT",
-      "hatena_count": 74
+      "hatena_count": 76
     },
     {
       "id": "zenn-9288e9b5eb",
@@ -4835,13 +4835,13 @@
       "sub_source": "Zenn",
       "title": "ISUCON2026 で優勝しました（当日編）",
       "url": "https://zenn.dev/luvtechno/articles/isucon2026-competition-day",
-      "score": 398,
+      "score": 399,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 02 Nov 2026 13:26:09 GMT",
-      "hatena_count": 398
+      "hatena_count": 399
     },
     {
       "id": "zenn-49fbe9e192",
@@ -4919,13 +4919,13 @@
       "sub_source": "Zenn",
       "title": "3 人それぞれの Claude Code を Slack でつないで ISUCON2026 に参加した（207,039 点）",
       "url": "https://zenn.dev/kauche/articles/f3736c660aab77",
-      "score": 142,
+      "score": 143,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sat, 31 Oct 2026 12:31:11 GMT",
-      "hatena_count": 142
+      "hatena_count": 143
     },
     {
       "id": "zenn-3ee32aed16",
@@ -7002,7 +7002,7 @@
         "Zenn"
       ],
       "date": "Wed, 21 Oct 2026 01:39:50 GMT",
-      "hatena_count": 156
+      "hatena_count": 157
     },
     {
       "id": "zenn-f0d56afe76",

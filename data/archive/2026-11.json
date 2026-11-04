@@ -33,13 +33,13 @@
       "sub_source": "Zenn",
       "title": "ISUCON2026 で優勝しました（当日編）",
       "url": "https://zenn.dev/luvtechno/articles/isucon2026-competition-day",
-      "score": 398,
+      "score": 399,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 02 Nov 2026 13:26:09 GMT",
-      "hatena_count": 398
+      "hatena_count": 399
     },
     {
       "id": "zenn-9b1348f0a8",
@@ -145,13 +145,13 @@
       "sub_source": "Zenn",
       "title": "3 人それぞれの Claude Code を Slack でつないで ISUCON2026 に参加した（207,039 点）",
       "url": "https://zenn.dev/kauche/articles/f3736c660aab77",
-      "score": 142,
+      "score": 143,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sat, 31 Oct 2026 12:31:11 GMT",
-      "hatena_count": 142
+      "hatena_count": 143
     },
     {
       "id": "zenn-ed54cd5c88",
@@ -224,6 +224,20 @@
       "hatena_count": 90
     },
     {
+      "id": "zenn-6417939ef5",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "バイブコーディングで機能を継ぎ足していて見えてきたClaudeCodeの実装のクセ",
+      "url": "https://zenn.dev/uguisu_blog/articles/45d1f446ece415",
+      "score": 76,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 03 Nov 2026 03:30:05 GMT",
+      "hatena_count": 76
+    },
+    {
       "id": "zenn-ecb9a4ef6b",
       "source": "sns",
       "sub_source": "Zenn",
@@ -236,20 +250,6 @@
       ],
       "date": "Fri, 23 Oct 2026 05:50:11 GMT",
       "hatena_count": 77
-    },
-    {
-      "id": "zenn-6417939ef5",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "バイブコーディングで機能を継ぎ足していて見えてきたClaudeCodeの実装のクセ",
-      "url": "https://zenn.dev/uguisu_blog/articles/45d1f446ece415",
-      "score": 74,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 03 Nov 2026 03:30:05 GMT",
-      "hatena_count": 74
     },
     {
       "id": "zenn-db23a67f04",
@@ -271,13 +271,13 @@
       "sub_source": "Zenn",
       "title": "OpenCode+Docker+GitHub Actionsで全自動AIペネトレーションテストはじめました",
       "url": "https://zenn.dev/team_zenn/articles/opencode-docker-actions-ai-pentest",
-      "score": 50,
+      "score": 57,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 04 Nov 2026 01:19:56 GMT",
-      "hatena_count": 50
+      "hatena_count": 57
     },
     {
       "id": "zenn-1ef417e2bf",
