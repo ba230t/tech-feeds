@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T14:06:18.037711+00:00",
+  "updated_at": "2026-11-04T14:34:05.416825+00:00",
   "count": 500,
   "items": [
     {
@@ -4723,13 +4723,13 @@
       "sub_source": "Zenn",
       "title": "OpenCode+Docker+GitHub Actionsで全自動AIペネトレーションテストはじめました",
       "url": "https://zenn.dev/team_zenn/articles/opencode-docker-actions-ai-pentest",
-      "score": 57,
+      "score": 68,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 04 Nov 2026 01:19:56 GMT",
-      "hatena_count": 57
+      "hatena_count": 68
     },
     {
       "id": "zenn-a8999cdd4a",
@@ -4807,13 +4807,13 @@
       "sub_source": "Zenn",
       "title": "バイブコーディングで機能を継ぎ足していて見えてきたClaudeCodeの実装のクセ",
       "url": "https://zenn.dev/uguisu_blog/articles/45d1f446ece415",
-      "score": 76,
+      "score": 77,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 03 Nov 2026 03:30:05 GMT",
-      "hatena_count": 76
+      "hatena_count": 77
     },
     {
       "id": "zenn-9288e9b5eb",
