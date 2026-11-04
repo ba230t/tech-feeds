@@ -33,13 +33,13 @@
       "sub_source": "Zenn",
       "title": "ISUCON2026 で優勝しました（当日編）",
       "url": "https://zenn.dev/luvtechno/articles/isucon2026-competition-day",
-      "score": 384,
+      "score": 385,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 02 Nov 2026 13:26:09 GMT",
-      "hatena_count": 384
+      "hatena_count": 385
     },
     {
       "id": "zenn-9b1348f0a8",
@@ -47,13 +47,13 @@
       "sub_source": "Zenn",
       "title": "日本の全法令を git の履歴にしてみた",
       "url": "https://zenn.dev/koheiwada/articles/houritsu-japanese-laws-as-git",
-      "score": 346,
+      "score": 347,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sun, 01 Nov 2026 03:36:05 GMT",
-      "hatena_count": 346
+      "hatena_count": 347
     },
     {
       "id": "zenn-d83aa2d820",
@@ -145,13 +145,13 @@
       "sub_source": "Zenn",
       "title": "3 人それぞれの Claude Code を Slack でつないで ISUCON2026 に参加した（207,039 点）",
       "url": "https://zenn.dev/kauche/articles/f3736c660aab77",
-      "score": 141,
+      "score": 142,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sat, 31 Oct 2026 12:31:11 GMT",
-      "hatena_count": 141
+      "hatena_count": 142
     },
     {
       "id": "zenn-ed54cd5c88",
@@ -257,13 +257,13 @@
       "sub_source": "Zenn",
       "title": "バイブコーディングで機能を継ぎ足していて見えてきたClaudeCodeの実装のクセ",
       "url": "https://zenn.dev/uguisu_blog/articles/45d1f446ece415",
-      "score": 64,
+      "score": 67,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 03 Nov 2026 03:30:05 GMT",
-      "hatena_count": 64
+      "hatena_count": 67
     },
     {
       "id": "zenn-db23a67f04",
@@ -271,13 +271,13 @@
       "sub_source": "Zenn",
       "title": "ADRをregoでlintする",
       "url": "https://zenn.dev/babarot/articles/regomark-adr-checker",
-      "score": 63,
+      "score": 64,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 03 Nov 2026 07:59:33 GMT",
-      "hatena_count": 63
+      "hatena_count": 64
     },
     {
       "id": "zenn-1ef417e2bf",
