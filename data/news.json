@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T12:07:38.451053+00:00",
+  "updated_at": "2026-11-04T12:34:52.144927+00:00",
   "count": 500,
   "items": [
     {
@@ -4723,13 +4723,13 @@
       "sub_source": "Zenn",
       "title": "OpenCode+Docker+GitHub Actionsで全自動AIペネトレーションテストはじめました",
       "url": "https://zenn.dev/team_zenn/articles/opencode-docker-actions-ai-pentest",
-      "score": 37,
+      "score": 50,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 04 Nov 2026 01:19:56 GMT",
-      "hatena_count": 37
+      "hatena_count": 50
     },
     {
       "id": "zenn-a8999cdd4a",
@@ -4765,13 +4765,13 @@
       "sub_source": "Zenn",
       "title": "高市総理のPHP投稿で何がうれしかったのか？今後の説得に使っていくよ～",
       "url": "https://zenn.dev/tyamadadd/articles/36f975db1c41d8",
-      "score": 3,
+      "score": 4,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 03 Nov 2026 10:35:09 GMT",
-      "hatena_count": 3
+      "hatena_count": 4
     },
     {
       "id": "zenn-3d85d861eb",
@@ -4807,13 +4807,13 @@
       "sub_source": "Zenn",
       "title": "バイブコーディングで機能を継ぎ足していて見えてきたClaudeCodeの実装のクセ",
       "url": "https://zenn.dev/uguisu_blog/articles/45d1f446ece415",
-      "score": 73,
+      "score": 74,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 03 Nov 2026 03:30:05 GMT",
-      "hatena_count": 73
+      "hatena_count": 74
     },
     {
       "id": "zenn-9288e9b5eb",
@@ -4835,13 +4835,13 @@
       "sub_source": "Zenn",
       "title": "ISUCON2026 で優勝しました（当日編）",
       "url": "https://zenn.dev/luvtechno/articles/isucon2026-competition-day",
-      "score": 393,
+      "score": 398,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 02 Nov 2026 13:26:09 GMT",
-      "hatena_count": 393
+      "hatena_count": 398
     },
     {
       "id": "zenn-49fbe9e192",
@@ -4849,13 +4849,13 @@
       "sub_source": "Zenn",
       "title": "AIが書く「読みづらいADR」に発狂しかけたので、ADRのガイドラインを作った",
       "url": "https://zenn.dev/tokium_dev/articles/adr-authoring-guideline",
-      "score": 178,
+      "score": 179,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 02 Nov 2026 06:00:05 GMT",
-      "hatena_count": 178
+      "hatena_count": 179
     },
     {
       "id": "zenn-dda79d10be",
@@ -4905,13 +4905,13 @@
       "sub_source": "Zenn",
       "title": "日本の全法令を git の履歴にしてみた",
       "url": "https://zenn.dev/koheiwada/articles/houritsu-japanese-laws-as-git",
-      "score": 347,
+      "score": 348,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sun, 01 Nov 2026 03:36:05 GMT",
-      "hatena_count": 347
+      "hatena_count": 348
     },
     {
       "id": "zenn-4f504ab158",

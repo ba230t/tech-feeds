@@ -33,13 +33,13 @@
       "sub_source": "Zenn",
       "title": "ISUCON2026 で優勝しました（当日編）",
       "url": "https://zenn.dev/luvtechno/articles/isucon2026-competition-day",
-      "score": 393,
+      "score": 398,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 02 Nov 2026 13:26:09 GMT",
-      "hatena_count": 393
+      "hatena_count": 398
     },
     {
       "id": "zenn-9b1348f0a8",
@@ -47,13 +47,13 @@
       "sub_source": "Zenn",
       "title": "日本の全法令を git の履歴にしてみた",
       "url": "https://zenn.dev/koheiwada/articles/houritsu-japanese-laws-as-git",
-      "score": 347,
+      "score": 348,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sun, 01 Nov 2026 03:36:05 GMT",
-      "hatena_count": 347
+      "hatena_count": 348
     },
     {
       "id": "zenn-d83aa2d820",
@@ -117,13 +117,13 @@
       "sub_source": "Zenn",
       "title": "AIが書く「読みづらいADR」に発狂しかけたので、ADRのガイドラインを作った",
       "url": "https://zenn.dev/tokium_dev/articles/adr-authoring-guideline",
-      "score": 178,
+      "score": 179,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 02 Nov 2026 06:00:05 GMT",
-      "hatena_count": 178
+      "hatena_count": 179
     },
     {
       "id": "zenn-60cec5a308",
@@ -243,13 +243,13 @@
       "sub_source": "Zenn",
       "title": "バイブコーディングで機能を継ぎ足していて見えてきたClaudeCodeの実装のクセ",
       "url": "https://zenn.dev/uguisu_blog/articles/45d1f446ece415",
-      "score": 73,
+      "score": 74,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 03 Nov 2026 03:30:05 GMT",
-      "hatena_count": 73
+      "hatena_count": 74
     },
     {
       "id": "zenn-db23a67f04",
@@ -266,6 +266,20 @@
       "hatena_count": 66
     },
     {
+      "id": "zenn-d2dd7eb267",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "OpenCode+Docker+GitHub Actionsで全自動AIペネトレーションテストはじめました",
+      "url": "https://zenn.dev/team_zenn/articles/opencode-docker-actions-ai-pentest",
+      "score": 50,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 04 Nov 2026 01:19:56 GMT",
+      "hatena_count": 50
+    },
+    {
       "id": "zenn-1ef417e2bf",
       "source": "sns",
       "sub_source": "Zenn",
@@ -278,20 +292,6 @@
       ],
       "date": "Wed, 28 Oct 2026 02:39:36 GMT",
       "hatena_count": 46
-    },
-    {
-      "id": "zenn-d2dd7eb267",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "OpenCode+Docker+GitHub Actionsで全自動AIペネトレーションテストはじめました",
-      "url": "https://zenn.dev/team_zenn/articles/opencode-docker-actions-ai-pentest",
-      "score": 37,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 04 Nov 2026 01:19:56 GMT",
-      "hatena_count": 37
     }
   ],
   "security_highlights": [
