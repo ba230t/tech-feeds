@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T16:33:31.050243+00:00",
+  "updated_at": "2026-11-04T17:04:57.857265+00:00",
   "count": 500,
   "items": [
     {
@@ -4723,13 +4723,13 @@
       "sub_source": "Zenn",
       "title": "OpenCode+Docker+GitHub Actionsで全自動AIペネトレーションテストはじめました",
       "url": "https://zenn.dev/team_zenn/articles/opencode-docker-actions-ai-pentest",
-      "score": 73,
+      "score": 80,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 04 Nov 2026 01:19:56 GMT",
-      "hatena_count": 73
+      "hatena_count": 80
     },
     {
       "id": "zenn-a8999cdd4a",
@@ -4947,13 +4947,13 @@
       "sub_source": "Zenn",
       "title": "今後のセキュリティの考え方",
       "url": "https://zenn.dev/cscloud_blog/articles/a987163efae5d8",
-      "score": 245,
+      "score": 246,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 30 Oct 2026 10:30:27 GMT",
-      "hatena_count": 245
+      "hatena_count": 246
     },
     {
       "id": "techracho-a0c760eafa",
@@ -5441,7 +5441,7 @@
       ],
       "date": "Fri, 30 Oct 2026 02:11:36 GMT",
       "severity": "critical",
-      "hatena_count": 3
+      "hatena_count": 4
     },
     {
       "id": "zenn-1ef417e2bf",
@@ -5772,13 +5772,13 @@
       "sub_source": "Zenn",
       "title": "Claude Codeで「QAチーム」を組んだら、効いたのは「捨てる仕組み」だった ― AIだけが見つけた不具合・見逃しは？",
       "url": "https://zenn.dev/sre_holdings/articles/d4acb079680a79",
-      "score": 0,
+      "score": 1,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 29 Oct 2026 05:00:29 GMT",
-      "hatena_count": 0
+      "hatena_count": 1
     },
     {
       "id": "zenn-179ca6648a",
@@ -6200,7 +6200,7 @@
         "Zenn"
       ],
       "date": "Tue, 27 Oct 2026 08:23:20 GMT",
-      "hatena_count": 2
+      "hatena_count": 3
     },
     {
       "id": "zenn-b923cd5e7c",
@@ -7002,7 +7002,7 @@
         "Zenn"
       ],
       "date": "Wed, 21 Oct 2026 01:39:50 GMT",
-      "hatena_count": 157
+      "hatena_count": 158
     },
     {
       "id": "zenn-f0d56afe76",

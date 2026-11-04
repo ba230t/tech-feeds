@@ -61,13 +61,13 @@
       "sub_source": "Zenn",
       "title": "今後のセキュリティの考え方",
       "url": "https://zenn.dev/cscloud_blog/articles/a987163efae5d8",
-      "score": 245,
+      "score": 246,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 30 Oct 2026 10:30:27 GMT",
-      "hatena_count": 245
+      "hatena_count": 246
     },
     {
       "id": "zenn-6196fc3ef4",
@@ -224,6 +224,20 @@
       "hatena_count": 90
     },
     {
+      "id": "zenn-d2dd7eb267",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "OpenCode+Docker+GitHub Actionsで全自動AIペネトレーションテストはじめました",
+      "url": "https://zenn.dev/team_zenn/articles/opencode-docker-actions-ai-pentest",
+      "score": 80,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 04 Nov 2026 01:19:56 GMT",
+      "hatena_count": 80
+    },
+    {
       "id": "zenn-6417939ef5",
       "source": "sns",
       "sub_source": "Zenn",
@@ -250,20 +264,6 @@
       ],
       "date": "Fri, 23 Oct 2026 05:50:11 GMT",
       "hatena_count": 77
-    },
-    {
-      "id": "zenn-d2dd7eb267",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "OpenCode+Docker+GitHub Actionsで全自動AIペネトレーションテストはじめました",
-      "url": "https://zenn.dev/team_zenn/articles/opencode-docker-actions-ai-pentest",
-      "score": 73,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 04 Nov 2026 01:19:56 GMT",
-      "hatena_count": 73
     },
     {
       "id": "zenn-db23a67f04",
@@ -353,7 +353,7 @@
       ],
       "date": "Fri, 30 Oct 2026 02:11:36 GMT",
       "severity": "critical",
-      "hatena_count": 3
+      "hatena_count": 4
     },
     {
       "id": "qiita-289831eab1",
