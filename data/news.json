@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T22:04:45.332716+00:00",
+  "updated_at": "2026-11-04T22:33:51.090323+00:00",
   "count": 500,
   "items": [
     {
@@ -4779,13 +4779,13 @@
       "sub_source": "Zenn",
       "title": "OpenCode+Docker+GitHub Actionsで全自動AIペネトレーションテストはじめました",
       "url": "https://zenn.dev/team_zenn/articles/opencode-docker-actions-ai-pentest",
-      "score": 92,
+      "score": 93,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 04 Nov 2026 01:19:56 GMT",
-      "hatena_count": 92
+      "hatena_count": 93
     },
     {
       "id": "zenn-a8999cdd4a",
@@ -7058,7 +7058,7 @@
         "Zenn"
       ],
       "date": "Wed, 21 Oct 2026 01:39:50 GMT",
-      "hatena_count": 158
+      "hatena_count": 159
     },
     {
       "id": "zenn-f0d56afe76",
