@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-04T04:33:51.427112+00:00",
-  "count": 495,
+  "updated_at": "2026-11-04T05:06:12.673715+00:00",
+  "count": 496,
   "items": [
     {
       "id": "qiita-12028bc94c",
@@ -585,13 +585,13 @@
       "sub_source": "Qiita",
       "title": "【未来を解説】AIでエンジニア格差を生み出す質とスピードの考え方",
       "url": "https://qiita.com/Sicut_study/items/b9e38c0584d4aa720d31?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
+      "score": 1,
       "author": "Qiita",
       "tags": [
         "Qiita"
       ],
       "date": "2026-11-01T17:41:55+09:00",
-      "hatena_count": 0
+      "hatena_count": 1
     },
     {
       "id": "qiita-9a96e277a1",
@@ -4639,13 +4639,13 @@
       "sub_source": "Zenn",
       "title": "バイブコーディングで機能を継ぎ足していて見えてきたClaudeCodeの実装のクセ",
       "url": "https://zenn.dev/uguisu_blog/articles/45d1f446ece415",
-      "score": 48,
+      "score": 53,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 03 Nov 2026 03:30:05 GMT",
-      "hatena_count": 48
+      "hatena_count": 53
     },
     {
       "id": "zenn-9288e9b5eb",
@@ -4667,13 +4667,13 @@
       "sub_source": "Zenn",
       "title": "ISUCON2026 で優勝しました（当日編）",
       "url": "https://zenn.dev/luvtechno/articles/isucon2026-competition-day",
-      "score": 380,
+      "score": 381,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 02 Nov 2026 13:26:09 GMT",
-      "hatena_count": 380
+      "hatena_count": 381
     },
     {
       "id": "zenn-5a2af32f86",
@@ -4814,6 +4814,21 @@
       ],
       "date": "Thu, 29 Oct 2026 03:48:15 GMT",
       "hatena_count": 85
+    },
+    {
+      "id": "techracho-a0c760eafa",
+      "source": "techracho",
+      "title": "Rails セキュリティ修正8.1.4.1と8.0.5.2がリリースされました",
+      "url": "https://techracho.bpsinc.jp/hachi8833/2026_11_04/161214",
+      "score": 1,
+      "author": "Techracho",
+      "tags": [
+        "Ruby",
+        "Rails",
+        "日本語"
+      ],
+      "date": "Wed, 04 Nov 2026 05:00:56 +0000",
+      "hatena_count": 1
     },
     {
       "id": "techracho-b23695913c",
