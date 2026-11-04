@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T05:33:48.979560+00:00",
+  "updated_at": "2026-11-04T06:08:57.454751+00:00",
   "count": 496,
   "items": [
     {
@@ -4611,13 +4611,13 @@
       "sub_source": "Zenn",
       "title": "ADRをregoでlintする",
       "url": "https://zenn.dev/babarot/articles/regomark-adr-checker",
-      "score": 61,
+      "score": 63,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 03 Nov 2026 07:59:33 GMT",
-      "hatena_count": 61
+      "hatena_count": 63
     },
     {
       "id": "zenn-2af9c0e930",
@@ -4639,13 +4639,13 @@
       "sub_source": "Zenn",
       "title": "バイブコーディングで機能を継ぎ足していて見えてきたClaudeCodeの実装のクセ",
       "url": "https://zenn.dev/uguisu_blog/articles/45d1f446ece415",
-      "score": 53,
+      "score": 58,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 03 Nov 2026 03:30:05 GMT",
-      "hatena_count": 53
+      "hatena_count": 58
     },
     {
       "id": "zenn-9288e9b5eb",
@@ -4667,13 +4667,13 @@
       "sub_source": "Zenn",
       "title": "ISUCON2026 で優勝しました（当日編）",
       "url": "https://zenn.dev/luvtechno/articles/isucon2026-competition-day",
-      "score": 381,
+      "score": 383,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 02 Nov 2026 13:26:09 GMT",
-      "hatena_count": 381
+      "hatena_count": 383
     },
     {
       "id": "zenn-5a2af32f86",
@@ -4695,13 +4695,13 @@
       "sub_source": "Zenn",
       "title": "AIが書く「読みづらいADR」に発狂しかけたので、ADRのガイドラインを作った",
       "url": "https://zenn.dev/tokium_dev/articles/adr-authoring-guideline",
-      "score": 177,
+      "score": 178,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 02 Nov 2026 06:00:05 GMT",
-      "hatena_count": 177
+      "hatena_count": 178
     },
     {
       "id": "zenn-dda79d10be",
@@ -4751,13 +4751,13 @@
       "sub_source": "Zenn",
       "title": "日本の全法令を git の履歴にしてみた",
       "url": "https://zenn.dev/koheiwada/articles/houritsu-japanese-laws-as-git",
-      "score": 344,
+      "score": 346,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sun, 01 Nov 2026 03:36:05 GMT",
-      "hatena_count": 344
+      "hatena_count": 346
     },
     {
       "id": "zenn-4f504ab158",
@@ -5104,7 +5104,7 @@
         "Zenn"
       ],
       "date": "Fri, 30 Oct 2026 08:18:26 GMT",
-      "hatena_count": 3
+      "hatena_count": 4
     },
     {
       "id": "zenn-fe262064cc",
@@ -6820,7 +6820,7 @@
         "Zenn"
       ],
       "date": "Wed, 21 Oct 2026 01:39:50 GMT",
-      "hatena_count": 155
+      "hatena_count": 156
     },
     {
       "id": "zenn-f0d56afe76",
