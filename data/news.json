@@ -1,7 +1,35 @@
 {
-  "updated_at": "2026-11-04T20:05:33.727449+00:00",
+  "updated_at": "2026-11-04T20:33:31.115116+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "qiita-a349e69cd7",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "AIを入れてもプロジェクトが進まないのは「完遂力」の問題",
+      "url": "https://qiita.com/hokutoh/items/40345cc114ab364a49a9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-04T23:34:00+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-4766cefc3c",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "AI駆動開発の次の段階: ソフトウェアファクトリー",
+      "url": "https://qiita.com/Syoitu/items/9364a0a175893bb15219?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-04T20:38:50+09:00",
+      "hatena_count": 0
+    },
     {
       "id": "qiita-5b1c03902d",
       "source": "sns",
@@ -70,6 +98,34 @@
         "Qiita"
       ],
       "date": "2026-11-04T11:39:57+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-8f3f337417",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "2026年11月4日 今日のQiitaトレンド記事をポッドキャストで聴こう！",
+      "url": "https://qiita.com/ennagara128/items/07a86b6446de07491ecc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-04T10:30:47+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-b830470123",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "2026年11月3日 今日のQiitaトレンド記事をポッドキャストで聴こう！",
+      "url": "https://qiita.com/ennagara128/items/ab995a8b9be2673bba2d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-04T10:30:27+09:00",
       "hatena_count": 0
     },
     {
@@ -4723,13 +4779,13 @@
       "sub_source": "Zenn",
       "title": "OpenCode+Docker+GitHub Actionsで全自動AIペネトレーションテストはじめました",
       "url": "https://zenn.dev/team_zenn/articles/opencode-docker-actions-ai-pentest",
-      "score": 86,
+      "score": 87,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 04 Nov 2026 01:19:56 GMT",
-      "hatena_count": 86
+      "hatena_count": 87
     },
     {
       "id": "zenn-a8999cdd4a",
@@ -7044,62 +7100,6 @@
         "Zenn"
       ],
       "date": "Sat, 24 Oct 2026 08:24:15 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-c78b0c753f",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Gowin FPGAの配置配線オプションを実測比較 — ビルド時間とFmaxのバランス",
-      "url": "https://zenn.dev/akiyukiokayasu/articles/66be017200e64e",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 24 Oct 2026 04:59:37 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-7e7a9f272a",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "厳選・セキュリティが心配ならClaude Codeにこの問いかけをコピペするべし20",
-      "url": "https://zenn.dev/yuiseki/articles/54b01670841898",
-      "score": 192,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 22 Oct 2026 11:28:13 GMT",
-      "hatena_count": 194
-    },
-    {
-      "id": "zenn-105b0e0d7e",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "AIコードレビューの不合格率が51%→13%に。3モデル中2つは判定していなかった",
-      "url": "https://zenn.dev/taka8823/articles/2df36d66844c15",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 24 Oct 2026 02:50:01 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-327273a076",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "webauthn-ruby をもう一回覗いてみた",
-      "url": "https://zenn.dev/smartcamp/articles/22bde5829493e5",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 24 Oct 2026 02:11:58 GMT",
       "hatena_count": 0
     }
   ]
