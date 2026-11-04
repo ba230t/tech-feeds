@@ -8,7 +8,7 @@
     "techracho": 15
   },
   "severity_counts": {
-    "high": 6,
+    "high": 5,
     "medium": 1,
     "critical": 1
   },
@@ -280,36 +280,21 @@
       "hatena_count": 46
     },
     {
-      "id": "zenn-3c60c695ec",
+      "id": "zenn-d2dd7eb267",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "WASIじゃない、もう一つのインターフェース「WALI」という提案",
-      "url": "https://zenn.dev/progate/articles/wali-webassembly-linux-interface",
-      "score": 36,
+      "title": "OpenCode+Docker+GitHub Actionsで全自動AIペネトレーションテストはじめました",
+      "url": "https://zenn.dev/team_zenn/articles/opencode-docker-actions-ai-pentest",
+      "score": 37,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Fri, 30 Oct 2026 00:45:50 GMT",
-      "hatena_count": 38
+      "date": "Wed, 04 Nov 2026 01:19:56 GMT",
+      "hatena_count": 37
     }
   ],
   "security_highlights": [
-    {
-      "id": "zenn-595dbccf10",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "YubiKey買って、OpenAI Daybreak Blueゲットして、vibe脆弱性診断してみた。",
-      "url": "https://zenn.dev/nassy/articles/d143c945bd5ca5",
-      "score": 2,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 24 Oct 2026 00:52:44 GMT",
-      "severity": "high",
-      "hatena_count": 4
-    },
     {
       "id": "zenn-6192aa503c",
       "source": "sns",

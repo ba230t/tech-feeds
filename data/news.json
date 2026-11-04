@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T11:05:54.398220+00:00",
+  "updated_at": "2026-11-04T11:33:29.539861+00:00",
   "count": 500,
   "items": [
     {
@@ -4676,6 +4676,34 @@
       "hatena_count": 1
     },
     {
+      "id": "zenn-5dadf3a05b",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "SigLIP2に匹敵する画像エンコーダーをフルスクラッチで開発した話",
+      "url": "https://zenn.dev/noetra_techblog/articles/0cea39ce67d2c2",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 04 Nov 2026 05:42:59 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-d0aa8bee72",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "NIKKE PCランチャーのサプライチェーン攻撃、IT学生が自分のPCを調べてみた",
+      "url": "https://zenn.dev/nanana_sk/articles/nikke-launcher-incident",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 04 Nov 2026 02:23:44 GMT",
+      "hatena_count": 0
+    },
+    {
       "id": "zenn-10287d6da9",
       "source": "sns",
       "sub_source": "Zenn",
@@ -4688,6 +4716,20 @@
       ],
       "date": "Wed, 04 Nov 2026 01:46:01 GMT",
       "hatena_count": 0
+    },
+    {
+      "id": "zenn-d2dd7eb267",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "OpenCode+Docker+GitHub Actionsで全自動AIペネトレーションテストはじめました",
+      "url": "https://zenn.dev/team_zenn/articles/opencode-docker-actions-ai-pentest",
+      "score": 37,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 04 Nov 2026 01:19:56 GMT",
+      "hatena_count": 37
     },
     {
       "id": "zenn-a8999cdd4a",
@@ -4760,20 +4802,6 @@
       "hatena_count": 66
     },
     {
-      "id": "zenn-2af9c0e930",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "1 人チームでKiro CLI とISUCON2026に参加した記録：エージェントに任せたこと、任せきれなかったこと",
-      "url": "https://zenn.dev/ndmxjp/articles/isucon2026-kiro-agent-ops",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 03 Nov 2026 06:33:45 GMT",
-      "hatena_count": 0
-    },
-    {
       "id": "zenn-6417939ef5",
       "source": "sns",
       "sub_source": "Zenn",
@@ -4814,20 +4842,6 @@
       ],
       "date": "Mon, 02 Nov 2026 13:26:09 GMT",
       "hatena_count": 393
-    },
-    {
-      "id": "zenn-5a2af32f86",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "学部生3人でISUCON2026に出て、最後に証拠より常識を選んで負けた話",
-      "url": "https://zenn.dev/enari_k/articles/b512e044ec9240",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 02 Nov 2026 07:00:35 GMT",
-      "hatena_count": 0
     },
     {
       "id": "zenn-49fbe9e192",
@@ -4940,20 +4954,6 @@
       ],
       "date": "Fri, 30 Oct 2026 10:30:27 GMT",
       "hatena_count": 245
-    },
-    {
-      "id": "zenn-2dc50e40ad",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "GitHub Actions で checkout@v7 のようなバージョン指定を書くのはやめよう！ 時代は actions.lock！",
-      "url": "https://zenn.dev/progate/articles/24b1140180300c",
-      "score": 85,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 29 Oct 2026 03:48:15 GMT",
-      "hatena_count": 85
     },
     {
       "id": "techracho-a0c760eafa",
@@ -5104,6 +5104,48 @@
       ],
       "date": "Wed, 14 Oct 2026 08:30:51 +0000",
       "hatena_count": 1
+    },
+    {
+      "id": "zenn-2af9c0e930",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "1 人チームでKiro CLI とISUCON2026に参加した記録：エージェントに任せたこと、任せきれなかったこと",
+      "url": "https://zenn.dev/ndmxjp/articles/isucon2026-kiro-agent-ops",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 03 Nov 2026 06:33:45 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-5a2af32f86",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "学部生3人でISUCON2026に出て、最後に証拠より常識を選んで負けた話",
+      "url": "https://zenn.dev/enari_k/articles/b512e044ec9240",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 02 Nov 2026 07:00:35 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-2dc50e40ad",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "GitHub Actions で checkout@v7 のようなバージョン指定を書くのはやめよう！ 時代は actions.lock！",
+      "url": "https://zenn.dev/progate/articles/24b1140180300c",
+      "score": 85,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 29 Oct 2026 03:48:15 GMT",
+      "hatena_count": 85
     },
     {
       "id": "zenn-6325492b2d",
@@ -7058,49 +7100,6 @@
         "Zenn"
       ],
       "date": "Sat, 24 Oct 2026 02:11:58 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-595dbccf10",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "YubiKey買って、OpenAI Daybreak Blueゲットして、vibe脆弱性診断してみた。",
-      "url": "https://zenn.dev/nassy/articles/d143c945bd5ca5",
-      "score": 2,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 24 Oct 2026 00:52:44 GMT",
-      "severity": "high",
-      "hatena_count": 4
-    },
-    {
-      "id": "zenn-2fc0cdb3f4",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "MultiheadAttentionの高速経路がVRAMを18GB食っていた話",
-      "url": "https://zenn.dev/genelab_999/articles/387bf151caf716",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 24 Oct 2026 09:00:37 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-6ed551667b",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Laravel を IdP にして Ory Hydra で SSO を組み、PHP 5.6 のレガシーアプリも認証ブローカーで乗せる",
-      "url": "https://zenn.dev/sprix_it/articles/464d97d1ebdbfd",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 24 Oct 2026 08:22:24 GMT",
       "hatena_count": 0
     }
   ]
