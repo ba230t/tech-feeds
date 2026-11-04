@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-03T23:33:53.256085+00:00",
-  "count": 488,
+  "updated_at": "2026-11-04T00:13:52.859632+00:00",
+  "count": 492,
   "items": [
     {
       "id": "qiita-12028bc94c",
       "source": "sns",
       "sub_source": "Qiita",
-      "title": "⚪︎⚪︎はしないで！AI エージェントの行動を制限する 5 つの方法を、守られる強さで比べた",
+      "title": "「⚪︎⚪︎はしないで」は効かない？AI Agent の危険行動を制限する 5 つの方法と守られる強さで比べた",
       "url": "https://qiita.com/songchong/items/945479177d4dcbb80f69?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
       "score": 0,
       "author": "Qiita",
@@ -4536,18 +4536,74 @@
       "hatena_count": 1
     },
     {
+      "id": "zenn-a8999cdd4a",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Radeon VIIとUbuntu 26.04でROCmを動かし、Flash-NextをOpenCodeにつないだ",
+      "url": "https://zenn.dev/masanork/articles/radeon-vii-rocm-strata-opencode",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 03 Nov 2026 14:15:49 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-3d85d861eb",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "(備忘録) お名前.comからRoute 53へドメイン移管し、お名前メールをさくらのメールボックスへ移す",
+      "url": "https://zenn.dev/momura/articles/896dbde5e42491",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 03 Nov 2026 09:56:38 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-6325492b2d",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Aurora とDynamoDBとTimestreamとBigQueryを2400万レコードで性能比較してみた",
+      "url": "https://zenn.dev/ncdc/articles/c47df2c1f32e0c",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 03 Nov 2026 09:39:55 GMT",
+      "hatena_count": 0
+    },
+    {
       "id": "zenn-db23a67f04",
       "source": "sns",
       "sub_source": "Zenn",
       "title": "ADRをregoでlintする",
       "url": "https://zenn.dev/babarot/articles/regomark-adr-checker",
-      "score": 47,
+      "score": 49,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 03 Nov 2026 07:59:33 GMT",
-      "hatena_count": 47
+      "hatena_count": 49
+    },
+    {
+      "id": "zenn-2af9c0e930",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "1 人チームでKiro CLI とISUCON2026に参加した記録：エージェントに任せたこと、任せきれなかったこと",
+      "url": "https://zenn.dev/ndmxjp/articles/isucon2026-kiro-agent-ops",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 03 Nov 2026 06:33:45 GMT",
+      "hatena_count": 0
     },
     {
       "id": "zenn-6417939ef5",
@@ -4555,13 +4611,13 @@
       "sub_source": "Zenn",
       "title": "バイブコーディングで機能を継ぎ足していて見えてきたClaudeCodeの実装のクセ",
       "url": "https://zenn.dev/uguisu_blog/articles/45d1f446ece415",
-      "score": 5,
+      "score": 7,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 03 Nov 2026 03:30:05 GMT",
-      "hatena_count": 5
+      "hatena_count": 7
     },
     {
       "id": "zenn-482e1af2f2",
@@ -4592,74 +4648,18 @@
       "hatena_count": 2
     },
     {
-      "id": "zenn-396a83fd9d",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "GitHub Copilot App のサンドボックスで .NET アプリを開発するための設定を試してみた",
-      "url": "https://zenn.dev/microsoft/articles/copilot-app-dotnet-windows-sandbox",
-      "score": 1,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 02 Nov 2026 13:51:52 GMT",
-      "hatena_count": 1
-    },
-    {
       "id": "zenn-43bee14924",
       "source": "sns",
       "sub_source": "Zenn",
       "title": "ISUCON2026 で優勝しました（当日編）",
       "url": "https://zenn.dev/luvtechno/articles/isucon2026-competition-day",
-      "score": 360,
+      "score": 361,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 02 Nov 2026 13:26:09 GMT",
-      "hatena_count": 360
-    },
-    {
-      "id": "zenn-2a6138d3c6",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Tauto で型付き言語を作る: 型付け規則から証明付きの検査器を生成する",
-      "url": "https://zenn.dev/ryo33/articles/tauto-typed-lang-proof",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 02 Nov 2026 12:06:50 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-4ac0e93a81",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "DeepSeek が描く AI エージェントの未来像",
-      "url": "https://zenn.dev/marvelousu/articles/deepseek-super-agent-design",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 02 Nov 2026 11:37:23 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-05577398c2",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "【LLMOps】FDEの開発を支えるトレーシング基盤の開発",
-      "url": "https://zenn.dev/aishift/articles/e761cff4f079cd",
-      "score": 1,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 02 Nov 2026 09:00:08 GMT",
-      "hatena_count": 1
+      "hatena_count": 361
     },
     {
       "id": "zenn-5a2af32f86",
@@ -4690,6 +4690,20 @@
       "hatena_count": 174
     },
     {
+      "id": "zenn-dda79d10be",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "弊社がAIでPlaywrightテストコードを生成するために調整したこと",
+      "url": "https://zenn.dev/castingone_dev/articles/casone_playwright_for_claude",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 02 Nov 2026 02:58:52 GMT",
+      "hatena_count": 0
+    },
+    {
       "id": "zenn-beeebffada",
       "source": "sns",
       "sub_source": "Zenn",
@@ -4704,32 +4718,18 @@
       "hatena_count": 2
     },
     {
-      "id": "zenn-ac6e542257",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Amazon Bedrock の構造化出力を破壊しようとしてみた（失敗）",
-      "url": "https://zenn.dev/aws_japan/articles/bedrock-structured-outputs-adversarial",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 01 Nov 2026 12:51:18 GMT",
-      "hatena_count": 0
-    },
-    {
       "id": "zenn-bd2d2f6bd8",
       "source": "sns",
       "sub_source": "Zenn",
       "title": "ISUCON2026 にツールを捨てて勝ちたかった",
       "url": "https://zenn.dev/mazrean/articles/5c968503fd69a3",
-      "score": 13,
+      "score": 14,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sun, 01 Nov 2026 12:16:33 GMT",
-      "hatena_count": 13
+      "hatena_count": 14
     },
     {
       "id": "zenn-9b1348f0a8",
@@ -4774,6 +4774,20 @@
       "hatena_count": 1
     },
     {
+      "id": "zenn-cd066b67db",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "FlutterKaigi 2026 で生字幕を映像に載せて会場スクリーンに投影しました",
+      "url": "https://zenn.dev/hiro_pon/articles/2f3b68ec60ddae",
+      "score": 1,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 31 Oct 2026 06:40:40 GMT",
+      "hatena_count": 1
+    },
+    {
       "id": "zenn-d83aa2d820",
       "source": "sns",
       "sub_source": "Zenn",
@@ -4786,20 +4800,6 @@
       ],
       "date": "Fri, 30 Oct 2026 10:30:27 GMT",
       "hatena_count": 245
-    },
-    {
-      "id": "zenn-5992d09aad",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "プロダクトの情報を「浴びるように」見られる場所を作った話",
-      "url": "https://zenn.dev/tokium_dev/articles/product-cockpit-for-product-teams",
-      "score": 3,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 30 Oct 2026 08:18:26 GMT",
-      "hatena_count": 3
     },
     {
       "id": "zenn-2dc50e40ad",
@@ -4966,6 +4966,90 @@
       "hatena_count": 1
     },
     {
+      "id": "zenn-396a83fd9d",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "GitHub Copilot App のサンドボックスで .NET アプリを開発するための設定を試してみた",
+      "url": "https://zenn.dev/microsoft/articles/copilot-app-dotnet-windows-sandbox",
+      "score": 1,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 02 Nov 2026 13:51:52 GMT",
+      "hatena_count": 1
+    },
+    {
+      "id": "zenn-2a6138d3c6",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Tauto で型付き言語を作る: 型付け規則から証明付きの検査器を生成する",
+      "url": "https://zenn.dev/ryo33/articles/tauto-typed-lang-proof",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 02 Nov 2026 12:06:50 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-4ac0e93a81",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "DeepSeek が描く AI エージェントの未来像",
+      "url": "https://zenn.dev/marvelousu/articles/deepseek-super-agent-design",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 02 Nov 2026 11:37:23 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-05577398c2",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "【LLMOps】FDEの開発を支えるトレーシング基盤の開発",
+      "url": "https://zenn.dev/aishift/articles/e761cff4f079cd",
+      "score": 1,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 02 Nov 2026 09:00:08 GMT",
+      "hatena_count": 1
+    },
+    {
+      "id": "zenn-ac6e542257",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Amazon Bedrock の構造化出力を破壊しようとしてみた（失敗）",
+      "url": "https://zenn.dev/aws_japan/articles/bedrock-structured-outputs-adversarial",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 01 Nov 2026 12:51:18 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-5992d09aad",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "プロダクトの情報を「浴びるように」見られる場所を作った話",
+      "url": "https://zenn.dev/tokium_dev/articles/product-cockpit-for-product-teams",
+      "score": 3,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 30 Oct 2026 08:18:26 GMT",
+      "hatena_count": 3
+    },
+    {
       "id": "zenn-fe262064cc",
       "source": "sns",
       "sub_source": "Zenn",
@@ -5022,20 +5106,6 @@
       "hatena_count": 0
     },
     {
-      "id": "zenn-cd066b67db",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "FlutterKaigi 2026 で生字幕を映像に載せて会場スクリーンに投影しました",
-      "url": "https://zenn.dev/hiro_pon/articles/2f3b68ec60ddae",
-      "score": 1,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 31 Oct 2026 06:40:40 GMT",
-      "hatena_count": 1
-    },
-    {
       "id": "zenn-dafe6c3a28",
       "source": "sns",
       "sub_source": "Zenn",
@@ -5048,20 +5118,6 @@
       ],
       "date": "Fri, 30 Oct 2026 05:01:51 GMT",
       "hatena_count": 2
-    },
-    {
-      "id": "zenn-dda79d10be",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "弊社がAIでPlaywrightテストコードを生成するために調整したこと",
-      "url": "https://zenn.dev/castingone_dev/articles/casone_playwright_for_claude",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 02 Nov 2026 02:58:52 GMT",
-      "hatena_count": 0
     },
     {
       "id": "zenn-918b8ad880",
@@ -6707,7 +6763,7 @@
         "Zenn"
       ],
       "date": "Wed, 21 Oct 2026 01:39:50 GMT",
-      "hatena_count": 154
+      "hatena_count": 155
     },
     {
       "id": "zenn-f0d56afe76",
