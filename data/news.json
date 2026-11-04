@@ -1,7 +1,147 @@
 {
-  "updated_at": "2026-11-04T08:06:58.220746+00:00",
-  "count": 496,
+  "updated_at": "2026-11-04T08:34:00.428900+00:00",
+  "count": 500,
   "items": [
+    {
+      "id": "qiita-5b1c03902d",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "【Android】MapConductor で地図 SDK を 1 つの Compose コードで扱ってみた",
+      "url": "https://qiita.com/saitojo1106/items/f2fae92841948418e15e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-04T16:11:44+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-1d6994f39b",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "2026年10月はパッチの魔女月だった。お化けが増えたのか、誰かが明かりをつけたのか",
+      "url": "https://qiita.com/figueiredoluiz/items/4021ff4e6281b73f2d86?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-04T15:13:13+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-e6bafeb7c5",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "耳で聞く！Python で学ぶ マクロ経済学 入門 40",
+      "url": "https://qiita.com/maskot1977/items/f7fdf091630675893b62?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-04T13:52:01+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-2ced5635a6",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "AWS IAMポリシーのAllowとDenyの違いを検証してみた",
+      "url": "https://qiita.com/AkiraTakasaki/items/e8f4f15d941a213a718f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-04T12:02:13+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-0b8a216772",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "一つの糾弾が千の沈黙を生む ― チリングエフェクトの連鎖構造 : システム設計視点の行動経済学 (55)",
+      "url": "https://qiita.com/maskot1977/items/8f47d78ed86123298a6d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-04T11:39:57+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-864552f011",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "そろそろ共通鍵暗号・公開鍵暗号についてちゃんと理解する",
+      "url": "https://qiita.com/tomo-ryo/items/7cbf2881a9c8c8cf3656?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-04T09:40:41+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-83cc953cfb",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "どっちが人間？ AIで声をクローンして、本人と聞き比べてみた",
+      "url": "https://qiita.com/nakata-sapeet/items/f883c3cf009785c51bcc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-04T09:30:10+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-4ff62634a8",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "「AIのレビューだけでマージ、正直まだ怖い」と思ってたけど、条件次第ならアリかもしれない話",
+      "url": "https://qiita.com/nobu34/items/a73129c6401ebae10960?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-04T08:39:33+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-95e1a61110",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "【心理的安全性】ギスギスした職場はなぜ危険か。AI企業で働く人の82%が会議で懸念を黙った経験があるらしい",
+      "url": "https://qiita.com/shinkai_/items/009e6bfbc5e44e2e535a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-04T08:02:30+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-bc5fa18fee",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "Oracle AI World 2026 振り返り：Larry Ellison、Sam Altmanらの6講演から、AIに仕事を任せる仕組みを整理してみてみた",
+      "url": "https://qiita.com/shirok/items/8225fd0ff29603549ab8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-04T07:40:08+09:00",
+      "hatena_count": 0
+    },
     {
       "id": "qiita-12028bc94c",
       "source": "sns",
@@ -4639,13 +4779,13 @@
       "sub_source": "Zenn",
       "title": "バイブコーディングで機能を継ぎ足していて見えてきたClaudeCodeの実装のクセ",
       "url": "https://zenn.dev/uguisu_blog/articles/45d1f446ece415",
-      "score": 67,
+      "score": 69,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 03 Nov 2026 03:30:05 GMT",
-      "hatena_count": 67
+      "hatena_count": 69
     },
     {
       "id": "zenn-9288e9b5eb",
@@ -4667,13 +4807,13 @@
       "sub_source": "Zenn",
       "title": "ISUCON2026 で優勝しました（当日編）",
       "url": "https://zenn.dev/luvtechno/articles/isucon2026-competition-day",
-      "score": 385,
+      "score": 387,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 02 Nov 2026 13:26:09 GMT",
-      "hatena_count": 385
+      "hatena_count": 387
     },
     {
       "id": "zenn-5a2af32f86",
@@ -5414,7 +5554,7 @@
         "Zenn"
       ],
       "date": "Wed, 28 Oct 2026 10:14:03 GMT",
-      "hatena_count": 107
+      "hatena_count": 106
     },
     {
       "id": "zenn-2e4ea0d7bc",
@@ -6962,90 +7102,6 @@
       ],
       "date": "Sat, 24 Oct 2026 08:22:24 GMT",
       "hatena_count": 0
-    },
-    {
-      "id": "zenn-025384c9dd",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "「分担を見直したい」では動かなかった。チーム間の議論を変えた1枚の図",
-      "url": "https://zenn.dev/shun0530/articles/32946ce85a536d",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 23 Oct 2026 13:01:10 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-1380757c7e",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "AI隆盛期に考える、情シス的セキュリティのあれこれ",
-      "url": "https://zenn.dev/kinasato_mochi/articles/db662a5909ea19",
-      "score": 1,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 23 Oct 2026 12:41:00 GMT",
-      "hatena_count": 1
-    },
-    {
-      "id": "zenn-587db329db",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "[Flutter]main()を通らない起動ルートで初期化漏れした話（Android着信のヒヤリハット）",
-      "url": "https://zenn.dev/lincwell_inc/articles/ab2a642ea8f6f0",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 23 Oct 2026 01:30:05 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-fd184ac0f6",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Claude CodeやCodexで並列開発していたら、Macのストレージが残り8GBになったので掃除した",
-      "url": "https://zenn.dev/yoshinani_dev/articles/0c17dec1c082a1",
-      "score": 3,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 22 Oct 2026 17:21:33 GMT",
-      "hatena_count": 4
-    },
-    {
-      "id": "zenn-acfd0e3c54",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Rootless Dockerと学ぶSELinux【初心者向け】",
-      "url": "https://zenn.dev/nexryai/articles/afb828d7dda6b7",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 22 Oct 2026 11:50:59 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-89cd9f8fc3",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "【速報：2026/10/22 04:00】PHP2Shellの対応状況まとめ：PHP本体、Linux、レンタルサーバ、KUSANAGI",
-      "url": "https://zenn.dev/tyamadadd/articles/c02a27af771dd2",
-      "score": 100,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 21 Oct 2026 20:00:09 GMT",
-      "hatena_count": 101
     }
   ]
 }
