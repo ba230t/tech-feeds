@@ -1,7 +1,7 @@
 {
   "month": "2026-11",
   "total_articles": 228,
-  "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (1件)**\n\n1. 今後のセキュリティの考え方\n\n**AI・機械学習動向 (4件)**\n\n1. AIが書く「読みづらいADR」に発狂しかけたので、ADRのガイドラインを作った\n\n2. AI の謎な説明文を直すスキル\n\n3. 3 人それぞれの Claude Code を Slack でつないで ISUCON2026 に参加した（207,039 点）\n\n4. OpenCode+Docker+GitHub Actionsで全自動AIペネトレーションテストはじめました\n\n**技術トレンド (5件)**\n\n1. ISUCON2026 で優勝しました（当日編）\n\n2. 日本の全法令を git の履歴にしてみた\n\n3. 最近の E2E 戦略（2026 年 10 月現在）\n\n4. コードを読まずにマージするために必要なこと\n\n5. 私が5種類のコーディングエージェントを使い分ける理由",
+  "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (2件)**\n\n1. 今後のセキュリティの考え方\n\n2. いいから休め - Black October が終わる今、セキュリティエンジニアがやるべきこと\n\n**AI・機械学習動向 (4件)**\n\n1. AIが書く「読みづらいADR」に発狂しかけたので、ADRのガイドラインを作った\n\n2. AI の謎な説明文を直すスキル\n\n3. 3 人それぞれの Claude Code を Slack でつないで ISUCON2026 に参加した（207,039 点）\n\n4. OpenCode+Docker+GitHub Actionsで全自動AIペネトレーションテストはじめました\n\n**技術トレンド (4件)**\n\n1. ISUCON2026 で優勝しました（当日編）\n\n2. 日本の全法令を git の履歴にしてみた\n\n3. 最近の E2E 戦略（2026 年 10 月現在）\n\n4. コードを読まずにマージするために必要なこと",
   "source_counts": {
     "sns": 197,
     "jpcert": 15,
@@ -126,20 +126,6 @@
       ],
       "date": "Tue, 27 Oct 2026 11:00:05 GMT",
       "hatena_count": 127
-    },
-    {
-      "id": "zenn-1adc6c7b1e",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "私が5種類のコーディングエージェントを使い分ける理由",
-      "url": "https://zenn.dev/rimon/articles/45c1fd2f015af8",
-      "score": 120,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 25 Oct 2026 22:44:03 GMT",
-      "hatena_count": 123
     },
     {
       "id": "zenn-d2dd7eb267",
@@ -295,6 +281,20 @@
       ],
       "date": "Mon, 26 Oct 2026 09:44:58 GMT",
       "hatena_count": 23
+    },
+    {
+      "id": "zenn-b98fe6ce77",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "集約をどこまで機械的に導けるか――形式手法をベースとしたドメインモデリング",
+      "url": "https://zenn.dev/nrs/articles/33ba79c8b2542e",
+      "score": 17,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 04 Nov 2026 11:54:39 GMT",
+      "hatena_count": 17
     }
   ],
   "security_highlights": [

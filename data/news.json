@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T09:33:39.431090+00:00",
+  "updated_at": "2026-11-05T10:06:12.080391+00:00",
   "count": 500,
   "items": [
     {
@@ -5167,18 +5167,32 @@
       "hatena_count": 1
     },
     {
-      "id": "zenn-0418c167a0",
+      "id": "zenn-74da8eec3a",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "git archive とハッシュ一覧の照合で、本番の手修正を上書きしないデプロイスクリプトを作る",
-      "url": "https://zenn.dev/airiell/articles/git-archive-manifest-deploy",
-      "score": 0,
+      "title": "Xで積み重ねた日々をmixi2へ。過去ポストのインポート機能ができるまで",
+      "url": "https://zenn.dev/mixi/articles/bcf2363e83b0a2",
+      "score": 1,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Thu, 05 Nov 2026 00:51:35 GMT",
-      "hatena_count": 0
+      "date": "Thu, 05 Nov 2026 04:29:39 GMT",
+      "hatena_count": 1
+    },
+    {
+      "id": "zenn-abfc897ea7",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Siri AIにアプリをつなぎ、振る舞いを評価する",
+      "url": "https://zenn.dev/d_date/articles/e8e2c5d53b424e",
+      "score": 1,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 05 Nov 2026 03:51:50 GMT",
+      "hatena_count": 1
     },
     {
       "id": "zenn-36e9e43ea3",
@@ -5206,6 +5220,20 @@
         "Zenn"
       ],
       "date": "Wed, 04 Nov 2026 13:20:42 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-bc38f8446b",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "レガシーVBA処理をWSL×C#でモダンに再構築した話",
+      "url": "https://zenn.dev/nickelth/articles/vbatocsharponwsl",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 04 Nov 2026 13:02:11 GMT",
       "hatena_count": 0
     },
     {
@@ -5265,32 +5293,18 @@
       "hatena_count": 1
     },
     {
-      "id": "zenn-61d8c94181",
+      "id": "zenn-4a9d80bff3",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "AIにいきなり実装させない — kintoneカスタマイズ開発Skillのヒアリング設計",
-      "url": "https://zenn.dev/genda_jp/articles/a5cbba3664748b",
-      "score": 1,
+      "title": "AIルールだけでは守られない規約を、自作lintで縛るようにした",
+      "url": "https://zenn.dev/zoma/articles/72011082f2b1b7",
+      "score": 0,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Wed, 04 Nov 2026 06:44:57 GMT",
-      "hatena_count": 1
-    },
-    {
-      "id": "zenn-3e588b474c",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "GitHubのruleset移行時に注意したい、environment secretのブランチ保護仕様",
-      "url": "https://zenn.dev/loglass/articles/a89a8d4ee86559",
-      "score": 3,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 04 Nov 2026 06:26:41 GMT",
-      "hatena_count": 3
+      "date": "Wed, 04 Nov 2026 09:50:05 GMT",
+      "hatena_count": 0
     },
     {
       "id": "zenn-5dadf3a05b",
@@ -5319,20 +5333,6 @@
       ],
       "date": "Wed, 04 Nov 2026 02:30:07 GMT",
       "hatena_count": 3
-    },
-    {
-      "id": "zenn-10287d6da9",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "ISUCON2026で126,634点でした",
-      "url": "https://zenn.dev/o8n/articles/isucon2026-app-agent-retrospective",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 04 Nov 2026 01:46:01 GMT",
-      "hatena_count": 0
     },
     {
       "id": "zenn-d2dd7eb267",
@@ -5595,6 +5595,62 @@
       ],
       "date": "Mon, 19 Oct 2026 08:30:12 +0000",
       "hatena_count": 1
+    },
+    {
+      "id": "zenn-0418c167a0",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "git archive とハッシュ一覧の照合で、本番の手修正を上書きしないデプロイスクリプトを作る",
+      "url": "https://zenn.dev/airiell/articles/git-archive-manifest-deploy",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 05 Nov 2026 00:51:35 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-61d8c94181",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "AIにいきなり実装させない — kintoneカスタマイズ開発Skillのヒアリング設計",
+      "url": "https://zenn.dev/genda_jp/articles/a5cbba3664748b",
+      "score": 1,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 04 Nov 2026 06:44:57 GMT",
+      "hatena_count": 1
+    },
+    {
+      "id": "zenn-3e588b474c",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "GitHubのruleset移行時に注意したい、environment secretのブランチ保護仕様",
+      "url": "https://zenn.dev/loglass/articles/a89a8d4ee86559",
+      "score": 3,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 04 Nov 2026 06:26:41 GMT",
+      "hatena_count": 3
+    },
+    {
+      "id": "zenn-10287d6da9",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "ISUCON2026で126,634点でした",
+      "url": "https://zenn.dev/o8n/articles/isucon2026-app-agent-retrospective",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 04 Nov 2026 01:46:01 GMT",
+      "hatena_count": 0
     },
     {
       "id": "techracho-98ff75b00c",
@@ -7059,62 +7115,6 @@
       "date": "Mon, 26 Oct 2026 02:29:36 GMT",
       "severity": "high",
       "hatena_count": 1
-    },
-    {
-      "id": "zenn-1adc6c7b1e",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "私が5種類のコーディングエージェントを使い分ける理由",
-      "url": "https://zenn.dev/rimon/articles/45c1fd2f015af8",
-      "score": 120,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 25 Oct 2026 22:44:03 GMT",
-      "hatena_count": 123
-    },
-    {
-      "id": "zenn-5a75445f03",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "昨今のセキュリティ情勢を踏まえて、Azure のセキュリティ系新資格 SC-500 を受けてみた【合格体験記】",
-      "url": "https://zenn.dev/microsoft/articles/112ff28ccc30e3",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 26 Oct 2026 18:01:40 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-be66eb9574",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "GIF で見る、Faiss と Lucene のベクトル検索",
-      "url": "https://zenn.dev/kotap/articles/faiss-lucene-ann-gif",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 26 Oct 2026 16:40:02 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-993a7d8bcd",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "dart:ioと端末のネットワーク設定",
-      "url": "https://zenn.dev/koji_1009/articles/b222c501f9561c",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 26 Oct 2026 14:15:05 GMT",
-      "hatena_count": 0
     }
   ]
 }
