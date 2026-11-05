@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T03:33:40.349296+00:00",
+  "updated_at": "2026-11-05T04:06:31.124838+00:00",
   "count": 500,
   "items": [
     {
@@ -5074,13 +5074,13 @@
       "sub_source": "Zenn",
       "title": "OpenCode+Docker+GitHub Actionsで全自動AIペネトレーションテストはじめました",
       "url": "https://zenn.dev/team_zenn/articles/opencode-docker-actions-ai-pentest",
-      "score": 107,
+      "score": 111,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 04 Nov 2026 01:19:56 GMT",
-      "hatena_count": 107
+      "hatena_count": 111
     },
     {
       "id": "zenn-f25e0edaaa",
@@ -5158,13 +5158,13 @@
       "sub_source": "Zenn",
       "title": "ISUCON2026 で優勝しました（当日編）",
       "url": "https://zenn.dev/luvtechno/articles/isucon2026-competition-day",
-      "score": 405,
+      "score": 406,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 02 Nov 2026 13:26:09 GMT",
-      "hatena_count": 405
+      "hatena_count": 406
     },
     {
       "id": "zenn-49fbe9e192",
@@ -5200,13 +5200,13 @@
       "sub_source": "Zenn",
       "title": "日本の全法令を git の履歴にしてみた",
       "url": "https://zenn.dev/koheiwada/articles/houritsu-japanese-laws-as-git",
-      "score": 352,
+      "score": 354,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sun, 01 Nov 2026 03:36:05 GMT",
-      "hatena_count": 352
+      "hatena_count": 354
     },
     {
       "id": "zenn-4f504ab158",
