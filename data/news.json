@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T07:33:54.954440+00:00",
+  "updated_at": "2026-11-05T08:07:40.949026+00:00",
   "count": 500,
   "items": [
     {
@@ -5102,13 +5102,13 @@
       "sub_source": "Zenn",
       "title": "コードを読まずにバイブコーディングしたら、Claude Codeは分かっていてスルーしていた",
       "url": "https://zenn.dev/nexta_/articles/42a828ca2b8a02",
-      "score": 0,
+      "score": 2,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 04 Nov 2026 02:30:07 GMT",
-      "hatena_count": 0
+      "hatena_count": 2
     },
     {
       "id": "zenn-10287d6da9",
@@ -5130,13 +5130,13 @@
       "sub_source": "Zenn",
       "title": "OpenCode+Docker+GitHub Actionsで全自動AIペネトレーションテストはじめました",
       "url": "https://zenn.dev/team_zenn/articles/opencode-docker-actions-ai-pentest",
-      "score": 114,
+      "score": 115,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 04 Nov 2026 01:19:56 GMT",
-      "hatena_count": 114
+      "hatena_count": 115
     },
     {
       "id": "zenn-c230c5b05d",
@@ -5271,7 +5271,7 @@
       "source": "techracho",
       "title": "RailsのコードをRactorセーフにするリファクタリングパターン集（翻訳）",
       "url": "https://techracho.bpsinc.jp/hachi8833/2026_10_29/160778",
-      "score": 2,
+      "score": 3,
       "author": "Techracho",
       "tags": [
         "Ruby",
@@ -5279,7 +5279,7 @@
         "日本語"
       ],
       "date": "Thu, 29 Oct 2026 08:30:36 +0000",
-      "hatena_count": 2
+      "hatena_count": 3
     },
     {
       "id": "techracho-2f1472b57b",
@@ -5468,7 +5468,7 @@
         "Zenn"
       ],
       "date": "Sun, 01 Nov 2026 03:36:05 GMT",
-      "hatena_count": 358
+      "hatena_count": 359
     },
     {
       "id": "zenn-a8999cdd4a",
