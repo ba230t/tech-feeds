@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T14:06:15.806100+00:00",
+  "updated_at": "2026-11-05T14:34:28.562668+00:00",
   "count": 500,
   "items": [
     {
@@ -5326,13 +5326,13 @@
       "sub_source": "Zenn",
       "title": "コードを読まずにバイブコーディングしたら、Claude Codeは分かっていてスルーしていた",
       "url": "https://zenn.dev/nexta_/articles/42a828ca2b8a02",
-      "score": 20,
+      "score": 22,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 04 Nov 2026 02:30:07 GMT",
-      "hatena_count": 20
+      "hatena_count": 22
     },
     {
       "id": "zenn-d2dd7eb267",
@@ -5368,13 +5368,13 @@
       "sub_source": "Zenn",
       "title": "ADRをregoでlintする",
       "url": "https://zenn.dev/babarot/articles/regomark-adr-checker",
-      "score": 67,
+      "score": 68,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 03 Nov 2026 07:59:33 GMT",
-      "hatena_count": 67
+      "hatena_count": 68
     },
     {
       "id": "zenn-6417939ef5",
