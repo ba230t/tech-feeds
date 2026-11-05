@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T00:44:10.938196+00:00",
+  "updated_at": "2026-11-05T01:06:37.290838+00:00",
   "count": 500,
   "items": [
     {
@@ -4732,6 +4732,62 @@
       "hatena_count": 1
     },
     {
+      "id": "zenn-7e67fcb175",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "C/Rust/Julia/Go/Java/JS/PyPy/LuaJIT 実行速度ベンチマーク ― 競プロと科学計算のあいだ",
+      "url": "https://zenn.dev/trbx304/articles/34fec79781e39c",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 04 Nov 2026 13:20:42 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-a5c49dba54",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "娘とのクイズ遊びをアプリにしたら、日本語の奥深さを体感した話",
+      "url": "https://zenn.dev/tomipetit/articles/272c4d70a2bf67",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 04 Nov 2026 12:21:05 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-61d8c94181",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "AIにいきなり実装させない — kintoneカスタマイズ開発Skillのヒアリング設計",
+      "url": "https://zenn.dev/genda_jp/articles/a5cbba3664748b",
+      "score": 1,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 04 Nov 2026 06:44:57 GMT",
+      "hatena_count": 1
+    },
+    {
+      "id": "zenn-3e588b474c",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "GitHubのruleset移行時に注意したい、environment secretのブランチ保護仕様",
+      "url": "https://zenn.dev/loglass/articles/a89a8d4ee86559",
+      "score": 2,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 04 Nov 2026 06:26:41 GMT",
+      "hatena_count": 2
+    },
+    {
       "id": "zenn-5dadf3a05b",
       "source": "sns",
       "sub_source": "Zenn",
@@ -4744,6 +4800,20 @@
       ],
       "date": "Wed, 04 Nov 2026 05:42:59 GMT",
       "hatena_count": 1
+    },
+    {
+      "id": "zenn-5f64517cd0",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "FlutterKaigi 2026での初登壇を経て、これからも挑戦し続けると決めた話",
+      "url": "https://zenn.dev/assign/articles/2026-10-flutterkaigi-first-talk",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 04 Nov 2026 03:00:05 GMT",
+      "hatena_count": 0
     },
     {
       "id": "zenn-d0aa8bee72",
@@ -4788,20 +4858,6 @@
       "hatena_count": 105
     },
     {
-      "id": "zenn-a8999cdd4a",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Radeon VIIとUbuntu 26.04でROCmを動かし、Flash-NextをOpenCodeにつないだ",
-      "url": "https://zenn.dev/masanork/articles/radeon-vii-rocm-strata-opencode",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 03 Nov 2026 14:15:49 GMT",
-      "hatena_count": 0
-    },
-    {
       "id": "zenn-f25e0edaaa",
       "source": "sns",
       "sub_source": "Zenn",
@@ -4828,20 +4884,6 @@
       ],
       "date": "Tue, 03 Nov 2026 10:35:09 GMT",
       "hatena_count": 4
-    },
-    {
-      "id": "zenn-3d85d861eb",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "(備忘録) お名前.comからRoute 53へドメイン移管し、お名前メールをさくらのメールボックスへ移す",
-      "url": "https://zenn.dev/momura/articles/896dbde5e42491",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 03 Nov 2026 09:56:38 GMT",
-      "hatena_count": 0
     },
     {
       "id": "zenn-db23a67f04",
@@ -4928,46 +4970,18 @@
       "hatena_count": 0
     },
     {
-      "id": "zenn-beeebffada",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Agent DX 〜 AI時代にフレームワークHonoは必要か",
-      "url": "https://zenn.dev/yusukebe/articles/3d3dc6605ca1b1",
-      "score": 2,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 01 Nov 2026 13:58:21 GMT",
-      "hatena_count": 2
-    },
-    {
-      "id": "zenn-bd2d2f6bd8",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "ISUCON2026 にツールを捨てて勝ちたかった",
-      "url": "https://zenn.dev/mazrean/articles/5c968503fd69a3",
-      "score": 14,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 01 Nov 2026 12:16:33 GMT",
-      "hatena_count": 14
-    },
-    {
       "id": "zenn-9b1348f0a8",
       "source": "sns",
       "sub_source": "Zenn",
       "title": "日本の全法令を git の履歴にしてみた",
       "url": "https://zenn.dev/koheiwada/articles/houritsu-japanese-laws-as-git",
-      "score": 348,
+      "score": 349,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sun, 01 Nov 2026 03:36:05 GMT",
-      "hatena_count": 348
+      "hatena_count": 349
     },
     {
       "id": "zenn-4f504ab158",
@@ -4982,20 +4996,6 @@
       ],
       "date": "Sat, 31 Oct 2026 12:31:11 GMT",
       "hatena_count": 143
-    },
-    {
-      "id": "zenn-3ee32aed16",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "ペイントツール上でニューラルネットワークを動かす",
-      "url": "https://zenn.dev/melville/articles/953aa2b41f674b",
-      "score": 1,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 31 Oct 2026 10:16:28 GMT",
-      "hatena_count": 1
     },
     {
       "id": "zenn-d83aa2d820",
@@ -5162,74 +5162,74 @@
       "hatena_count": 1
     },
     {
-      "id": "zenn-7e67fcb175",
+      "id": "zenn-a8999cdd4a",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "C/Rust/Julia/Go/Java/JS/PyPy/LuaJIT 実行速度ベンチマーク ― 競プロと科学計算のあいだ",
-      "url": "https://zenn.dev/trbx304/articles/34fec79781e39c",
+      "title": "Radeon VIIとUbuntu 26.04でROCmを動かし、Flash-NextをOpenCodeにつないだ",
+      "url": "https://zenn.dev/masanork/articles/radeon-vii-rocm-strata-opencode",
       "score": 0,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Wed, 04 Nov 2026 13:20:42 GMT",
+      "date": "Tue, 03 Nov 2026 14:15:49 GMT",
       "hatena_count": 0
     },
     {
-      "id": "zenn-a5c49dba54",
+      "id": "zenn-3d85d861eb",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "娘とのクイズ遊びをアプリにしたら、日本語の奥深さを体感した話",
-      "url": "https://zenn.dev/tomipetit/articles/272c4d70a2bf67",
+      "title": "(備忘録) お名前.comからRoute 53へドメイン移管し、お名前メールをさくらのメールボックスへ移す",
+      "url": "https://zenn.dev/momura/articles/896dbde5e42491",
       "score": 0,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Wed, 04 Nov 2026 12:21:05 GMT",
+      "date": "Tue, 03 Nov 2026 09:56:38 GMT",
       "hatena_count": 0
     },
     {
-      "id": "zenn-61d8c94181",
+      "id": "zenn-beeebffada",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "AIにいきなり実装させない — kintoneカスタマイズ開発Skillのヒアリング設計",
-      "url": "https://zenn.dev/genda_jp/articles/a5cbba3664748b",
-      "score": 1,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 04 Nov 2026 06:44:57 GMT",
-      "hatena_count": 1
-    },
-    {
-      "id": "zenn-3e588b474c",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "GitHubのruleset移行時に注意したい、environment secretのブランチ保護仕様",
-      "url": "https://zenn.dev/loglass/articles/a89a8d4ee86559",
+      "title": "Agent DX 〜 AI時代にフレームワークHonoは必要か",
+      "url": "https://zenn.dev/yusukebe/articles/3d3dc6605ca1b1",
       "score": 2,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Wed, 04 Nov 2026 06:26:41 GMT",
+      "date": "Sun, 01 Nov 2026 13:58:21 GMT",
       "hatena_count": 2
     },
     {
-      "id": "zenn-5f64517cd0",
+      "id": "zenn-bd2d2f6bd8",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "FlutterKaigi 2026での初登壇を経て、これからも挑戦し続けると決めた話",
-      "url": "https://zenn.dev/assign/articles/2026-10-flutterkaigi-first-talk",
-      "score": 0,
+      "title": "ISUCON2026 にツールを捨てて勝ちたかった",
+      "url": "https://zenn.dev/mazrean/articles/5c968503fd69a3",
+      "score": 14,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Wed, 04 Nov 2026 03:00:05 GMT",
-      "hatena_count": 0
+      "date": "Sun, 01 Nov 2026 12:16:33 GMT",
+      "hatena_count": 14
+    },
+    {
+      "id": "zenn-3ee32aed16",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "ペイントツール上でニューラルネットワークを動かす",
+      "url": "https://zenn.dev/melville/articles/953aa2b41f674b",
+      "score": 1,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 31 Oct 2026 10:16:28 GMT",
+      "hatena_count": 1
     },
     {
       "id": "zenn-2af9c0e930",
