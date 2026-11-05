@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T05:34:06.023769+00:00",
+  "updated_at": "2026-11-05T06:08:54.432988+00:00",
   "count": 500,
   "items": [
     {
@@ -5074,13 +5074,13 @@
       "sub_source": "Zenn",
       "title": "GitHubのruleset移行時に注意したい、environment secretのブランチ保護仕様",
       "url": "https://zenn.dev/loglass/articles/a89a8d4ee86559",
-      "score": 2,
+      "score": 3,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 04 Nov 2026 06:26:41 GMT",
-      "hatena_count": 2
+      "hatena_count": 3
     },
     {
       "id": "zenn-5dadf3a05b",
@@ -5130,13 +5130,13 @@
       "sub_source": "Zenn",
       "title": "OpenCode+Docker+GitHub Actionsで全自動AIペネトレーションテストはじめました",
       "url": "https://zenn.dev/team_zenn/articles/opencode-docker-actions-ai-pentest",
-      "score": 112,
+      "score": 113,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 04 Nov 2026 01:19:56 GMT",
-      "hatena_count": 112
+      "hatena_count": 113
     },
     {
       "id": "zenn-c230c5b05d",
@@ -5468,7 +5468,7 @@
         "Zenn"
       ],
       "date": "Sun, 01 Nov 2026 03:36:05 GMT",
-      "hatena_count": 357
+      "hatena_count": 358
     },
     {
       "id": "zenn-a8999cdd4a",
