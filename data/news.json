@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T20:05:58.317438+00:00",
+  "updated_at": "2026-11-05T20:33:54.385984+00:00",
   "count": 500,
   "items": [
     {
@@ -14,6 +14,34 @@
         "Qiita"
       ],
       "date": "2026-11-05T16:38:27+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-d870b5557e",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "New Relic Autopilotの応答言語を日本語に設定する方法",
+      "url": "https://qiita.com/nr_ishibashi/items/7aa84d87723196bf37f1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-05T16:37:56+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-3157a82b2d",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "JavaScriptとReactの学習として、それぞれでTodoアプリを作りました。",
+      "url": "https://qiita.com/Tukirukiki/items/9af8c76c9c08fe6bf785?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-05T14:08:06+09:00",
       "hatena_count": 0
     },
     {
@@ -312,6 +340,20 @@
       "hatena_count": 0
     },
     {
+      "id": "qiita-f0b9c62d1d",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "2026年11月5日 今日のQiitaトレンド記事をポッドキャストで聴こう！",
+      "url": "https://qiita.com/ennagara128/items/bec153471d577eb808ea?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-05T09:44:16+09:00",
+      "hatena_count": 0
+    },
+    {
       "id": "qiita-f6c5cc509d",
       "source": "sns",
       "sub_source": "Qiita",
@@ -422,6 +464,20 @@
       ],
       "date": "2026-11-04T20:38:50+09:00",
       "hatena_count": 1
+    },
+    {
+      "id": "qiita-e21538e091",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "【2026年11月版】Amazon Bedrockの安価なLLMを19個、RAGで徹底比較してみた（Nova 2 Lite / Claude Haiku 4.5 / gpt-oss / Qwen3 / DeepSeek など）",
+      "url": "https://qiita.com/MURAMASA2470/items/0e59f2f6d037aa5e7ea8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-04T17:53:22+09:00",
+      "hatena_count": 0
     },
     {
       "id": "qiita-971123cfcc",
@@ -701,6 +757,20 @@
         "Qiita"
       ],
       "date": "2026-11-03T17:00:25+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-54a7515f68",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "Cronを使わずに、ISRとオンデマンド再検証でAPIを更新する",
+      "url": "https://qiita.com/okokok/items/f9e3e203f8913d852c89?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-03T16:56:40+09:00",
       "hatena_count": 0
     },
     {
@@ -7043,77 +7113,6 @@
         "Zenn"
       ],
       "date": "Tue, 27 Oct 2026 01:00:06 GMT",
-      "hatena_count": 1
-    },
-    {
-      "id": "zenn-e91558d187",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Dockerのビルドを遅くしたコミットをGrafana Tempoのトレースで見つける",
-      "url": "https://zenn.dev/ymotongpoo/articles/20261027-buildkit-traces-tempo",
-      "score": 2,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 27 Oct 2026 00:00:08 GMT",
-      "hatena_count": 2
-    },
-    {
-      "id": "zenn-91198e46ff",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "新卒エンジニアが初めてのインターン受け入れでマネジメントに奮闘した話",
-      "url": "https://zenn.dev/tokium_dev/articles/summer-intern-first-team-management",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 27 Oct 2026 00:00:00 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-89cd23706d",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "HPA は kubectl scale の台数を守らない",
-      "url": "https://zenn.dev/shinagawa_web/articles/hpa-reverts-manual-scale",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 26 Oct 2026 22:58:39 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-1b041c07d3",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Dockerfileのビルドとコンテナの中の確認",
-      "url": "https://zenn.dev/mutsu_zenn/articles/62895d07e7ef23",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 26 Oct 2026 22:00:05 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-06ad3f75f3",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Node.js の Brotli 脆弱性 CVE-2026-111497 を読む",
-      "url": "https://zenn.dev/chot/articles/79e6c94e27782d",
-      "score": 1,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 26 Oct 2026 02:29:36 GMT",
-      "severity": "high",
       "hatena_count": 1
     }
   ]

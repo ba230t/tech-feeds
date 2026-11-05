@@ -10,7 +10,7 @@
   },
   "severity_counts": {
     "info": 14,
-    "high": 5,
+    "high": 4,
     "medium": 1,
     "critical": 1
   },
@@ -298,21 +298,6 @@
     }
   ],
   "security_highlights": [
-    {
-      "id": "zenn-06ad3f75f3",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Node.js の Brotli 脆弱性 CVE-2026-111497 を読む",
-      "url": "https://zenn.dev/chot/articles/79e6c94e27782d",
-      "score": 1,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 26 Oct 2026 02:29:36 GMT",
-      "severity": "high",
-      "hatena_count": 1
-    },
     {
       "id": "zenn-5663499ab5",
       "source": "sns",
