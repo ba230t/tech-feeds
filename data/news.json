@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T12:35:43.461655+00:00",
+  "updated_at": "2026-11-05T13:06:08.395411+00:00",
   "count": 500,
   "items": [
     {
@@ -5186,13 +5186,13 @@
       "sub_source": "Zenn",
       "title": "Siri AIにアプリをつなぎ、振る舞いを評価する",
       "url": "https://zenn.dev/d_date/articles/e8e2c5d53b424e",
-      "score": 1,
+      "score": 2,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 05 Nov 2026 03:51:50 GMT",
-      "hatena_count": 1
+      "hatena_count": 2
     },
     {
       "id": "zenn-36e9e43ea3",
@@ -5326,13 +5326,13 @@
       "sub_source": "Zenn",
       "title": "コードを読まずにバイブコーディングしたら、Claude Codeは分かっていてスルーしていた",
       "url": "https://zenn.dev/nexta_/articles/42a828ca2b8a02",
-      "score": 15,
+      "score": 18,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 04 Nov 2026 02:30:07 GMT",
-      "hatena_count": 15
+      "hatena_count": 18
     },
     {
       "id": "zenn-d2dd7eb267",
@@ -5368,13 +5368,13 @@
       "sub_source": "Zenn",
       "title": "ADRをregoでlintする",
       "url": "https://zenn.dev/babarot/articles/regomark-adr-checker",
-      "score": 66,
+      "score": 67,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 03 Nov 2026 07:59:33 GMT",
-      "hatena_count": 66
+      "hatena_count": 67
     },
     {
       "id": "zenn-6417939ef5",
@@ -5396,13 +5396,13 @@
       "sub_source": "Zenn",
       "title": "ISUCON2026 で優勝しました（当日編）",
       "url": "https://zenn.dev/luvtechno/articles/isucon2026-competition-day",
-      "score": 409,
+      "score": 410,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 02 Nov 2026 13:26:09 GMT",
-      "hatena_count": 409
+      "hatena_count": 410
     },
     {
       "id": "zenn-49fbe9e192",
@@ -5410,13 +5410,13 @@
       "sub_source": "Zenn",
       "title": "AIが書く「読みづらいADR」に発狂しかけたので、ADRのガイドラインを作った",
       "url": "https://zenn.dev/tokium_dev/articles/adr-authoring-guideline",
-      "score": 180,
+      "score": 181,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 02 Nov 2026 06:00:05 GMT",
-      "hatena_count": 180
+      "hatena_count": 181
     },
     {
       "id": "zenn-4f504ab158",
