@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T23:04:41.324836+00:00",
+  "updated_at": "2026-11-05T23:33:47.180211+00:00",
   "count": 500,
   "items": [
     {
@@ -5237,6 +5237,90 @@
       "hatena_count": 1
     },
     {
+      "id": "zenn-f72fe248b7",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "AWSでデータレイクハウスを構築してApache Icebergの更新・履歴管理を検証した",
+      "url": "https://zenn.dev/kkoch5t2/articles/aws-iceberg-lakehouse-lab",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 05 Nov 2026 17:56:30 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-6972a4d1df",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "AI駆動文章作成において俺が意識しているテクニック集",
+      "url": "https://zenn.dev/ntk221/articles/34ad88a9225364",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 05 Nov 2026 14:35:31 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-e63e8b6cc4",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Slurm は Kaggle で役に立つ",
+      "url": "https://zenn.dev/pomcho555/articles/c455d086ec47af",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 05 Nov 2026 11:54:56 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-74ab9c76d2",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "AI生成コードを本番品質に保つためのフロントエンド開発の仕組み",
+      "url": "https://zenn.dev/sun_asterisk/articles/d4e4bc24974b99",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 05 Nov 2026 09:00:55 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-1f027e0ca4",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "手書き Provider 261 件を @riverpod へ全面移行した進め方",
+      "url": "https://zenn.dev/jtcc/articles/riverpod-generator-migration",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 05 Nov 2026 08:07:39 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-6fb8902d34",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "CS業務カイゼン・ジャーニー",
+      "url": "https://zenn.dev/appleworld/articles/8acf5474644f7e",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 05 Nov 2026 05:42:04 GMT",
+      "hatena_count": 0
+    },
+    {
       "id": "zenn-74da8eec3a",
       "source": "sns",
       "sub_source": "Zenn",
@@ -5265,73 +5349,17 @@
       "hatena_count": 2
     },
     {
-      "id": "zenn-36e9e43ea3",
+      "id": "zenn-0418c167a0",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "Editorはもう古い。新ロールへ安全に移る768試行",
-      "url": "https://zenn.dev/acntechjp/articles/zenn-gcp-basic-roles-migration",
+      "title": "git archive とハッシュ一覧の照合で、本番の手修正を上書きしないデプロイスクリプトを作る",
+      "url": "https://zenn.dev/airiell/articles/git-archive-manifest-deploy",
       "score": 0,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Wed, 04 Nov 2026 14:13:58 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-7e67fcb175",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "C/Rust/Julia/Go/Java/JS/PyPy/LuaJIT 実行速度ベンチマーク ― 競プロと科学計算のあいだ",
-      "url": "https://zenn.dev/trbx304/articles/34fec79781e39c",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 04 Nov 2026 13:20:42 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-bc38f8446b",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "レガシーVBA処理をWSL×C#でモダンに再構築した話",
-      "url": "https://zenn.dev/nickelth/articles/vbatocsharponwsl",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 04 Nov 2026 13:02:11 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-bf9c38729b",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Cortex AI Gateway-Part2: GAリリースにPreview以降の追加機能を検証",
-      "url": "https://zenn.dev/snowflakejp/articles/01fc867db3bf02",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 04 Nov 2026 12:45:11 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-a5c49dba54",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "娘とのクイズ遊びをアプリにしたら、日本語の奥深さを体感した話",
-      "url": "https://zenn.dev/tomipetit/articles/272c4d70a2bf67",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 04 Nov 2026 12:21:05 GMT",
+      "date": "Thu, 05 Nov 2026 00:51:35 GMT",
       "hatena_count": 0
     },
     {
@@ -5347,20 +5375,6 @@
       ],
       "date": "Wed, 04 Nov 2026 11:54:39 GMT",
       "hatena_count": 22
-    },
-    {
-      "id": "zenn-175ad9ccc4",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "ECS + RDS → Lambda + Aurora DSQL の移行で社内アプリのインフラ費用がほぼゼロになった話",
-      "url": "https://zenn.dev/wogo_techblog/articles/4c21661707f8c8",
-      "score": 1,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 04 Nov 2026 10:00:06 GMT",
-      "hatena_count": 1
     },
     {
       "id": "zenn-4a9d80bff3",
@@ -5396,13 +5410,27 @@
       "sub_source": "Zenn",
       "title": "コードを読まずにバイブコーディングしたら、Claude Codeは分かっていてスルーしていた",
       "url": "https://zenn.dev/nexta_/articles/42a828ca2b8a02",
-      "score": 31,
+      "score": 33,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 04 Nov 2026 02:30:07 GMT",
-      "hatena_count": 31
+      "hatena_count": 33
+    },
+    {
+      "id": "zenn-10287d6da9",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "ISUCON2026で126,634点でした",
+      "url": "https://zenn.dev/o8n/articles/isucon2026-app-agent-retrospective",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 04 Nov 2026 01:46:01 GMT",
+      "hatena_count": 0
     },
     {
       "id": "zenn-d2dd7eb267",
@@ -5410,27 +5438,13 @@
       "sub_source": "Zenn",
       "title": "OpenCode+Docker+GitHub Actionsで全自動AIペネトレーションテストはじめました",
       "url": "https://zenn.dev/team_zenn/articles/opencode-docker-actions-ai-pentest",
-      "score": 117,
+      "score": 118,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 04 Nov 2026 01:19:56 GMT",
-      "hatena_count": 117
-    },
-    {
-      "id": "zenn-c230c5b05d",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "高市総理のPHP投稿で何がうれしかったのか？今後の説得に使っていくよ～",
-      "url": "https://zenn.dev/tyamadadd/articles/36f975db1c41d8",
-      "score": 4,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 03 Nov 2026 10:35:09 GMT",
-      "hatena_count": 4
+      "hatena_count": 118
     },
     {
       "id": "zenn-db23a67f04",
@@ -5489,32 +5503,18 @@
       "hatena_count": 181
     },
     {
-      "id": "zenn-4f504ab158",
+      "id": "zenn-9b1348f0a8",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "3 人それぞれの Claude Code を Slack でつないで ISUCON2026 に参加した（207,039 点）",
-      "url": "https://zenn.dev/kauche/articles/f3736c660aab77",
-      "score": 143,
+      "title": "日本の全法令を git の履歴にしてみた",
+      "url": "https://zenn.dev/koheiwada/articles/houritsu-japanese-laws-as-git",
+      "score": 360,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Sat, 31 Oct 2026 12:31:11 GMT",
-      "hatena_count": 143
-    },
-    {
-      "id": "zenn-d83aa2d820",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "今後のセキュリティの考え方",
-      "url": "https://zenn.dev/cscloud_blog/articles/a987163efae5d8",
-      "score": 246,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 30 Oct 2026 10:30:27 GMT",
-      "hatena_count": 246
+      "date": "Sun, 01 Nov 2026 03:36:05 GMT",
+      "hatena_count": 360
     },
     {
       "id": "techracho-3ff1a08033",
@@ -5667,18 +5667,130 @@
       "hatena_count": 1
     },
     {
-      "id": "zenn-0418c167a0",
+      "id": "zenn-36e9e43ea3",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "git archive とハッシュ一覧の照合で、本番の手修正を上書きしないデプロイスクリプトを作る",
-      "url": "https://zenn.dev/airiell/articles/git-archive-manifest-deploy",
+      "title": "Editorはもう古い。新ロールへ安全に移る768試行",
+      "url": "https://zenn.dev/acntechjp/articles/zenn-gcp-basic-roles-migration",
       "score": 0,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Thu, 05 Nov 2026 00:51:35 GMT",
+      "date": "Wed, 04 Nov 2026 14:13:58 GMT",
       "hatena_count": 0
+    },
+    {
+      "id": "zenn-7e67fcb175",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "C/Rust/Julia/Go/Java/JS/PyPy/LuaJIT 実行速度ベンチマーク ― 競プロと科学計算のあいだ",
+      "url": "https://zenn.dev/trbx304/articles/34fec79781e39c",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 04 Nov 2026 13:20:42 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-bc38f8446b",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "レガシーVBA処理をWSL×C#でモダンに再構築した話",
+      "url": "https://zenn.dev/nickelth/articles/vbatocsharponwsl",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 04 Nov 2026 13:02:11 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-bf9c38729b",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Cortex AI Gateway-Part2: GAリリースにPreview以降の追加機能を検証",
+      "url": "https://zenn.dev/snowflakejp/articles/01fc867db3bf02",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 04 Nov 2026 12:45:11 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-a5c49dba54",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "娘とのクイズ遊びをアプリにしたら、日本語の奥深さを体感した話",
+      "url": "https://zenn.dev/tomipetit/articles/272c4d70a2bf67",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 04 Nov 2026 12:21:05 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-175ad9ccc4",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "ECS + RDS → Lambda + Aurora DSQL の移行で社内アプリのインフラ費用がほぼゼロになった話",
+      "url": "https://zenn.dev/wogo_techblog/articles/4c21661707f8c8",
+      "score": 1,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 04 Nov 2026 10:00:06 GMT",
+      "hatena_count": 1
+    },
+    {
+      "id": "zenn-c230c5b05d",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "高市総理のPHP投稿で何がうれしかったのか？今後の説得に使っていくよ～",
+      "url": "https://zenn.dev/tyamadadd/articles/36f975db1c41d8",
+      "score": 4,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 03 Nov 2026 10:35:09 GMT",
+      "hatena_count": 4
+    },
+    {
+      "id": "zenn-4f504ab158",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "3 人それぞれの Claude Code を Slack でつないで ISUCON2026 に参加した（207,039 点）",
+      "url": "https://zenn.dev/kauche/articles/f3736c660aab77",
+      "score": 143,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 31 Oct 2026 12:31:11 GMT",
+      "hatena_count": 143
+    },
+    {
+      "id": "zenn-d83aa2d820",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "今後のセキュリティの考え方",
+      "url": "https://zenn.dev/cscloud_blog/articles/a987163efae5d8",
+      "score": 246,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 30 Oct 2026 10:30:27 GMT",
+      "hatena_count": 246
     },
     {
       "id": "zenn-61d8c94181",
@@ -5707,20 +5819,6 @@
       ],
       "date": "Wed, 04 Nov 2026 06:26:41 GMT",
       "hatena_count": 3
-    },
-    {
-      "id": "zenn-10287d6da9",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "ISUCON2026で126,634点でした",
-      "url": "https://zenn.dev/o8n/articles/isucon2026-app-agent-retrospective",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 04 Nov 2026 01:46:01 GMT",
-      "hatena_count": 0
     },
     {
       "id": "techracho-98ff75b00c",
@@ -5806,20 +5904,6 @@
       ],
       "date": "Mon, 02 Nov 2026 02:58:52 GMT",
       "hatena_count": 0
-    },
-    {
-      "id": "zenn-9b1348f0a8",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "日本の全法令を git の履歴にしてみた",
-      "url": "https://zenn.dev/koheiwada/articles/houritsu-japanese-laws-as-git",
-      "score": 358,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 01 Nov 2026 03:36:05 GMT",
-      "hatena_count": 360
     },
     {
       "id": "zenn-a8999cdd4a",
@@ -7029,91 +7113,6 @@
       ],
       "date": "Tue, 27 Oct 2026 05:22:42 GMT",
       "hatena_count": 0
-    },
-    {
-      "id": "zenn-b368cc8007",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Vue Fes Japan 2026 に参加してきました！",
-      "url": "https://zenn.dev/koutyuke/articles/vuefes-japan-2026",
-      "score": 1,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 27 Oct 2026 04:28:58 GMT",
-      "hatena_count": 1
-    },
-    {
-      "id": "zenn-825f107696",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "@mizchi/mutator で vitest の mutation test をする",
-      "url": "https://zenn.dev/mizchi/articles/introduce-mutator",
-      "score": 2,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 27 Oct 2026 03:56:41 GMT",
-      "hatena_count": 4
-    },
-    {
-      "id": "zenn-8c3697396b",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "生成AIはテストを「通す」ためにズルをするのか — 報酬ハッキングを再現し、対策まで検証してみた",
-      "url": "https://zenn.dev/sompojapan_dx/articles/4f190d7cef4615",
-      "score": 1,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 26 Oct 2026 08:06:48 GMT",
-      "hatena_count": 2
-    },
-    {
-      "id": "techracho-9a351780cc",
-      "source": "techracho",
-      "title": "Solid Queue README: DBベースのActive Jobバックエンド（翻訳）",
-      "url": "https://techracho.bpsinc.jp/hachi8833/2026_10_12/140501",
-      "score": 0,
-      "author": "Techracho",
-      "tags": [
-        "Ruby",
-        "Rails",
-        "日本語"
-      ],
-      "date": "Mon, 12 Oct 2026 04:10:29 +0000",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-5458899f1e",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "GASで素のJSを埋め込むと < がエスケープされて動かない：getContent() の落とし穴と直し方",
-      "url": "https://zenn.dev/kimura0314/articles/gas-htmloutput-getcontent-escapes-lt",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 27 Oct 2026 01:16:10 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-7784ba274b",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Chromium(V8)のArray.prototype.lastIndexOfを最大約26000倍高速化した",
-      "url": "https://zenn.dev/dinii/articles/2f66b147007cf8",
-      "score": 1,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 27 Oct 2026 01:00:06 GMT",
-      "hatena_count": 1
     }
   ]
 }
