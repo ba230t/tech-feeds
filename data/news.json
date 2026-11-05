@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T04:06:31.124838+00:00",
+  "updated_at": "2026-11-05T04:33:42.610820+00:00",
   "count": 500,
   "items": [
     {
@@ -4957,6 +4957,34 @@
       "hatena_count": 1
     },
     {
+      "id": "zenn-0418c167a0",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "git archive とハッシュ一覧の照合で、本番の手修正を上書きしないデプロイスクリプトを作る",
+      "url": "https://zenn.dev/airiell/articles/git-archive-manifest-deploy",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 05 Nov 2026 00:51:35 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-36e9e43ea3",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Editorはもう古い。新ロールへ安全に移る768試行",
+      "url": "https://zenn.dev/acntechjp/articles/zenn-gcp-basic-roles-migration",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 04 Nov 2026 14:13:58 GMT",
+      "hatena_count": 0
+    },
+    {
       "id": "zenn-7e67fcb175",
       "source": "sns",
       "sub_source": "Zenn",
@@ -4971,6 +4999,20 @@
       "hatena_count": 0
     },
     {
+      "id": "zenn-bf9c38729b",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Cortex AI Gateway-Part2: GAリリースにPreview以降の追加機能を検証",
+      "url": "https://zenn.dev/snowflakejp/articles/01fc867db3bf02",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 04 Nov 2026 12:45:11 GMT",
+      "hatena_count": 0
+    },
+    {
       "id": "zenn-a5c49dba54",
       "source": "sns",
       "sub_source": "Zenn",
@@ -4982,6 +5024,34 @@
         "Zenn"
       ],
       "date": "Wed, 04 Nov 2026 12:21:05 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-b98fe6ce77",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "集約をどこまで機械的に導けるか――形式手法をベースとしたドメインモデリング",
+      "url": "https://zenn.dev/nrs/articles/33ba79c8b2542e",
+      "score": 14,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 04 Nov 2026 11:54:39 GMT",
+      "hatena_count": 14
+    },
+    {
+      "id": "zenn-175ad9ccc4",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "ECS + RDS → Lambda + Aurora DSQL の移行で社内アプリのインフラ費用がほぼゼロになった話",
+      "url": "https://zenn.dev/wogo_techblog/articles/4c21661707f8c8",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 04 Nov 2026 10:00:06 GMT",
       "hatena_count": 0
     },
     {
@@ -5027,31 +5097,17 @@
       "hatena_count": 1
     },
     {
-      "id": "zenn-5f64517cd0",
+      "id": "zenn-803b95cb07",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "FlutterKaigi 2026での初登壇を経て、これからも挑戦し続けると決めた話",
-      "url": "https://zenn.dev/assign/articles/2026-10-flutterkaigi-first-talk",
+      "title": "コードを読まずにバイブコーディングしたら、Claude Codeは分かっていてスルーしていた",
+      "url": "https://zenn.dev/nexta_/articles/42a828ca2b8a02",
       "score": 0,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Wed, 04 Nov 2026 03:00:05 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-d0aa8bee72",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "NIKKE PCランチャーのサプライチェーン攻撃、IT学生が自分のPCを調べてみた",
-      "url": "https://zenn.dev/nanana_sk/articles/nikke-launcher-incident",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 04 Nov 2026 02:23:44 GMT",
+      "date": "Wed, 04 Nov 2026 02:30:07 GMT",
       "hatena_count": 0
     },
     {
@@ -5074,27 +5130,13 @@
       "sub_source": "Zenn",
       "title": "OpenCode+Docker+GitHub Actionsで全自動AIペネトレーションテストはじめました",
       "url": "https://zenn.dev/team_zenn/articles/opencode-docker-actions-ai-pentest",
-      "score": 111,
+      "score": 112,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 04 Nov 2026 01:19:56 GMT",
-      "hatena_count": 111
-    },
-    {
-      "id": "zenn-f25e0edaaa",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "NVIDIAの音声修復モデルRE-USEでポッドキャストのノイズ除去と文字起こしを比較してみた",
-      "url": "https://zenn.dev/karaage0703/articles/podcast-reuse-whisper-workflow",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 03 Nov 2026 14:13:12 GMT",
-      "hatena_count": 0
+      "hatena_count": 112
     },
     {
       "id": "zenn-c230c5b05d",
@@ -5130,27 +5172,13 @@
       "sub_source": "Zenn",
       "title": "バイブコーディングで機能を継ぎ足していて見えてきたClaudeCodeの実装のクセ",
       "url": "https://zenn.dev/uguisu_blog/articles/45d1f446ece415",
-      "score": 79,
+      "score": 80,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 03 Nov 2026 03:30:05 GMT",
-      "hatena_count": 79
-    },
-    {
-      "id": "zenn-9288e9b5eb",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Human-out-of-the-loop(もどき)で戦うISUCON2026 (301,558 点 | 12 位)",
-      "url": "https://zenn.dev/ponyo877/articles/2a8a24acc2ea3b",
-      "score": 2,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 02 Nov 2026 14:52:35 GMT",
-      "hatena_count": 2
+      "hatena_count": 80
     },
     {
       "id": "zenn-43bee14924",
@@ -5179,34 +5207,6 @@
       ],
       "date": "Mon, 02 Nov 2026 06:00:05 GMT",
       "hatena_count": 180
-    },
-    {
-      "id": "zenn-dda79d10be",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "弊社がAIでPlaywrightテストコードを生成するために調整したこと",
-      "url": "https://zenn.dev/castingone_dev/articles/casone_playwright_for_claude",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 02 Nov 2026 02:58:52 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-9b1348f0a8",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "日本の全法令を git の履歴にしてみた",
-      "url": "https://zenn.dev/koheiwada/articles/houritsu-japanese-laws-as-git",
-      "score": 354,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 01 Nov 2026 03:36:05 GMT",
-      "hatena_count": 354
     },
     {
       "id": "zenn-4f504ab158",
@@ -5385,6 +5385,90 @@
       ],
       "date": "Wed, 14 Oct 2026 08:30:51 +0000",
       "hatena_count": 1
+    },
+    {
+      "id": "zenn-5f64517cd0",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "FlutterKaigi 2026での初登壇を経て、これからも挑戦し続けると決めた話",
+      "url": "https://zenn.dev/assign/articles/2026-10-flutterkaigi-first-talk",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 04 Nov 2026 03:00:05 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-d0aa8bee72",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "NIKKE PCランチャーのサプライチェーン攻撃、IT学生が自分のPCを調べてみた",
+      "url": "https://zenn.dev/nanana_sk/articles/nikke-launcher-incident",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 04 Nov 2026 02:23:44 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-f25e0edaaa",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "NVIDIAの音声修復モデルRE-USEでポッドキャストのノイズ除去と文字起こしを比較してみた",
+      "url": "https://zenn.dev/karaage0703/articles/podcast-reuse-whisper-workflow",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 03 Nov 2026 14:13:12 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-9288e9b5eb",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Human-out-of-the-loop(もどき)で戦うISUCON2026 (301,558 点 | 12 位)",
+      "url": "https://zenn.dev/ponyo877/articles/2a8a24acc2ea3b",
+      "score": 2,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 02 Nov 2026 14:52:35 GMT",
+      "hatena_count": 2
+    },
+    {
+      "id": "zenn-dda79d10be",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "弊社がAIでPlaywrightテストコードを生成するために調整したこと",
+      "url": "https://zenn.dev/castingone_dev/articles/casone_playwright_for_claude",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 02 Nov 2026 02:58:52 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-9b1348f0a8",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "日本の全法令を git の履歴にしてみた",
+      "url": "https://zenn.dev/koheiwada/articles/houritsu-japanese-laws-as-git",
+      "score": 354,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 01 Nov 2026 03:36:05 GMT",
+      "hatena_count": 354
     },
     {
       "id": "zenn-a8999cdd4a",
@@ -7031,90 +7115,6 @@
       ],
       "date": "Sun, 25 Oct 2026 09:47:50 GMT",
       "hatena_count": 0
-    },
-    {
-      "id": "zenn-50681a5387",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Flutter アプリを iPhone Duo の「縦帯」に対応させる",
-      "url": "https://zenn.dev/yus1127/articles/flutter-iphone-duo-vertical-bar",
-      "score": 1,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 24 Oct 2026 16:59:46 GMT",
-      "hatena_count": 1
-    },
-    {
-      "id": "zenn-60b822eb34",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Xcode 27 で ＠State がマクロになった理由 ― 遅延評価は private だけ、＠StateObject との違い",
-      "url": "https://zenn.dev/takehito/articles/50145459523321",
-      "score": 1,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 24 Oct 2026 15:56:27 GMT",
-      "hatena_count": 1
-    },
-    {
-      "id": "zenn-49bbe1bd17",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "「読みにくいDB」はAI開発のコストを1.9倍にする――Claude Codeで検証したDB設計の影響",
-      "url": "https://zenn.dev/actbe_tech/articles/8b4a9991d5365d",
-      "score": 85,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 23 Oct 2026 09:00:05 GMT",
-      "hatena_count": 90
-    },
-    {
-      "id": "zenn-6eef862e70",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "AI が実装してくれる時代こそ、自分の手で実装しよう",
-      "url": "https://zenn.dev/loglass/articles/24b2a4776ce8d4",
-      "score": 3,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 23 Oct 2026 01:28:43 GMT",
-      "hatena_count": 4
-    },
-    {
-      "id": "zenn-6196fc3ef4",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "バイブコーディングを6週間続けたら、Mac の起動が20分かかるようになった",
-      "url": "https://zenn.dev/singularity/articles/vibe-coding-mac-boot-20min",
-      "score": 236,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 20 Oct 2026 09:15:46 GMT",
-      "hatena_count": 235
-    },
-    {
-      "id": "zenn-0f91e18d0b",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Oxlint + Oxfmt で規約をコード化するモノレポ運用",
-      "url": "https://zenn.dev/reality_tech/articles/oxc-monorepo-20261006",
-      "score": 32,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 20 Oct 2026 02:00:05 GMT",
-      "hatena_count": 32
     }
   ]
 }
