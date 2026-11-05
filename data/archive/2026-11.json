@@ -268,6 +268,20 @@
       "hatena_count": 28
     },
     {
+      "id": "zenn-b98fe6ce77",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "集約をどこまで機械的に導けるか――形式手法をベースとしたドメインモデリング",
+      "url": "https://zenn.dev/nrs/articles/33ba79c8b2542e",
+      "score": 22,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 04 Nov 2026 11:54:39 GMT",
+      "hatena_count": 22
+    },
+    {
       "id": "ipa-ee45d6bd49",
       "source": "ipa",
       "title": "更新：PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell)",
@@ -280,20 +294,6 @@
       ],
       "severity": "medium",
       "date": "2026-11-02T00:00:00+09:00",
-      "hatena_count": 21
-    },
-    {
-      "id": "zenn-b98fe6ce77",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "集約をどこまで機械的に導けるか――形式手法をベースとしたドメインモデリング",
-      "url": "https://zenn.dev/nrs/articles/33ba79c8b2542e",
-      "score": 21,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 04 Nov 2026 11:54:39 GMT",
       "hatena_count": 21
     }
   ],
