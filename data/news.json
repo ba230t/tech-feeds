@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T15:33:50.835091+00:00",
+  "updated_at": "2026-11-05T16:33:54.310811+00:00",
   "count": 500,
   "items": [
     {
@@ -5270,13 +5270,13 @@
       "sub_source": "Zenn",
       "title": "集約をどこまで機械的に導けるか――形式手法をベースとしたドメインモデリング",
       "url": "https://zenn.dev/nrs/articles/33ba79c8b2542e",
-      "score": 20,
+      "score": 21,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 04 Nov 2026 11:54:39 GMT",
-      "hatena_count": 20
+      "hatena_count": 21
     },
     {
       "id": "zenn-175ad9ccc4",
@@ -5326,13 +5326,13 @@
       "sub_source": "Zenn",
       "title": "コードを読まずにバイブコーディングしたら、Claude Codeは分かっていてスルーしていた",
       "url": "https://zenn.dev/nexta_/articles/42a828ca2b8a02",
-      "score": 25,
+      "score": 27,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 04 Nov 2026 02:30:07 GMT",
-      "hatena_count": 25
+      "hatena_count": 27
     },
     {
       "id": "zenn-d2dd7eb267",
