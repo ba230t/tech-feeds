@@ -240,6 +240,20 @@
       "hatena_count": 38
     },
     {
+      "id": "zenn-803b95cb07",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "コードを読まずにバイブコーディングしたら、Claude Codeは分かっていてスルーしていた",
+      "url": "https://zenn.dev/nexta_/articles/42a828ca2b8a02",
+      "score": 30,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 04 Nov 2026 02:30:07 GMT",
+      "hatena_count": 30
+    },
+    {
       "id": "zenn-709ca78294",
       "source": "sns",
       "sub_source": "Zenn",
@@ -252,20 +266,6 @@
       ],
       "date": "Fri, 30 Oct 2026 07:50:00 GMT",
       "hatena_count": 30
-    },
-    {
-      "id": "zenn-803b95cb07",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "コードを読まずにバイブコーディングしたら、Claude Codeは分かっていてスルーしていた",
-      "url": "https://zenn.dev/nexta_/articles/42a828ca2b8a02",
-      "score": 28,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 04 Nov 2026 02:30:07 GMT",
-      "hatena_count": 28
     },
     {
       "id": "zenn-b98fe6ce77",
