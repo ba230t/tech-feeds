@@ -49,13 +49,13 @@
       "sub_source": "Zenn",
       "title": "日本の全法令を git の履歴にしてみた",
       "url": "https://zenn.dev/koheiwada/articles/houritsu-japanese-laws-as-git",
-      "score": 349,
+      "score": 351,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sun, 01 Nov 2026 03:36:05 GMT",
-      "hatena_count": 349
+      "hatena_count": 351
     },
     {
       "id": "zenn-d83aa2d820",
@@ -170,6 +170,20 @@
       "hatena_count": 123
     },
     {
+      "id": "zenn-d2dd7eb267",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "OpenCode+Docker+GitHub Actionsで全自動AIペネトレーションテストはじめました",
+      "url": "https://zenn.dev/team_zenn/articles/opencode-docker-actions-ai-pentest",
+      "score": 107,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 04 Nov 2026 01:19:56 GMT",
+      "hatena_count": 107
+    },
+    {
       "id": "zenn-47a83a0acf",
       "source": "sns",
       "sub_source": "Zenn",
@@ -182,20 +196,6 @@
       ],
       "date": "Wed, 28 Oct 2026 10:14:03 GMT",
       "hatena_count": 106
-    },
-    {
-      "id": "zenn-d2dd7eb267",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "OpenCode+Docker+GitHub Actionsで全自動AIペネトレーションテストはじめました",
-      "url": "https://zenn.dev/team_zenn/articles/opencode-docker-actions-ai-pentest",
-      "score": 105,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 04 Nov 2026 01:19:56 GMT",
-      "hatena_count": 105
     },
     {
       "id": "zenn-2dc50e40ad",
