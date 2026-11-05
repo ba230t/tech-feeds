@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T02:33:38.375662+00:00",
+  "updated_at": "2026-11-05T03:06:31.928894+00:00",
   "count": 500,
   "items": [
     {
@@ -5116,13 +5116,13 @@
       "sub_source": "Zenn",
       "title": "ADRをregoでlintする",
       "url": "https://zenn.dev/babarot/articles/regomark-adr-checker",
-      "score": 67,
+      "score": 66,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 03 Nov 2026 07:59:33 GMT",
-      "hatena_count": 67
+      "hatena_count": 66
     },
     {
       "id": "zenn-6417939ef5",
@@ -5158,13 +5158,13 @@
       "sub_source": "Zenn",
       "title": "ISUCON2026 で優勝しました（当日編）",
       "url": "https://zenn.dev/luvtechno/articles/isucon2026-competition-day",
-      "score": 404,
+      "score": 405,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 02 Nov 2026 13:26:09 GMT",
-      "hatena_count": 404
+      "hatena_count": 405
     },
     {
       "id": "zenn-49fbe9e192",
@@ -5200,13 +5200,13 @@
       "sub_source": "Zenn",
       "title": "日本の全法令を git の履歴にしてみた",
       "url": "https://zenn.dev/koheiwada/articles/houritsu-japanese-laws-as-git",
-      "score": 351,
+      "score": 352,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sun, 01 Nov 2026 03:36:05 GMT",
-      "hatena_count": 351
+      "hatena_count": 352
     },
     {
       "id": "zenn-4f504ab158",
@@ -7100,7 +7100,7 @@
         "Zenn"
       ],
       "date": "Tue, 20 Oct 2026 09:15:46 GMT",
-      "hatena_count": 236
+      "hatena_count": 235
     },
     {
       "id": "zenn-0f91e18d0b",
