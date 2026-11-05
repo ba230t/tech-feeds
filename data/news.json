@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T08:33:49.234491+00:00",
+  "updated_at": "2026-11-05T09:06:29.365515+00:00",
   "count": 500,
   "items": [
     {
@@ -5256,13 +5256,13 @@
       "sub_source": "Zenn",
       "title": "ECS + RDS → Lambda + Aurora DSQL の移行で社内アプリのインフラ費用がほぼゼロになった話",
       "url": "https://zenn.dev/wogo_techblog/articles/4c21661707f8c8",
-      "score": 0,
+      "score": 1,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 04 Nov 2026 10:00:06 GMT",
-      "hatena_count": 0
+      "hatena_count": 1
     },
     {
       "id": "zenn-61d8c94181",
@@ -5312,13 +5312,13 @@
       "sub_source": "Zenn",
       "title": "コードを読まずにバイブコーディングしたら、Claude Codeは分かっていてスルーしていた",
       "url": "https://zenn.dev/nexta_/articles/42a828ca2b8a02",
-      "score": 2,
+      "score": 3,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 04 Nov 2026 02:30:07 GMT",
-      "hatena_count": 2
+      "hatena_count": 3
     },
     {
       "id": "zenn-10287d6da9",
@@ -5451,7 +5451,7 @@
       "source": "techracho",
       "title": "Shopifyの Rubydex linter でRubyプロジェクトに構造的lintを導入しよう（翻訳）",
       "url": "https://techracho.bpsinc.jp/hachi8833/2026_11_05/160032",
-      "score": 0,
+      "score": 1,
       "author": "Techracho",
       "tags": [
         "Ruby",
@@ -5459,7 +5459,7 @@
         "日本語"
       ],
       "date": "Thu, 05 Nov 2026 08:30:46 +0000",
-      "hatena_count": 0
+      "hatena_count": 1
     },
     {
       "id": "techracho-a0c760eafa",
