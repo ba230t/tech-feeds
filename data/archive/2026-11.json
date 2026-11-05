@@ -1,34 +1,20 @@
 {
   "month": "2026-11",
   "total_articles": 228,
-  "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (1件)**\n\n1. 今後のセキュリティの考え方\n\n**AI・機械学習動向 (4件)**\n\n1. 仕組みを理解する動画を、Claude Codeに作らせると便利すぎる\n\n2. AIが書く「読みづらいADR」に発狂しかけたので、ADRのガイドラインを作った\n\n3. AI の謎な説明文を直すスキル\n\n4. 3 人それぞれの Claude Code を Slack でつないで ISUCON2026 に参加した（207,039 点）\n\n**技術トレンド (5件)**\n\n1. ISUCON2026 で優勝しました（当日編）\n\n2. 日本の全法令を git の履歴にしてみた\n\n3. 最近の E2E 戦略（2026 年 10 月現在）\n\n4. コードを読まずにマージするために必要なこと\n\n5. 私が5種類のコーディングエージェントを使い分ける理由",
+  "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (1件)**\n\n1. 今後のセキュリティの考え方\n\n**AI・機械学習動向 (4件)**\n\n1. AIが書く「読みづらいADR」に発狂しかけたので、ADRのガイドラインを作った\n\n2. AI の謎な説明文を直すスキル\n\n3. 3 人それぞれの Claude Code を Slack でつないで ISUCON2026 に参加した（207,039 点）\n\n4. OpenCode+Docker+GitHub Actionsで全自動AIペネトレーションテストはじめました\n\n**技術トレンド (5件)**\n\n1. ISUCON2026 で優勝しました（当日編）\n\n2. 日本の全法令を git の履歴にしてみた\n\n3. 最近の E2E 戦略（2026 年 10 月現在）\n\n4. コードを読まずにマージするために必要なこと\n\n5. 私が5種類のコーディングエージェントを使い分ける理由",
   "source_counts": {
+    "sns": 197,
     "jpcert": 15,
-    "sns": 198,
     "ipa": 1,
-    "techracho": 14
+    "techracho": 15
   },
   "severity_counts": {
     "info": 14,
-    "high": 6,
+    "high": 5,
     "medium": 1,
     "critical": 1
   },
   "top_articles": [
-    {
-      "id": "zenn-3321b85fd8",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "仕組みを理解する動画を、Claude Codeに作らせると便利すぎる",
-      "url": "https://zenn.dev/explaza/articles/c749042ecbe232",
-      "score": 638,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 21 Oct 2026 02:14:44 GMT",
-      "hatena_count": 654
-    },
     {
       "id": "zenn-43bee14924",
       "source": "sns",
@@ -91,13 +77,13 @@
       "sub_source": "Zenn",
       "title": "AIが書く「読みづらいADR」に発狂しかけたので、ADRのガイドラインを作った",
       "url": "https://zenn.dev/tokium_dev/articles/adr-authoring-guideline",
-      "score": 180,
+      "score": 179,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 02 Nov 2026 06:00:05 GMT",
-      "hatena_count": 180
+      "hatena_count": 179
     },
     {
       "id": "zenn-60cec5a308",
@@ -203,13 +189,13 @@
       "sub_source": "Zenn",
       "title": "バイブコーディングで機能を継ぎ足していて見えてきたClaudeCodeの実装のクセ",
       "url": "https://zenn.dev/uguisu_blog/articles/45d1f446ece415",
-      "score": 80,
+      "score": 81,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 03 Nov 2026 03:30:05 GMT",
-      "hatena_count": 80
+      "hatena_count": 81
     },
     {
       "id": "zenn-ecb9a4ef6b",
@@ -282,37 +268,36 @@
       "hatena_count": 30
     },
     {
-      "id": "zenn-6192aa503c",
+      "id": "ipa-ee45d6bd49",
+      "source": "ipa",
+      "title": "更新：PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell)",
+      "url": "https://www.ipa.go.jp/security/security-alert/2026/alert20261022.html",
+      "score": 21,
+      "author": "IPA",
+      "tags": [
+        "IPA",
+        "セキュリティ"
+      ],
+      "severity": "medium",
+      "date": "2026-11-02T00:00:00+09:00",
+      "hatena_count": 21
+    },
+    {
+      "id": "zenn-a060baa090",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "脆弱性管理の仕組みを整えた",
-      "url": "https://zenn.dev/dress_code/articles/be5550254695cd",
-      "score": 25,
+      "title": "「シンプルに」と「多機能に」は、両立できる──マリオに学ぶUX設計",
+      "url": "https://zenn.dev/upgradetech/articles/0882ef73e9c025",
+      "score": 20,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Thu, 22 Oct 2026 01:30:07 GMT",
-      "severity": "high",
-      "hatena_count": 25
+      "date": "Mon, 26 Oct 2026 09:44:58 GMT",
+      "hatena_count": 23
     }
   ],
   "security_highlights": [
-    {
-      "id": "zenn-6192aa503c",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "脆弱性管理の仕組みを整えた",
-      "url": "https://zenn.dev/dress_code/articles/be5550254695cd",
-      "score": 25,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 22 Oct 2026 01:30:07 GMT",
-      "severity": "high",
-      "hatena_count": 25
-    },
     {
       "id": "zenn-06ad3f75f3",
       "source": "sns",

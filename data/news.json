@@ -1,7 +1,91 @@
 {
-  "updated_at": "2026-11-05T08:07:40.949026+00:00",
+  "updated_at": "2026-11-05T08:33:49.234491+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "qiita-9df8672383",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "Stored Procedureはじめました。データベースのパフォーマンスリスクを可視化するDB360がついにGA！",
+      "url": "https://qiita.com/nr_ishibashi/items/20fd011c21cd671ffb54?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-05T16:38:27+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-017b7ca72d",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "フィードバックループの遮断 ― バグ報告を受け付けないシステム : システム設計視点の行動経済学 (56)",
+      "url": "https://qiita.com/maskot1977/items/ab0d450e5499f2291369?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-05T13:52:55+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-eb16101f0f",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "LaravelのログをCloudWatch Logsへ送信する — CloudWatch Logs連携の後編",
+      "url": "https://qiita.com/usui0623/items/731067009dd5f80a9753?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-05T11:54:29+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-c35c356eff",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "SLMを作ってみる",
+      "url": "https://qiita.com/y_abe_bc/items/fced7f7cf2766c56b073?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-05T11:22:49+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-0d92d72c93",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "「人が打ったときだけ動く」はずのスキルを、AI が自分で読んだ。31万スターのスキル集を Claude Code・Codex・Gemini CLI で3回ずつ試した",
+      "url": "https://qiita.com/suwa_nobu/items/f09fceeb70b7a68aa4f7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-05T11:00:38+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-731a5f0456",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "SAML認証よくわからなかったから調べてみた",
+      "url": "https://qiita.com/19Cyndaquil99/items/4eda33ab994d9bd0e6f7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-05T10:42:27+09:00",
+      "hatena_count": 0
+    },
     {
       "id": "jpcert-04a4e58076",
       "source": "jpcert",
@@ -228,6 +312,90 @@
       "hatena_count": 0
     },
     {
+      "id": "qiita-f6c5cc509d",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "Could not find ... in locally installed gems Run bundle install ... to install missing gems. エラー",
+      "url": "https://qiita.com/yukmaru/items/3ebed13a96d8a442dd77?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-05T09:26:24+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-a0200c593a",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "【マンガ】はじめてのインデータベースAI～ベクトル検索・RAGからAIエージェントまで～（コミカライズ版）",
+      "url": "https://qiita.com/yuji-arakawa/items/1c6d0ae4400ca2b4bae3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-05T08:04:01+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-e1e3e5c4f8",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "New Relic公式MCPをChatGPTから使いたくて、自分専用Pluginを構築できるOSSを作った",
+      "url": "https://qiita.com/harupython/items/79e3db64a02f705f9612?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-05T06:55:39+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-d30bbfa91d",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "SyntaxError: The requested module 'node:util' does not provide an export named 'styleText' エラー",
+      "url": "https://qiita.com/yukmaru/items/cbf78369aef3492d6486?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-05T02:38:16+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-74c4c9087e",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "Oracle APEXでDeep Data Securityを設定する",
+      "url": "https://qiita.com/watarun97/items/18cda2ec0d4a87e9c085?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-05T01:27:13+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-8ad29b7684",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "Googleが分析した「成果を出すチームの5つの特徴」が納得しかない。AIで個人の生産性が上がる時代だからこそ約10年前の分析を読み直す",
+      "url": "https://qiita.com/shinkai_/items/003029234e387db00e45?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-05T01:03:40+09:00",
+      "hatena_count": 0
+    },
+    {
       "id": "qiita-a349e69cd7",
       "source": "sns",
       "sub_source": "Qiita",
@@ -254,6 +422,20 @@
       ],
       "date": "2026-11-04T20:38:50+09:00",
       "hatena_count": 1
+    },
+    {
+      "id": "qiita-971123cfcc",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "OCI Base Database Serviceでリフレッシュ可能クローンによる移行を実施する場合に必要なアーカイブREDOログファイルがデータベースサーバーから欠落していた場合の対応に関して（検証と手順）",
+      "url": "https://qiita.com/ts_carp/items/90847ead3378544d61b6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-04T17:18:32+09:00",
+      "hatena_count": 0
     },
     {
       "id": "qiita-5b1c03902d",
@@ -295,6 +477,20 @@
         "Qiita"
       ],
       "date": "2026-11-04T13:52:01+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-891fe17666",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "IT未経験の私がAIに頼りすぎて挫折し、自分の頭で考えるようになるまで",
+      "url": "https://qiita.com/yu_tsukamoto/items/5fa1e302097552255fb7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-04T13:44:11+09:00",
       "hatena_count": 0
     },
     {
@@ -379,6 +575,20 @@
         "Qiita"
       ],
       "date": "2026-11-04T09:30:10+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-94b1386c3f",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "【Git】リモートで作ったブランチの分岐元を確認する方法",
+      "url": "https://qiita.com/shun123/items/6ba3e1aad6ba280c4340?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-04T09:16:15+09:00",
       "hatena_count": 0
     },
     {
@@ -5172,13 +5382,13 @@
       "sub_source": "Zenn",
       "title": "バイブコーディングで機能を継ぎ足していて見えてきたClaudeCodeの実装のクセ",
       "url": "https://zenn.dev/uguisu_blog/articles/45d1f446ece415",
-      "score": 80,
+      "score": 81,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 03 Nov 2026 03:30:05 GMT",
-      "hatena_count": 80
+      "hatena_count": 81
     },
     {
       "id": "zenn-43bee14924",
@@ -5200,13 +5410,13 @@
       "sub_source": "Zenn",
       "title": "AIが書く「読みづらいADR」に発狂しかけたので、ADRのガイドラインを作った",
       "url": "https://zenn.dev/tokium_dev/articles/adr-authoring-guideline",
-      "score": 180,
+      "score": 179,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 02 Nov 2026 06:00:05 GMT",
-      "hatena_count": 180
+      "hatena_count": 179
     },
     {
       "id": "zenn-4f504ab158",
@@ -5235,6 +5445,21 @@
       ],
       "date": "Fri, 30 Oct 2026 10:30:27 GMT",
       "hatena_count": 246
+    },
+    {
+      "id": "techracho-3ff1a08033",
+      "source": "techracho",
+      "title": "Shopifyの Rubydex linter でRubyプロジェクトに構造的lintを導入しよう（翻訳）",
+      "url": "https://techracho.bpsinc.jp/hachi8833/2026_11_05/160032",
+      "score": 0,
+      "author": "Techracho",
+      "tags": [
+        "Ruby",
+        "Rails",
+        "日本語"
+      ],
+      "date": "Thu, 05 Nov 2026 08:30:46 +0000",
+      "hatena_count": 0
     },
     {
       "id": "techracho-a0c760eafa",
@@ -6889,231 +7114,6 @@
         "Zenn"
       ],
       "date": "Mon, 26 Oct 2026 14:15:05 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-a8483c76e2",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "属人化をなくすために作ったAIが、私専用の道具になった",
-      "url": "https://zenn.dev/think_node/articles/f35c405ace7f52",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 26 Oct 2026 14:08:56 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-6beff2743e",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Zennの原稿リポジトリのセキュリティ対策を、OWASPなどのガイドラインと照らし合わせた",
-      "url": "https://zenn.dev/ryoku4/articles/9a02f6091cdd8a",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 26 Oct 2026 12:49:18 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-6d68d89e7a",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "OpenWrt 25.12のadblock 4.5に豆腐フィルタを適用する（ruleの書式が変わった）",
-      "url": "https://zenn.dev/yotan/articles/openwrt-25-adblock-tofu-filter",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 26 Oct 2026 10:49:33 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-eab72e2dc0",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "スタックトレースを読むとヒープが約1,470 MB増えていた話",
-      "url": "https://zenn.dev/dress_code/articles/f2a51226c9ec6f",
-      "score": 13,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 26 Oct 2026 00:00:13 GMT",
-      "hatena_count": 14
-    },
-    {
-      "id": "zenn-a547b55779",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Vue Fes Japan 2026 「 Vite+への貢献と、Team Memberになって見えてきた風景」スピーカーノート",
-      "url": "https://zenn.dev/comm_vue_nuxt/articles/33f8491afbc66d",
-      "score": 2,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 26 Oct 2026 08:44:09 GMT",
-      "hatena_count": 2
-    },
-    {
-      "id": "zenn-e15e1d6678",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "UE 5.8のMCPを使いたくて、Meta Quest向けプロジェクトを移植してみた",
-      "url": "https://zenn.dev/agilitizer_ltd/articles/07676169f68e6c",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 26 Oct 2026 07:16:56 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-7042caf749",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "AI時代のアーキテクチャ：実装を任せるために、詳細設計を自分のものにする",
-      "url": "https://zenn.dev/simplex/articles/f2b41d3367e9c7",
-      "score": 1,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 26 Oct 2026 07:02:56 GMT",
-      "hatena_count": 1
-    },
-    {
-      "id": "zenn-14cb230adf",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "prpr: Rust 向けのシンプルで高速な Parser generator",
-      "url": "https://zenn.dev/tanakh/articles/prpr-packrat-parser",
-      "score": 19,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 24 Oct 2026 06:57:58 GMT",
-      "hatena_count": 19
-    },
-    {
-      "id": "zenn-9712a773b0",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "eMudhra 中間 CA 漏洩、OS もブラウザも最新なのにコンテナ 9 個と Python 環境 16 個が偽の証明書を信じていた",
-      "url": "https://zenn.dev/nanora/articles/20261024-emudhra-ca-own-bundles",
-      "score": 8,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 24 Oct 2026 03:53:11 GMT",
-      "hatena_count": 8
-    },
-    {
-      "id": "zenn-dfcdd06e5d",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "AIネイティブなインターン生を受け入れて考えた、これからの開発エンジニア",
-      "url": "https://zenn.dev/tokium_dev/articles/internship-mentoring-2026",
-      "score": 3,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 26 Oct 2026 01:00:06 GMT",
-      "hatena_count": 3
-    },
-    {
-      "id": "zenn-028825ec85",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "S3のParquet、そのままSnowflakeで分析しても遅くない？Parquet Directを検証",
-      "url": "https://zenn.dev/snowflakejp/articles/parquet-direct-pruning-benchmark",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 26 Oct 2026 00:41:46 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-1dbed0acb6",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "育休復帰のキャッチアップをAI に手伝ってもらった話",
-      "url": "https://zenn.dev/nextbeat/articles/862dd45c304c13",
-      "score": 1,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 25 Oct 2026 23:35:58 GMT",
-      "hatena_count": 2
-    },
-    {
-      "id": "zenn-6192aa503c",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "脆弱性管理の仕組みを整えた",
-      "url": "https://zenn.dev/dress_code/articles/be5550254695cd",
-      "score": 25,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 22 Oct 2026 01:30:07 GMT",
-      "severity": "high",
-      "hatena_count": 25
-    },
-    {
-      "id": "zenn-3321b85fd8",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "仕組みを理解する動画を、Claude Codeに作らせると便利すぎる",
-      "url": "https://zenn.dev/explaza/articles/c749042ecbe232",
-      "score": 638,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 21 Oct 2026 02:14:44 GMT",
-      "hatena_count": 654
-    },
-    {
-      "id": "zenn-6d6c574d3c",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "PHPを更新するつもりが環境移行に【後編】WordPress移行の問題とSlackアプリの実装",
-      "url": "https://zenn.dev/hotaka_noda/articles/74a3b28185af5c",
-      "score": 1,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 25 Oct 2026 13:58:04 GMT",
-      "hatena_count": 1
-    },
-    {
-      "id": "zenn-ee9e820337",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "中古ラックサーバを買って、Proxmox VEを入れるまで【ホームラボ構築記 #1】",
-      "url": "https://zenn.dev/mana1001/articles/homelab-01-install",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 25 Oct 2026 09:47:50 GMT",
       "hatena_count": 0
     }
   ]
