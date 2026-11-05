@@ -3,12 +3,14 @@
   "total_articles": 228,
   "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (1件)**\n\n1. 今後のセキュリティの考え方\n\n**AI・機械学習動向 (4件)**\n\n1. 仕組みを理解する動画を、Claude Codeに作らせると便利すぎる\n\n2. AIが書く「読みづらいADR」に発狂しかけたので、ADRのガイドラインを作った\n\n3. AI の謎な説明文を直すスキル\n\n4. 3 人それぞれの Claude Code を Slack でつないで ISUCON2026 に参加した（207,039 点）\n\n**技術トレンド (5件)**\n\n1. ISUCON2026 で優勝しました（当日編）\n\n2. 日本の全法令を git の履歴にしてみた\n\n3. バイブコーディングを6週間続けたら、Mac の起動が20分かかるようになった\n\n4. 最近の E2E 戦略（2026 年 10 月現在）\n\n5. コードを読まずにマージするために必要なこと",
   "source_counts": {
-    "sns": 212,
+    "jpcert": 15,
+    "sns": 198,
     "ipa": 1,
-    "techracho": 15
+    "techracho": 14
   },
   "severity_counts": {
-    "high": 5,
+    "info": 14,
+    "high": 6,
     "medium": 1,
     "critical": 1
   },
@@ -354,6 +356,21 @@
       "date": "Fri, 30 Oct 2026 02:11:36 GMT",
       "severity": "critical",
       "hatena_count": 4
+    },
+    {
+      "id": "jpcert-6c9fd472e0",
+      "source": "jpcert",
+      "title": "Weekly Report: BrotliのC言語実装における境界外書き込みの脆弱性（CVE-2026-111497）に関する注意喚起",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261105.html#15",
+      "score": 0,
+      "author": "JPCERT/CC",
+      "tags": [
+        "JPCERT",
+        "セキュリティ"
+      ],
+      "severity": "high",
+      "date": "2026-11-05T09:52+09:00",
+      "hatena_count": 0
     },
     {
       "id": "qiita-289831eab1",
