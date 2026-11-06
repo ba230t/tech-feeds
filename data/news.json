@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T11:33:19.386051+00:00",
+  "updated_at": "2026-11-06T12:07:39.171592+00:00",
   "count": 500,
   "items": [
     {
@@ -5433,17 +5433,87 @@
       "hatena_count": 1
     },
     {
-      "id": "zenn-93901d4794",
+      "id": "zenn-eff3efd428",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "学祭のシフト作りを自動化した話 実装編：Apps Script で選んだ設計の判断 9 個",
-      "url": "https://zenn.dev/jun_eg/articles/school-festival-shift-apps-script-impl",
+      "title": "Claudeを使いこなす人に、MagicPodは要るのか。知らないアプリでPlaywrightと比べた記録",
+      "url": "https://zenn.dev/genda_jp/articles/7b423bcd20b532",
+      "score": 2,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 06 Nov 2026 05:13:04 GMT",
+      "hatena_count": 2
+    },
+    {
+      "id": "zenn-aea484c117",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "【.NET/Unity】C# の型制約とボックス化をハックする — IL と手動スタック配置",
+      "url": "https://zenn.dev/aakei/articles/csharp-stack-box",
       "score": 0,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Fri, 06 Nov 2026 00:30:49 GMT",
+      "date": "Fri, 06 Nov 2026 03:01:26 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-7f3d0d2833",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "freeeインターン 2週間で掴んだ仕事の進め方 ― 夏インターンを終えて",
+      "url": "https://zenn.dev/amanon/articles/1bbf5afc0fbf9f",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 06 Nov 2026 01:48:50 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-171ac97f0a",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "今更だけど、AIってどう使えばいいの？",
+      "url": "https://zenn.dev/porters_tech/articles/4f6e5cc83aa74c",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 06 Nov 2026 01:00:05 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-ec0a0fc220",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "spec as code ではなく、code as spec — 仕様書のように書かれたコードを正にする",
+      "url": "https://zenn.dev/ruri/articles/code-as-spec",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 05 Nov 2026 23:00:05 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-f72fe248b7",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "AWSでデータレイクハウスを構築してApache Icebergの更新・履歴管理を検証した",
+      "url": "https://zenn.dev/kkoch5t2/articles/aws-iceberg-lakehouse-lab",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 05 Nov 2026 17:56:30 GMT",
       "hatena_count": 0
     },
     {
@@ -5461,17 +5531,17 @@
       "hatena_count": 3
     },
     {
-      "id": "zenn-a8709948a7",
+      "id": "zenn-022c8553d9",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "OpenAPI Hono というライブラリを作りました",
-      "url": "https://zenn.dev/mini_bg_pro_n/articles/cd79010b1d1b9c",
+      "title": ".NET にも build.cs 欲しいんじゃーーー",
+      "url": "https://zenn.dev/sator_imaging/articles/c10d8da7685308",
       "score": 1,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Thu, 05 Nov 2026 12:32:53 GMT",
+      "date": "Thu, 05 Nov 2026 13:05:08 GMT",
       "hatena_count": 1
     },
     {
@@ -5503,34 +5573,6 @@
       "hatena_count": 0
     },
     {
-      "id": "zenn-74ab9c76d2",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "AI生成コードを本番品質に保つためのフロントエンド開発の仕組み",
-      "url": "https://zenn.dev/sun_asterisk/articles/d4e4bc24974b99",
-      "score": 2,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 05 Nov 2026 09:00:55 GMT",
-      "hatena_count": 2
-    },
-    {
-      "id": "zenn-1f027e0ca4",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "手書き Provider 261 件を @riverpod へ全面移行した進め方",
-      "url": "https://zenn.dev/jtcc/articles/riverpod-generator-migration",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 05 Nov 2026 08:07:39 GMT",
-      "hatena_count": 0
-    },
-    {
       "id": "zenn-a538ffe078",
       "source": "sns",
       "sub_source": "Zenn",
@@ -5542,34 +5584,6 @@
         "Zenn"
       ],
       "date": "Thu, 05 Nov 2026 07:00:05 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-6fb8902d34",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "CS業務カイゼン・ジャーニー",
-      "url": "https://zenn.dev/appleworld/articles/8acf5474644f7e",
-      "score": 1,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 05 Nov 2026 05:42:04 GMT",
-      "hatena_count": 1
-    },
-    {
-      "id": "zenn-7ff0e80bf8",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "週刊Cloudflare - 2026/11/01週",
-      "url": "https://zenn.dev/gemcook/articles/weekly-cloudflare_2026_1025-1031",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 05 Nov 2026 05:00:06 GMT",
       "hatena_count": 0
     },
     {
@@ -5587,18 +5601,18 @@
       "hatena_count": 1
     },
     {
-      "id": "zenn-abfc897ea7",
+      "id": "zenn-ce3ab2d535",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "Siri AIにアプリをつなぎ、振る舞いを評価する",
-      "url": "https://zenn.dev/d_date/articles/e8e2c5d53b424e",
-      "score": 3,
+      "title": "Claude CodeからPremiere Proを290回動かして、53分のPodcastを全自動編集してみた",
+      "url": "https://zenn.dev/salt2/articles/2b6e403e059b10",
+      "score": 0,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Thu, 05 Nov 2026 03:51:50 GMT",
-      "hatena_count": 3
+      "date": "Wed, 04 Nov 2026 12:33:10 GMT",
+      "hatena_count": 0
     },
     {
       "id": "zenn-b98fe6ce77",
@@ -5613,20 +5627,6 @@
       ],
       "date": "Wed, 04 Nov 2026 11:54:39 GMT",
       "hatena_count": 23
-    },
-    {
-      "id": "zenn-5dadf3a05b",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "SigLIP2に匹敵する画像エンコーダーをフルスクラッチで開発した話",
-      "url": "https://zenn.dev/noetra_techblog/articles/0cea39ce67d2c2",
-      "score": 2,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 04 Nov 2026 05:42:59 GMT",
-      "hatena_count": 2
     },
     {
       "id": "zenn-803b95cb07",
@@ -5863,18 +5863,116 @@
       "hatena_count": 1
     },
     {
-      "id": "zenn-f72fe248b7",
+      "id": "zenn-93901d4794",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "AWSでデータレイクハウスを構築してApache Icebergの更新・履歴管理を検証した",
-      "url": "https://zenn.dev/kkoch5t2/articles/aws-iceberg-lakehouse-lab",
+      "title": "学祭のシフト作りを自動化した話 実装編：Apps Script で選んだ設計の判断 9 個",
+      "url": "https://zenn.dev/jun_eg/articles/school-festival-shift-apps-script-impl",
       "score": 0,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Thu, 05 Nov 2026 17:56:30 GMT",
+      "date": "Fri, 06 Nov 2026 00:30:49 GMT",
       "hatena_count": 0
+    },
+    {
+      "id": "zenn-a8709948a7",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "OpenAPI Hono というライブラリを作りました",
+      "url": "https://zenn.dev/mini_bg_pro_n/articles/cd79010b1d1b9c",
+      "score": 1,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 05 Nov 2026 12:32:53 GMT",
+      "hatena_count": 1
+    },
+    {
+      "id": "zenn-74ab9c76d2",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "AI生成コードを本番品質に保つためのフロントエンド開発の仕組み",
+      "url": "https://zenn.dev/sun_asterisk/articles/d4e4bc24974b99",
+      "score": 2,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 05 Nov 2026 09:00:55 GMT",
+      "hatena_count": 2
+    },
+    {
+      "id": "zenn-1f027e0ca4",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "手書き Provider 261 件を @riverpod へ全面移行した進め方",
+      "url": "https://zenn.dev/jtcc/articles/riverpod-generator-migration",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 05 Nov 2026 08:07:39 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-6fb8902d34",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "CS業務カイゼン・ジャーニー",
+      "url": "https://zenn.dev/appleworld/articles/8acf5474644f7e",
+      "score": 1,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 05 Nov 2026 05:42:04 GMT",
+      "hatena_count": 1
+    },
+    {
+      "id": "zenn-7ff0e80bf8",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "週刊Cloudflare - 2026/11/01週",
+      "url": "https://zenn.dev/gemcook/articles/weekly-cloudflare_2026_1025-1031",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 05 Nov 2026 05:00:06 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-abfc897ea7",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Siri AIにアプリをつなぎ、振る舞いを評価する",
+      "url": "https://zenn.dev/d_date/articles/e8e2c5d53b424e",
+      "score": 3,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 05 Nov 2026 03:51:50 GMT",
+      "hatena_count": 3
+    },
+    {
+      "id": "zenn-5dadf3a05b",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "SigLIP2に匹敵する画像エンコーダーをフルスクラッチで開発した話",
+      "url": "https://zenn.dev/noetra_techblog/articles/0cea39ce67d2c2",
+      "score": 2,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 04 Nov 2026 05:42:59 GMT",
+      "hatena_count": 2
     },
     {
       "id": "zenn-0418c167a0",
@@ -6605,7 +6703,7 @@
         "Zenn"
       ],
       "date": "Tue, 27 Oct 2026 11:00:05 GMT",
-      "hatena_count": 128
+      "hatena_count": 130
     },
     {
       "id": "zenn-5b89b475c2",
@@ -7014,104 +7112,6 @@
       ],
       "date": "Wed, 28 Oct 2026 07:55:08 GMT",
       "hatena_count": 0
-    },
-    {
-      "id": "zenn-75533b2329",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Claude Codeを褒めちぎってみた",
-      "url": "https://zenn.dev/devlog/articles/abc194ecf04dfc",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 29 Oct 2026 03:00:07 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-b456dbee22",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "OpenSearchのLLM-as-a-Judgeを日本語の商品検索で動かして、人手ラベルと比べてみた",
-      "url": "https://zenn.dev/nextbeat/articles/c22b45b1d784b0",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 29 Oct 2026 02:55:28 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-654fcdd431",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "PHP5.4 から PHP8.5へ",
-      "url": "https://zenn.dev/ctrlzr/articles/5a88eb939b3bfd",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 29 Oct 2026 02:37:00 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-fff30a50f2",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "公表資料から読む2026年秋の情報漏えい18件：侵入経路はどこだったのか",
-      "url": "https://zenn.dev/shirochan/articles/f579ce70b08dc3",
-      "score": 2,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 28 Oct 2026 03:44:36 GMT",
-      "hatena_count": 2
-    },
-    {
-      "id": "zenn-fe9c9969af",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "【Rails】焼きなまし法で会議室予約アプリに空き時間最適化機能を実装してみた",
-      "url": "https://zenn.dev/port_inc/articles/eaf460ff291c97",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 28 Oct 2026 01:00:06 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-147c98dd1d",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Claude Codeで半年分のレビュー指摘を分類してみた",
-      "url": "https://zenn.dev/port_inc/articles/a4bc3b39f44459",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 28 Oct 2026 01:00:06 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-186afe2907",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Go で動く新世代の補完プラグイン goda-cmp.vim",
-      "url": "https://zenn.dev/shougo/articles/goda-cmp-vim-beta",
-      "score": 1,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 27 Oct 2026 10:25:24 GMT",
-      "hatena_count": 1
     }
   ]
 }
