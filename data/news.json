@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T06:09:56.146226+00:00",
+  "updated_at": "2026-11-06T06:37:39.284006+00:00",
   "count": 500,
   "items": [
     {
@@ -5438,13 +5438,13 @@
       "sub_source": "Zenn",
       "title": "コードを読まずにバイブコーディングしたら、Claude Codeは分かっていてスルーしていた",
       "url": "https://zenn.dev/nexta_/articles/42a828ca2b8a02",
-      "score": 35,
+      "score": 36,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 04 Nov 2026 02:30:07 GMT",
-      "hatena_count": 35
+      "hatena_count": 36
     },
     {
       "id": "zenn-d2dd7eb267",
@@ -6606,7 +6606,7 @@
         "Zenn"
       ],
       "date": "Mon, 26 Oct 2026 04:32:54 GMT",
-      "hatena_count": 164
+      "hatena_count": 165
     },
     {
       "id": "zenn-9f4cd75113",
