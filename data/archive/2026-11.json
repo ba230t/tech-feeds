@@ -198,6 +198,20 @@
       "hatena_count": 70
     },
     {
+      "id": "zenn-f7880dbf50",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "[破壊的変更] 明治時代の開始日が変更になって単体テストが失敗した件",
+      "url": "https://zenn.dev/xin9le/articles/9a1cf8e10494d6",
+      "score": 47,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 06 Nov 2026 14:39:45 GMT",
+      "hatena_count": 47
+    },
+    {
       "id": "zenn-1ef417e2bf",
       "source": "sns",
       "sub_source": "Zenn",
@@ -281,20 +295,6 @@
       "severity": "medium",
       "date": "2026-11-02T00:00:00+09:00",
       "hatena_count": 21
-    },
-    {
-      "id": "zenn-bd2d2f6bd8",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "ISUCON2026 にツールを捨てて勝ちたかった",
-      "url": "https://zenn.dev/mazrean/articles/5c968503fd69a3",
-      "score": 14,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 01 Nov 2026 12:16:33 GMT",
-      "hatena_count": 14
     }
   ],
   "security_highlights": [
