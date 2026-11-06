@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T14:33:13.059813+00:00",
+  "updated_at": "2026-11-06T15:05:08.034488+00:00",
   "count": 500,
   "items": [
     {
@@ -5494,13 +5494,13 @@
       "sub_source": "Zenn",
       "title": "spec as code ではなく、code as spec — 仕様書のように書かれたコードを正にする",
       "url": "https://zenn.dev/ruri/articles/code-as-spec",
-      "score": 0,
+      "score": 1,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 05 Nov 2026 23:00:05 GMT",
-      "hatena_count": 0
+      "hatena_count": 1
     },
     {
       "id": "zenn-f72fe248b7",
@@ -5676,13 +5676,13 @@
       "sub_source": "Zenn",
       "title": "バイブコーディングで機能を継ぎ足していて見えてきたClaudeCodeの実装のクセ",
       "url": "https://zenn.dev/uguisu_blog/articles/45d1f446ece415",
-      "score": 83,
+      "score": 84,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 03 Nov 2026 03:30:05 GMT",
-      "hatena_count": 83
+      "hatena_count": 84
     },
     {
       "id": "zenn-43bee14924",
@@ -5690,13 +5690,13 @@
       "sub_source": "Zenn",
       "title": "ISUCON2026 で優勝しました（当日編）",
       "url": "https://zenn.dev/luvtechno/articles/isucon2026-competition-day",
-      "score": 413,
+      "score": 414,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 02 Nov 2026 13:26:09 GMT",
-      "hatena_count": 413
+      "hatena_count": 414
     },
     {
       "id": "zenn-49fbe9e192",
@@ -6604,7 +6604,7 @@
         "Zenn"
       ],
       "date": "Mon, 02 Nov 2026 00:06:09 GMT",
-      "hatena_count": 0
+      "hatena_count": 1
     },
     {
       "id": "zenn-cd291dcdde",
@@ -6703,7 +6703,7 @@
         "Zenn"
       ],
       "date": "Tue, 27 Oct 2026 11:00:05 GMT",
-      "hatena_count": 130
+      "hatena_count": 131
     },
     {
       "id": "zenn-5b89b475c2",
@@ -6872,7 +6872,7 @@
         "Zenn"
       ],
       "date": "Mon, 26 Oct 2026 01:18:03 GMT",
-      "hatena_count": 198
+      "hatena_count": 199
     },
     {
       "id": "zenn-709ca78294",
