@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T10:05:54.235405+00:00",
+  "updated_at": "2026-11-06T10:33:55.577019+00:00",
   "count": 500,
   "items": [
     {
@@ -4572,7 +4572,7 @@
       "source": "jpcert",
       "title": "注意喚起: 直近で相次いでいる国内組織における不正アクセスに関する注意喚起  (更新)",
       "url": "https://www.jpcert.or.jp/at/2026/at260030.html",
-      "score": 706,
+      "score": 707,
       "author": "JPCERT/CC",
       "tags": [
         "JPCERT",
@@ -4580,7 +4580,7 @@
       ],
       "severity": "high",
       "date": "2026-10-23T11:37+09:00",
-      "hatena_count": 706
+      "hatena_count": 707
     },
     {
       "id": "qiita-4e32422a87",
@@ -5648,13 +5648,13 @@
       "sub_source": "Zenn",
       "title": "OpenCode+Docker+GitHub Actionsで全自動AIペネトレーションテストはじめました",
       "url": "https://zenn.dev/team_zenn/articles/opencode-docker-actions-ai-pentest",
-      "score": 120,
+      "score": 121,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 04 Nov 2026 01:19:56 GMT",
-      "hatena_count": 120
+      "hatena_count": 121
     },
     {
       "id": "zenn-db23a67f04",
@@ -5676,13 +5676,13 @@
       "sub_source": "Zenn",
       "title": "バイブコーディングで機能を継ぎ足していて見えてきたClaudeCodeの実装のクセ",
       "url": "https://zenn.dev/uguisu_blog/articles/45d1f446ece415",
-      "score": 82,
+      "score": 83,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 03 Nov 2026 03:30:05 GMT",
-      "hatena_count": 82
+      "hatena_count": 83
     },
     {
       "id": "zenn-43bee14924",
@@ -5717,7 +5717,7 @@
       "source": "techracho",
       "title": "Shopifyの Rubydex linter でRubyプロジェクトに構造的lintを導入しよう（翻訳）",
       "url": "https://techracho.bpsinc.jp/hachi8833/2026_11_05/160032",
-      "score": 2,
+      "score": 3,
       "author": "Techracho",
       "tags": [
         "Ruby",
@@ -5725,7 +5725,7 @@
         "日本語"
       ],
       "date": "Thu, 05 Nov 2026 08:30:46 +0000",
-      "hatena_count": 2
+      "hatena_count": 3
     },
     {
       "id": "techracho-a0c760eafa",
