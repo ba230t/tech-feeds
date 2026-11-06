@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T01:34:46.456590+00:00",
+  "updated_at": "2026-11-06T02:07:35.336081+00:00",
   "count": 500,
   "items": [
     {
@@ -5284,13 +5284,13 @@
       "sub_source": "Zenn",
       "title": "AI生成コードを本番品質に保つためのフロントエンド開発の仕組み",
       "url": "https://zenn.dev/sun_asterisk/articles/d4e4bc24974b99",
-      "score": 1,
+      "score": 2,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 05 Nov 2026 09:00:55 GMT",
-      "hatena_count": 1
+      "hatena_count": 2
     },
     {
       "id": "zenn-1f027e0ca4",
@@ -5438,13 +5438,13 @@
       "sub_source": "Zenn",
       "title": "OpenCode+Docker+GitHub Actionsで全自動AIペネトレーションテストはじめました",
       "url": "https://zenn.dev/team_zenn/articles/opencode-docker-actions-ai-pentest",
-      "score": 119,
+      "score": 120,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 04 Nov 2026 01:19:56 GMT",
-      "hatena_count": 119
+      "hatena_count": 120
     },
     {
       "id": "zenn-db23a67f04",
