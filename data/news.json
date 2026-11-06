@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T00:44:02.653934+00:00",
+  "updated_at": "2026-11-06T01:06:18.329139+00:00",
   "count": 500,
   "items": [
     {
@@ -541,13 +541,13 @@
       "sub_source": "Qiita",
       "title": "IT未経験の私がAIに頼りすぎて挫折し、自分の頭で考えるようになるまで",
       "url": "https://qiita.com/yu_tsukamoto/items/5fa1e302097552255fb7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
+      "score": 1,
       "author": "Qiita",
       "tags": [
         "Qiita"
       ],
       "date": "2026-11-04T13:44:11+09:00",
-      "hatena_count": 0
+      "hatena_count": 1
     },
     {
       "id": "qiita-2ced5635a6",
@@ -5256,13 +5256,13 @@
       "sub_source": "Zenn",
       "title": "AI駆動文章作成において俺が意識しているテクニック集",
       "url": "https://zenn.dev/ntk221/articles/34ad88a9225364",
-      "score": 1,
+      "score": 2,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 05 Nov 2026 14:35:31 GMT",
-      "hatena_count": 1
+      "hatena_count": 2
     },
     {
       "id": "zenn-e63e8b6cc4",
@@ -5284,13 +5284,13 @@
       "sub_source": "Zenn",
       "title": "AI生成コードを本番品質に保つためのフロントエンド開発の仕組み",
       "url": "https://zenn.dev/sun_asterisk/articles/d4e4bc24974b99",
-      "score": 0,
+      "score": 1,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 05 Nov 2026 09:00:55 GMT",
-      "hatena_count": 0
+      "hatena_count": 1
     },
     {
       "id": "zenn-1f027e0ca4",
@@ -5438,13 +5438,13 @@
       "sub_source": "Zenn",
       "title": "OpenCode+Docker+GitHub Actionsで全自動AIペネトレーションテストはじめました",
       "url": "https://zenn.dev/team_zenn/articles/opencode-docker-actions-ai-pentest",
-      "score": 118,
+      "score": 119,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 04 Nov 2026 01:19:56 GMT",
-      "hatena_count": 118
+      "hatena_count": 119
     },
     {
       "id": "zenn-db23a67f04",
@@ -6339,7 +6339,7 @@
         "Zenn"
       ],
       "date": "Tue, 27 Oct 2026 11:00:05 GMT",
-      "hatena_count": 127
+      "hatena_count": 128
     },
     {
       "id": "zenn-5b89b475c2",
