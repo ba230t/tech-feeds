@@ -125,7 +125,7 @@
         "Zenn"
       ],
       "date": "Tue, 27 Oct 2026 11:00:05 GMT",
-      "hatena_count": 131
+      "hatena_count": 132
     },
     {
       "id": "zenn-d2dd7eb267",
@@ -156,6 +156,20 @@
       "hatena_count": 106
     },
     {
+      "id": "zenn-6417939ef5",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "バイブコーディングで機能を継ぎ足していて見えてきたClaudeCodeの実装のクセ",
+      "url": "https://zenn.dev/uguisu_blog/articles/45d1f446ece415",
+      "score": 85,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 03 Nov 2026 03:30:05 GMT",
+      "hatena_count": 85
+    },
+    {
       "id": "zenn-2dc50e40ad",
       "source": "sns",
       "sub_source": "Zenn",
@@ -168,20 +182,6 @@
       ],
       "date": "Thu, 29 Oct 2026 03:48:15 GMT",
       "hatena_count": 86
-    },
-    {
-      "id": "zenn-6417939ef5",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "バイブコーディングで機能を継ぎ足していて見えてきたClaudeCodeの実装のクセ",
-      "url": "https://zenn.dev/uguisu_blog/articles/45d1f446ece415",
-      "score": 84,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 03 Nov 2026 03:30:05 GMT",
-      "hatena_count": 84
     },
     {
       "id": "zenn-db23a67f04",

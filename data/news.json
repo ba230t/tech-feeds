@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T16:06:05.840814+00:00",
+  "updated_at": "2026-11-06T16:33:31.473223+00:00",
   "count": 500,
   "items": [
     {
@@ -5536,13 +5536,13 @@
       "sub_source": "Zenn",
       "title": ".NET にも build.cs 欲しいんじゃーーー",
       "url": "https://zenn.dev/sator_imaging/articles/c10d8da7685308",
-      "score": 1,
+      "score": 2,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 05 Nov 2026 13:05:08 GMT",
-      "hatena_count": 1
+      "hatena_count": 2
     },
     {
       "id": "zenn-e63e8b6cc4",
@@ -5676,13 +5676,13 @@
       "sub_source": "Zenn",
       "title": "バイブコーディングで機能を継ぎ足していて見えてきたClaudeCodeの実装のクセ",
       "url": "https://zenn.dev/uguisu_blog/articles/45d1f446ece415",
-      "score": 84,
+      "score": 85,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 03 Nov 2026 03:30:05 GMT",
-      "hatena_count": 84
+      "hatena_count": 85
     },
     {
       "id": "zenn-43bee14924",
@@ -6703,7 +6703,7 @@
         "Zenn"
       ],
       "date": "Tue, 27 Oct 2026 11:00:05 GMT",
-      "hatena_count": 131
+      "hatena_count": 132
     },
     {
       "id": "zenn-5b89b475c2",
