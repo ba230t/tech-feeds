@@ -1,7 +1,21 @@
 {
-  "updated_at": "2026-11-06T20:05:37.632357+00:00",
+  "updated_at": "2026-11-06T20:33:28.566251+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "qiita-33919872f5",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "耳で聞く！Python で学ぶ マクロ経済学 入門 全40回総復習",
+      "url": "https://qiita.com/maskot1977/items/1580f010f2a43225c0f7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-06T18:46:19+09:00",
+      "hatena_count": 0
+    },
     {
       "id": "qiita-c390033e8a",
       "source": "sns",
@@ -14,6 +28,34 @@
         "Qiita"
       ],
       "date": "2026-11-06T16:28:29+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-31b5a5b6a9",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "Claude Certified Developer - Foundations (CCDV-F) 昨日受けてきました。【日本語受験】",
+      "url": "https://qiita.com/takeshi_Qiita/items/f8298084825898921cb4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-06T16:20:39+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-f2124d9857",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "【覚書】テナント管理者ロールがない状態で Copilot Studio の従量課金環境を構成する",
+      "url": "https://qiita.com/ryoma-nagata/items/fc016f8d949191947384?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-06T15:47:19+09:00",
       "hatena_count": 0
     },
     {
@@ -56,6 +98,20 @@
         "Qiita"
       ],
       "date": "2026-11-06T12:09:39+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-563c075b76",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "AgentCore Runtime と Bedrock ガードレールを使ったアプリで機密情報がどのログに残るのか調べてみた",
+      "url": "https://qiita.com/takeda_h/items/704ce614cc51f67b863c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-06T10:18:52+09:00",
       "hatena_count": 0
     },
     {
@@ -171,6 +227,20 @@
       "hatena_count": 0
     },
     {
+      "id": "qiita-53d89a4f8e",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "M365 Copilot Agent BuilderにSKILL.mdを登録してみた",
+      "url": "https://qiita.com/rhaya/items/2ea7620235c7199db852?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-05T15:48:25+09:00",
+      "hatena_count": 0
+    },
+    {
       "id": "qiita-3157a82b2d",
       "source": "sns",
       "sub_source": "Qiita",
@@ -196,6 +266,20 @@
         "Qiita"
       ],
       "date": "2026-11-05T13:52:55+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-3968ec5cf8",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "Claude Code の CLAUDE.md / rules / skills / commands / hooks を使い分ける",
+      "url": "https://qiita.com/taquangku/items/cb89818a44f11d92e4ce?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-05T13:35:47+09:00",
       "hatena_count": 0
     },
     {
@@ -7027,91 +7111,6 @@
       ],
       "date": "Fri, 30 Oct 2026 00:55:31 GMT",
       "hatena_count": 44
-    },
-    {
-      "id": "zenn-d91598a4c5",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Expo アプリを iPhone Duo に対応させる",
-      "url": "https://zenn.dev/chot/articles/5718685fde3626",
-      "score": 1,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 29 Oct 2026 03:38:52 GMT",
-      "hatena_count": 1
-    },
-    {
-      "id": "zenn-5663499ab5",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "デバッグコードを脆弱性にしない方法",
-      "url": "https://zenn.dev/yasuakiomokawa/articles/5a7188483acfe7",
-      "score": 1,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 29 Oct 2026 11:30:33 GMT",
-      "severity": "high",
-      "hatena_count": 1
-    },
-    {
-      "id": "zenn-a31548fdaf",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "ローカルLLMは本当に騒がれてるほどか？ Qwen3.8-Flash-Nextの4bit版を家で動かして確かめた",
-      "url": "https://zenn.dev/yumeno/articles/strata-flash-next-iq4xs-80gb",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 29 Oct 2026 10:12:20 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-226acb4599",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "ViewModelのありがたみを改めて考えてみる",
-      "url": "https://zenn.dev/schottman13/articles/4471c3657715f2",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 29 Oct 2026 06:10:15 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-93c2282baa",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Kaigi on Rails で聞いた Local CI を試して、見送った話",
-      "url": "https://zenn.dev/my_vision/articles/b46011780a6090",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 28 Oct 2026 08:56:01 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-4afaa72b68",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "人間が見るのは設計書だけ ― PdM不在・バグ修正中心のチームで、AI-DLCを開発フローごと作り直した話",
-      "url": "https://zenn.dev/canly/articles/85dc645c252832",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 28 Oct 2026 07:55:08 GMT",
-      "hatena_count": 0
     }
   ]
 }
