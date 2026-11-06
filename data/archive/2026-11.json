@@ -77,13 +77,13 @@
       "sub_source": "Zenn",
       "title": "AIが書く「読みづらいADR」に発狂しかけたので、ADRのガイドラインを作った",
       "url": "https://zenn.dev/tokium_dev/articles/adr-authoring-guideline",
-      "score": 181,
+      "score": 182,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 02 Nov 2026 06:00:05 GMT",
-      "hatena_count": 181
+      "hatena_count": 182
     },
     {
       "id": "zenn-60cec5a308",
@@ -203,13 +203,13 @@
       "sub_source": "Zenn",
       "title": "ADRをregoでlintする",
       "url": "https://zenn.dev/babarot/articles/regomark-adr-checker",
-      "score": 69,
+      "score": 70,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 03 Nov 2026 07:59:33 GMT",
-      "hatena_count": 69
+      "hatena_count": 70
     },
     {
       "id": "zenn-1ef417e2bf",
@@ -273,13 +273,13 @@
       "sub_source": "Zenn",
       "title": "集約をどこまで機械的に導けるか――形式手法をベースとしたドメインモデリング",
       "url": "https://zenn.dev/nrs/articles/33ba79c8b2542e",
-      "score": 22,
+      "score": 23,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 04 Nov 2026 11:54:39 GMT",
-      "hatena_count": 22
+      "hatena_count": 23
     },
     {
       "id": "ipa-ee45d6bd49",
