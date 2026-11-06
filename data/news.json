@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T04:06:25.292363+00:00",
+  "updated_at": "2026-11-06T04:33:22.823707+00:00",
   "count": 500,
   "items": [
     {
@@ -4971,7 +4971,7 @@
       "source": "ipa",
       "title": "不正アクセスによる漏えい等の事案を踏まえ、速やかに実施すべき対策等について",
       "url": "https://www.ipa.go.jp/security/security-alert/2026/alert20261009.html",
-      "score": 514,
+      "score": 515,
       "author": "IPA",
       "tags": [
         "IPA",
@@ -4979,7 +4979,7 @@
       ],
       "severity": "medium",
       "date": "2026-10-09T00:00:00+09:00",
-      "hatena_count": 514
+      "hatena_count": 515
     },
     {
       "id": "ipa-285b7532c9",
@@ -5237,17 +5237,17 @@
       "hatena_count": 1
     },
     {
-      "id": "zenn-f72fe248b7",
+      "id": "zenn-93901d4794",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "AWSでデータレイクハウスを構築してApache Icebergの更新・履歴管理を検証した",
-      "url": "https://zenn.dev/kkoch5t2/articles/aws-iceberg-lakehouse-lab",
+      "title": "学祭のシフト作りを自動化した話 実装編：Apps Script で選んだ設計の判断 9 個",
+      "url": "https://zenn.dev/jun_eg/articles/school-festival-shift-apps-script-impl",
       "score": 0,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Thu, 05 Nov 2026 17:56:30 GMT",
+      "date": "Fri, 06 Nov 2026 00:30:49 GMT",
       "hatena_count": 0
     },
     {
@@ -5265,6 +5265,20 @@
       "hatena_count": 2
     },
     {
+      "id": "zenn-a8709948a7",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "OpenAPI Hono というライブラリを作りました",
+      "url": "https://zenn.dev/mini_bg_pro_n/articles/cd79010b1d1b9c",
+      "score": 1,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 05 Nov 2026 12:32:53 GMT",
+      "hatena_count": 1
+    },
+    {
       "id": "zenn-e63e8b6cc4",
       "source": "sns",
       "sub_source": "Zenn",
@@ -5276,6 +5290,20 @@
         "Zenn"
       ],
       "date": "Thu, 05 Nov 2026 11:54:56 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-2d6bfe8cb8",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "【.NET 11】SafeFileHandleの新規APIでハマった点について",
+      "url": "https://zenn.dev/prozolic/articles/f74a9711a6a22c",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 05 Nov 2026 11:52:20 GMT",
       "hatena_count": 0
     },
     {
@@ -5307,6 +5335,20 @@
       "hatena_count": 0
     },
     {
+      "id": "zenn-a538ffe078",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "[TypeScript] パスエイリアスには Subpath Imports を使いたい",
+      "url": "https://zenn.dev/mediba/articles/167e2a3f663889",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 05 Nov 2026 07:00:05 GMT",
+      "hatena_count": 0
+    },
+    {
       "id": "zenn-6fb8902d34",
       "source": "sns",
       "sub_source": "Zenn",
@@ -5318,6 +5360,20 @@
         "Zenn"
       ],
       "date": "Thu, 05 Nov 2026 05:42:04 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-7ff0e80bf8",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "週刊Cloudflare - 2026/11/01週",
+      "url": "https://zenn.dev/gemcook/articles/weekly-cloudflare_2026_1025-1031",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 05 Nov 2026 05:00:06 GMT",
       "hatena_count": 0
     },
     {
@@ -5349,20 +5405,6 @@
       "hatena_count": 2
     },
     {
-      "id": "zenn-0418c167a0",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "git archive とハッシュ一覧の照合で、本番の手修正を上書きしないデプロイスクリプトを作る",
-      "url": "https://zenn.dev/airiell/articles/git-archive-manifest-deploy",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 05 Nov 2026 00:51:35 GMT",
-      "hatena_count": 0
-    },
-    {
       "id": "zenn-b98fe6ce77",
       "source": "sns",
       "sub_source": "Zenn",
@@ -5375,20 +5417,6 @@
       ],
       "date": "Wed, 04 Nov 2026 11:54:39 GMT",
       "hatena_count": 23
-    },
-    {
-      "id": "zenn-4a9d80bff3",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "AIルールだけでは守られない規約を、自作lintで縛るようにした",
-      "url": "https://zenn.dev/zoma/articles/72011082f2b1b7",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 04 Nov 2026 09:50:05 GMT",
-      "hatena_count": 0
     },
     {
       "id": "zenn-5dadf3a05b",
@@ -5417,20 +5445,6 @@
       ],
       "date": "Wed, 04 Nov 2026 02:30:07 GMT",
       "hatena_count": 33
-    },
-    {
-      "id": "zenn-10287d6da9",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "ISUCON2026で126,634点でした",
-      "url": "https://zenn.dev/o8n/articles/isucon2026-app-agent-retrospective",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 04 Nov 2026 01:46:01 GMT",
-      "hatena_count": 0
     },
     {
       "id": "zenn-d2dd7eb267",
@@ -5501,20 +5515,6 @@
       ],
       "date": "Mon, 02 Nov 2026 06:00:05 GMT",
       "hatena_count": 182
-    },
-    {
-      "id": "zenn-9b1348f0a8",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "日本の全法令を git の履歴にしてみた",
-      "url": "https://zenn.dev/koheiwada/articles/houritsu-japanese-laws-as-git",
-      "score": 361,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 01 Nov 2026 03:36:05 GMT",
-      "hatena_count": 361
     },
     {
       "id": "techracho-3ff1a08033",
@@ -5665,6 +5665,76 @@
       ],
       "date": "Mon, 19 Oct 2026 08:30:12 +0000",
       "hatena_count": 1
+    },
+    {
+      "id": "zenn-f72fe248b7",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "AWSでデータレイクハウスを構築してApache Icebergの更新・履歴管理を検証した",
+      "url": "https://zenn.dev/kkoch5t2/articles/aws-iceberg-lakehouse-lab",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 05 Nov 2026 17:56:30 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-0418c167a0",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "git archive とハッシュ一覧の照合で、本番の手修正を上書きしないデプロイスクリプトを作る",
+      "url": "https://zenn.dev/airiell/articles/git-archive-manifest-deploy",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 05 Nov 2026 00:51:35 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-4a9d80bff3",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "AIルールだけでは守られない規約を、自作lintで縛るようにした",
+      "url": "https://zenn.dev/zoma/articles/72011082f2b1b7",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 04 Nov 2026 09:50:05 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-10287d6da9",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "ISUCON2026で126,634点でした",
+      "url": "https://zenn.dev/o8n/articles/isucon2026-app-agent-retrospective",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 04 Nov 2026 01:46:01 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-9b1348f0a8",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "日本の全法令を git の履歴にしてみた",
+      "url": "https://zenn.dev/koheiwada/articles/houritsu-japanese-laws-as-git",
+      "score": 361,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 01 Nov 2026 03:36:05 GMT",
+      "hatena_count": 361
     },
     {
       "id": "zenn-36e9e43ea3",
@@ -7042,76 +7112,6 @@
         "Zenn"
       ],
       "date": "Tue, 27 Oct 2026 09:47:14 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-a04b0ea286",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Jevに問い合わせメッセージを仕分けてもらう",
-      "url": "https://zenn.dev/chot/articles/980c44e5a19736",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 27 Oct 2026 03:00:16 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-60046c7e35",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "新時代のE2Eテスト、TesterArmyのe2eをReact Nativeアプリに導入してみた",
-      "url": "https://zenn.dev/tellernovel_inc/articles/testerarmy-e2e-react-native",
-      "score": 1,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 27 Oct 2026 08:23:20 GMT",
-      "hatena_count": 3
-    },
-    {
-      "id": "zenn-b923cd5e7c",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "AAIF に加わった Open Responses を Amazon Bedrock で試す",
-      "url": "https://zenn.dev/exwzd/articles/20261023-open-responses",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 27 Oct 2026 06:52:28 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-fc4ed1dce6",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Kiro から Backlog・Chat・ドライブを横断検索できるようにしてみた（公式MCP）",
-      "url": "https://zenn.dev/senuma/articles/588fb50a8f56ce",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 27 Oct 2026 06:28:21 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-ecf3f123b9",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "AIに良いコードを書かせる前に、「良い設計」を言語化する",
-      "url": "https://zenn.dev/dely_jp/articles/f1fbefd7ffdfea",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 27 Oct 2026 05:22:42 GMT",
       "hatena_count": 0
     }
   ]

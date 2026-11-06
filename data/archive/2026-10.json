@@ -34,7 +34,7 @@
       "source": "ipa",
       "title": "不正アクセスによる漏えい等の事案を踏まえ、速やかに実施すべき対策等について",
       "url": "https://www.ipa.go.jp/security/security-alert/2026/alert20261009.html",
-      "score": 514,
+      "score": 515,
       "author": "IPA",
       "tags": [
         "IPA",
@@ -42,7 +42,7 @@
       ],
       "severity": "medium",
       "date": "2026-10-09T00:00:00+09:00",
-      "hatena_count": 514
+      "hatena_count": 515
     },
     {
       "id": "ipa-6e5c697bce",
