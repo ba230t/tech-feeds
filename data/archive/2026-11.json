@@ -156,6 +156,20 @@
       "hatena_count": 106
     },
     {
+      "id": "zenn-f7880dbf50",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "[破壊的変更] 明治時代の開始日が変更になって単体テストが失敗した件",
+      "url": "https://zenn.dev/xin9le/articles/9a1cf8e10494d6",
+      "score": 90,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 06 Nov 2026 14:39:45 GMT",
+      "hatena_count": 90
+    },
+    {
       "id": "zenn-6417939ef5",
       "source": "sns",
       "sub_source": "Zenn",
@@ -196,20 +210,6 @@
       ],
       "date": "Tue, 03 Nov 2026 07:59:33 GMT",
       "hatena_count": 70
-    },
-    {
-      "id": "zenn-f7880dbf50",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "[破壊的変更] 明治時代の開始日が変更になって単体テストが失敗した件",
-      "url": "https://zenn.dev/xin9le/articles/9a1cf8e10494d6",
-      "score": 47,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 06 Nov 2026 14:39:45 GMT",
-      "hatena_count": 76
     },
     {
       "id": "zenn-1ef417e2bf",
