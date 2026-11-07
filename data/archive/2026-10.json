@@ -64,7 +64,7 @@
       "source": "ipa",
       "title": "Oracle Java の脆弱性対策について(2026年10月)",
       "url": "https://www.ipa.go.jp/security/security-alert/2026/1021-jre.html",
-      "score": 22,
+      "score": 21,
       "author": "IPA",
       "tags": [
         "IPA",
@@ -72,7 +72,7 @@
       ],
       "severity": "medium",
       "date": "2026-10-21T00:00:00+09:00",
-      "hatena_count": 22
+      "hatena_count": 21
     },
     {
       "id": "jpcert-30cd0d7475",

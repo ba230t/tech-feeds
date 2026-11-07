@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T11:04:21.154228+00:00",
+  "updated_at": "2026-11-07T11:33:21.180078+00:00",
   "count": 500,
   "items": [
     {
@@ -5387,7 +5387,7 @@
       "source": "ipa",
       "title": "Oracle Java の脆弱性対策について(2026年10月)",
       "url": "https://www.ipa.go.jp/security/security-alert/2026/1021-jre.html",
-      "score": 22,
+      "score": 21,
       "author": "IPA",
       "tags": [
         "IPA",
@@ -5395,7 +5395,7 @@
       ],
       "severity": "medium",
       "date": "2026-10-21T00:00:00+09:00",
-      "hatena_count": 22
+      "hatena_count": 21
     },
     {
       "id": "jpcert-0593ec9b1b",
@@ -5713,6 +5713,20 @@
       "hatena_count": 1
     },
     {
+      "id": "zenn-be7a324371",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "シン・ウルトラモード",
+      "url": "https://zenn.dev/aws_japan/articles/kiro-crew-ultra-mode",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 07 Nov 2026 01:09:30 GMT",
+      "hatena_count": 0
+    },
+    {
       "id": "zenn-f6f7ea13a9",
       "source": "sns",
       "sub_source": "Zenn",
@@ -5774,27 +5788,13 @@
       "sub_source": "Zenn",
       "title": "タスク管理までAIエージェントに任せたら、確認待ちに答えるだけになった",
       "url": "https://zenn.dev/rescuenow/articles/4c03a548cd6589",
-      "score": 33,
+      "score": 47,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 06 Nov 2026 08:59:24 GMT",
-      "hatena_count": 33
-    },
-    {
-      "id": "zenn-120e5ef58b",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "ネットワークインフラ系イベント年間カレンダ (その2)",
-      "url": "https://zenn.dev/nanakanok/articles/06a8cf51a8663f",
-      "score": 1,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 06 Nov 2026 05:39:53 GMT",
-      "hatena_count": 1
+      "hatena_count": 47
     },
     {
       "id": "zenn-eff3efd428",
@@ -5823,6 +5823,20 @@
       ],
       "date": "Fri, 06 Nov 2026 03:01:26 GMT",
       "hatena_count": 1
+    },
+    {
+      "id": "zenn-929461ab59",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Security Hub の SBOM インベントリで、Athena を使わずに組織全体のソフトウェアを調べてみた",
+      "url": "https://zenn.dev/cscloud_blog/articles/securityhub-sbom-inventory",
+      "score": 2,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 06 Nov 2026 00:00:00 GMT",
+      "hatena_count": 2
     },
     {
       "id": "zenn-6972a4d1df",
@@ -5893,20 +5907,6 @@
       ],
       "date": "Wed, 04 Nov 2026 11:54:39 GMT",
       "hatena_count": 23
-    },
-    {
-      "id": "zenn-5dadf3a05b",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "SigLIP2に匹敵する画像エンコーダーをフルスクラッチで開発した話",
-      "url": "https://zenn.dev/noetra_techblog/articles/0cea39ce67d2c2",
-      "score": 2,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 04 Nov 2026 05:42:59 GMT",
-      "hatena_count": 2
     },
     {
       "id": "zenn-803b95cb07",
@@ -6143,17 +6143,31 @@
       "hatena_count": 1
     },
     {
-      "id": "zenn-929461ab59",
+      "id": "zenn-120e5ef58b",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "Security Hub の SBOM インベントリで、Athena を使わずに組織全体のソフトウェアを調べてみた",
-      "url": "https://zenn.dev/cscloud_blog/articles/securityhub-sbom-inventory",
+      "title": "ネットワークインフラ系イベント年間カレンダ (その2)",
+      "url": "https://zenn.dev/nanakanok/articles/06a8cf51a8663f",
+      "score": 1,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 06 Nov 2026 05:39:53 GMT",
+      "hatena_count": 1
+    },
+    {
+      "id": "zenn-5dadf3a05b",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "SigLIP2に匹敵する画像エンコーダーをフルスクラッチで開発した話",
+      "url": "https://zenn.dev/noetra_techblog/articles/0cea39ce67d2c2",
       "score": 2,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Fri, 06 Nov 2026 00:00:00 GMT",
+      "date": "Wed, 04 Nov 2026 05:42:59 GMT",
       "hatena_count": 2
     },
     {
@@ -7096,20 +7110,6 @@
       ],
       "date": "Sun, 01 Nov 2026 06:53:45 GMT",
       "hatena_count": 0
-    },
-    {
-      "id": "zenn-cbbebf50dc",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "人間がコードを読まずにPRをマージする技術 ─ それでも、品質は手放さない",
-      "url": "https://zenn.dev/karamage/articles/ac71f1c89c73ff",
-      "score": 2,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 29 Oct 2026 08:26:16 GMT",
-      "hatena_count": 2
     }
   ]
 }
