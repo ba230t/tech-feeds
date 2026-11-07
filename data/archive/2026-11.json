@@ -10,7 +10,7 @@
   },
   "severity_counts": {
     "info": 14,
-    "high": 3,
+    "high": 4,
     "medium": 1
   },
   "top_articles": [
@@ -118,13 +118,13 @@
       "sub_source": "Zenn",
       "title": "タスク管理までAIエージェントに任せたら、確認待ちに答えるだけになった",
       "url": "https://zenn.dev/rescuenow/articles/4c03a548cd6589",
-      "score": 87,
+      "score": 90,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 06 Nov 2026 08:59:24 GMT",
-      "hatena_count": 87
+      "hatena_count": 90
     },
     {
       "id": "zenn-6417939ef5",
@@ -212,6 +212,21 @@
       "hatena_count": 21
     },
     {
+      "id": "zenn-8b3c2a1b8b",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Cloudflare Zero Wire × GitHub Actions × Claude で公開サーバーの脆弱性チェックを自動化",
+      "url": "https://zenn.dev/tomipetit/articles/zero-wire-github-actions",
+      "score": 19,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 07 Nov 2026 06:44:47 GMT",
+      "severity": "high",
+      "hatena_count": 19
+    },
+    {
       "id": "zenn-f6f7ea13a9",
       "source": "sns",
       "sub_source": "Zenn",
@@ -281,24 +296,24 @@
       ],
       "date": "Thu, 05 Nov 2026 08:30:46 +0000",
       "hatena_count": 3
-    },
-    {
-      "id": "techracho-9300f8dd2f",
-      "source": "techracho",
-      "title": "RailsのコードをRactorセーフにするリファクタリングパターン集（翻訳）",
-      "url": "https://techracho.bpsinc.jp/hachi8833/2026_10_29/160778",
-      "score": 3,
-      "author": "Techracho",
-      "tags": [
-        "Ruby",
-        "Rails",
-        "日本語"
-      ],
-      "date": "Thu, 29 Oct 2026 08:30:36 +0000",
-      "hatena_count": 3
     }
   ],
   "security_highlights": [
+    {
+      "id": "zenn-8b3c2a1b8b",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Cloudflare Zero Wire × GitHub Actions × Claude で公開サーバーの脆弱性チェックを自動化",
+      "url": "https://zenn.dev/tomipetit/articles/zero-wire-github-actions",
+      "score": 19,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 07 Nov 2026 06:44:47 GMT",
+      "severity": "high",
+      "hatena_count": 19
+    },
     {
       "id": "jpcert-6c9fd472e0",
       "source": "jpcert",

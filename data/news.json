@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T23:04:19.000707+00:00",
+  "updated_at": "2026-11-07T23:33:19.882020+00:00",
   "count": 500,
   "items": [
     {
@@ -5825,17 +5825,32 @@
       "hatena_count": 1
     },
     {
-      "id": "zenn-be7a324371",
+      "id": "zenn-8b3c2a1b8b",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "シン・ウルトラモード",
-      "url": "https://zenn.dev/aws_japan/articles/kiro-crew-ultra-mode",
+      "title": "Cloudflare Zero Wire × GitHub Actions × Claude で公開サーバーの脆弱性チェックを自動化",
+      "url": "https://zenn.dev/tomipetit/articles/zero-wire-github-actions",
+      "score": 19,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 07 Nov 2026 06:44:47 GMT",
+      "severity": "high",
+      "hatena_count": 19
+    },
+    {
+      "id": "zenn-c1a415c8f8",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "goda-pm.vim: goda.vim のためのプラグインマネージャー",
+      "url": "https://zenn.dev/shougo/articles/goda-pm-vim-beta",
       "score": 0,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Sat, 07 Nov 2026 01:09:30 GMT",
+      "date": "Sat, 07 Nov 2026 04:46:13 GMT",
       "hatena_count": 0
     },
     {
@@ -5867,20 +5882,6 @@
       "hatena_count": 142
     },
     {
-      "id": "zenn-e36499695a",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "ISUCON 2026参加記",
-      "url": "https://zenn.dev/smasui/articles/1e38c0d5881ac9",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 06 Nov 2026 11:39:40 GMT",
-      "hatena_count": 0
-    },
-    {
       "id": "zenn-07750019f1",
       "source": "sns",
       "sub_source": "Zenn",
@@ -5900,13 +5901,13 @@
       "sub_source": "Zenn",
       "title": "タスク管理までAIエージェントに任せたら、確認待ちに答えるだけになった",
       "url": "https://zenn.dev/rescuenow/articles/4c03a548cd6589",
-      "score": 87,
+      "score": 90,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 06 Nov 2026 08:59:24 GMT",
-      "hatena_count": 87
+      "hatena_count": 90
     },
     {
       "id": "zenn-eff3efd428",
@@ -5921,6 +5922,20 @@
       ],
       "date": "Fri, 06 Nov 2026 05:13:04 GMT",
       "hatena_count": 2
+    },
+    {
+      "id": "zenn-f5bcc733b3",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "米津玄師に学ぶ：一人で全部作れる時代に、なぜ人と作るのか",
+      "url": "https://zenn.dev/tokium_dev/articles/yonezu-kenshi-why-create-with-others",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 06 Nov 2026 04:08:37 GMT",
+      "hatena_count": 0
     },
     {
       "id": "zenn-aea484c117",
@@ -5977,20 +5992,6 @@
       ],
       "date": "Thu, 05 Nov 2026 13:05:08 GMT",
       "hatena_count": 2
-    },
-    {
-      "id": "zenn-e63e8b6cc4",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Slurm は Kaggle で役に立つ",
-      "url": "https://zenn.dev/pomcho555/articles/c455d086ec47af",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 05 Nov 2026 11:54:56 GMT",
-      "hatena_count": 0
     },
     {
       "id": "zenn-a538ffe078",
@@ -6253,6 +6254,48 @@
       ],
       "date": "Mon, 19 Oct 2026 08:30:12 +0000",
       "hatena_count": 1
+    },
+    {
+      "id": "zenn-be7a324371",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "シン・ウルトラモード",
+      "url": "https://zenn.dev/aws_japan/articles/kiro-crew-ultra-mode",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 07 Nov 2026 01:09:30 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-e36499695a",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "ISUCON 2026参加記",
+      "url": "https://zenn.dev/smasui/articles/1e38c0d5881ac9",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 06 Nov 2026 11:39:40 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-e63e8b6cc4",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Slurm は Kaggle で役に立つ",
+      "url": "https://zenn.dev/pomcho555/articles/c455d086ec47af",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 05 Nov 2026 11:54:56 GMT",
+      "hatena_count": 0
     },
     {
       "id": "zenn-120e5ef58b",
@@ -7067,48 +7110,6 @@
       ],
       "date": "Sun, 01 Nov 2026 04:39:46 GMT",
       "hatena_count": 0
-    },
-    {
-      "id": "zenn-1c889e9429",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "ISUCONに初めて出たら、直すたびに次のボトルネックが出てきて、超面白かった",
-      "url": "https://zenn.dev/paraponera/articles/2026-10-31-isucon-2026-isureal",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 31 Oct 2026 12:17:24 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-dafe6c3a28",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Cloudflare Workers を触ってみた",
-      "url": "https://zenn.dev/atware/articles/ec1dfd799289b7",
-      "score": 2,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 30 Oct 2026 05:01:51 GMT",
-      "hatena_count": 2
-    },
-    {
-      "id": "zenn-918b8ad880",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "ローカルLLMはどんな業務で使えるのか？ DGX Spark + DeepSeek V4-FlashのSlackチャットボットを評価した",
-      "url": "https://zenn.dev/sompojapan_dx/articles/05f34316118943",
-      "score": 1,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 02 Nov 2026 00:06:09 GMT",
-      "hatena_count": 1
     }
   ]
 }
