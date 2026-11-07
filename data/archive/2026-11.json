@@ -1,7 +1,7 @@
 {
   "month": "2026-11",
   "total_articles": 228,
-  "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (1件)**\n\n1. 今後のセキュリティの考え方\n\n**AI・機械学習動向 (4件)**\n\n1. AIが書く「読みづらいADR」に発狂しかけたので、ADRのガイドラインを作った\n\n2. AI の謎な説明文を直すスキル\n\n3. 3 人それぞれの Claude Code を Slack でつないで ISUCON2026 に参加した（207,039 点）\n\n4. OpenCode+Docker+GitHub Actionsで全自動AIペネトレーションテストはじめました\n\n**技術トレンド (5件)**\n\n1. ISUCON2026 で優勝しました（当日編）\n\n2. 日本の全法令を git の履歴にしてみた\n\n3. 最近の E2E 戦略（2026 年 10 月現在）\n\n4. コードを読まずにマージするために必要なこと\n\n5. [破壊的変更] 明治時代の開始日が変更になって単体テストが失敗した件",
+  "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (2件)**\n\n1. 今後のセキュリティの考え方\n\n2. いいから休め - Black October が終わる今、セキュリティエンジニアがやるべきこと\n\n**AI・機械学習動向 (4件)**\n\n1. AIが書く「読みづらいADR」に発狂しかけたので、ADRのガイドラインを作った\n\n2. AI の謎な説明文を直すスキル\n\n3. 3 人それぞれの Claude Code を Slack でつないで ISUCON2026 に参加した（207,039 点）\n\n4. OpenCode+Docker+GitHub Actionsで全自動AIペネトレーションテストはじめました\n\n**技術トレンド (4件)**\n\n1. ISUCON2026 で優勝しました（当日編）\n\n2. 日本の全法令を git の履歴にしてみた\n\n3. 最近の E2E 戦略（2026 年 10 月現在）\n\n4. コードを読まずにマージするために必要なこと",
   "source_counts": {
     "sns": 199,
     "jpcert": 15,
@@ -125,7 +125,7 @@
         "Zenn"
       ],
       "date": "Tue, 27 Oct 2026 11:00:05 GMT",
-      "hatena_count": 134
+      "hatena_count": 133
     },
     {
       "id": "zenn-d2dd7eb267",
@@ -142,20 +142,6 @@
       "hatena_count": 123
     },
     {
-      "id": "zenn-f7880dbf50",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "[破壊的変更] 明治時代の開始日が変更になって単体テストが失敗した件",
-      "url": "https://zenn.dev/xin9le/articles/9a1cf8e10494d6",
-      "score": 108,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 06 Nov 2026 14:39:45 GMT",
-      "hatena_count": 108
-    },
-    {
       "id": "zenn-47a83a0acf",
       "source": "sns",
       "sub_source": "Zenn",
@@ -168,6 +154,20 @@
       ],
       "date": "Wed, 28 Oct 2026 10:14:03 GMT",
       "hatena_count": 106
+    },
+    {
+      "id": "zenn-f7880dbf50",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "[破壊的変更] 明治時代の開始日が変更になって単体テストが失敗した件",
+      "url": "https://zenn.dev/xin9le/articles/9a1cf8e10494d6",
+      "score": 102,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 06 Nov 2026 14:39:45 GMT",
+      "hatena_count": 102
     },
     {
       "id": "zenn-6417939ef5",
