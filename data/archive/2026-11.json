@@ -77,13 +77,13 @@
       "sub_source": "Zenn",
       "title": "AIが書く「読みづらいADR」に発狂しかけたので、ADRのガイドラインを作った",
       "url": "https://zenn.dev/tokium_dev/articles/adr-authoring-guideline",
-      "score": 183,
+      "score": 184,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 02 Nov 2026 06:00:05 GMT",
-      "hatena_count": 183
+      "hatena_count": 184
     },
     {
       "id": "zenn-60cec5a308",
@@ -119,13 +119,13 @@
       "sub_source": "Zenn",
       "title": "[破壊的変更] 明治時代の開始日が変更になって単体テストが失敗した件",
       "url": "https://zenn.dev/xin9le/articles/9a1cf8e10494d6",
-      "score": 128,
+      "score": 130,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 06 Nov 2026 14:39:45 GMT",
-      "hatena_count": 128
+      "hatena_count": 130
     },
     {
       "id": "zenn-ed54cd5c88",
@@ -139,7 +139,7 @@
         "Zenn"
       ],
       "date": "Tue, 27 Oct 2026 11:00:05 GMT",
-      "hatena_count": 135
+      "hatena_count": 134
     },
     {
       "id": "zenn-d2dd7eb267",
@@ -203,13 +203,13 @@
       "sub_source": "Zenn",
       "title": "ADRをregoでlintする",
       "url": "https://zenn.dev/babarot/articles/regomark-adr-checker",
-      "score": 70,
+      "score": 71,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 03 Nov 2026 07:59:33 GMT",
-      "hatena_count": 70
+      "hatena_count": 71
     },
     {
       "id": "zenn-1ef417e2bf",
