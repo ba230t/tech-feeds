@@ -1,12 +1,12 @@
 {
   "month": "2026-11",
   "total_articles": 228,
-  "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (1件)**\n\n1. 今後のセキュリティの考え方\n\n**AI・機械学習動向 (4件)**\n\n1. AIが書く「読みづらいADR」に発狂しかけたので、ADRのガイドラインを作った\n\n2. AI の謎な説明文を直すスキル\n\n3. 3 人それぞれの Claude Code を Slack でつないで ISUCON2026 に参加した（207,039 点）\n\n4. OpenCode+Docker+GitHub Actionsで全自動AIペネトレーションテストはじめました\n\n**技術トレンド (5件)**\n\n1. ISUCON2026 で優勝しました（当日編）\n\n2. 日本の全法令を git の履歴にしてみた\n\n3. 最近の E2E 戦略（2026 年 10 月現在）\n\n4. [破壊的変更] 明治時代の開始日が変更になって単体テストが失敗した件\n\n5. コードを読まずにマージするために必要なこと",
+  "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (1件)**\n\n1. 今後のセキュリティの考え方\n\n**AI・機械学習動向 (4件)**\n\n1. AIが書く「読みづらいADR」に発狂しかけたので、ADRのガイドラインを作った\n\n2. 3 人それぞれの Claude Code を Slack でつないで ISUCON2026 に参加した（207,039 点）\n\n3. OpenCode+Docker+GitHub Actionsで全自動AIペネトレーションテストはじめました\n\n4. バイブコーディングで機能を継ぎ足していて見えてきたClaudeCodeの実装のクセ\n\n**技術トレンド (5件)**\n\n1. ISUCON2026 で優勝しました（当日編）\n\n2. 日本の全法令を git の履歴にしてみた\n\n3. [破壊的変更] 明治時代の開始日が変更になって単体テストが失敗した件\n\n4. コードを読まずにマージするために必要なこと\n\n5. GitHub Actions で checkout@v7 のようなバージョン指定を書くのはやめよう！ 時代は actions.lock！",
   "source_counts": {
-    "sns": 199,
+    "sns": 200,
     "jpcert": 15,
     "ipa": 1,
-    "techracho": 13
+    "techracho": 12
   },
   "severity_counts": {
     "info": 14,
@@ -58,20 +58,6 @@
       "hatena_count": 246
     },
     {
-      "id": "zenn-f64ba0d17d",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "最近の E2E 戦略（2026 年 10 月現在）",
-      "url": "https://zenn.dev/polyco/articles/26624b38c951b5",
-      "score": 195,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 26 Oct 2026 01:18:03 GMT",
-      "hatena_count": 199
-    },
-    {
       "id": "zenn-49fbe9e192",
       "source": "sns",
       "sub_source": "Zenn",
@@ -84,20 +70,6 @@
       ],
       "date": "Mon, 02 Nov 2026 06:00:05 GMT",
       "hatena_count": 184
-    },
-    {
-      "id": "zenn-60cec5a308",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "AI の謎な説明文を直すスキル",
-      "url": "https://zenn.dev/microsoft/articles/explain-before-shorten",
-      "score": 163,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 26 Oct 2026 04:32:54 GMT",
-      "hatena_count": 165
     },
     {
       "id": "zenn-4f504ab158",
@@ -154,20 +126,6 @@
       ],
       "date": "Wed, 04 Nov 2026 01:19:56 GMT",
       "hatena_count": 124
-    },
-    {
-      "id": "zenn-47a83a0acf",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "いいから休め - Black October が終わる今、セキュリティエンジニアがやるべきこと",
-      "url": "https://zenn.dev/nayuta/articles/aec9ab2e11a7b7",
-      "score": 107,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 28 Oct 2026 10:14:03 GMT",
-      "hatena_count": 106
     },
     {
       "id": "zenn-6417939ef5",
@@ -240,32 +198,18 @@
       "hatena_count": 37
     },
     {
-      "id": "zenn-3c60c695ec",
+      "id": "zenn-8d6f0721b5",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "WASIじゃない、もう一つのインターフェース「WALI」という提案",
-      "url": "https://zenn.dev/progate/articles/wali-webassembly-linux-interface",
-      "score": 36,
+      "title": "タスク管理までAIエージェントに任せたら、確認待ちに答えるだけになった",
+      "url": "https://zenn.dev/rescuenow/articles/4c03a548cd6589",
+      "score": 23,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Fri, 30 Oct 2026 00:45:50 GMT",
-      "hatena_count": 38
-    },
-    {
-      "id": "zenn-709ca78294",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "IVRyのSREの取り組み 2026冬",
-      "url": "https://zenn.dev/ivry/articles/70d4f05ce4ae5c",
-      "score": 29,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 30 Oct 2026 07:50:00 GMT",
-      "hatena_count": 30
+      "date": "Fri, 06 Nov 2026 08:59:24 GMT",
+      "hatena_count": 23
     },
     {
       "id": "zenn-b98fe6ce77",
@@ -295,6 +239,63 @@
       "severity": "medium",
       "date": "2026-11-02T00:00:00+09:00",
       "hatena_count": 21
+    },
+    {
+      "id": "zenn-bd2d2f6bd8",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "ISUCON2026 にツールを捨てて勝ちたかった",
+      "url": "https://zenn.dev/mazrean/articles/5c968503fd69a3",
+      "score": 14,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 01 Nov 2026 12:16:33 GMT",
+      "hatena_count": 14
+    },
+    {
+      "id": "zenn-c230c5b05d",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "高市総理のPHP投稿で何がうれしかったのか？今後の説得に使っていくよ～",
+      "url": "https://zenn.dev/tyamadadd/articles/36f975db1c41d8",
+      "score": 4,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 03 Nov 2026 10:35:09 GMT",
+      "hatena_count": 4
+    },
+    {
+      "id": "zenn-6972a4d1df",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "AI駆動文章作成において俺が意識しているテクニック集",
+      "url": "https://zenn.dev/ntk221/articles/34ad88a9225364",
+      "score": 3,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 05 Nov 2026 14:35:31 GMT",
+      "hatena_count": 3
+    },
+    {
+      "id": "techracho-3ff1a08033",
+      "source": "techracho",
+      "title": "Shopifyの Rubydex linter でRubyプロジェクトに構造的lintを導入しよう（翻訳）",
+      "url": "https://techracho.bpsinc.jp/hachi8833/2026_11_05/160032",
+      "score": 3,
+      "author": "Techracho",
+      "tags": [
+        "Ruby",
+        "Rails",
+        "日本語"
+      ],
+      "date": "Thu, 05 Nov 2026 08:30:46 +0000",
+      "hatena_count": 3
     }
   ],
   "security_highlights": [
