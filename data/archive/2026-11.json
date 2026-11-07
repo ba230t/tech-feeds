@@ -241,6 +241,20 @@
       "hatena_count": 21
     },
     {
+      "id": "zenn-f6f7ea13a9",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Weight-Space Programming やってみた(やらせてみた)",
+      "url": "https://zenn.dev/nwn/articles/cf9fe78aa33861",
+      "score": 14,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 07 Nov 2026 00:57:13 GMT",
+      "hatena_count": 14
+    },
+    {
       "id": "zenn-bd2d2f6bd8",
       "source": "sns",
       "sub_source": "Zenn",
@@ -253,20 +267,6 @@
       ],
       "date": "Sun, 01 Nov 2026 12:16:33 GMT",
       "hatena_count": 14
-    },
-    {
-      "id": "zenn-f6f7ea13a9",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Weight-Space Programming やってみた(やらせてみた)",
-      "url": "https://zenn.dev/nwn/articles/cf9fe78aa33861",
-      "score": 13,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 07 Nov 2026 00:57:13 GMT",
-      "hatena_count": 13
     },
     {
       "id": "zenn-c230c5b05d",
