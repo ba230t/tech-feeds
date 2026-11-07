@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T10:04:44.932240+00:00",
+  "updated_at": "2026-11-07T10:33:20.257909+00:00",
   "count": 500,
   "items": [
     {
@@ -5732,13 +5732,13 @@
       "sub_source": "Zenn",
       "title": "[破壊的変更] 明治時代の開始日が変更になって単体テストが失敗した件",
       "url": "https://zenn.dev/xin9le/articles/9a1cf8e10494d6",
-      "score": 134,
+      "score": 135,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 06 Nov 2026 14:39:45 GMT",
-      "hatena_count": 134
+      "hatena_count": 135
     },
     {
       "id": "zenn-e36499695a",
@@ -5774,13 +5774,13 @@
       "sub_source": "Zenn",
       "title": "タスク管理までAIエージェントに任せたら、確認待ちに答えるだけになった",
       "url": "https://zenn.dev/rescuenow/articles/4c03a548cd6589",
-      "score": 27,
+      "score": 33,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 06 Nov 2026 08:59:24 GMT",
-      "hatena_count": 27
+      "hatena_count": 33
     },
     {
       "id": "zenn-120e5ef58b",
@@ -6266,7 +6266,7 @@
         "Zenn"
       ],
       "date": "Wed, 04 Nov 2026 12:33:10 GMT",
-      "hatena_count": 1
+      "hatena_count": 2
     },
     {
       "id": "zenn-93901d4794",
