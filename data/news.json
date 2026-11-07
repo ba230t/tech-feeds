@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T04:06:12.453348+00:00",
+  "updated_at": "2026-11-07T04:33:31.909771+00:00",
   "count": 500,
   "items": [
     {
@@ -5517,6 +5517,20 @@
       "hatena_count": 1
     },
     {
+      "id": "zenn-f6f7ea13a9",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Weight-Space Programming やってみた(やらせてみた)",
+      "url": "https://zenn.dev/nwn/articles/cf9fe78aa33861",
+      "score": 1,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 07 Nov 2026 00:57:13 GMT",
+      "hatena_count": 1
+    },
+    {
       "id": "zenn-f7880dbf50",
       "source": "sns",
       "sub_source": "Zenn",
@@ -5529,6 +5543,20 @@
       ],
       "date": "Fri, 06 Nov 2026 14:39:45 GMT",
       "hatena_count": 119
+    },
+    {
+      "id": "zenn-e36499695a",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "ISUCON 2026参加記",
+      "url": "https://zenn.dev/smasui/articles/1e38c0d5881ac9",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 06 Nov 2026 11:39:40 GMT",
+      "hatena_count": 0
     },
     {
       "id": "zenn-07750019f1",
@@ -5559,6 +5587,20 @@
       "hatena_count": 3
     },
     {
+      "id": "zenn-120e5ef58b",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "ネットワークインフラ系イベント年間カレンダ (その2)",
+      "url": "https://zenn.dev/nanakanok/articles/06a8cf51a8663f",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 06 Nov 2026 05:39:53 GMT",
+      "hatena_count": 0
+    },
+    {
       "id": "zenn-eff3efd428",
       "source": "sns",
       "sub_source": "Zenn",
@@ -5585,20 +5627,6 @@
       ],
       "date": "Fri, 06 Nov 2026 03:01:26 GMT",
       "hatena_count": 1
-    },
-    {
-      "id": "zenn-929461ab59",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Security Hub の SBOM インベントリで、Athena を使わずに組織全体のソフトウェアを調べてみた",
-      "url": "https://zenn.dev/cscloud_blog/articles/securityhub-sbom-inventory",
-      "score": 2,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 06 Nov 2026 00:00:00 GMT",
-      "hatena_count": 2
     },
     {
       "id": "zenn-6972a4d1df",
@@ -5643,20 +5671,6 @@
       "hatena_count": 0
     },
     {
-      "id": "zenn-74ab9c76d2",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "AI生成コードを本番品質に保つためのフロントエンド開発の仕組み",
-      "url": "https://zenn.dev/sun_asterisk/articles/d4e4bc24974b99",
-      "score": 3,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 05 Nov 2026 09:00:55 GMT",
-      "hatena_count": 3
-    },
-    {
       "id": "zenn-a538ffe078",
       "source": "sns",
       "sub_source": "Zenn",
@@ -5669,20 +5683,6 @@
       ],
       "date": "Thu, 05 Nov 2026 07:00:05 GMT",
       "hatena_count": 0
-    },
-    {
-      "id": "zenn-74da8eec3a",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Xで積み重ねた日々をmixi2へ。過去ポストのインポート機能ができるまで",
-      "url": "https://zenn.dev/mixi/articles/bcf2363e83b0a2",
-      "score": 1,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 05 Nov 2026 04:29:39 GMT",
-      "hatena_count": 1
     },
     {
       "id": "zenn-b98fe6ce77",
@@ -5944,6 +5944,48 @@
         "日本語"
       ],
       "date": "Mon, 19 Oct 2026 08:30:12 +0000",
+      "hatena_count": 1
+    },
+    {
+      "id": "zenn-929461ab59",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Security Hub の SBOM インベントリで、Athena を使わずに組織全体のソフトウェアを調べてみた",
+      "url": "https://zenn.dev/cscloud_blog/articles/securityhub-sbom-inventory",
+      "score": 2,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 06 Nov 2026 00:00:00 GMT",
+      "hatena_count": 2
+    },
+    {
+      "id": "zenn-74ab9c76d2",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "AI生成コードを本番品質に保つためのフロントエンド開発の仕組み",
+      "url": "https://zenn.dev/sun_asterisk/articles/d4e4bc24974b99",
+      "score": 3,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 05 Nov 2026 09:00:55 GMT",
+      "hatena_count": 3
+    },
+    {
+      "id": "zenn-74da8eec3a",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Xで積み重ねた日々をmixi2へ。過去ポストのインポート機能ができるまで",
+      "url": "https://zenn.dev/mixi/articles/bcf2363e83b0a2",
+      "score": 1,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 05 Nov 2026 04:29:39 GMT",
       "hatena_count": 1
     },
     {
@@ -6843,7 +6885,7 @@
         "Zenn"
       ],
       "date": "Tue, 27 Oct 2026 11:00:05 GMT",
-      "hatena_count": 134
+      "hatena_count": 135
     },
     {
       "id": "zenn-5b89b475c2",
@@ -7068,48 +7110,6 @@
         "Zenn"
       ],
       "date": "Fri, 30 Oct 2026 21:19:58 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-879e7eda4a",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Claude Code 拡張機能のバックドア事件まとめ（2.1.312・2.1.313・Cursor のマーケットプレイス）",
-      "url": "https://zenn.dev/sonsu/articles/67fbd9a1cf8914",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 30 Oct 2026 18:30:00 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-51d92c4da8",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "NoSQLのスキーマ変更は読むときに受け止めよう",
-      "url": "https://zenn.dev/michiharu/articles/9562dfd249c8e3",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 30 Oct 2026 16:53:51 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-ee96241e36",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "TelegrafをARMv6で使う",
-      "url": "https://zenn.dev/nauh_blog/articles/3bf7430510d30a",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 30 Oct 2026 09:00:05 GMT",
       "hatena_count": 0
     }
   ]
