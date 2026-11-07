@@ -1,7 +1,77 @@
 {
-  "updated_at": "2026-11-07T20:05:04.878708+00:00",
+  "updated_at": "2026-11-07T20:33:05.866277+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "qiita-d51926efc0",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "Excel管理を見直す5つの兆候：運用で直す問題とシステム化する問題",
+      "url": "https://qiita.com/TechStudioLab/items/db058aab3207b115ed8f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-07T22:03:02+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-3fdcf91927",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "React学習過程整理tips(備考)",
+      "url": "https://qiita.com/polymetisoutis/items/9e6a8e16f11e7e8f834c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-07T20:14:30+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-ee5878e51e",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "Reactで学習記録アプリを作ってみた",
+      "url": "https://qiita.com/Tukirukiki/items/caf31e82f1fb28affa4c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-07T18:32:35+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-1474e3cfd4",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "【公式】Pyxel 3.0リリース！世界初（？）レトロ3Dゲームエンジン機能を搭載！",
+      "url": "https://qiita.com/kitao/items/af92619297d5563f2a0e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-07T18:11:57+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-75db3d9760",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "SSA ベースの .NET IL 最適化コンパイラーを作ってみた",
+      "url": "https://qiita.com/hez2010/items/70fe879c1a37379f020c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-07T16:25:48+09:00",
+      "hatena_count": 0
+    },
     {
       "id": "qiita-975f40bcfa",
       "source": "sns",
@@ -45,6 +115,20 @@
       "hatena_count": 0
     },
     {
+      "id": "qiita-e45b5cfe71",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "Gemini を主力エージェントから外して、Claude に移った（全 3 回）",
+      "url": "https://qiita.com/kassyi/items/c134f3b244368d913f09?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-07T02:04:24+09:00",
+      "hatena_count": 0
+    },
+    {
       "id": "qiita-c4b0118929",
       "source": "sns",
       "sub_source": "Qiita",
@@ -84,6 +168,20 @@
         "Qiita"
       ],
       "date": "2026-11-06T17:45:40+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-a9d9f17b07",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "「プロンプトを書くClaude」と「実装するClaude」を分けたら開発が回り始めた話",
+      "url": "https://qiita.com/kazutoyamaura/items/5a0874965d892a5acdb2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-06T17:34:33+09:00",
       "hatena_count": 0
     },
     {
@@ -168,6 +266,20 @@
         "Qiita"
       ],
       "date": "2026-11-06T15:47:19+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-552994cf26",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "種族値合計600以上のポケモンを返すAPIをクリーンアーキテクチャで作成した【TypeScript/Hono/Vitest/TDD/PokeAPI】",
+      "url": "https://qiita.com/keikeigo/items/937f993ba3bdafa4184c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-06T15:24:13+09:00",
       "hatena_count": 0
     },
     {
@@ -6997,119 +7109,6 @@
       ],
       "date": "Mon, 02 Nov 2026 00:06:09 GMT",
       "hatena_count": 1
-    },
-    {
-      "id": "zenn-cd291dcdde",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "ISUCON 2026 参加記",
-      "url": "https://zenn.dev/catatsuy/articles/159edffe202c0c",
-      "score": 1,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 01 Nov 2026 03:40:42 GMT",
-      "hatena_count": 1
-    },
-    {
-      "id": "zenn-9e8331269a",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "【最速解説】goda.vimでHello, worldする",
-      "url": "https://zenn.dev/comamoca/articles/2026-10-30-trying-hello-world-with-goda-vim",
-      "score": 1,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 31 Oct 2026 01:57:43 GMT",
-      "hatena_count": 1
-    },
-    {
-      "id": "zenn-bd31096d05",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "新卒1年目の駆け出しエンジニア2人で ISUCON2026 に出てみた",
-      "url": "https://zenn.dev/hazelnut_smnth/articles/3b5e5d38937841",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 31 Oct 2026 12:54:20 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-7934fc26b4",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "ISUCON2026に人間1人＋AIエージェント軍団で出て19.6万点、ループは閉じたけど中身が弱かった反省文😇",
-      "url": "https://zenn.dev/tak848/articles/20261031-isucon2026-writeup",
-      "score": 2,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 31 Oct 2026 10:53:26 GMT",
-      "hatena_count": 2
-    },
-    {
-      "id": "zenn-4a5a8c3dda",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "yoroによろしくぅ！Ai Workforce 事業部のリモートコーディングエージェント環境 yoro のご紹介",
-      "url": "https://zenn.dev/layerx/articles/a277f83a93d300",
-      "score": 3,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 30 Oct 2026 02:11:36 GMT",
-      "severity": "critical",
-      "hatena_count": 4
-    },
-    {
-      "id": "zenn-1ef417e2bf",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Flutter やめました。電話アプリを Native にした理由",
-      "url": "https://zenn.dev/ivry/articles/d155267331a3ca",
-      "score": 46,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 28 Oct 2026 02:39:36 GMT",
-      "hatena_count": 46
-    },
-    {
-      "id": "zenn-ed54cd5c88",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "コードを読まずにマージするために必要なこと",
-      "url": "https://zenn.dev/nrs/articles/c777388530aa84",
-      "score": 127,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 27 Oct 2026 11:00:05 GMT",
-      "hatena_count": 140
-    },
-    {
-      "id": "zenn-5b89b475c2",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "RAGが一度も効いていなかった話",
-      "url": "https://zenn.dev/ohgy/articles/ede0bdff101d76",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 01 Nov 2026 06:53:45 GMT",
-      "hatena_count": 0
     }
   ]
 }
