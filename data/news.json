@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T10:04:43.224819+00:00",
+  "updated_at": "2026-11-08T10:33:15.226614+00:00",
   "count": 500,
   "items": [
     {
@@ -6012,14 +6012,14 @@
       "sub_source": "Zenn",
       "title": "Cloudflare Zero Wire × GitHub Actions × Claude で公開サーバーの脆弱性チェックを自動化",
       "url": "https://zenn.dev/tomipetit/articles/zero-wire-github-actions",
-      "score": 193,
+      "score": 199,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sat, 07 Nov 2026 06:44:47 GMT",
       "severity": "high",
-      "hatena_count": 193
+      "hatena_count": 199
     },
     {
       "id": "zenn-be7a324371",
@@ -6083,13 +6083,13 @@
       "sub_source": "Zenn",
       "title": "Web 標準動向 2026年10月版",
       "url": "https://zenn.dev/cybozu_frontend/articles/web-standards-trends-202610",
-      "score": 1,
+      "score": 2,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 06 Nov 2026 09:08:06 GMT",
-      "hatena_count": 1
+      "hatena_count": 2
     },
     {
       "id": "zenn-8d6f0721b5",
@@ -6097,13 +6097,13 @@
       "sub_source": "Zenn",
       "title": "タスク管理までAIエージェントに任せたら、確認待ちに答えるだけになった",
       "url": "https://zenn.dev/rescuenow/articles/4c03a548cd6589",
-      "score": 95,
+      "score": 96,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 06 Nov 2026 08:59:24 GMT",
-      "hatena_count": 95
+      "hatena_count": 96
     },
     {
       "id": "zenn-eff3efd428",
@@ -6134,20 +6134,6 @@
       "hatena_count": 0
     },
     {
-      "id": "zenn-aea484c117",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "【.NET/Unity】C# の型制約とボックス化をハックする — IL と手動スタック配置",
-      "url": "https://zenn.dev/aakei/articles/csharp-stack-box",
-      "score": 1,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 06 Nov 2026 03:01:26 GMT",
-      "hatena_count": 1
-    },
-    {
       "id": "zenn-6972a4d1df",
       "source": "sns",
       "sub_source": "Zenn",
@@ -6174,6 +6160,20 @@
       ],
       "date": "Thu, 05 Nov 2026 13:05:08 GMT",
       "hatena_count": 2
+    },
+    {
+      "id": "zenn-e63e8b6cc4",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Slurm は Kaggle で役に立つ",
+      "url": "https://zenn.dev/pomcho555/articles/c455d086ec47af",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 05 Nov 2026 11:54:56 GMT",
+      "hatena_count": 0
     },
     {
       "id": "zenn-a538ffe078",
@@ -6438,6 +6438,20 @@
       "hatena_count": 1
     },
     {
+      "id": "zenn-aea484c117",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "【.NET/Unity】C# の型制約とボックス化をハックする — IL と手動スタック配置",
+      "url": "https://zenn.dev/aakei/articles/csharp-stack-box",
+      "score": 1,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 06 Nov 2026 03:01:26 GMT",
+      "hatena_count": 1
+    },
+    {
       "id": "zenn-c1a415c8f8",
       "source": "sns",
       "sub_source": "Zenn",
@@ -6477,20 +6491,6 @@
         "Zenn"
       ],
       "date": "Fri, 06 Nov 2026 11:39:40 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-e63e8b6cc4",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Slurm は Kaggle で役に立つ",
-      "url": "https://zenn.dev/pomcho555/articles/c455d086ec47af",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 05 Nov 2026 11:54:56 GMT",
       "hatena_count": 0
     },
     {
