@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T07:33:35.842948+00:00",
+  "updated_at": "2026-11-08T08:06:28.297931+00:00",
   "count": 500,
   "items": [
     {
@@ -5830,14 +5830,14 @@
       "sub_source": "Zenn",
       "title": "Cloudflare Zero Wire × GitHub Actions × Claude で公開サーバーの脆弱性チェックを自動化",
       "url": "https://zenn.dev/tomipetit/articles/zero-wire-github-actions",
-      "score": 163,
+      "score": 175,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sat, 07 Nov 2026 06:44:47 GMT",
       "severity": "high",
-      "hatena_count": 163
+      "hatena_count": 175
     },
     {
       "id": "zenn-be7a324371",
@@ -6097,13 +6097,13 @@
       "sub_source": "Zenn",
       "title": "AIが書く「読みづらいADR」に発狂しかけたので、ADRのガイドラインを作った",
       "url": "https://zenn.dev/tokium_dev/articles/adr-authoring-guideline",
-      "score": 186,
+      "score": 187,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 02 Nov 2026 06:00:05 GMT",
-      "hatena_count": 186
+      "hatena_count": 187
     },
     {
       "id": "techracho-3ff1a08033",
@@ -6715,7 +6715,7 @@
         "Zenn"
       ],
       "date": "Fri, 30 Oct 2026 10:30:27 GMT",
-      "hatena_count": 247
+      "hatena_count": 246
     },
     {
       "id": "zenn-61d8c94181",
