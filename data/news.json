@@ -1,7 +1,93 @@
 {
-  "updated_at": "2026-11-08T20:04:53.250820+00:00",
+  "updated_at": "2026-11-08T20:33:16.341646+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "qiita-eabdafc557",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "部品の脆弱性は、どこまで広がるのか？ 主要 64 製品と 8 部品の依存関係をたどったら、OpenSSL は 20、SQLite は 16、PHP は 11 だった",
+      "url": "https://qiita.com/songchong/items/41a88eb41845af761b19?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-09T04:10:12+09:00",
+      "severity": "high",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-7c9ccf86e4",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "AIエージェントのための git worktree の使い方",
+      "url": "https://qiita.com/sf-12/items/34ddfb7d7f245085fb2b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-08T19:52:57+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-bea28d1486",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "【AWS初心者】AWSの基礎を学び、VPCとサブネットを作成してみた",
+      "url": "https://qiita.com/nt_a_yamada/items/e0d114eec727a23f8bec?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-08T18:34:56+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-a5ea1fc81b",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "脆弱性の情報は間に合っている？ 英語は 2 時間以内、悪用は 4 割が 1 日以内、日本語は中央値 4.6 日後。悪用された 74 件を調べて分かった",
+      "url": "https://qiita.com/songchong/items/b3c6c879f03f9bb665d3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-08T18:00:22+09:00",
+      "severity": "high",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-83f17927e1",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "【React】再レンダリングが起きるタイミングと memo / useCallback で防ぐ方法",
+      "url": "https://qiita.com/Tukirukiki/items/583d75fdee91bc129610?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-08T17:26:55+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-fa6bca7e95",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "JAWS FESTA 2026 in AKITA に参加できなかったので、資料だけでも見たい！と思ってまとめました！",
+      "url": "https://qiita.com/kurracchi_enj/items/ce0098bd28fa043c1e5f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-08T16:43:07+09:00",
+      "hatena_count": 0
+    },
     {
       "id": "qiita-758c9594dc",
       "source": "sns",
@@ -14,6 +100,20 @@
         "Qiita"
       ],
       "date": "2026-11-08T15:26:43+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-9a3f1af142",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "【AgentCore】エージェントのハンズオンをブラウザの中だけで完結させる教材を作った",
+      "url": "https://qiita.com/ryu-ki/items/a6cb026b2d3a54d175cc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-08T15:17:41+09:00",
       "hatena_count": 0
     },
     {
@@ -98,6 +198,20 @@
         "Qiita"
       ],
       "date": "2026-11-08T06:51:44+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-21df1c20d9",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "dots vs Muse",
+      "url": "https://qiita.com/enoshiman/items/7bbe521d2d094f4d3e81?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-08T01:24:19+09:00",
       "hatena_count": 0
     },
     {
@@ -266,6 +380,20 @@
         "Qiita"
       ],
       "date": "2026-11-07T00:31:24+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-9e094adccc",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "東京リージョンで使っていてもバージニア北部に依存しているもの",
+      "url": "https://qiita.com/yama3133/items/5416c243e14a5406dd6f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-06T22:18:11+09:00",
       "hatena_count": 0
     },
     {
@@ -6012,14 +6140,14 @@
       "sub_source": "Zenn",
       "title": "Cloudflare Zero Wire × GitHub Actions × Claude で公開サーバーの脆弱性チェックを自動化",
       "url": "https://zenn.dev/tomipetit/articles/zero-wire-github-actions",
-      "score": 221,
+      "score": 222,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sat, 07 Nov 2026 06:44:47 GMT",
       "severity": "high",
-      "hatena_count": 221
+      "hatena_count": 222
     },
     {
       "id": "zenn-be7a324371",
@@ -6982,132 +7110,6 @@
         "Zenn"
       ],
       "date": "Tue, 03 Nov 2026 14:13:12 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-9288e9b5eb",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Human-out-of-the-loop(もどき)で戦うISUCON2026 (301,558 点 | 12 位)",
-      "url": "https://zenn.dev/ponyo877/articles/2a8a24acc2ea3b",
-      "score": 2,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 02 Nov 2026 14:52:35 GMT",
-      "hatena_count": 2
-    },
-    {
-      "id": "zenn-dda79d10be",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "弊社がAIでPlaywrightテストコードを生成するために調整したこと",
-      "url": "https://zenn.dev/castingone_dev/articles/casone_playwright_for_claude",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 02 Nov 2026 02:58:52 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-a8999cdd4a",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Radeon VIIとUbuntu 26.04でROCmを動かし、Flash-NextをOpenCodeにつないだ",
-      "url": "https://zenn.dev/masanork/articles/radeon-vii-rocm-strata-opencode",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 03 Nov 2026 14:15:49 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-3d85d861eb",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "(備忘録) お名前.comからRoute 53へドメイン移管し、お名前メールをさくらのメールボックスへ移す",
-      "url": "https://zenn.dev/momura/articles/896dbde5e42491",
-      "score": 1,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 03 Nov 2026 09:56:38 GMT",
-      "hatena_count": 1
-    },
-    {
-      "id": "zenn-beeebffada",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Agent DX 〜 AI時代にフレームワークHonoは必要か",
-      "url": "https://zenn.dev/yusukebe/articles/3d3dc6605ca1b1",
-      "score": 2,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 01 Nov 2026 13:58:21 GMT",
-      "hatena_count": 2
-    },
-    {
-      "id": "zenn-bd2d2f6bd8",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "ISUCON2026 にツールを捨てて勝ちたかった",
-      "url": "https://zenn.dev/mazrean/articles/5c968503fd69a3",
-      "score": 14,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 01 Nov 2026 12:16:33 GMT",
-      "hatena_count": 14
-    },
-    {
-      "id": "zenn-3ee32aed16",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "ペイントツール上でニューラルネットワークを動かす",
-      "url": "https://zenn.dev/melville/articles/953aa2b41f674b",
-      "score": 1,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 31 Oct 2026 10:16:28 GMT",
-      "hatena_count": 1
-    },
-    {
-      "id": "zenn-2af9c0e930",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "1 人チームでKiro CLI とISUCON2026に参加した記録：エージェントに任せたこと、任せきれなかったこと",
-      "url": "https://zenn.dev/ndmxjp/articles/isucon2026-kiro-agent-ops",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 03 Nov 2026 06:33:45 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-5a2af32f86",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "学部生3人でISUCON2026に出て、最後に証拠より常識を選んで負けた話",
-      "url": "https://zenn.dev/enari_k/articles/b512e044ec9240",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 02 Nov 2026 07:00:35 GMT",
       "hatena_count": 0
     }
   ]

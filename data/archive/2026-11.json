@@ -9,8 +9,8 @@
     "techracho": 11
   },
   "severity_counts": {
+    "high": 6,
     "info": 14,
-    "high": 4,
     "medium": 1
   },
   "top_articles": [
@@ -62,14 +62,14 @@
       "sub_source": "Zenn",
       "title": "Cloudflare Zero Wire × GitHub Actions × Claude で公開サーバーの脆弱性チェックを自動化",
       "url": "https://zenn.dev/tomipetit/articles/zero-wire-github-actions",
-      "score": 221,
+      "score": 222,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sat, 07 Nov 2026 06:44:47 GMT",
       "severity": "high",
-      "hatena_count": 221
+      "hatena_count": 222
     },
     {
       "id": "zenn-49fbe9e192",
@@ -227,20 +227,6 @@
       "hatena_count": 21
     },
     {
-      "id": "zenn-bd2d2f6bd8",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "ISUCON2026 にツールを捨てて勝ちたかった",
-      "url": "https://zenn.dev/mazrean/articles/5c968503fd69a3",
-      "score": 14,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 01 Nov 2026 12:16:33 GMT",
-      "hatena_count": 14
-    },
-    {
       "id": "zenn-c230c5b05d",
       "source": "sns",
       "sub_source": "Zenn",
@@ -296,6 +282,21 @@
       ],
       "date": "Thu, 05 Nov 2026 08:30:46 +0000",
       "hatena_count": 3
+    },
+    {
+      "id": "techracho-9300f8dd2f",
+      "source": "techracho",
+      "title": "RailsのコードをRactorセーフにするリファクタリングパターン集（翻訳）",
+      "url": "https://techracho.bpsinc.jp/hachi8833/2026_10_29/160778",
+      "score": 3,
+      "author": "Techracho",
+      "tags": [
+        "Ruby",
+        "Rails",
+        "日本語"
+      ],
+      "date": "Thu, 29 Oct 2026 08:30:36 +0000",
+      "hatena_count": 3
     }
   ],
   "security_highlights": [
@@ -305,14 +306,44 @@
       "sub_source": "Zenn",
       "title": "Cloudflare Zero Wire × GitHub Actions × Claude で公開サーバーの脆弱性チェックを自動化",
       "url": "https://zenn.dev/tomipetit/articles/zero-wire-github-actions",
-      "score": 221,
+      "score": 222,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sat, 07 Nov 2026 06:44:47 GMT",
       "severity": "high",
-      "hatena_count": 221
+      "hatena_count": 222
+    },
+    {
+      "id": "qiita-eabdafc557",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "部品の脆弱性は、どこまで広がるのか？ 主要 64 製品と 8 部品の依存関係をたどったら、OpenSSL は 20、SQLite は 16、PHP は 11 だった",
+      "url": "https://qiita.com/songchong/items/41a88eb41845af761b19?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-09T04:10:12+09:00",
+      "severity": "high",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-a5ea1fc81b",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "脆弱性の情報は間に合っている？ 英語は 2 時間以内、悪用は 4 割が 1 日以内、日本語は中央値 4.6 日後。悪用された 74 件を調べて分かった",
+      "url": "https://qiita.com/songchong/items/b3c6c879f03f9bb665d3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-08T18:00:22+09:00",
+      "severity": "high",
+      "hatena_count": 0
     },
     {
       "id": "jpcert-6c9fd472e0",
