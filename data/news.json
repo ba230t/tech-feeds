@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T14:32:43.243205+00:00",
+  "updated_at": "2026-11-08T15:04:19.816475+00:00",
   "count": 500,
   "items": [
     {
@@ -6012,14 +6012,14 @@
       "sub_source": "Zenn",
       "title": "Cloudflare Zero Wire × GitHub Actions × Claude で公開サーバーの脆弱性チェックを自動化",
       "url": "https://zenn.dev/tomipetit/articles/zero-wire-github-actions",
-      "score": 212,
+      "score": 219,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sat, 07 Nov 2026 06:44:47 GMT",
       "severity": "high",
-      "hatena_count": 212
+      "hatena_count": 219
     },
     {
       "id": "zenn-be7a324371",
@@ -6041,13 +6041,13 @@
       "sub_source": "Zenn",
       "title": "Weight-Space Programming やってみた(やらせてみた)",
       "url": "https://zenn.dev/nwn/articles/cf9fe78aa33861",
-      "score": 20,
+      "score": 21,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sat, 07 Nov 2026 00:57:13 GMT",
-      "hatena_count": 20
+      "hatena_count": 21
     },
     {
       "id": "zenn-6b3676c658",
@@ -6069,13 +6069,13 @@
       "sub_source": "Zenn",
       "title": "[破壊的変更] 明治時代の開始日が変更になって単体テストが失敗した件",
       "url": "https://zenn.dev/xin9le/articles/9a1cf8e10494d6",
-      "score": 143,
+      "score": 144,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 06 Nov 2026 14:39:45 GMT",
-      "hatena_count": 143
+      "hatena_count": 144
     },
     {
       "id": "zenn-07750019f1",
@@ -6195,13 +6195,13 @@
       "sub_source": "Zenn",
       "title": "集約をどこまで機械的に導けるか――形式手法をベースとしたドメインモデリング",
       "url": "https://zenn.dev/nrs/articles/33ba79c8b2542e",
-      "score": 23,
+      "score": 24,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 04 Nov 2026 11:54:39 GMT",
-      "hatena_count": 23
+      "hatena_count": 24
     },
     {
       "id": "zenn-803b95cb07",
@@ -6237,13 +6237,13 @@
       "sub_source": "Zenn",
       "title": "ADRをregoでlintする",
       "url": "https://zenn.dev/babarot/articles/regomark-adr-checker",
-      "score": 72,
+      "score": 73,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 03 Nov 2026 07:59:33 GMT",
-      "hatena_count": 72
+      "hatena_count": 73
     },
     {
       "id": "zenn-6417939ef5",
