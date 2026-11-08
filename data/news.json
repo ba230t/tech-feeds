@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T05:33:39.842675+00:00",
+  "updated_at": "2026-11-08T06:08:14.823819+00:00",
   "count": 500,
   "items": [
     {
@@ -5830,27 +5830,27 @@
       "sub_source": "Zenn",
       "title": "Cloudflare Zero Wire × GitHub Actions × Claude で公開サーバーの脆弱性チェックを自動化",
       "url": "https://zenn.dev/tomipetit/articles/zero-wire-github-actions",
-      "score": 142,
+      "score": 150,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sat, 07 Nov 2026 06:44:47 GMT",
       "severity": "high",
-      "hatena_count": 142
+      "hatena_count": 150
     },
     {
-      "id": "zenn-be7a324371",
+      "id": "zenn-c1a415c8f8",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "シン・ウルトラモード",
-      "url": "https://zenn.dev/aws_japan/articles/kiro-crew-ultra-mode",
+      "title": "goda-pm.vim: goda.vim のためのプラグインマネージャー",
+      "url": "https://zenn.dev/shougo/articles/goda-pm-vim-beta",
       "score": 1,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Sat, 07 Nov 2026 01:09:30 GMT",
+      "date": "Sat, 07 Nov 2026 04:46:13 GMT",
       "hatena_count": 1
     },
     {
@@ -5866,20 +5866,6 @@
       ],
       "date": "Sat, 07 Nov 2026 00:57:13 GMT",
       "hatena_count": 18
-    },
-    {
-      "id": "zenn-6b3676c658",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "意思決定だけで週100コミット積むAI開発手法",
-      "url": "https://zenn.dev/kingyosun/articles/kukuri-ai-dev",
-      "score": 1,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 06 Nov 2026 17:26:04 GMT",
-      "hatena_count": 1
     },
     {
       "id": "zenn-f7880dbf50",
@@ -5915,13 +5901,13 @@
       "sub_source": "Zenn",
       "title": "タスク管理までAIエージェントに任せたら、確認待ちに答えるだけになった",
       "url": "https://zenn.dev/rescuenow/articles/4c03a548cd6589",
-      "score": 94,
+      "score": 95,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 06 Nov 2026 08:59:24 GMT",
-      "hatena_count": 94
+      "hatena_count": 95
     },
     {
       "id": "zenn-eff3efd428",
@@ -5964,6 +5950,20 @@
       ],
       "date": "Fri, 06 Nov 2026 03:01:26 GMT",
       "hatena_count": 1
+    },
+    {
+      "id": "zenn-929461ab59",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Security Hub の SBOM インベントリで、Athena を使わずに組織全体のソフトウェアを調べてみた",
+      "url": "https://zenn.dev/cscloud_blog/articles/securityhub-sbom-inventory",
+      "score": 2,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 06 Nov 2026 00:00:00 GMT",
+      "hatena_count": 2
     },
     {
       "id": "zenn-6972a4d1df",
@@ -6256,32 +6256,32 @@
       "hatena_count": 1
     },
     {
-      "id": "zenn-c1a415c8f8",
+      "id": "zenn-be7a324371",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "goda-pm.vim: goda.vim のためのプラグインマネージャー",
-      "url": "https://zenn.dev/shougo/articles/goda-pm-vim-beta",
+      "title": "シン・ウルトラモード",
+      "url": "https://zenn.dev/aws_japan/articles/kiro-crew-ultra-mode",
       "score": 1,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Sat, 07 Nov 2026 04:46:13 GMT",
+      "date": "Sat, 07 Nov 2026 01:09:30 GMT",
       "hatena_count": 1
     },
     {
-      "id": "zenn-929461ab59",
+      "id": "zenn-6b3676c658",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "Security Hub の SBOM インベントリで、Athena を使わずに組織全体のソフトウェアを調べてみた",
-      "url": "https://zenn.dev/cscloud_blog/articles/securityhub-sbom-inventory",
-      "score": 2,
+      "title": "意思決定だけで週100コミット積むAI開発手法",
+      "url": "https://zenn.dev/kingyosun/articles/kukuri-ai-dev",
+      "score": 1,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Fri, 06 Nov 2026 00:00:00 GMT",
-      "hatena_count": 2
+      "date": "Fri, 06 Nov 2026 17:26:04 GMT",
+      "hatena_count": 1
     },
     {
       "id": "zenn-e36499695a",
