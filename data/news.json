@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T05:05:11.421899+00:00",
+  "updated_at": "2026-11-08T05:33:39.842675+00:00",
   "count": 500,
   "items": [
     {
@@ -5830,14 +5830,14 @@
       "sub_source": "Zenn",
       "title": "Cloudflare Zero Wire × GitHub Actions × Claude で公開サーバーの脆弱性チェックを自動化",
       "url": "https://zenn.dev/tomipetit/articles/zero-wire-github-actions",
-      "score": 135,
+      "score": 142,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sat, 07 Nov 2026 06:44:47 GMT",
       "severity": "high",
-      "hatena_count": 135
+      "hatena_count": 142
     },
     {
       "id": "zenn-be7a324371",
@@ -5929,13 +5929,13 @@
       "sub_source": "Zenn",
       "title": "Claudeを使いこなす人に、MagicPodは要るのか。知らないアプリでPlaywrightと比べた記録",
       "url": "https://zenn.dev/genda_jp/articles/7b423bcd20b532",
-      "score": 2,
+      "score": 3,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 06 Nov 2026 05:13:04 GMT",
-      "hatena_count": 2
+      "hatena_count": 3
     },
     {
       "id": "zenn-f5bcc733b3",

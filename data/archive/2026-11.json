@@ -85,6 +85,21 @@
       "hatena_count": 143
     },
     {
+      "id": "zenn-8b3c2a1b8b",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Cloudflare Zero Wire × GitHub Actions × Claude で公開サーバーの脆弱性チェックを自動化",
+      "url": "https://zenn.dev/tomipetit/articles/zero-wire-github-actions",
+      "score": 142,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 07 Nov 2026 06:44:47 GMT",
+      "severity": "high",
+      "hatena_count": 142
+    },
+    {
       "id": "zenn-f7880dbf50",
       "source": "sns",
       "sub_source": "Zenn",
@@ -97,21 +112,6 @@
       ],
       "date": "Fri, 06 Nov 2026 14:39:45 GMT",
       "hatena_count": 142
-    },
-    {
-      "id": "zenn-8b3c2a1b8b",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Cloudflare Zero Wire × GitHub Actions × Claude で公開サーバーの脆弱性チェックを自動化",
-      "url": "https://zenn.dev/tomipetit/articles/zero-wire-github-actions",
-      "score": 135,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 07 Nov 2026 06:44:47 GMT",
-      "severity": "high",
-      "hatena_count": 135
     },
     {
       "id": "zenn-d2dd7eb267",
@@ -269,6 +269,20 @@
       "hatena_count": 4
     },
     {
+      "id": "zenn-eff3efd428",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Claudeを使いこなす人に、MagicPodは要るのか。知らないアプリでPlaywrightと比べた記録",
+      "url": "https://zenn.dev/genda_jp/articles/7b423bcd20b532",
+      "score": 3,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 06 Nov 2026 05:13:04 GMT",
+      "hatena_count": 3
+    },
+    {
       "id": "zenn-6972a4d1df",
       "source": "sns",
       "sub_source": "Zenn",
@@ -281,21 +295,6 @@
       ],
       "date": "Thu, 05 Nov 2026 14:35:31 GMT",
       "hatena_count": 3
-    },
-    {
-      "id": "techracho-3ff1a08033",
-      "source": "techracho",
-      "title": "Shopifyの Rubydex linter でRubyプロジェクトに構造的lintを導入しよう（翻訳）",
-      "url": "https://techracho.bpsinc.jp/hachi8833/2026_11_05/160032",
-      "score": 3,
-      "author": "Techracho",
-      "tags": [
-        "Ruby",
-        "Rails",
-        "日本語"
-      ],
-      "date": "Thu, 05 Nov 2026 08:30:46 +0000",
-      "hatena_count": 3
     }
   ],
   "security_highlights": [
@@ -305,14 +304,14 @@
       "sub_source": "Zenn",
       "title": "Cloudflare Zero Wire × GitHub Actions × Claude で公開サーバーの脆弱性チェックを自動化",
       "url": "https://zenn.dev/tomipetit/articles/zero-wire-github-actions",
-      "score": 135,
+      "score": 142,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sat, 07 Nov 2026 06:44:47 GMT",
       "severity": "high",
-      "hatena_count": 135
+      "hatena_count": 142
     },
     {
       "id": "jpcert-6c9fd472e0",
