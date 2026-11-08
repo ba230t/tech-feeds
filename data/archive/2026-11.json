@@ -1,7 +1,7 @@
 {
   "month": "2026-11",
   "total_articles": 228,
-  "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (2件)**\n\n1. 今後のセキュリティの考え方\n\n2. Cloudflare Zero Wire × GitHub Actions × Claude で公開サーバーの脆弱性チェックを自動化\n\n**AI・機械学習動向 (5件)**\n\n1. AIが書く「読みづらいADR」に発狂しかけたので、ADRのガイドラインを作った\n\n2. 3 人それぞれの Claude Code を Slack でつないで ISUCON2026 に参加した（207,039 点）\n\n3. OpenCode+Docker+GitHub Actionsで全自動AIペネトレーションテストはじめました\n\n4. タスク管理までAIエージェントに任せたら、確認待ちに答えるだけになった\n\n5. バイブコーディングで機能を継ぎ足していて見えてきたClaudeCodeの実装のクセ\n\n**技術トレンド (3件)**\n\n1. ISUCON2026 で優勝しました（当日編）\n\n2. 日本の全法令を git の履歴にしてみた\n\n3. [破壊的変更] 明治時代の開始日が変更になって単体テストが失敗した件",
+  "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (1件)**\n\n1. 今後のセキュリティの考え方\n\n**AI・機械学習動向 (5件)**\n\n1. AIが書く「読みづらいADR」に発狂しかけたので、ADRのガイドラインを作った\n\n2. 3 人それぞれの Claude Code を Slack でつないで ISUCON2026 に参加した（207,039 点）\n\n3. OpenCode+Docker+GitHub Actionsで全自動AIペネトレーションテストはじめました\n\n4. タスク管理までAIエージェントに任せたら、確認待ちに答えるだけになった\n\n5. バイブコーディングで機能を継ぎ足していて見えてきたClaudeCodeの実装のクセ\n\n**技術トレンド (4件)**\n\n1. ISUCON2026 で優勝しました（当日編）\n\n2. 日本の全法令を git の履歴にしてみた\n\n3. [破壊的変更] 明治時代の開始日が変更になって単体テストが失敗した件\n\n4. GitHub Actions で checkout@v7 のようなバージョン指定を書くのはやめよう！ 時代は actions.lock！",
   "source_counts": {
     "sns": 200,
     "jpcert": 15,
@@ -20,13 +20,13 @@
       "sub_source": "Zenn",
       "title": "ISUCON2026 で優勝しました（当日編）",
       "url": "https://zenn.dev/luvtechno/articles/isucon2026-competition-day",
-      "score": 419,
+      "score": 418,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 02 Nov 2026 13:26:09 GMT",
-      "hatena_count": 419
+      "hatena_count": 418
     },
     {
       "id": "zenn-9b1348f0a8",
@@ -127,21 +127,6 @@
       "hatena_count": 92
     },
     {
-      "id": "zenn-8b3c2a1b8b",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Cloudflare Zero Wire × GitHub Actions × Claude で公開サーバーの脆弱性チェックを自動化",
-      "url": "https://zenn.dev/tomipetit/articles/zero-wire-github-actions",
-      "score": 89,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 07 Nov 2026 06:44:47 GMT",
-      "severity": "high",
-      "hatena_count": 89
-    },
-    {
       "id": "zenn-6417939ef5",
       "source": "sns",
       "sub_source": "Zenn",
@@ -168,6 +153,21 @@
       ],
       "date": "Thu, 29 Oct 2026 03:48:15 GMT",
       "hatena_count": 86
+    },
+    {
+      "id": "zenn-8b3c2a1b8b",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Cloudflare Zero Wire × GitHub Actions × Claude で公開サーバーの脆弱性チェックを自動化",
+      "url": "https://zenn.dev/tomipetit/articles/zero-wire-github-actions",
+      "score": 79,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 07 Nov 2026 06:44:47 GMT",
+      "severity": "high",
+      "hatena_count": 79
     },
     {
       "id": "zenn-db23a67f04",
@@ -305,14 +305,14 @@
       "sub_source": "Zenn",
       "title": "Cloudflare Zero Wire × GitHub Actions × Claude で公開サーバーの脆弱性チェックを自動化",
       "url": "https://zenn.dev/tomipetit/articles/zero-wire-github-actions",
-      "score": 89,
+      "score": 79,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sat, 07 Nov 2026 06:44:47 GMT",
       "severity": "high",
-      "hatena_count": 89
+      "hatena_count": 79
     },
     {
       "id": "jpcert-6c9fd472e0",
