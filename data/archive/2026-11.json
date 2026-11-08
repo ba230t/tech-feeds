@@ -118,13 +118,13 @@
       "sub_source": "Zenn",
       "title": "タスク管理までAIエージェントに任せたら、確認待ちに答えるだけになった",
       "url": "https://zenn.dev/rescuenow/articles/4c03a548cd6589",
-      "score": 90,
+      "score": 92,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 06 Nov 2026 08:59:24 GMT",
-      "hatena_count": 90
+      "hatena_count": 92
     },
     {
       "id": "zenn-6417939ef5",
@@ -155,6 +155,21 @@
       "hatena_count": 86
     },
     {
+      "id": "zenn-8b3c2a1b8b",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Cloudflare Zero Wire × GitHub Actions × Claude で公開サーバーの脆弱性チェックを自動化",
+      "url": "https://zenn.dev/tomipetit/articles/zero-wire-github-actions",
+      "score": 79,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 07 Nov 2026 06:44:47 GMT",
+      "severity": "high",
+      "hatena_count": 79
+    },
+    {
       "id": "zenn-db23a67f04",
       "source": "sns",
       "sub_source": "Zenn",
@@ -167,21 +182,6 @@
       ],
       "date": "Tue, 03 Nov 2026 07:59:33 GMT",
       "hatena_count": 71
-    },
-    {
-      "id": "zenn-8b3c2a1b8b",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Cloudflare Zero Wire × GitHub Actions × Claude で公開サーバーの脆弱性チェックを自動化",
-      "url": "https://zenn.dev/tomipetit/articles/zero-wire-github-actions",
-      "score": 42,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 07 Nov 2026 06:44:47 GMT",
-      "severity": "high",
-      "hatena_count": 42
     },
     {
       "id": "zenn-803b95cb07",
@@ -305,14 +305,14 @@
       "sub_source": "Zenn",
       "title": "Cloudflare Zero Wire × GitHub Actions × Claude で公開サーバーの脆弱性チェックを自動化",
       "url": "https://zenn.dev/tomipetit/articles/zero-wire-github-actions",
-      "score": 42,
+      "score": 79,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sat, 07 Nov 2026 06:44:47 GMT",
       "severity": "high",
-      "hatena_count": 42
+      "hatena_count": 79
     },
     {
       "id": "jpcert-6c9fd472e0",

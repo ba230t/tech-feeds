@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T01:34:14.959706+00:00",
+  "updated_at": "2026-11-08T02:07:10.478114+00:00",
   "count": 500,
   "items": [
     {
@@ -5830,14 +5830,14 @@
       "sub_source": "Zenn",
       "title": "Cloudflare Zero Wire × GitHub Actions × Claude で公開サーバーの脆弱性チェックを自動化",
       "url": "https://zenn.dev/tomipetit/articles/zero-wire-github-actions",
-      "score": 42,
+      "score": 79,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sat, 07 Nov 2026 06:44:47 GMT",
       "severity": "high",
-      "hatena_count": 42
+      "hatena_count": 79
     },
     {
       "id": "zenn-c1a415c8f8",
@@ -5845,13 +5845,13 @@
       "sub_source": "Zenn",
       "title": "goda-pm.vim: goda.vim のためのプラグインマネージャー",
       "url": "https://zenn.dev/shougo/articles/goda-pm-vim-beta",
-      "score": 0,
+      "score": 1,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sat, 07 Nov 2026 04:46:13 GMT",
-      "hatena_count": 0
+      "hatena_count": 1
     },
     {
       "id": "zenn-f6f7ea13a9",
@@ -5901,13 +5901,13 @@
       "sub_source": "Zenn",
       "title": "タスク管理までAIエージェントに任せたら、確認待ちに答えるだけになった",
       "url": "https://zenn.dev/rescuenow/articles/4c03a548cd6589",
-      "score": 90,
+      "score": 92,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 06 Nov 2026 08:59:24 GMT",
-      "hatena_count": 90
+      "hatena_count": 92
     },
     {
       "id": "zenn-eff3efd428",
