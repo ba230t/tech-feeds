@@ -54,7 +54,7 @@
         "Zenn"
       ],
       "date": "Fri, 30 Oct 2026 10:30:27 GMT",
-      "hatena_count": 246
+      "hatena_count": 247
     },
     {
       "id": "zenn-49fbe9e192",
@@ -99,6 +99,21 @@
       "hatena_count": 142
     },
     {
+      "id": "zenn-8b3c2a1b8b",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Cloudflare Zero Wire × GitHub Actions × Claude で公開サーバーの脆弱性チェックを自動化",
+      "url": "https://zenn.dev/tomipetit/articles/zero-wire-github-actions",
+      "score": 135,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 07 Nov 2026 06:44:47 GMT",
+      "severity": "high",
+      "hatena_count": 135
+    },
+    {
       "id": "zenn-d2dd7eb267",
       "source": "sns",
       "sub_source": "Zenn",
@@ -111,21 +126,6 @@
       ],
       "date": "Wed, 04 Nov 2026 01:19:56 GMT",
       "hatena_count": 124
-    },
-    {
-      "id": "zenn-8b3c2a1b8b",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Cloudflare Zero Wire × GitHub Actions × Claude で公開サーバーの脆弱性チェックを自動化",
-      "url": "https://zenn.dev/tomipetit/articles/zero-wire-github-actions",
-      "score": 122,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 07 Nov 2026 06:44:47 GMT",
-      "severity": "high",
-      "hatena_count": 122
     },
     {
       "id": "zenn-8d6f0721b5",
@@ -175,13 +175,13 @@
       "sub_source": "Zenn",
       "title": "ADRをregoでlintする",
       "url": "https://zenn.dev/babarot/articles/regomark-adr-checker",
-      "score": 71,
+      "score": 72,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 03 Nov 2026 07:59:33 GMT",
-      "hatena_count": 71
+      "hatena_count": 72
     },
     {
       "id": "zenn-803b95cb07",
@@ -305,14 +305,14 @@
       "sub_source": "Zenn",
       "title": "Cloudflare Zero Wire × GitHub Actions × Claude で公開サーバーの脆弱性チェックを自動化",
       "url": "https://zenn.dev/tomipetit/articles/zero-wire-github-actions",
-      "score": 122,
+      "score": 135,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sat, 07 Nov 2026 06:44:47 GMT",
       "severity": "high",
-      "hatena_count": 122
+      "hatena_count": 135
     },
     {
       "id": "jpcert-6c9fd472e0",
