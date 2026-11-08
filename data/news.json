@@ -1,7 +1,119 @@
 {
-  "updated_at": "2026-11-08T08:06:28.297931+00:00",
+  "updated_at": "2026-11-08T08:33:20.304293+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "qiita-758c9594dc",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "【AWS】結果を返すか、答えを返すか。Web SearchとWeb Answerの使い分け【AgentCore】",
+      "url": "https://qiita.com/Nana_777/items/6e466fb974972a79a323?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-08T15:26:43+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-1b30799716",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "GitHub Copilot app で「自分の文脈」を管理してみる。me.md を作って常に参照させるまで",
+      "url": "https://qiita.com/carol0226/items/3e52fd2570c246b6cf0c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-08T14:47:37+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-f9c1222300",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "AWS Community Day Hong Kong 2026 で登壇してきた！",
+      "url": "https://qiita.com/yakumo_09/items/14f8f32b8fc4ebd61333?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-08T13:03:33+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-5667094fa0",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "耳で聞く！Python で学ぶ マクロ経済学 入門 41",
+      "url": "https://qiita.com/maskot1977/items/5399ad17d61a16f332a3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-08T11:11:11+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-907b782cf7",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "機能したシステム再設計 ― フィードバックループの修復事例 : システム設計視点の行動経済学 (58)",
+      "url": "https://qiita.com/maskot1977/items/8873b86cc612cbe35d86?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-08T10:30:05+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-7cc338fe6f",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "Vitestでモックをテストケースごとに差し替えた値が残る",
+      "url": "https://qiita.com/J-T_ky2g/items/fc1d307ea464e734af9e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-08T07:25:04+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-51402c59ce",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "Vitestでモックをテストケースごとに差し替えるようにする",
+      "url": "https://qiita.com/J-T_ky2g/items/a0284d1131cfc643cbbe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-08T06:51:44+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-13bffd2bb1",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "[宇宙最速!?]AI音声チャットでTTFA 0.2秒を実現したった~Jev × ElevenLabs~",
+      "url": "https://qiita.com/kikuziro/items/027679848c85f95b7ef7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-08T00:17:14+09:00",
+      "hatena_count": 0
+    },
     {
       "id": "qiita-d51926efc0",
       "source": "sns",
@@ -87,6 +199,20 @@
       "hatena_count": 0
     },
     {
+      "id": "qiita-d66ce7f0ad",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "Total Lagrange法による3次元有限変形FEM解析プログラム",
+      "url": "https://qiita.com/Altaka4128/items/fae6f0ec30e87ffbed72?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-07T13:15:41+09:00",
+      "hatena_count": 0
+    },
+    {
       "id": "qiita-38c9e9ea35",
       "source": "sns",
       "sub_source": "Qiita",
@@ -140,6 +266,20 @@
         "Qiita"
       ],
       "date": "2026-11-07T00:31:24+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-575b129ce7",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "【Mac】React の環境構築をして、GitHub に最初のコミットを上げてPRを作るまで",
+      "url": "https://qiita.com/Tukirukiki/items/2a9d046a5d79e605e62d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-06T20:41:39+09:00",
       "hatena_count": 0
     },
     {
@@ -297,6 +437,34 @@
       "hatena_count": 0
     },
     {
+      "id": "qiita-527d7718e3",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "【2026年11月版】WordPressの移行先を本気で考えてみた（19候補を比較）",
+      "url": "https://qiita.com/MURAMASA2470/items/87982443cbae67657f4c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-06T13:30:58+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-5d37df7601",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "RAGに入れる資料を「下ごしらえ」したら、誤答率が30%→13%に下がった（Bedrock Knowledge Bases）",
+      "url": "https://qiita.com/MURAMASA2470/items/a7c351ba251da81f507e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-06T12:43:41+09:00",
+      "hatena_count": 0
+    },
+    {
       "id": "qiita-1185f062c6",
       "source": "sns",
       "sub_source": "Qiita",
@@ -350,6 +518,20 @@
         "Qiita"
       ],
       "date": "2026-11-06T11:05:01+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-b84f6126c8",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "Claude Code のコミット前フックで TruffleHog を実行し、シークレット入りのコミットを止める",
+      "url": "https://qiita.com/CircleCIJapan/items/00c07ba3c040a8d2e84d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-06T10:40:35+09:00",
       "hatena_count": 0
     },
     {
@@ -5830,14 +6012,14 @@
       "sub_source": "Zenn",
       "title": "Cloudflare Zero Wire × GitHub Actions × Claude で公開サーバーの脆弱性チェックを自動化",
       "url": "https://zenn.dev/tomipetit/articles/zero-wire-github-actions",
-      "score": 175,
+      "score": 179,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sat, 07 Nov 2026 06:44:47 GMT",
       "severity": "high",
-      "hatena_count": 175
+      "hatena_count": 179
     },
     {
       "id": "zenn-be7a324371",
@@ -5859,13 +6041,13 @@
       "sub_source": "Zenn",
       "title": "Weight-Space Programming やってみた(やらせてみた)",
       "url": "https://zenn.dev/nwn/articles/cf9fe78aa33861",
-      "score": 18,
+      "score": 19,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sat, 07 Nov 2026 00:57:13 GMT",
-      "hatena_count": 18
+      "hatena_count": 19
     },
     {
       "id": "zenn-6b3676c658",
@@ -6069,13 +6251,13 @@
       "sub_source": "Zenn",
       "title": "バイブコーディングで機能を継ぎ足していて見えてきたClaudeCodeの実装のクセ",
       "url": "https://zenn.dev/uguisu_blog/articles/45d1f446ece415",
-      "score": 85,
+      "score": 84,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 03 Nov 2026 03:30:05 GMT",
-      "hatena_count": 85
+      "hatena_count": 84
     },
     {
       "id": "zenn-43bee14924",
@@ -6927,189 +7109,6 @@
       ],
       "date": "Mon, 02 Nov 2026 07:00:35 GMT",
       "hatena_count": 0
-    },
-    {
-      "id": "zenn-2dc50e40ad",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "GitHub Actions で checkout@v7 のようなバージョン指定を書くのはやめよう！ 時代は actions.lock！",
-      "url": "https://zenn.dev/progate/articles/24b1140180300c",
-      "score": 85,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 29 Oct 2026 03:48:15 GMT",
-      "hatena_count": 86
-    },
-    {
-      "id": "zenn-6325492b2d",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Aurora とDynamoDBとTimestreamとBigQueryを2400万レコードで性能比較してみた",
-      "url": "https://zenn.dev/ncdc/articles/c47df2c1f32e0c",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 03 Nov 2026 09:39:55 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-482e1af2f2",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "quench を管理者アカウントから卒業させる：シャットダウン専用の Windows アカウント svc-power",
-      "url": "https://zenn.dev/ryuchama/articles/forge-svc-power-account",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 03 Nov 2026 02:25:50 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-cd066b67db",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "FlutterKaigi 2026 で生字幕を映像に載せて会場スクリーンに投影しました",
-      "url": "https://zenn.dev/hiro_pon/articles/2f3b68ec60ddae",
-      "score": 1,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 31 Oct 2026 06:40:40 GMT",
-      "hatena_count": 1
-    },
-    {
-      "id": "techracho-f5746e4b07",
-      "source": "techracho",
-      "title": "Rails 8.1.4 Changelog（全項目リンク付き）: Active Model、Action Pack、Active Job",
-      "url": "https://techracho.bpsinc.jp/hachi8833/2026_10_13/160155",
-      "score": 1,
-      "author": "Techracho",
-      "tags": [
-        "Ruby",
-        "Rails",
-        "日本語"
-      ],
-      "date": "Tue, 13 Oct 2026 08:30:41 +0000",
-      "hatena_count": 1
-    },
-    {
-      "id": "zenn-396a83fd9d",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "GitHub Copilot App のサンドボックスで .NET アプリを開発するための設定を試してみた",
-      "url": "https://zenn.dev/microsoft/articles/copilot-app-dotnet-windows-sandbox",
-      "score": 1,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 02 Nov 2026 13:51:52 GMT",
-      "hatena_count": 1
-    },
-    {
-      "id": "zenn-2a6138d3c6",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Tauto で型付き言語を作る: 型付け規則から証明付きの検査器を生成する",
-      "url": "https://zenn.dev/ryo33/articles/tauto-typed-lang-proof",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 02 Nov 2026 12:06:50 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-4ac0e93a81",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "DeepSeek が描く AI エージェントの未来像",
-      "url": "https://zenn.dev/marvelousu/articles/deepseek-super-agent-design",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 02 Nov 2026 11:37:23 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-05577398c2",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "【LLMOps】FDEの開発を支えるトレーシング基盤の開発",
-      "url": "https://zenn.dev/aishift/articles/e761cff4f079cd",
-      "score": 1,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 02 Nov 2026 09:00:08 GMT",
-      "hatena_count": 1
-    },
-    {
-      "id": "zenn-ac6e542257",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Amazon Bedrock の構造化出力を破壊しようとしてみた（失敗）",
-      "url": "https://zenn.dev/aws_japan/articles/bedrock-structured-outputs-adversarial",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 01 Nov 2026 12:51:18 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-5992d09aad",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "プロダクトの情報を「浴びるように」見られる場所を作った話",
-      "url": "https://zenn.dev/tokium_dev/articles/product-cockpit-for-product-teams",
-      "score": 3,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 30 Oct 2026 08:18:26 GMT",
-      "hatena_count": 5
-    },
-    {
-      "id": "zenn-fe262064cc",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Snowflake: Optima Clustering による 1KB クラスタリングキーでの日本語フィルタの改善",
-      "url": "https://zenn.dev/snowflakejp/articles/d907c02698d748",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 02 Nov 2026 04:03:34 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-fa49f4d51c",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "ISUCON 2026 Writeup / チーム nicklegr",
-      "url": "https://zenn.dev/nicklegr/articles/de0a6fd86b6ce3",
-      "score": 1,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 01 Nov 2026 12:20:12 GMT",
-      "hatena_count": 1
     }
   ]
 }
