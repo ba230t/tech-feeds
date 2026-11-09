@@ -3,7 +3,7 @@
     {
       "month": "2026-11",
       "total_articles": 228,
-      "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (1件)**\n\n1. Cloudflare Zero Wire × GitHub Actions × Claude で公開サーバーの脆弱性チェックを自動化\n\n**AI・機械学習動向 (5件)**\n\n1. AIが書く「読みづらいADR」に発狂しかけたので、ADRのガイドラインを作った\n\n2. 3 人それぞれの Claude Code を Slack でつないで ISUCON2026 に参加した（207,039 点）\n\n3. OpenCode+Docker+GitHub Actionsで全自動AIペネトレーションテストはじめました\n\n4. タスク管理までAIエージェントに任せたら、確認待ちに答えるだけになった\n\n5. バイブコーディングで機能を継ぎ足していて見えてきたClaudeCodeの実装のクセ\n\n**技術トレンド (4件)**\n\n1. ISUCON2026 で優勝しました（当日編）\n\n2. 日本の全法令を git の履歴にしてみた\n\n3. [破壊的変更] 明治時代の開始日が変更になって単体テストが失敗した件\n\n4. ADRをregoでlintする",
+      "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (1件)**\n\n1. Cloudflare Zero Wire × GitHub Actions × Claude で公開サーバーの脆弱性チェックを自動化\n\n**AI・機械学習動向 (5件)**\n\n1. AIが書く「読みづらいADR」に発狂しかけたので、ADRのガイドラインを作った\n\n2. OpenCode+Docker+GitHub Actionsで全自動AIペネトレーションテストはじめました\n\n3. タスク管理までAIエージェントに任せたら、確認待ちに答えるだけになった\n\n4. バイブコーディングで機能を継ぎ足していて見えてきたClaudeCodeの実装のクセ\n\n5. コードを読まずにバイブコーディングしたら、Claude Codeは分かっていてスルーしていた\n\n**技術トレンド (4件)**\n\n1. ISUCON2026 で優勝しました（当日編）\n\n2. 日本の全法令を git の履歴にしてみた\n\n3. [破壊的変更] 明治時代の開始日が変更になって単体テストが失敗した件\n\n4. ADRをregoでlintする",
       "file": "2026-11.json",
       "html_file": "2026-11.html",
       "compressed": false
