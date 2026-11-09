@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T22:04:48.462428+00:00",
+  "updated_at": "2026-11-09T22:33:51.673174+00:00",
   "count": 500,
   "items": [
     {
@@ -6699,7 +6699,7 @@
       "source": "techracho",
       "title": "「RailsはJITコンパイラだ！」（翻訳）",
       "url": "https://techracho.bpsinc.jp/hachi8833/2026_11_09/160947",
-      "score": 1,
+      "score": 2,
       "author": "Techracho",
       "tags": [
         "Ruby",
@@ -6707,7 +6707,7 @@
         "日本語"
       ],
       "date": "Mon, 09 Nov 2026 08:30:25 +0000",
-      "hatena_count": 1
+      "hatena_count": 2
     },
     {
       "id": "techracho-3ff1a08033",
