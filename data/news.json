@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T15:34:01.798872+00:00",
+  "updated_at": "2026-11-09T16:06:12.761990+00:00",
   "count": 500,
   "items": [
     {
@@ -6317,6 +6317,20 @@
       "hatena_count": 3
     },
     {
+      "id": "zenn-d78c3e0089",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "個性を磨くUI観点",
+      "url": "https://zenn.dev/silverbirder/books/ui-craft-techniques",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 09 Nov 2026 00:00:14 GMT",
+      "hatena_count": 0
+    },
+    {
       "id": "zenn-7d82e11dbb",
       "source": "sns",
       "sub_source": "Zenn",
@@ -6555,20 +6569,6 @@
       "hatena_count": 38
     },
     {
-      "id": "zenn-d2dd7eb267",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "OpenCode+Docker+GitHub Actionsで全自動AIペネトレーションテストはじめました",
-      "url": "https://zenn.dev/team_zenn/articles/opencode-docker-actions-ai-pentest",
-      "score": 124,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 04 Nov 2026 01:19:56 GMT",
-      "hatena_count": 124
-    },
-    {
       "id": "techracho-f68eade31b",
       "source": "techracho",
       "title": "「RailsはJITコンパイラだ！」（翻訳）",
@@ -6717,6 +6717,20 @@
       ],
       "date": "Tue, 20 Oct 2026 08:30:42 +0000",
       "hatena_count": 2
+    },
+    {
+      "id": "zenn-d2dd7eb267",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "OpenCode+Docker+GitHub Actionsで全自動AIペネトレーションテストはじめました",
+      "url": "https://zenn.dev/team_zenn/articles/opencode-docker-actions-ai-pentest",
+      "score": 124,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 04 Nov 2026 01:19:56 GMT",
+      "hatena_count": 124
     },
     {
       "id": "zenn-52d312f90f",
@@ -7097,20 +7111,6 @@
       ],
       "date": "Thu, 05 Nov 2026 11:52:20 GMT",
       "hatena_count": 0
-    },
-    {
-      "id": "zenn-ce3ab2d535",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Claude CodeからPremiere Proを290回動かして、53分のPodcastを全自動編集してみた",
-      "url": "https://zenn.dev/salt2/articles/2b6e403e059b10",
-      "score": 1,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 04 Nov 2026 12:33:10 GMT",
-      "hatena_count": 3
     }
   ]
 }
