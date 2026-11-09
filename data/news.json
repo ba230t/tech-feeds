@@ -1,7 +1,77 @@
 {
-  "updated_at": "2026-11-09T20:05:46.007901+00:00",
+  "updated_at": "2026-11-09T20:33:37.747611+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "qiita-c8ba099394",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "実践：JevをClaudeに5分で連携する！ 〜仕組みから実装、実際の使いどころ〜",
+      "url": "https://qiita.com/ryosuke_ohori/items/ada543a0201752023e25?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-09T22:46:47+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-7d620ca03e",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "「良いチームほどミスの報告が多い」— 心理的安全性を論文とGoogle調査から正しく理解する",
+      "url": "https://qiita.com/teppei19980914/items/2e0fa85f1cc32a62fb0d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-09T20:13:44+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-edc7231362",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "心理的安全性が壊れると何が起きるか — フォルクスワーゲン排ガス不正と『恐れのない組織』の読書メモ",
+      "url": "https://qiita.com/teppei19980914/items/5181dd917da9c9c0f384?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-09T20:13:34+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-deee8a3c27",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "心理的安全性を高める7つの質問と30日プラン — リーダーの言葉を変えるだけで始める現場実践",
+      "url": "https://qiita.com/teppei19980914/items/8c1bbb97a191f8246cf0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-09T20:13:22+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-92be780c41",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "【PHP8.7】JSONにコメントと末尾カンマを書けるようになる！",
+      "url": "https://qiita.com/rana_kualu/items/b77ae011f4ba8df8135c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-09T20:06:30+09:00",
+      "hatena_count": 0
+    },
     {
       "id": "qiita-63f65f54da",
       "source": "sns",
@@ -73,6 +143,34 @@
       "hatena_count": 0
     },
     {
+      "id": "qiita-ba5deb55f2",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "リレーショナル・テーブルを土台にしてプロパティ・グラフを作成し Select AI の精度を高める",
+      "url": "https://qiita.com/tkote/items/51ceb70dd8ee45e4cc84?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-09T12:13:07+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-ff241dc6e1",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "KMPのiOSビルド（XCFramework）を軽くする5つのTips",
+      "url": "https://qiita.com/naormt/items/a8f57727c5a35f1ca620?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-09T11:18:29+09:00",
+      "hatena_count": 0
+    },
+    {
       "id": "qiita-18be0d3ce1",
       "source": "sns",
       "sub_source": "Qiita",
@@ -98,6 +196,20 @@
         "Qiita"
       ],
       "date": "2026-11-09T08:11:01+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-c2be3ceafd",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "WEBで画像を破くツールを作った",
+      "url": "https://qiita.com/ishi720/items/6d13fdce2a31fe630840?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-09T06:44:47+09:00",
       "hatena_count": 0
     },
     {
@@ -127,6 +239,20 @@
         "Qiita"
       ],
       "date": "2026-11-08T23:59:13+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-bbe95ef1d0",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "MongoDBの設計思想から理解する、RDBとのメリット・デメリット(Rails / Mongoid)",
+      "url": "https://qiita.com/gensan64311466/items/6a636f22c15dcf75001c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-08T22:24:19+09:00",
       "hatena_count": 0
     },
     {
@@ -6984,132 +7110,6 @@
         "Zenn"
       ],
       "date": "Fri, 06 Nov 2026 11:39:40 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-120e5ef58b",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "ネットワークインフラ系イベント年間カレンダ (その2)",
-      "url": "https://zenn.dev/nanakanok/articles/06a8cf51a8663f",
-      "score": 1,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 06 Nov 2026 05:39:53 GMT",
-      "hatena_count": 1
-    },
-    {
-      "id": "zenn-5dadf3a05b",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "SigLIP2に匹敵する画像エンコーダーをフルスクラッチで開発した話",
-      "url": "https://zenn.dev/noetra_techblog/articles/0cea39ce67d2c2",
-      "score": 2,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 04 Nov 2026 05:42:59 GMT",
-      "hatena_count": 2
-    },
-    {
-      "id": "zenn-74ab9c76d2",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "AI生成コードを本番品質に保つためのフロントエンド開発の仕組み",
-      "url": "https://zenn.dev/sun_asterisk/articles/d4e4bc24974b99",
-      "score": 3,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 05 Nov 2026 09:00:55 GMT",
-      "hatena_count": 5
-    },
-    {
-      "id": "zenn-74da8eec3a",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Xで積み重ねた日々をmixi2へ。過去ポストのインポート機能ができるまで",
-      "url": "https://zenn.dev/mixi/articles/bcf2363e83b0a2",
-      "score": 1,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 05 Nov 2026 04:29:39 GMT",
-      "hatena_count": 2
-    },
-    {
-      "id": "zenn-7f3d0d2833",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "freeeインターン 2週間で掴んだ仕事の進め方 ― 夏インターンを終えて",
-      "url": "https://zenn.dev/amanon/articles/1bbf5afc0fbf9f",
-      "score": 1,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 06 Nov 2026 01:48:50 GMT",
-      "hatena_count": 1
-    },
-    {
-      "id": "zenn-171ac97f0a",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "今更だけど、AIってどう使えばいいの？",
-      "url": "https://zenn.dev/porters_tech/articles/4f6e5cc83aa74c",
-      "score": 1,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 06 Nov 2026 01:00:05 GMT",
-      "hatena_count": 1
-    },
-    {
-      "id": "zenn-ec0a0fc220",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "spec as code ではなく、code as spec — 仕様書のように書かれたコードを正にする",
-      "url": "https://zenn.dev/ruri/articles/code-as-spec",
-      "score": 1,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 05 Nov 2026 23:00:05 GMT",
-      "hatena_count": 1
-    },
-    {
-      "id": "zenn-f72fe248b7",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "AWSでデータレイクハウスを構築してApache Icebergの更新・履歴管理を検証した",
-      "url": "https://zenn.dev/kkoch5t2/articles/aws-iceberg-lakehouse-lab",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 05 Nov 2026 17:56:30 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-2d6bfe8cb8",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "【.NET 11】SafeFileHandleの新規APIでハマった点について",
-      "url": "https://zenn.dev/prozolic/articles/f74a9711a6a22c",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 05 Nov 2026 11:52:20 GMT",
       "hatena_count": 0
     }
   ]
