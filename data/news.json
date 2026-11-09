@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T13:33:26.141804+00:00",
+  "updated_at": "2026-11-09T14:06:25.285588+00:00",
   "count": 500,
   "items": [
     {
@@ -6350,13 +6350,13 @@
       "sub_source": "Zenn",
       "title": "Herdr.app と hc の上で Claude Code の司令塔を回している",
       "url": "https://zenn.dev/hoshinotsuyoshi/articles/c994c29833f36c",
-      "score": 10,
+      "score": 13,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sun, 08 Nov 2026 16:00:51 GMT",
-      "hatena_count": 10
+      "hatena_count": 13
     },
     {
       "id": "zenn-077318206a",
@@ -6745,7 +6745,7 @@
       ],
       "date": "Sat, 07 Nov 2026 06:44:47 GMT",
       "severity": "high",
-      "hatena_count": 225
+      "hatena_count": 227
     },
     {
       "id": "zenn-07750019f1",
@@ -6816,7 +6816,7 @@
         "Zenn"
       ],
       "date": "Mon, 02 Nov 2026 13:26:09 GMT",
-      "hatena_count": 425
+      "hatena_count": 426
     },
     {
       "id": "zenn-49fbe9e192",
