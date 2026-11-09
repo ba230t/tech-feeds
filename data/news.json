@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T02:33:29.755206+00:00",
+  "updated_at": "2026-11-09T03:06:59.984849+00:00",
   "count": 500,
   "items": [
     {
@@ -6238,14 +6238,14 @@
       "sub_source": "Zenn",
       "title": "Cloudflare Zero Wire × GitHub Actions × Claude で公開サーバーの脆弱性チェックを自動化",
       "url": "https://zenn.dev/tomipetit/articles/zero-wire-github-actions",
-      "score": 229,
+      "score": 224,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sat, 07 Nov 2026 06:44:47 GMT",
       "severity": "high",
-      "hatena_count": 229
+      "hatena_count": 224
     },
     {
       "id": "zenn-f6f7ea13a9",
@@ -6323,13 +6323,13 @@
       "sub_source": "Zenn",
       "title": ".NET にも build.cs 欲しいんじゃーーー",
       "url": "https://zenn.dev/sator_imaging/articles/c10d8da7685308",
-      "score": 2,
+      "score": 3,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 05 Nov 2026 13:05:08 GMT",
-      "hatena_count": 2
+      "hatena_count": 3
     },
     {
       "id": "zenn-a538ffe078",
@@ -6393,13 +6393,13 @@
       "sub_source": "Zenn",
       "title": "ISUCON2026 で優勝しました（当日編）",
       "url": "https://zenn.dev/luvtechno/articles/isucon2026-competition-day",
-      "score": 424,
+      "score": 425,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 02 Nov 2026 13:26:09 GMT",
-      "hatena_count": 424
+      "hatena_count": 425
     },
     {
       "id": "zenn-49fbe9e192",
