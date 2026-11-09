@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T06:11:32.815769+00:00",
+  "updated_at": "2026-11-09T06:45:44.745536+00:00",
   "count": 500,
   "items": [
     {
@@ -6168,13 +6168,13 @@
       "sub_source": "Zenn",
       "title": "Herdr.app と hc の上で Claude Code の司令塔を回している",
       "url": "https://zenn.dev/hoshinotsuyoshi/articles/c994c29833f36c",
-      "score": 1,
+      "score": 2,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sun, 08 Nov 2026 16:00:51 GMT",
-      "hatena_count": 1
+      "hatena_count": 2
     },
     {
       "id": "zenn-52d312f90f",
@@ -6267,13 +6267,13 @@
       "sub_source": "Zenn",
       "title": "Weight-Space Programming やってみた(やらせてみた)",
       "url": "https://zenn.dev/nwn/articles/cf9fe78aa33861",
-      "score": 21,
+      "score": 22,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sat, 07 Nov 2026 00:57:13 GMT",
-      "hatena_count": 21
+      "hatena_count": 22
     },
     {
       "id": "zenn-f7880dbf50",

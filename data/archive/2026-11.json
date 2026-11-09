@@ -170,6 +170,20 @@
       "hatena_count": 24
     },
     {
+      "id": "zenn-f6f7ea13a9",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Weight-Space Programming やってみた(やらせてみた)",
+      "url": "https://zenn.dev/nwn/articles/cf9fe78aa33861",
+      "score": 22,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 07 Nov 2026 00:57:13 GMT",
+      "hatena_count": 22
+    },
+    {
       "id": "ipa-ee45d6bd49",
       "source": "ipa",
       "title": "更新：PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell)",
@@ -182,20 +196,6 @@
       ],
       "severity": "medium",
       "date": "2026-11-02T00:00:00+09:00",
-      "hatena_count": 21
-    },
-    {
-      "id": "zenn-f6f7ea13a9",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Weight-Space Programming やってみた(やらせてみた)",
-      "url": "https://zenn.dev/nwn/articles/cf9fe78aa33861",
-      "score": 21,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 07 Nov 2026 00:57:13 GMT",
       "hatena_count": 21
     },
     {
