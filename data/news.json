@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T10:05:54.518446+00:00",
+  "updated_at": "2026-11-09T10:33:35.726877+00:00",
   "count": 500,
   "items": [
     {
@@ -6289,6 +6289,20 @@
       "hatena_count": 1
     },
     {
+      "id": "zenn-800f7701a2",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "LLM アプリケーションのプロンプトをどこで管理するか",
+      "url": "https://zenn.dev/painter/articles/663816c3195cec",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 09 Nov 2026 03:11:23 GMT",
+      "hatena_count": 0
+    },
+    {
       "id": "zenn-695b12cc60",
       "source": "sns",
       "sub_source": "Zenn",
@@ -6301,6 +6315,20 @@
       ],
       "date": "Mon, 09 Nov 2026 01:38:40 GMT",
       "hatena_count": 2
+    },
+    {
+      "id": "zenn-7d82e11dbb",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "AIエージェントに自分の開発環境を作らせ続けた2か月",
+      "url": "https://zenn.dev/otar/articles/switchboard-own-dev-environment",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 08 Nov 2026 21:41:08 GMT",
+      "hatena_count": 0
     },
     {
       "id": "zenn-652d693308",
@@ -6331,17 +6359,31 @@
       "hatena_count": 5
     },
     {
-      "id": "zenn-52d312f90f",
+      "id": "zenn-077318206a",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "自宅サーバーにClaude Codeを常駐させ、スマホから24時間指示を出す（Remote Control＋systemd）",
-      "url": "https://zenn.dev/samurai_works/articles/114a5e654ca295",
+      "title": "Piを使ってこんな開発ハーネス組んでます",
+      "url": "https://zenn.dev/minty1st/articles/51b1422d660d26",
       "score": 0,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Sun, 08 Nov 2026 08:59:05 GMT",
+      "date": "Sun, 08 Nov 2026 15:02:15 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-5339478e93",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "静的型付けはAIのバグを減らすか？ TypeScriptとJavaScriptで同じGit互換CLIを3本ずつ書かせて比べた",
+      "url": "https://zenn.dev/torudev/articles/dd45de860fc7c3",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 08 Nov 2026 10:31:31 GMT",
       "hatena_count": 0
     },
     {
@@ -6401,21 +6443,6 @@
       "hatena_count": 0
     },
     {
-      "id": "zenn-8b3c2a1b8b",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Cloudflare Zero Wire × GitHub Actions × Claude で公開サーバーの脆弱性チェックを自動化",
-      "url": "https://zenn.dev/tomipetit/articles/zero-wire-github-actions",
-      "score": 225,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 07 Nov 2026 06:44:47 GMT",
-      "severity": "high",
-      "hatena_count": 225
-    },
-    {
       "id": "zenn-f6f7ea13a9",
       "source": "sns",
       "sub_source": "Zenn",
@@ -6442,20 +6469,6 @@
       ],
       "date": "Fri, 06 Nov 2026 14:39:45 GMT",
       "hatena_count": 145
-    },
-    {
-      "id": "zenn-07750019f1",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Web 標準動向 2026年10月版",
-      "url": "https://zenn.dev/cybozu_frontend/articles/web-standards-trends-202610",
-      "score": 3,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 06 Nov 2026 09:08:06 GMT",
-      "hatena_count": 3
     },
     {
       "id": "zenn-8d6f0721b5",
@@ -6554,20 +6567,6 @@
       ],
       "date": "Wed, 04 Nov 2026 01:19:56 GMT",
       "hatena_count": 124
-    },
-    {
-      "id": "zenn-db23a67f04",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "ADRをregoでlintする",
-      "url": "https://zenn.dev/babarot/articles/regomark-adr-checker",
-      "score": 73,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 03 Nov 2026 07:59:33 GMT",
-      "hatena_count": 73
     },
     {
       "id": "techracho-f68eade31b",
@@ -6718,6 +6717,63 @@
       ],
       "date": "Tue, 20 Oct 2026 08:30:42 +0000",
       "hatena_count": 2
+    },
+    {
+      "id": "zenn-52d312f90f",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "自宅サーバーにClaude Codeを常駐させ、スマホから24時間指示を出す（Remote Control＋systemd）",
+      "url": "https://zenn.dev/samurai_works/articles/114a5e654ca295",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 08 Nov 2026 08:59:05 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-8b3c2a1b8b",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Cloudflare Zero Wire × GitHub Actions × Claude で公開サーバーの脆弱性チェックを自動化",
+      "url": "https://zenn.dev/tomipetit/articles/zero-wire-github-actions",
+      "score": 225,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 07 Nov 2026 06:44:47 GMT",
+      "severity": "high",
+      "hatena_count": 225
+    },
+    {
+      "id": "zenn-07750019f1",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Web 標準動向 2026年10月版",
+      "url": "https://zenn.dev/cybozu_frontend/articles/web-standards-trends-202610",
+      "score": 3,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 06 Nov 2026 09:08:06 GMT",
+      "hatena_count": 3
+    },
+    {
+      "id": "zenn-db23a67f04",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "ADRをregoでlintする",
+      "url": "https://zenn.dev/babarot/articles/regomark-adr-checker",
+      "score": 73,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 03 Nov 2026 07:59:33 GMT",
+      "hatena_count": 73
     },
     {
       "id": "techracho-c67bd01ce1",
@@ -7055,62 +7111,6 @@
       ],
       "date": "Wed, 04 Nov 2026 12:33:10 GMT",
       "hatena_count": 3
-    },
-    {
-      "id": "zenn-93901d4794",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "学祭のシフト作りを自動化した話 実装編：Apps Script で選んだ設計の判断 9 個",
-      "url": "https://zenn.dev/jun_eg/articles/school-festival-shift-apps-script-impl",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 06 Nov 2026 00:30:49 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-a8709948a7",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "OpenAPI Hono というライブラリを作りました",
-      "url": "https://zenn.dev/mini_bg_pro_n/articles/cd79010b1d1b9c",
-      "score": 1,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 05 Nov 2026 12:32:53 GMT",
-      "hatena_count": 1
-    },
-    {
-      "id": "zenn-1f027e0ca4",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "手書き Provider 261 件を @riverpod へ全面移行した進め方",
-      "url": "https://zenn.dev/jtcc/articles/riverpod-generator-migration",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 05 Nov 2026 08:07:39 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-6fb8902d34",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "CS業務カイゼン・ジャーニー",
-      "url": "https://zenn.dev/appleworld/articles/8acf5474644f7e",
-      "score": 1,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 05 Nov 2026 05:42:04 GMT",
-      "hatena_count": 1
     }
   ]
 }
