@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T16:06:12.761990+00:00",
+  "updated_at": "2026-11-09T16:34:03.406626+00:00",
   "count": 500,
   "items": [
     {
@@ -6317,20 +6317,6 @@
       "hatena_count": 3
     },
     {
-      "id": "zenn-d78c3e0089",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "個性を磨くUI観点",
-      "url": "https://zenn.dev/silverbirder/books/ui-craft-techniques",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 09 Nov 2026 00:00:14 GMT",
-      "hatena_count": 0
-    },
-    {
       "id": "zenn-7d82e11dbb",
       "source": "sns",
       "sub_source": "Zenn",
@@ -6364,13 +6350,13 @@
       "sub_source": "Zenn",
       "title": "Herdr.app と hc の上で Claude Code の司令塔を回している",
       "url": "https://zenn.dev/hoshinotsuyoshi/articles/c994c29833f36c",
-      "score": 17,
+      "score": 19,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sun, 08 Nov 2026 16:00:51 GMT",
-      "hatena_count": 17
+      "hatena_count": 19
     },
     {
       "id": "zenn-077318206a",
@@ -6569,6 +6555,20 @@
       "hatena_count": 38
     },
     {
+      "id": "zenn-d2dd7eb267",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "OpenCode+Docker+GitHub Actionsで全自動AIペネトレーションテストはじめました",
+      "url": "https://zenn.dev/team_zenn/articles/opencode-docker-actions-ai-pentest",
+      "score": 124,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 04 Nov 2026 01:19:56 GMT",
+      "hatena_count": 124
+    },
+    {
       "id": "techracho-f68eade31b",
       "source": "techracho",
       "title": "「RailsはJITコンパイラだ！」（翻訳）",
@@ -6719,18 +6719,18 @@
       "hatena_count": 2
     },
     {
-      "id": "zenn-d2dd7eb267",
+      "id": "zenn-d78c3e0089",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "OpenCode+Docker+GitHub Actionsで全自動AIペネトレーションテストはじめました",
-      "url": "https://zenn.dev/team_zenn/articles/opencode-docker-actions-ai-pentest",
-      "score": 124,
+      "title": "個性を磨くUI観点",
+      "url": "https://zenn.dev/silverbirder/books/ui-craft-techniques",
+      "score": 0,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Wed, 04 Nov 2026 01:19:56 GMT",
-      "hatena_count": 124
+      "date": "Mon, 09 Nov 2026 00:00:14 GMT",
+      "hatena_count": 0
     },
     {
       "id": "zenn-52d312f90f",
