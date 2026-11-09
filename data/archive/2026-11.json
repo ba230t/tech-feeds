@@ -77,13 +77,13 @@
       "sub_source": "Zenn",
       "title": "[破壊的変更] 明治時代の開始日が変更になって単体テストが失敗した件",
       "url": "https://zenn.dev/xin9le/articles/9a1cf8e10494d6",
-      "score": 146,
+      "score": 145,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 06 Nov 2026 14:39:45 GMT",
-      "hatena_count": 146
+      "hatena_count": 145
     },
     {
       "id": "zenn-d2dd7eb267",
@@ -213,6 +213,20 @@
       "hatena_count": 3
     },
     {
+      "id": "zenn-07750019f1",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Web 標準動向 2026年10月版",
+      "url": "https://zenn.dev/cybozu_frontend/articles/web-standards-trends-202610",
+      "score": 3,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 06 Nov 2026 09:08:06 GMT",
+      "hatena_count": 3
+    },
+    {
       "id": "zenn-6972a4d1df",
       "source": "sns",
       "sub_source": "Zenn",
@@ -283,21 +297,6 @@
         "日本語"
       ],
       "date": "Wed, 28 Oct 2026 08:30:47 +0000",
-      "hatena_count": 3
-    },
-    {
-      "id": "techracho-d9c27895fc",
-      "source": "techracho",
-      "title": "Falconを Ruby アプリケーションのWebサーバーとして使ってみた話（翻訳）",
-      "url": "https://techracho.bpsinc.jp/hachi8833/2026_10_21/159476",
-      "score": 3,
-      "author": "Techracho",
-      "tags": [
-        "Ruby",
-        "Rails",
-        "日本語"
-      ],
-      "date": "Wed, 21 Oct 2026 08:30:47 +0000",
       "hatena_count": 3
     }
   ],
