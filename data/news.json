@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T09:33:24.414369+00:00",
+  "updated_at": "2026-11-09T10:05:54.518446+00:00",
   "count": 500,
   "items": [
     {
@@ -6294,13 +6294,13 @@
       "sub_source": "Zenn",
       "title": "ShopifyのReact Native→ネイティブ移行を支える「Reflex」をSwiftとKotlinで試す",
       "url": "https://zenn.dev/tellernovel_inc/articles/reflex-native-swift-kotlin",
-      "score": 1,
+      "score": 2,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 09 Nov 2026 01:38:40 GMT",
-      "hatena_count": 1
+      "hatena_count": 2
     },
     {
       "id": "zenn-652d693308",
@@ -6322,13 +6322,13 @@
       "sub_source": "Zenn",
       "title": "Herdr.app と hc の上で Claude Code の司令塔を回している",
       "url": "https://zenn.dev/hoshinotsuyoshi/articles/c994c29833f36c",
-      "score": 3,
+      "score": 5,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sun, 08 Nov 2026 16:00:51 GMT",
-      "hatena_count": 3
+      "hatena_count": 5
     },
     {
       "id": "zenn-52d312f90f",
@@ -6406,14 +6406,14 @@
       "sub_source": "Zenn",
       "title": "Cloudflare Zero Wire × GitHub Actions × Claude で公開サーバーの脆弱性チェックを自動化",
       "url": "https://zenn.dev/tomipetit/articles/zero-wire-github-actions",
-      "score": 224,
+      "score": 225,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sat, 07 Nov 2026 06:44:47 GMT",
       "severity": "high",
-      "hatena_count": 224
+      "hatena_count": 225
     },
     {
       "id": "zenn-f6f7ea13a9",

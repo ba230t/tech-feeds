@@ -34,14 +34,14 @@
       "sub_source": "Zenn",
       "title": "Cloudflare Zero Wire × GitHub Actions × Claude で公開サーバーの脆弱性チェックを自動化",
       "url": "https://zenn.dev/tomipetit/articles/zero-wire-github-actions",
-      "score": 224,
+      "score": 225,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sat, 07 Nov 2026 06:44:47 GMT",
       "severity": "high",
-      "hatena_count": 224
+      "hatena_count": 225
     },
     {
       "id": "zenn-49fbe9e192",
@@ -190,13 +190,13 @@
       "sub_source": "Zenn",
       "title": "Herdr.app と hc の上で Claude Code の司令塔を回している",
       "url": "https://zenn.dev/hoshinotsuyoshi/articles/c994c29833f36c",
-      "score": 3,
+      "score": 5,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sun, 08 Nov 2026 16:00:51 GMT",
-      "hatena_count": 3
+      "hatena_count": 5
     },
     {
       "id": "zenn-bd2574cc91",
@@ -307,14 +307,14 @@
       "sub_source": "Zenn",
       "title": "Cloudflare Zero Wire × GitHub Actions × Claude で公開サーバーの脆弱性チェックを自動化",
       "url": "https://zenn.dev/tomipetit/articles/zero-wire-github-actions",
-      "score": 224,
+      "score": 225,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sat, 07 Nov 2026 06:44:47 GMT",
       "severity": "high",
-      "hatena_count": 224
+      "hatena_count": 225
     },
     {
       "id": "qiita-eabdafc557",
