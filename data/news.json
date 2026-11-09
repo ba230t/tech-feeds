@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T01:34:29.326379+00:00",
+  "updated_at": "2026-11-09T02:08:00.395907+00:00",
   "count": 500,
   "items": [
     {
@@ -6238,14 +6238,14 @@
       "sub_source": "Zenn",
       "title": "Cloudflare Zero Wire × GitHub Actions × Claude で公開サーバーの脆弱性チェックを自動化",
       "url": "https://zenn.dev/tomipetit/articles/zero-wire-github-actions",
-      "score": 229,
+      "score": 231,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sat, 07 Nov 2026 06:44:47 GMT",
       "severity": "high",
-      "hatena_count": 229
+      "hatena_count": 231
     },
     {
       "id": "zenn-f6f7ea13a9",
