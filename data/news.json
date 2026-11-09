@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T11:33:31.700163+00:00",
+  "updated_at": "2026-11-09T12:08:38.279802+00:00",
   "count": 500,
   "items": [
     {
@@ -6294,13 +6294,13 @@
       "sub_source": "Zenn",
       "title": "ShopifyのReact Native→ネイティブ移行を支える「Reflex」をSwiftとKotlinで試す",
       "url": "https://zenn.dev/tellernovel_inc/articles/reflex-native-swift-kotlin",
-      "score": 2,
+      "score": 3,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 09 Nov 2026 01:38:40 GMT",
-      "hatena_count": 2
+      "hatena_count": 3
     },
     {
       "id": "zenn-652d693308",
@@ -6322,13 +6322,13 @@
       "sub_source": "Zenn",
       "title": "Herdr.app と hc の上で Claude Code の司令塔を回している",
       "url": "https://zenn.dev/hoshinotsuyoshi/articles/c994c29833f36c",
-      "score": 7,
+      "score": 10,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sun, 08 Nov 2026 16:00:51 GMT",
-      "hatena_count": 7
+      "hatena_count": 10
     },
     {
       "id": "zenn-52d312f90f",

@@ -190,13 +190,27 @@
       "sub_source": "Zenn",
       "title": "Herdr.app と hc の上で Claude Code の司令塔を回している",
       "url": "https://zenn.dev/hoshinotsuyoshi/articles/c994c29833f36c",
-      "score": 7,
+      "score": 10,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sun, 08 Nov 2026 16:00:51 GMT",
-      "hatena_count": 7
+      "hatena_count": 10
+    },
+    {
+      "id": "zenn-695b12cc60",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "ShopifyのReact Native→ネイティブ移行を支える「Reflex」をSwiftとKotlinで試す",
+      "url": "https://zenn.dev/tellernovel_inc/articles/reflex-native-swift-kotlin",
+      "score": 3,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 09 Nov 2026 01:38:40 GMT",
+      "hatena_count": 3
     },
     {
       "id": "zenn-bd2574cc91",
@@ -282,21 +296,6 @@
         "日本語"
       ],
       "date": "Thu, 29 Oct 2026 08:30:36 +0000",
-      "hatena_count": 3
-    },
-    {
-      "id": "techracho-2f1472b57b",
-      "source": "techracho",
-      "title": "YJIT で純粋な Ruby コードがC拡張より速くなる理由（翻訳）",
-      "url": "https://techracho.bpsinc.jp/hachi8833/2026_10_28/160886",
-      "score": 3,
-      "author": "Techracho",
-      "tags": [
-        "Ruby",
-        "Rails",
-        "日本語"
-      ],
-      "date": "Wed, 28 Oct 2026 08:30:47 +0000",
       "hatena_count": 3
     }
   ],
