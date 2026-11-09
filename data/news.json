@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T00:13:56.552814+00:00",
+  "updated_at": "2026-11-09T00:48:08.288868+00:00",
   "count": 500,
   "items": [
     {
@@ -332,13 +332,13 @@
       "sub_source": "Qiita",
       "title": "周回遅れ？インフラエンジニア、今さら GitHub Copilot app を使い始める！？",
       "url": "https://qiita.com/carol0226/items/21c4ad96de4d8df2f047?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
+      "score": 1,
       "author": "Qiita",
       "tags": [
         "Qiita"
       ],
       "date": "2026-11-07T06:05:58+09:00",
-      "hatena_count": 0
+      "hatena_count": 1
     },
     {
       "id": "qiita-f8a6954e15",
@@ -6759,7 +6759,7 @@
         "Zenn"
       ],
       "date": "Thu, 05 Nov 2026 09:00:55 GMT",
-      "hatena_count": 4
+      "hatena_count": 5
     },
     {
       "id": "zenn-74da8eec3a",
