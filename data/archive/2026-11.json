@@ -1,7 +1,7 @@
 {
   "month": "2026-11",
   "total_articles": 228,
-  "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (1件)**\n\n1. 更新：PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell)\n\n**AI・機械学習動向 (4件)**\n\n1. Claude Codeで最近使っているTips【2026/11】\n\n2. 危ないPRだけ人間が見て、レビューはAIにお任せ。AI自動レビューツール作りました\n\n3. Herdr.app と hc の上で Claude Code の司令塔を回している\n\n4. AIですぐに作れる時代に、何と向き合うか\n\n**技術トレンド (5件)**\n\n1. 退屈なCoding AgentはMuseにやらせよう\n\n2. [破壊的変更] 明治時代の開始日が変更になって単体テストが失敗した件\n\n3. AWSから4.3億円の課金が...バグと思われる高額請求された際にまずすること\n\n4. なぜ mixi2 は iPhone Duo の発売初日から最適化できたのか？\n\n5. Shopifyの Rubydex linter でRubyプロジェクトに構造的lintを導入しよう（翻訳）",
+  "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (1件)**\n\n1. 更新：PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell)\n\n**AI・機械学習動向 (3件)**\n\n1. Claude Codeで最近使っているTips【2026/11】\n\n2. AIですぐに作れる時代に、何と向き合うか\n\n3. RailsのコードをRactorセーフにするリファクタリングパターン集（翻訳）\n\n**技術トレンド (6件)**\n\n1. 退屈なCoding AgentはMuseにやらせよう\n\n2. [破壊的変更] 明治時代の開始日が変更になって単体テストが失敗した件\n\n3. AWSから4.3億円の課金が...バグと思われる高額請求された際にまずすること\n\n4. NVIDIAの「長文コンテキスト不要」論文\n\n5. なぜ mixi2 は iPhone Duo の発売初日から最適化できたのか？\n\n6. Shopifyの Rubydex linter でRubyプロジェクトに構造的lintを導入しよう（翻訳）",
   "source_counts": {
     "sns": 202,
     "jpcert": 15,
@@ -20,13 +20,13 @@
       "sub_source": "Zenn",
       "title": "Claude Codeで最近使っているTips【2026/11】",
       "url": "https://zenn.dev/oikon/articles/claude-code-recipe",
-      "score": 468,
+      "score": 476,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 09 Nov 2026 22:01:05 GMT",
-      "hatena_count": 468
+      "hatena_count": 476
     },
     {
       "id": "zenn-86e2a08d5a",
@@ -57,34 +57,6 @@
       "hatena_count": 144
     },
     {
-      "id": "zenn-111c6fb5fc",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "危ないPRだけ人間が見て、レビューはAIにお任せ。AI自動レビューツール作りました",
-      "url": "https://zenn.dev/karamage/articles/f59f4109030d93",
-      "score": 28,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 08 Nov 2026 11:01:27 GMT",
-      "hatena_count": 28
-    },
-    {
-      "id": "zenn-c74c4cb54d",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Herdr.app と hc の上で Claude Code の司令塔を回している",
-      "url": "https://zenn.dev/hoshinotsuyoshi/articles/c994c29833f36c",
-      "score": 24,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 08 Nov 2026 16:00:51 GMT",
-      "hatena_count": 24
-    },
-    {
       "id": "zenn-bd2574cc91",
       "source": "sns",
       "sub_source": "Zenn",
@@ -97,6 +69,20 @@
       ],
       "date": "Sun, 08 Nov 2026 08:56:07 GMT",
       "hatena_count": 24
+    },
+    {
+      "id": "zenn-b2b3047a18",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "NVIDIAの「長文コンテキスト不要」論文",
+      "url": "https://zenn.dev/knowledgesense/articles/bd917ed6829121",
+      "score": 22,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 10 Nov 2026 00:01:05 GMT",
+      "hatena_count": 22
     },
     {
       "id": "ipa-ee45d6bd49",
@@ -119,13 +105,13 @@
       "sub_source": "Zenn",
       "title": "なぜ mixi2 は iPhone Duo の発売初日から最適化できたのか？",
       "url": "https://zenn.dev/mixi/articles/b0ea64fded9503",
-      "score": 6,
+      "score": 7,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 09 Nov 2026 06:57:46 GMT",
-      "hatena_count": 6
+      "hatena_count": 7
     },
     {
       "id": "zenn-f9b3376cd7",
@@ -300,6 +286,20 @@
         "Qiita"
       ],
       "date": "2026-11-04T13:44:11+09:00",
+      "hatena_count": 1
+    },
+    {
+      "id": "qiita-335be4700d",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "【未来を解説】AIでエンジニア格差を生み出す質とスピードの考え方",
+      "url": "https://qiita.com/Sicut_study/items/b9e38c0584d4aa720d31?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 1,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-01T17:41:55+09:00",
       "hatena_count": 1
     }
   ],

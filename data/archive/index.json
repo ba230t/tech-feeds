@@ -3,7 +3,7 @@
     {
       "month": "2026-11",
       "total_articles": 228,
-      "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (1件)**\n\n1. 更新：PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell)\n\n**AI・機械学習動向 (4件)**\n\n1. Claude Codeで最近使っているTips【2026/11】\n\n2. 危ないPRだけ人間が見て、レビューはAIにお任せ。AI自動レビューツール作りました\n\n3. Herdr.app と hc の上で Claude Code の司令塔を回している\n\n4. AIですぐに作れる時代に、何と向き合うか\n\n**技術トレンド (5件)**\n\n1. 退屈なCoding AgentはMuseにやらせよう\n\n2. [破壊的変更] 明治時代の開始日が変更になって単体テストが失敗した件\n\n3. AWSから4.3億円の課金が...バグと思われる高額請求された際にまずすること\n\n4. なぜ mixi2 は iPhone Duo の発売初日から最適化できたのか？\n\n5. Shopifyの Rubydex linter でRubyプロジェクトに構造的lintを導入しよう（翻訳）",
+      "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (1件)**\n\n1. 更新：PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell)\n\n**AI・機械学習動向 (3件)**\n\n1. Claude Codeで最近使っているTips【2026/11】\n\n2. AIですぐに作れる時代に、何と向き合うか\n\n3. RailsのコードをRactorセーフにするリファクタリングパターン集（翻訳）\n\n**技術トレンド (6件)**\n\n1. 退屈なCoding AgentはMuseにやらせよう\n\n2. [破壊的変更] 明治時代の開始日が変更になって単体テストが失敗した件\n\n3. AWSから4.3億円の課金が...バグと思われる高額請求された際にまずすること\n\n4. NVIDIAの「長文コンテキスト不要」論文\n\n5. なぜ mixi2 は iPhone Duo の発売初日から最適化できたのか？\n\n6. Shopifyの Rubydex linter でRubyプロジェクトに構造的lintを導入しよう（翻訳）",
       "file": "2026-11.json",
       "html_file": "2026-11.html",
       "compressed": false
