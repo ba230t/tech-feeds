@@ -90,13 +90,13 @@
       "sub_source": "Zenn",
       "title": "危ないPRだけ人間が見て、レビューはAIにお任せ。AI自動レビューツール作りました",
       "url": "https://zenn.dev/karamage/articles/f59f4109030d93",
-      "score": 25,
+      "score": 26,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sun, 08 Nov 2026 11:01:27 GMT",
-      "hatena_count": 25
+      "hatena_count": 26
     },
     {
       "id": "zenn-c74c4cb54d",
@@ -154,6 +154,20 @@
       ],
       "date": "Sun, 08 Nov 2026 08:56:07 GMT",
       "hatena_count": 4
+    },
+    {
+      "id": "zenn-294c9faf90",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Claude Codeで最近使っているTips【2026/11】",
+      "url": "https://zenn.dev/oikon/articles/claude-code-recipe",
+      "score": 3,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 09 Nov 2026 22:01:05 GMT",
+      "hatena_count": 3
     },
     {
       "id": "zenn-f9b3376cd7",
@@ -256,20 +270,6 @@
       ],
       "date": "Thu, 05 Nov 2026 13:05:08 GMT",
       "hatena_count": 3
-    },
-    {
-      "id": "zenn-294c9faf90",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Claude Codeで最近使っているTips【2026/11】",
-      "url": "https://zenn.dev/oikon/articles/claude-code-recipe",
-      "score": 2,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 09 Nov 2026 22:01:05 GMT",
-      "hatena_count": 2
     },
     {
       "id": "zenn-6cd8308eec",
