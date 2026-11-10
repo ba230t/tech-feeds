@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T06:37:46.673536+00:00",
+  "updated_at": "2026-11-10T07:05:59.691156+00:00",
   "count": 500,
   "items": [
     {
@@ -6434,13 +6434,13 @@
       "sub_source": "Zenn",
       "title": "Claude Codeで最近使っているTips【2026/11】",
       "url": "https://zenn.dev/oikon/articles/claude-code-recipe",
-      "score": 13,
+      "score": 39,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 09 Nov 2026 22:01:05 GMT",
-      "hatena_count": 13
+      "hatena_count": 39
     },
     {
       "id": "zenn-1d83450d1b",
@@ -6589,13 +6589,13 @@
       "sub_source": "Zenn",
       "title": "ShopifyのReact Native→ネイティブ移行を支える「Reflex」をSwiftとKotlinで試す",
       "url": "https://zenn.dev/tellernovel_inc/articles/reflex-native-swift-kotlin",
-      "score": 43,
+      "score": 42,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 09 Nov 2026 01:38:40 GMT",
-      "hatena_count": 43
+      "hatena_count": 42
     },
     {
       "id": "zenn-d78c3e0089",
