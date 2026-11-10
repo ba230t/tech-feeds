@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T03:06:17.380754+00:00",
+  "updated_at": "2026-11-10T04:05:53.568966+00:00",
   "count": 500,
   "items": [
     {
@@ -6504,13 +6504,13 @@
       "sub_source": "Zenn",
       "title": "AIですぐに作れる時代に、何と向き合うか",
       "url": "https://zenn.dev/peoplex_blog/articles/2611-what-to-face-when-ai-builds-fast",
-      "score": 2,
+      "score": 3,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 09 Nov 2026 04:49:20 GMT",
-      "hatena_count": 2
+      "hatena_count": 3
     },
     {
       "id": "zenn-800f7701a2",
@@ -6518,13 +6518,13 @@
       "sub_source": "Zenn",
       "title": "LLM アプリケーションのプロンプトをどこで管理するか",
       "url": "https://zenn.dev/painter/articles/663816c3195cec",
-      "score": 0,
+      "score": 1,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 09 Nov 2026 03:11:23 GMT",
-      "hatena_count": 0
+      "hatena_count": 1
     },
     {
       "id": "zenn-46cf58d80a",
@@ -6546,13 +6546,13 @@
       "sub_source": "Zenn",
       "title": "ShopifyのReact Native→ネイティブ移行を支える「Reflex」をSwiftとKotlinで試す",
       "url": "https://zenn.dev/tellernovel_inc/articles/reflex-native-swift-kotlin",
-      "score": 30,
+      "score": 42,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 09 Nov 2026 01:38:40 GMT",
-      "hatena_count": 30
+      "hatena_count": 42
     },
     {
       "id": "zenn-db2da0d12b",
