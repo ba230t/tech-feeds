@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T04:05:53.568966+00:00",
+  "updated_at": "2026-11-10T04:33:30.402144+00:00",
   "count": 500,
   "items": [
     {
@@ -6415,6 +6415,48 @@
       "hatena_count": 1
     },
     {
+      "id": "zenn-0caa825a1c",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "GitHub rulesetのON/OFFで「マージ禁止期間」を作る",
+      "url": "https://zenn.dev/yesodco/articles/yesod-github-ruleset-merge-freeze",
+      "score": 1,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 10 Nov 2026 02:45:29 GMT",
+      "hatena_count": 1
+    },
+    {
+      "id": "zenn-294c9faf90",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Claude Codeで最近使っているTips【2026/11】",
+      "url": "https://zenn.dev/oikon/articles/claude-code-recipe",
+      "score": 2,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 09 Nov 2026 22:01:05 GMT",
+      "hatena_count": 2
+    },
+    {
+      "id": "zenn-1d83450d1b",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "撮る側として、学ぶ側として。JAWS FESTA 2026 in AKITA 参加レポート",
+      "url": "https://zenn.dev/yukiblue63/articles/4d81ff46e01381",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 09 Nov 2026 21:00:06 GMT",
+      "hatena_count": 0
+    },
+    {
       "id": "zenn-be0e691f98",
       "source": "sns",
       "sub_source": "Zenn",
@@ -6429,32 +6471,19 @@
       "hatena_count": 0
     },
     {
-      "id": "zenn-d912e98431",
+      "id": "zenn-ab731c7f05",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "ゼロから作ったMamba3言語モデルを日本語で話せる全二重音声対話モデルに拡張するまで",
-      "url": "https://zenn.dev/taaroo/articles/47f8d1ac55d4af",
-      "score": 0,
+      "title": "脆弱性問題を解決するためにRustに移行するべきなのか？",
+      "url": "https://zenn.dev/garasubo/articles/72340052cdd871",
+      "score": 1,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Mon, 09 Nov 2026 14:48:35 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-c721c925b4",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "2 つのエージェントで異なる方向性から検証を行う",
-      "url": "https://zenn.dev/kokagex/articles/75f89df3b007cc",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 09 Nov 2026 13:41:19 GMT",
-      "hatena_count": 0
+      "date": "Mon, 09 Nov 2026 13:51:19 GMT",
+      "severity": "high",
+      "hatena_count": 1
     },
     {
       "id": "zenn-41be3077a8",
@@ -6490,12 +6519,40 @@
       "sub_source": "Zenn",
       "title": "なぜ mixi2 は iPhone Duo の発売初日から最適化できたのか？",
       "url": "https://zenn.dev/mixi/articles/b0ea64fded9503",
-      "score": 1,
+      "score": 2,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 09 Nov 2026 06:57:46 GMT",
+      "hatena_count": 2
+    },
+    {
+      "id": "zenn-6f0bb36a65",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "子育て中の隙間時間に、スマホからClaude Codeで自己学習する",
+      "url": "https://zenn.dev/chot/articles/1bf145d3d31ca1",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 09 Nov 2026 06:18:27 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-a34e63af02",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "AI時代の開発を支えるMOSHのプレビュー環境",
+      "url": "https://zenn.dev/moshjp/articles/c068a50c9bbcd7",
+      "score": 1,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 09 Nov 2026 05:51:00 GMT",
       "hatena_count": 1
     },
     {
@@ -6513,31 +6570,17 @@
       "hatena_count": 3
     },
     {
-      "id": "zenn-800f7701a2",
+      "id": "zenn-8254c3c853",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "LLM アプリケーションのプロンプトをどこで管理するか",
-      "url": "https://zenn.dev/painter/articles/663816c3195cec",
-      "score": 1,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 09 Nov 2026 03:11:23 GMT",
-      "hatena_count": 1
-    },
-    {
-      "id": "zenn-46cf58d80a",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "閉域網でも AI を使いこなす: ローカル LLM × GitLab DAP（GitLab Epic Tour Japan 2026 登壇）",
-      "url": "https://zenn.dev/fixstars/articles/gitlab-epic-tour-2026-local-llm",
+      "title": "AIによるハーネスの自己改善で気を付けるべきこと",
+      "url": "https://zenn.dev/headwaters/articles/25be30393f0be9",
       "score": 0,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Mon, 09 Nov 2026 01:45:40 GMT",
+      "date": "Mon, 09 Nov 2026 03:49:40 GMT",
       "hatena_count": 0
     },
     {
@@ -6553,20 +6596,6 @@
       ],
       "date": "Mon, 09 Nov 2026 01:38:40 GMT",
       "hatena_count": 42
-    },
-    {
-      "id": "zenn-db2da0d12b",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Anthropicから毎月もらえるAPIクレジットで、AIペンテストツールShannonを回してみた",
-      "url": "https://zenn.dev/arm_techblog/articles/9c5a29e37d1522",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 09 Nov 2026 01:06:50 GMT",
-      "hatena_count": 0
     },
     {
       "id": "zenn-d78c3e0089",
@@ -6611,6 +6640,20 @@
       "hatena_count": 24
     },
     {
+      "id": "zenn-111c6fb5fc",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "危ないPRだけ人間が見て、レビューはAIにお任せ。AI自動レビューツール作りました",
+      "url": "https://zenn.dev/karamage/articles/f59f4109030d93",
+      "score": 25,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 08 Nov 2026 11:01:27 GMT",
+      "hatena_count": 25
+    },
+    {
       "id": "zenn-bd2574cc91",
       "source": "sns",
       "sub_source": "Zenn",
@@ -6623,34 +6666,6 @@
       ],
       "date": "Sun, 08 Nov 2026 08:56:07 GMT",
       "hatena_count": 4
-    },
-    {
-      "id": "zenn-d982fbf926",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "SELECTしかしていないのに、PostgreSQLのマイグレーションがロック待ちで失敗した話",
-      "url": "https://zenn.dev/naokisuzuki27/articles/cb1a5ac0e23763",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 08 Nov 2026 08:41:46 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-caf0b4b566",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "ISUCON2026 ソロ参加記：自作ハーネスで Claude Code をほぼ無人運転した",
-      "url": "https://zenn.dev/5alt_nacl/articles/isucon2026-solo-ai-agent",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 07 Nov 2026 23:35:44 GMT",
-      "hatena_count": 0
     },
     {
       "id": "zenn-f6f7ea13a9",
@@ -6679,20 +6694,6 @@
       ],
       "date": "Fri, 06 Nov 2026 14:39:45 GMT",
       "hatena_count": 144
-    },
-    {
-      "id": "zenn-8d6f0721b5",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "タスク管理までAIエージェントに任せたら、確認待ちに答えるだけになった",
-      "url": "https://zenn.dev/rescuenow/articles/4c03a548cd6589",
-      "score": 100,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 06 Nov 2026 08:59:24 GMT",
-      "hatena_count": 100
     },
     {
       "id": "techracho-f68eade31b",
@@ -6843,6 +6844,118 @@
       ],
       "date": "Tue, 20 Oct 2026 08:30:42 +0000",
       "hatena_count": 2
+    },
+    {
+      "id": "zenn-d912e98431",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "ゼロから作ったMamba3言語モデルを日本語で話せる全二重音声対話モデルに拡張するまで",
+      "url": "https://zenn.dev/taaroo/articles/47f8d1ac55d4af",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 09 Nov 2026 14:48:35 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-c721c925b4",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "2 つのエージェントで異なる方向性から検証を行う",
+      "url": "https://zenn.dev/kokagex/articles/75f89df3b007cc",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 09 Nov 2026 13:41:19 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-800f7701a2",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "LLM アプリケーションのプロンプトをどこで管理するか",
+      "url": "https://zenn.dev/painter/articles/663816c3195cec",
+      "score": 1,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 09 Nov 2026 03:11:23 GMT",
+      "hatena_count": 1
+    },
+    {
+      "id": "zenn-46cf58d80a",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "閉域網でも AI を使いこなす: ローカル LLM × GitLab DAP（GitLab Epic Tour Japan 2026 登壇）",
+      "url": "https://zenn.dev/fixstars/articles/gitlab-epic-tour-2026-local-llm",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 09 Nov 2026 01:45:40 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-db2da0d12b",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Anthropicから毎月もらえるAPIクレジットで、AIペンテストツールShannonを回してみた",
+      "url": "https://zenn.dev/arm_techblog/articles/9c5a29e37d1522",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 09 Nov 2026 01:06:50 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-d982fbf926",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "SELECTしかしていないのに、PostgreSQLのマイグレーションがロック待ちで失敗した話",
+      "url": "https://zenn.dev/naokisuzuki27/articles/cb1a5ac0e23763",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 08 Nov 2026 08:41:46 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-caf0b4b566",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "ISUCON2026 ソロ参加記：自作ハーネスで Claude Code をほぼ無人運転した",
+      "url": "https://zenn.dev/5alt_nacl/articles/isucon2026-solo-ai-agent",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 07 Nov 2026 23:35:44 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-8d6f0721b5",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "タスク管理までAIエージェントに任せたら、確認待ちに答えるだけになった",
+      "url": "https://zenn.dev/rescuenow/articles/4c03a548cd6589",
+      "score": 100,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 06 Nov 2026 08:59:24 GMT",
+      "hatena_count": 100
     },
     {
       "id": "zenn-7d82e11dbb",
@@ -6997,120 +7110,6 @@
       ],
       "date": "Wed, 04 Nov 2026 01:19:56 GMT",
       "hatena_count": 124
-    },
-    {
-      "id": "zenn-52d312f90f",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "自宅サーバーにClaude Codeを常駐させ、スマホから24時間指示を出す（Remote Control＋systemd）",
-      "url": "https://zenn.dev/samurai_works/articles/114a5e654ca295",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 08 Nov 2026 08:59:05 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-8b3c2a1b8b",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Cloudflare Zero Wire × GitHub Actions × Claude で公開サーバーの脆弱性チェックを自動化",
-      "url": "https://zenn.dev/tomipetit/articles/zero-wire-github-actions",
-      "score": 225,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 07 Nov 2026 06:44:47 GMT",
-      "severity": "high",
-      "hatena_count": 229
-    },
-    {
-      "id": "zenn-07750019f1",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Web 標準動向 2026年10月版",
-      "url": "https://zenn.dev/cybozu_frontend/articles/web-standards-trends-202610",
-      "score": 3,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 06 Nov 2026 09:08:06 GMT",
-      "hatena_count": 3
-    },
-    {
-      "id": "zenn-db23a67f04",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "ADRをregoでlintする",
-      "url": "https://zenn.dev/babarot/articles/regomark-adr-checker",
-      "score": 73,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 03 Nov 2026 07:59:33 GMT",
-      "hatena_count": 73
-    },
-    {
-      "id": "techracho-c67bd01ce1",
-      "source": "techracho",
-      "title": "Ruby: ZJIT がShopifyの環境で YJIT 並みの速さで動作した（翻訳）",
-      "url": "https://techracho.bpsinc.jp/hachi8833/2026_10_19/160792",
-      "score": 1,
-      "author": "Techracho",
-      "tags": [
-        "Ruby",
-        "Rails",
-        "日本語"
-      ],
-      "date": "Mon, 19 Oct 2026 08:30:12 +0000",
-      "hatena_count": 1
-    },
-    {
-      "id": "zenn-e20cc35fc6",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Go の defer の動きをちょっと調べてみた",
-      "url": "https://zenn.dev/wakame_atsushi/articles/8c45ac07bac534",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 08 Nov 2026 02:01:23 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-43bee14924",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "ISUCON2026 で優勝しました（当日編）",
-      "url": "https://zenn.dev/luvtechno/articles/isucon2026-competition-day",
-      "score": 425,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 02 Nov 2026 13:26:09 GMT",
-      "hatena_count": 426
-    },
-    {
-      "id": "zenn-49fbe9e192",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "AIが書く「読みづらいADR」に発狂しかけたので、ADRのガイドラインを作った",
-      "url": "https://zenn.dev/tokium_dev/articles/adr-authoring-guideline",
-      "score": 188,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 02 Nov 2026 06:00:05 GMT",
-      "hatena_count": 188
     }
   ]
 }
