@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T22:05:02.339078+00:00",
+  "updated_at": "2026-11-10T22:33:29.964106+00:00",
   "count": 500,
   "items": [
     {
@@ -6714,13 +6714,13 @@
       "sub_source": "Zenn",
       "title": "退屈なCoding AgentはMuseにやらせよう",
       "url": "https://zenn.dev/watany/articles/342b9815dd0553",
-      "score": 170,
+      "score": 171,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 10 Nov 2026 02:35:05 GMT",
-      "hatena_count": 170
+      "hatena_count": 171
     },
     {
       "id": "zenn-a9d487fb41",
@@ -6742,13 +6742,13 @@
       "sub_source": "Zenn",
       "title": "Claude Codeで最近使っているTips【2026/11】",
       "url": "https://zenn.dev/oikon/articles/claude-code-recipe",
-      "score": 454,
+      "score": 468,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 09 Nov 2026 22:01:05 GMT",
-      "hatena_count": 454
+      "hatena_count": 468
     },
     {
       "id": "zenn-1d83450d1b",
@@ -6827,13 +6827,13 @@
       "sub_source": "Zenn",
       "title": "なぜ mixi2 は iPhone Duo の発売初日から最適化できたのか？",
       "url": "https://zenn.dev/mixi/articles/b0ea64fded9503",
-      "score": 4,
+      "score": 6,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 09 Nov 2026 06:57:46 GMT",
-      "hatena_count": 4
+      "hatena_count": 6
     },
     {
       "id": "zenn-f9b3376cd7",
@@ -6925,13 +6925,13 @@
       "sub_source": "Zenn",
       "title": "AWSから4.3億円の課金が...バグと思われる高額請求された際にまずすること",
       "url": "https://zenn.dev/tsumita7/articles/aoss-intelligent-ingestion-billing-202610",
-      "score": 22,
+      "score": 24,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sun, 08 Nov 2026 08:56:07 GMT",
-      "hatena_count": 22
+      "hatena_count": 24
     },
     {
       "id": "zenn-f7880dbf50",
