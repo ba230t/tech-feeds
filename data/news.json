@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T16:06:21.611499+00:00",
+  "updated_at": "2026-11-10T16:33:23.681771+00:00",
   "count": 500,
   "items": [
     {
@@ -6616,13 +6616,13 @@
       "sub_source": "Zenn",
       "title": "退屈なCoding AgentはMuseにやらせよう",
       "url": "https://zenn.dev/watany/articles/342b9815dd0553",
-      "score": 154,
+      "score": 144,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 10 Nov 2026 02:35:05 GMT",
-      "hatena_count": 154
+      "hatena_count": 144
     },
     {
       "id": "zenn-a9d487fb41",
@@ -6644,13 +6644,13 @@
       "sub_source": "Zenn",
       "title": "Claude Codeで最近使っているTips【2026/11】",
       "url": "https://zenn.dev/oikon/articles/claude-code-recipe",
-      "score": 393,
+      "score": 379,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 09 Nov 2026 22:01:05 GMT",
-      "hatena_count": 393
+      "hatena_count": 379
     },
     {
       "id": "zenn-1d83450d1b",
@@ -6827,13 +6827,13 @@
       "sub_source": "Zenn",
       "title": "AWSから4.3億円の課金が...バグと思われる高額請求された際にまずすること",
       "url": "https://zenn.dev/tsumita7/articles/aoss-intelligent-ingestion-billing-202610",
-      "score": 18,
+      "score": 17,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sun, 08 Nov 2026 08:56:07 GMT",
-      "hatena_count": 18
+      "hatena_count": 17
     },
     {
       "id": "zenn-f7880dbf50",
