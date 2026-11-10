@@ -1,7 +1,63 @@
 {
-  "updated_at": "2026-11-10T20:05:44.847903+00:00",
+  "updated_at": "2026-11-10T20:33:05.514478+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "qiita-2af0df44fe",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "AHC074 （HACK TO THE FUTURE 2027 予選）With AI部門のAIの使い方(暫定10位)",
+      "url": "https://qiita.com/thun-c/items/fa16332d2b18800d69b2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-10T23:00:46+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-553ab8f6c3",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "Fable 5.2でGTA 6 Osaka Cityを作ってみた",
+      "url": "https://qiita.com/7mpy/items/5710fef43ba0e59204c6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-10T22:38:25+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-fc3da22a14",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "ABC482で入青しました！",
+      "url": "https://qiita.com/yoniha/items/c5e23c033bf3e09d0f20?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-10T19:59:38+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-386b0b6ea3",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "JAWS FESTA in AKITA 登壇で伝えたかったこと「何歳になっても夢中になれる」猫でもわかるDirect Connect",
+      "url": "https://qiita.com/kamogashira/items/1e44fcb29255d2037300?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-10T14:11:08+09:00",
+      "hatena_count": 0
+    },
     {
       "id": "qiita-5c896531d3",
       "source": "sns",
@@ -42,6 +98,20 @@
         "Qiita"
       ],
       "date": "2026-11-10T10:43:41+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-087e964d03",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "AIが書いたテストでは変異の半分を検出できなかった",
+      "url": "https://qiita.com/meursyphus/items/f3c05ced6a6815c1cf0c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-10T09:38:11+09:00",
       "hatena_count": 0
     },
     {
@@ -241,6 +311,20 @@
       "hatena_count": 0
     },
     {
+      "id": "qiita-7713223ae5",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "JaSST'26 Niigata「コードベースE2E自動テストをどう始め、どう続けるか」聴講レポート",
+      "url": "https://qiita.com/nobosemon/items/bbfd35e8e6dd98b32f94?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-09T16:01:10+09:00",
+      "hatena_count": 0
+    },
+    {
       "id": "qiita-99a450ac22",
       "source": "sns",
       "sub_source": "Qiita",
@@ -252,6 +336,20 @@
         "Qiita"
       ],
       "date": "2026-11-09T15:45:03+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-15407d0092",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "Claude Code の「許可待ち」を Windows のトースト通知で知る",
+      "url": "https://qiita.com/je-pu-pu/items/b4052bc0b68e3a3f1de2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-09T13:57:45+09:00",
       "hatena_count": 0
     },
     {
@@ -6616,13 +6714,13 @@
       "sub_source": "Zenn",
       "title": "退屈なCoding AgentはMuseにやらせよう",
       "url": "https://zenn.dev/watany/articles/342b9815dd0553",
-      "score": 167,
+      "score": 168,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 10 Nov 2026 02:35:05 GMT",
-      "hatena_count": 167
+      "hatena_count": 168
     },
     {
       "id": "zenn-a9d487fb41",
@@ -6644,13 +6742,13 @@
       "sub_source": "Zenn",
       "title": "Claude Codeで最近使っているTips【2026/11】",
       "url": "https://zenn.dev/oikon/articles/claude-code-recipe",
-      "score": 429,
+      "score": 433,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 09 Nov 2026 22:01:05 GMT",
-      "hatena_count": 429
+      "hatena_count": 433
     },
     {
       "id": "zenn-1d83450d1b",
@@ -7012,105 +7110,6 @@
       ],
       "date": "Mon, 09 Nov 2026 08:13:00 GMT",
       "hatena_count": 0
-    },
-    {
-      "id": "zenn-c743b410ea",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "ホロ1グランプリで宙科そぴあさんが使ってたサイエンスメソッドを最適化の視点で深掘りしてみた",
-      "url": "https://zenn.dev/akira5kitaoka/articles/holo1gp_sopias_science_method",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 09 Nov 2026 07:49:59 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-6f0bb36a65",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "子育て中の隙間時間に、スマホからClaude Codeで自己学習する",
-      "url": "https://zenn.dev/chot/articles/1bf145d3d31ca1",
-      "score": 1,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 09 Nov 2026 06:18:27 GMT",
-      "hatena_count": 1
-    },
-    {
-      "id": "zenn-a34e63af02",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "AI時代の開発を支えるMOSHのプレビュー環境",
-      "url": "https://zenn.dev/moshjp/articles/c068a50c9bbcd7",
-      "score": 1,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 09 Nov 2026 05:51:00 GMT",
-      "hatena_count": 2
-    },
-    {
-      "id": "zenn-8254c3c853",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "AIによるハーネスの自己改善で気を付けるべきこと",
-      "url": "https://zenn.dev/headwaters/articles/25be30393f0be9",
-      "score": 1,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 09 Nov 2026 03:49:40 GMT",
-      "hatena_count": 1
-    },
-    {
-      "id": "zenn-695b12cc60",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "ShopifyのReact Native→ネイティブ移行を支える「Reflex」をSwiftとKotlinで試す",
-      "url": "https://zenn.dev/tellernovel_inc/articles/reflex-native-swift-kotlin",
-      "score": 43,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 09 Nov 2026 01:38:40 GMT",
-      "hatena_count": 45
-    },
-    {
-      "id": "zenn-f6f7ea13a9",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Weight-Space Programming やってみた(やらせてみた)",
-      "url": "https://zenn.dev/nwn/articles/cf9fe78aa33861",
-      "score": 22,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 07 Nov 2026 00:57:13 GMT",
-      "hatena_count": 22
-    },
-    {
-      "id": "techracho-367e5daa07",
-      "source": "techracho",
-      "title": "Railsの鋭い部品シリーズ: ブロックはトランザクションではない（翻訳）",
-      "url": "https://techracho.bpsinc.jp/hachi8833/2026_10_20/159818",
-      "score": 2,
-      "author": "Techracho",
-      "tags": [
-        "Ruby",
-        "Rails",
-        "日本語"
-      ],
-      "date": "Tue, 20 Oct 2026 08:30:42 +0000",
-      "hatena_count": 2
     }
   ]
 }

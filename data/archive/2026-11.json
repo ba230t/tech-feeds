@@ -1,12 +1,12 @@
 {
   "month": "2026-11",
   "total_articles": 228,
-  "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (1件)**\n\n1. 更新：PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell)\n\n**AI・機械学習動向 (3件)**\n\n1. Claude Codeで最近使っているTips【2026/11】\n\n2. 危ないPRだけ人間が見て、レビューはAIにお任せ。AI自動レビューツール作りました\n\n3. Herdr.app と hc の上で Claude Code の司令塔を回している\n\n**技術トレンド (6件)**\n\n1. 退屈なCoding AgentはMuseにやらせよう\n\n2. [破壊的変更] 明治時代の開始日が変更になって単体テストが失敗した件\n\n3. ShopifyのReact Native→ネイティブ移行を支える「Reflex」をSwiftとKotlinで試す\n\n4. AWSから4.3億円の課金が...バグと思われる高額請求された際にまずすること\n\n5. Weight-Space Programming やってみた(やらせてみた)\n\n6. なぜ mixi2 は iPhone Duo の発売初日から最適化できたのか？",
+  "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (1件)**\n\n1. 更新：PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell)\n\n**AI・機械学習動向 (4件)**\n\n1. Claude Codeで最近使っているTips【2026/11】\n\n2. 危ないPRだけ人間が見て、レビューはAIにお任せ。AI自動レビューツール作りました\n\n3. Herdr.app と hc の上で Claude Code の司令塔を回している\n\n4. AIですぐに作れる時代に、何と向き合うか\n\n**技術トレンド (5件)**\n\n1. 退屈なCoding AgentはMuseにやらせよう\n\n2. [破壊的変更] 明治時代の開始日が変更になって単体テストが失敗した件\n\n3. AWSから4.3億円の課金が...バグと思われる高額請求された際にまずすること\n\n4. なぜ mixi2 は iPhone Duo の発売初日から最適化できたのか？\n\n5. Shopifyの Rubydex linter でRubyプロジェクトに構造的lintを導入しよう（翻訳）",
   "source_counts": {
-    "sns": 201,
+    "sns": 202,
     "jpcert": 15,
     "ipa": 1,
-    "techracho": 11
+    "techracho": 10
   },
   "severity_counts": {
     "high": 6,
@@ -20,13 +20,13 @@
       "sub_source": "Zenn",
       "title": "Claude Codeで最近使っているTips【2026/11】",
       "url": "https://zenn.dev/oikon/articles/claude-code-recipe",
-      "score": 429,
+      "score": 433,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 09 Nov 2026 22:01:05 GMT",
-      "hatena_count": 429
+      "hatena_count": 433
     },
     {
       "id": "zenn-86e2a08d5a",
@@ -34,13 +34,13 @@
       "sub_source": "Zenn",
       "title": "退屈なCoding AgentはMuseにやらせよう",
       "url": "https://zenn.dev/watany/articles/342b9815dd0553",
-      "score": 167,
+      "score": 168,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 10 Nov 2026 02:35:05 GMT",
-      "hatena_count": 167
+      "hatena_count": 168
     },
     {
       "id": "zenn-f7880dbf50",
@@ -55,20 +55,6 @@
       ],
       "date": "Fri, 06 Nov 2026 14:39:45 GMT",
       "hatena_count": 144
-    },
-    {
-      "id": "zenn-695b12cc60",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "ShopifyのReact Native→ネイティブ移行を支える「Reflex」をSwiftとKotlinで試す",
-      "url": "https://zenn.dev/tellernovel_inc/articles/reflex-native-swift-kotlin",
-      "score": 43,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 09 Nov 2026 01:38:40 GMT",
-      "hatena_count": 45
     },
     {
       "id": "zenn-111c6fb5fc",
@@ -110,20 +96,6 @@
         "Zenn"
       ],
       "date": "Sun, 08 Nov 2026 08:56:07 GMT",
-      "hatena_count": 22
-    },
-    {
-      "id": "zenn-f6f7ea13a9",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Weight-Space Programming やってみた(やらせてみた)",
-      "url": "https://zenn.dev/nwn/articles/cf9fe78aa33861",
-      "score": 22,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 07 Nov 2026 00:57:13 GMT",
       "hatena_count": 22
     },
     {
@@ -275,21 +247,6 @@
       "hatena_count": 2
     },
     {
-      "id": "techracho-367e5daa07",
-      "source": "techracho",
-      "title": "Railsの鋭い部品シリーズ: ブロックはトランザクションではない（翻訳）",
-      "url": "https://techracho.bpsinc.jp/hachi8833/2026_10_20/159818",
-      "score": 2,
-      "author": "Techracho",
-      "tags": [
-        "Ruby",
-        "Rails",
-        "日本語"
-      ],
-      "date": "Tue, 20 Oct 2026 08:30:42 +0000",
-      "hatena_count": 2
-    },
-    {
       "id": "qiita-38c9e9ea35",
       "source": "sns",
       "sub_source": "Qiita",
@@ -301,6 +258,48 @@
         "Qiita"
       ],
       "date": "2026-11-07T06:05:58+09:00",
+      "hatena_count": 1
+    },
+    {
+      "id": "qiita-4766cefc3c",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "AI駆動開発の次の段階: ソフトウェアファクトリー",
+      "url": "https://qiita.com/Syoitu/items/9364a0a175893bb15219?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 1,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-04T20:38:50+09:00",
+      "hatena_count": 1
+    },
+    {
+      "id": "qiita-891fe17666",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "IT未経験の私がAIに頼りすぎて挫折し、自分の頭で考えるようになるまで",
+      "url": "https://qiita.com/yu_tsukamoto/items/5fa1e302097552255fb7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 1,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-04T13:44:11+09:00",
+      "hatena_count": 1
+    },
+    {
+      "id": "qiita-335be4700d",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "【未来を解説】AIでエンジニア格差を生み出す質とスピードの考え方",
+      "url": "https://qiita.com/Sicut_study/items/b9e38c0584d4aa720d31?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 1,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-01T17:41:55+09:00",
       "hatena_count": 1
     }
   ],
