@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T21:33:21.285748+00:00",
+  "updated_at": "2026-11-10T22:05:02.339078+00:00",
   "count": 500,
   "items": [
     {
@@ -6714,13 +6714,13 @@
       "sub_source": "Zenn",
       "title": "退屈なCoding AgentはMuseにやらせよう",
       "url": "https://zenn.dev/watany/articles/342b9815dd0553",
-      "score": 169,
+      "score": 170,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 10 Nov 2026 02:35:05 GMT",
-      "hatena_count": 169
+      "hatena_count": 170
     },
     {
       "id": "zenn-a9d487fb41",
@@ -6742,13 +6742,13 @@
       "sub_source": "Zenn",
       "title": "Claude Codeで最近使っているTips【2026/11】",
       "url": "https://zenn.dev/oikon/articles/claude-code-recipe",
-      "score": 445,
+      "score": 454,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 09 Nov 2026 22:01:05 GMT",
-      "hatena_count": 445
+      "hatena_count": 454
     },
     {
       "id": "zenn-1d83450d1b",
