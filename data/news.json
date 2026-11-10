@@ -1,7 +1,133 @@
 {
-  "updated_at": "2026-11-10T08:07:01.859926+00:00",
+  "updated_at": "2026-11-10T08:33:38.908338+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "qiita-5c896531d3",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "耳で聞く！Python で学ぶ マクロ経済学 入門 43",
+      "url": "https://qiita.com/maskot1977/items/d47b86a869de11975272?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-10T13:08:51+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-3d28c4aafa",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "耳で聞く！ システム設計 視点の 行動経済学 2",
+      "url": "https://qiita.com/maskot1977/items/13f63d8e80b2ea55e9e5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-10T12:53:36+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-b7368b1cd8",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "なぜ制度批判は「差別」と呼ばれるのか——財源幻想と沈黙の螺旋の行動経済学 : システム設計視点の行動経済学 (60)",
+      "url": "https://qiita.com/maskot1977/items/67f27fee8e88090c5c2f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-10T10:43:41+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-a1989948d2",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "障害が起きてから動くのはもう終わりにしよう！New Relic「Advanced APM」で実現するプロアクティブ改善",
+      "url": "https://qiita.com/nr-mito/items/927b6bc074f35ecc181d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-10T08:50:51+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-8fb4c8b879",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "Claude Code を新しい Fable 5.2 に切り替えると速く安くなるのか。36回測ったら、Fable 5.1 より2割速く3割安く、費用は Opus 5.5 の1.6倍だった",
+      "url": "https://qiita.com/suwa_nobu/items/a6a104575596915dac2e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-10T08:50:19+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-34cf3dce58",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "AI攻撃をAIで迎え撃つ必要はあるのか――旧日本軍の戦史から考える「省資源型戦術防御」",
+      "url": "https://qiita.com/01rabbit/items/9f18f7d208ace293991b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-10T07:55:53+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-e17668a17d",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "ひとりで作るOSSを、チームの基準でレビューする（Codex・Claude・CodeRabbit）",
+      "url": "https://qiita.com/figueiredoluiz/items/1a043190d8f00d2ebda6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-10T01:24:42+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-95653338ec",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "React学習のアウトプットとして学習記録アプリを個人開発",
+      "url": "https://qiita.com/yukmaru/items/f24479a1b40dd2ff1346?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-09T23:55:14+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-8e027c1043",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "【AWS】RAG小、新機能全マシ、IAMカタメ、予算スクナメで",
+      "url": "https://qiita.com/kikuziro/items/eb28e7084445ff060783?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-09T23:21:44+09:00",
+      "hatena_count": 0
+    },
     {
       "id": "qiita-c8ba099394",
       "source": "sns",
@@ -70,6 +196,34 @@
         "Qiita"
       ],
       "date": "2026-11-09T20:06:30+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-cc49ca9e43",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "初参加！JAWS FESTA 2026さ行ってきたどレポート",
+      "url": "https://qiita.com/manaty/items/caccf7b6e18bedca5805?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-09T19:05:42+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-ba517b5452",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "開発環境が突然「保護されていない通信」に！Let's Encrypt の証明書を DNS 認証で更新して、自動更新にするまで",
+      "url": "https://qiita.com/Tukirukiki/items/e33adfb9cf1c94577afc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-09T18:13:26+09:00",
       "hatena_count": 0
     },
     {
@@ -4501,7 +4655,7 @@
       "source": "jpcert",
       "title": "注意喚起: BrotliのC言語実装における境界外書き込みの脆弱性（CVE-2026-111497）に関する注意喚起  (公開)",
       "url": "https://www.jpcert.or.jp/at/2026/at260034.html",
-      "score": 5,
+      "score": 6,
       "author": "JPCERT/CC",
       "tags": [
         "JPCERT",
@@ -4509,7 +4663,7 @@
       ],
       "severity": "high",
       "date": "2026-10-26T16:25+09:00",
-      "hatena_count": 5
+      "hatena_count": 6
     },
     {
       "id": "qiita-392d65b036",
@@ -6434,13 +6588,13 @@
       "sub_source": "Zenn",
       "title": "Claude Codeで最近使っているTips【2026/11】",
       "url": "https://zenn.dev/oikon/articles/claude-code-recipe",
-      "score": 57,
+      "score": 75,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 09 Nov 2026 22:01:05 GMT",
-      "hatena_count": 57
+      "hatena_count": 75
     },
     {
       "id": "zenn-1d83450d1b",
@@ -6659,13 +6813,13 @@
       "sub_source": "Zenn",
       "title": "AWSから4.3億円の課金が...バグと思われる高額請求された際にまずすること",
       "url": "https://zenn.dev/tsumita7/articles/aoss-intelligent-ingestion-billing-202610",
-      "score": 5,
+      "score": 7,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sun, 08 Nov 2026 08:56:07 GMT",
-      "hatena_count": 5
+      "hatena_count": 7
     },
     {
       "id": "zenn-f6f7ea13a9",
@@ -6694,6 +6848,21 @@
       ],
       "date": "Fri, 06 Nov 2026 14:39:45 GMT",
       "hatena_count": 144
+    },
+    {
+      "id": "techracho-511973acbf",
+      "source": "techracho",
+      "title": "RubyistがGoに挑む: ポケモンAPIクライアントを書いてみた（翻訳）",
+      "url": "https://techracho.bpsinc.jp/hachi8833/2026_11_10/159573",
+      "score": 0,
+      "author": "Techracho",
+      "tags": [
+        "Ruby",
+        "Rails",
+        "日本語"
+      ],
+      "date": "Tue, 10 Nov 2026 08:30:16 +0000",
+      "hatena_count": 0
     },
     {
       "id": "techracho-f68eade31b",
@@ -6942,174 +7111,6 @@
       ],
       "date": "Sat, 07 Nov 2026 23:35:44 GMT",
       "hatena_count": 0
-    },
-    {
-      "id": "zenn-8d6f0721b5",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "タスク管理までAIエージェントに任せたら、確認待ちに答えるだけになった",
-      "url": "https://zenn.dev/rescuenow/articles/4c03a548cd6589",
-      "score": 100,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 06 Nov 2026 08:59:24 GMT",
-      "hatena_count": 100
-    },
-    {
-      "id": "zenn-7d82e11dbb",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "AIエージェントに自分の開発環境を作らせ続けた2か月",
-      "url": "https://zenn.dev/otar/articles/switchboard-own-dev-environment",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 08 Nov 2026 21:41:08 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-652d693308",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "古代のグラボ（GTX 1080）でも動くローカルLLMを動かしてみた",
-      "url": "https://zenn.dev/koheidisney/articles/729394f8be42c5",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 08 Nov 2026 16:01:13 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-077318206a",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Piを使ってこんな開発ハーネス組んでます",
-      "url": "https://zenn.dev/minty1st/articles/51b1422d660d26",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 08 Nov 2026 15:02:15 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-5339478e93",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "静的型付けはAIのバグを減らすか？ TypeScriptとJavaScriptで同じGit互換CLIを3本ずつ書かせて比べた",
-      "url": "https://zenn.dev/torudev/articles/dd45de860fc7c3",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 08 Nov 2026 10:31:31 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-51ce710c2a",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "正規性検定による正規性チェック後の統計的仮説検定について",
-      "url": "https://zenn.dev/tomoshige_n/articles/22e19d310acf88",
-      "score": 2,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 08 Nov 2026 07:42:36 GMT",
-      "hatena_count": 2
-    },
-    {
-      "id": "zenn-f5bcc733b3",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "米津玄師に学ぶ：一人で全部作れる時代に、なぜ人と作るのか",
-      "url": "https://zenn.dev/tokium_dev/articles/yonezu-kenshi-why-create-with-others",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 06 Nov 2026 04:08:37 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-6972a4d1df",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "AI駆動文章作成において俺が意識しているテクニック集",
-      "url": "https://zenn.dev/ntk221/articles/34ad88a9225364",
-      "score": 3,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 05 Nov 2026 14:35:31 GMT",
-      "hatena_count": 3
-    },
-    {
-      "id": "zenn-022c8553d9",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": ".NET にも build.cs 欲しいんじゃーーー",
-      "url": "https://zenn.dev/sator_imaging/articles/c10d8da7685308",
-      "score": 3,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 05 Nov 2026 13:05:08 GMT",
-      "hatena_count": 3
-    },
-    {
-      "id": "zenn-a538ffe078",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "[TypeScript] パスエイリアスには Subpath Imports を使いたい",
-      "url": "https://zenn.dev/mediba/articles/167e2a3f663889",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 05 Nov 2026 07:00:05 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-803b95cb07",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "コードを読まずにバイブコーディングしたら、Claude Codeは分かっていてスルーしていた",
-      "url": "https://zenn.dev/nexta_/articles/42a828ca2b8a02",
-      "score": 38,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 04 Nov 2026 02:30:07 GMT",
-      "hatena_count": 38
-    },
-    {
-      "id": "zenn-d2dd7eb267",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "OpenCode+Docker+GitHub Actionsで全自動AIペネトレーションテストはじめました",
-      "url": "https://zenn.dev/team_zenn/articles/opencode-docker-actions-ai-pentest",
-      "score": 124,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 04 Nov 2026 01:19:56 GMT",
-      "hatena_count": 124
     }
   ]
 }

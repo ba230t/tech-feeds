@@ -1,12 +1,12 @@
 {
   "month": "2026-11",
   "total_articles": 228,
-  "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (1件)**\n\n1. 更新：PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell)\n\n**AI・機械学習動向 (6件)**\n\n1. OpenCode+Docker+GitHub Actionsで全自動AIペネトレーションテストはじめました\n\n2. タスク管理までAIエージェントに任せたら、確認待ちに答えるだけになった\n\n3. Claude Codeで最近使っているTips【2026/11】\n\n4. コードを読まずにバイブコーディングしたら、Claude Codeは分かっていてスルーしていた\n\n5. 危ないPRだけ人間が見て、レビューはAIにお任せ。AI自動レビューツール作りました\n\n6. Herdr.app と hc の上で Claude Code の司令塔を回している\n\n**技術トレンド (3件)**\n\n1. [破壊的変更] 明治時代の開始日が変更になって単体テストが失敗した件\n\n2. ShopifyのReact Native→ネイティブ移行を支える「Reflex」をSwiftとKotlinで試す\n\n3. Weight-Space Programming やってみた(やらせてみた)",
+  "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (1件)**\n\n1. 更新：PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell)\n\n**AI・機械学習動向 (4件)**\n\n1. Claude Codeで最近使っているTips【2026/11】\n\n2. 危ないPRだけ人間が見て、レビューはAIにお任せ。AI自動レビューツール作りました\n\n3. Herdr.app と hc の上で Claude Code の司令塔を回している\n\n4. AIですぐに作れる時代に、何と向き合うか\n\n**技術トレンド (5件)**\n\n1. [破壊的変更] 明治時代の開始日が変更になって単体テストが失敗した件\n\n2. ShopifyのReact Native→ネイティブ移行を支える「Reflex」をSwiftとKotlinで試す\n\n3. Weight-Space Programming やってみた(やらせてみた)\n\n4. AWSから4.3億円の課金が...バグと思われる高額請求された際にまずすること\n\n5. Shopifyの Rubydex linter でRubyプロジェクトに構造的lintを導入しよう（翻訳）",
   "source_counts": {
-    "sns": 202,
+    "sns": 201,
     "jpcert": 15,
     "ipa": 1,
-    "techracho": 10
+    "techracho": 11
   },
   "severity_counts": {
     "high": 6,
@@ -29,46 +29,18 @@
       "hatena_count": 144
     },
     {
-      "id": "zenn-d2dd7eb267",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "OpenCode+Docker+GitHub Actionsで全自動AIペネトレーションテストはじめました",
-      "url": "https://zenn.dev/team_zenn/articles/opencode-docker-actions-ai-pentest",
-      "score": 124,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 04 Nov 2026 01:19:56 GMT",
-      "hatena_count": 124
-    },
-    {
-      "id": "zenn-8d6f0721b5",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "タスク管理までAIエージェントに任せたら、確認待ちに答えるだけになった",
-      "url": "https://zenn.dev/rescuenow/articles/4c03a548cd6589",
-      "score": 100,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 06 Nov 2026 08:59:24 GMT",
-      "hatena_count": 100
-    },
-    {
       "id": "zenn-294c9faf90",
       "source": "sns",
       "sub_source": "Zenn",
       "title": "Claude Codeで最近使っているTips【2026/11】",
       "url": "https://zenn.dev/oikon/articles/claude-code-recipe",
-      "score": 57,
+      "score": 75,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 09 Nov 2026 22:01:05 GMT",
-      "hatena_count": 57
+      "hatena_count": 75
     },
     {
       "id": "zenn-695b12cc60",
@@ -83,20 +55,6 @@
       ],
       "date": "Mon, 09 Nov 2026 01:38:40 GMT",
       "hatena_count": 42
-    },
-    {
-      "id": "zenn-803b95cb07",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "コードを読まずにバイブコーディングしたら、Claude Codeは分かっていてスルーしていた",
-      "url": "https://zenn.dev/nexta_/articles/42a828ca2b8a02",
-      "score": 38,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 04 Nov 2026 02:30:07 GMT",
-      "hatena_count": 38
     },
     {
       "id": "zenn-111c6fb5fc",
@@ -161,13 +119,13 @@
       "sub_source": "Zenn",
       "title": "AWSから4.3億円の課金が...バグと思われる高額請求された際にまずすること",
       "url": "https://zenn.dev/tsumita7/articles/aoss-intelligent-ingestion-billing-202610",
-      "score": 5,
+      "score": 7,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sun, 08 Nov 2026 08:56:07 GMT",
-      "hatena_count": 5
+      "hatena_count": 7
     },
     {
       "id": "zenn-f9b3376cd7",
@@ -244,34 +202,6 @@
       "hatena_count": 3
     },
     {
-      "id": "zenn-6972a4d1df",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "AI駆動文章作成において俺が意識しているテクニック集",
-      "url": "https://zenn.dev/ntk221/articles/34ad88a9225364",
-      "score": 3,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 05 Nov 2026 14:35:31 GMT",
-      "hatena_count": 3
-    },
-    {
-      "id": "zenn-022c8553d9",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": ".NET にも build.cs 欲しいんじゃーーー",
-      "url": "https://zenn.dev/sator_imaging/articles/c10d8da7685308",
-      "score": 3,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 05 Nov 2026 13:05:08 GMT",
-      "hatena_count": 3
-    },
-    {
       "id": "zenn-6cd8308eec",
       "source": "sns",
       "sub_source": "Zenn",
@@ -299,6 +229,78 @@
       ],
       "date": "Mon, 09 Nov 2026 08:30:25 +0000",
       "hatena_count": 2
+    },
+    {
+      "id": "techracho-b23695913c",
+      "source": "techracho",
+      "title": "Ruby: C拡張をRuby 4のVM APIに合わせて効率化するためのtips集（翻訳）",
+      "url": "https://techracho.bpsinc.jp/hachi8833/2026_11_02/160896",
+      "score": 2,
+      "author": "Techracho",
+      "tags": [
+        "Ruby",
+        "Rails",
+        "日本語"
+      ],
+      "date": "Mon, 02 Nov 2026 08:30:18 +0000",
+      "hatena_count": 2
+    },
+    {
+      "id": "techracho-367e5daa07",
+      "source": "techracho",
+      "title": "Railsの鋭い部品シリーズ: ブロックはトランザクションではない（翻訳）",
+      "url": "https://techracho.bpsinc.jp/hachi8833/2026_10_20/159818",
+      "score": 2,
+      "author": "Techracho",
+      "tags": [
+        "Ruby",
+        "Rails",
+        "日本語"
+      ],
+      "date": "Tue, 20 Oct 2026 08:30:42 +0000",
+      "hatena_count": 2
+    },
+    {
+      "id": "qiita-38c9e9ea35",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "周回遅れ？インフラエンジニア、今さら GitHub Copilot app を使い始める！？",
+      "url": "https://qiita.com/carol0226/items/21c4ad96de4d8df2f047?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 1,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-07T06:05:58+09:00",
+      "hatena_count": 1
+    },
+    {
+      "id": "qiita-4766cefc3c",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "AI駆動開発の次の段階: ソフトウェアファクトリー",
+      "url": "https://qiita.com/Syoitu/items/9364a0a175893bb15219?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 1,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-04T20:38:50+09:00",
+      "hatena_count": 1
+    },
+    {
+      "id": "qiita-891fe17666",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "IT未経験の私がAIに頼りすぎて挫折し、自分の頭で考えるようになるまで",
+      "url": "https://qiita.com/yu_tsukamoto/items/5fa1e302097552255fb7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 1,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-04T13:44:11+09:00",
+      "hatena_count": 1
     }
   ],
   "security_highlights": [
