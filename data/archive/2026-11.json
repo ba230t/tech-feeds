@@ -20,13 +20,13 @@
       "sub_source": "Zenn",
       "title": "Claude Codeで最近使っているTips【2026/11】",
       "url": "https://zenn.dev/oikon/articles/claude-code-recipe",
-      "score": 433,
+      "score": 445,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 09 Nov 2026 22:01:05 GMT",
-      "hatena_count": 433
+      "hatena_count": 445
     },
     {
       "id": "zenn-86e2a08d5a",
@@ -34,13 +34,13 @@
       "sub_source": "Zenn",
       "title": "退屈なCoding AgentはMuseにやらせよう",
       "url": "https://zenn.dev/watany/articles/342b9815dd0553",
-      "score": 168,
+      "score": 169,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 10 Nov 2026 02:35:05 GMT",
-      "hatena_count": 168
+      "hatena_count": 169
     },
     {
       "id": "zenn-f7880dbf50",
@@ -247,6 +247,20 @@
       "hatena_count": 2
     },
     {
+      "id": "qiita-c8ba099394",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "実践：JevをClaudeに5分で連携する！ 〜仕組みから実装、実際の使いどころ〜",
+      "url": "https://qiita.com/ryosuke_ohori/items/ada543a0201752023e25?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 1,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-09T22:46:47+09:00",
+      "hatena_count": 1
+    },
+    {
       "id": "qiita-38c9e9ea35",
       "source": "sns",
       "sub_source": "Qiita",
@@ -286,20 +300,6 @@
         "Qiita"
       ],
       "date": "2026-11-04T13:44:11+09:00",
-      "hatena_count": 1
-    },
-    {
-      "id": "qiita-335be4700d",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "【未来を解説】AIでエンジニア格差を生み出す質とスピードの考え方",
-      "url": "https://qiita.com/Sicut_study/items/b9e38c0584d4aa720d31?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 1,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-01T17:41:55+09:00",
       "hatena_count": 1
     }
   ],

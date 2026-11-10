@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T21:04:38.836983+00:00",
+  "updated_at": "2026-11-10T21:33:21.285748+00:00",
   "count": 500,
   "items": [
     {
@@ -204,13 +204,13 @@
       "sub_source": "Qiita",
       "title": "実践：JevをClaudeに5分で連携する！ 〜仕組みから実装、実際の使いどころ〜",
       "url": "https://qiita.com/ryosuke_ohori/items/ada543a0201752023e25?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
+      "score": 1,
       "author": "Qiita",
       "tags": [
         "Qiita"
       ],
       "date": "2026-11-09T22:46:47+09:00",
-      "hatena_count": 0
+      "hatena_count": 1
     },
     {
       "id": "qiita-7d620ca03e",
@@ -6714,13 +6714,13 @@
       "sub_source": "Zenn",
       "title": "退屈なCoding AgentはMuseにやらせよう",
       "url": "https://zenn.dev/watany/articles/342b9815dd0553",
-      "score": 168,
+      "score": 169,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 10 Nov 2026 02:35:05 GMT",
-      "hatena_count": 168
+      "hatena_count": 169
     },
     {
       "id": "zenn-a9d487fb41",
@@ -6742,13 +6742,13 @@
       "sub_source": "Zenn",
       "title": "Claude Codeで最近使っているTips【2026/11】",
       "url": "https://zenn.dev/oikon/articles/claude-code-recipe",
-      "score": 433,
+      "score": 445,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 09 Nov 2026 22:01:05 GMT",
-      "hatena_count": 433
+      "hatena_count": 445
     },
     {
       "id": "zenn-1d83450d1b",
