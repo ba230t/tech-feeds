@@ -15,6 +15,20 @@
   },
   "top_articles": [
     {
+      "id": "zenn-294c9faf90",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Claude Codeで最近使っているTips【2026/11】",
+      "url": "https://zenn.dev/oikon/articles/claude-code-recipe",
+      "score": 183,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 09 Nov 2026 22:01:05 GMT",
+      "hatena_count": 183
+    },
+    {
       "id": "zenn-f7880dbf50",
       "source": "sns",
       "sub_source": "Zenn",
@@ -29,32 +43,18 @@
       "hatena_count": 144
     },
     {
-      "id": "zenn-294c9faf90",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Claude Codeで最近使っているTips【2026/11】",
-      "url": "https://zenn.dev/oikon/articles/claude-code-recipe",
-      "score": 110,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 09 Nov 2026 22:01:05 GMT",
-      "hatena_count": 110
-    },
-    {
       "id": "zenn-695b12cc60",
       "source": "sns",
       "sub_source": "Zenn",
       "title": "ShopifyのReact Native→ネイティブ移行を支える「Reflex」をSwiftとKotlinで試す",
       "url": "https://zenn.dev/tellernovel_inc/articles/reflex-native-swift-kotlin",
-      "score": 42,
+      "score": 43,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 09 Nov 2026 01:38:40 GMT",
-      "hatena_count": 42
+      "hatena_count": 43
     },
     {
       "id": "zenn-111c6fb5fc",
@@ -119,13 +119,13 @@
       "sub_source": "Zenn",
       "title": "AWSから4.3億円の課金が...バグと思われる高額請求された際にまずすること",
       "url": "https://zenn.dev/tsumita7/articles/aoss-intelligent-ingestion-billing-202610",
-      "score": 8,
+      "score": 14,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sun, 08 Nov 2026 08:56:07 GMT",
-      "hatena_count": 8
+      "hatena_count": 14
     },
     {
       "id": "zenn-f9b3376cd7",
@@ -216,6 +216,21 @@
       "hatena_count": 2
     },
     {
+      "id": "techracho-511973acbf",
+      "source": "techracho",
+      "title": "RubyistがGoに挑む: ポケモンAPIクライアントを書いてみた（翻訳）",
+      "url": "https://techracho.bpsinc.jp/hachi8833/2026_11_10/159573",
+      "score": 2,
+      "author": "Techracho",
+      "tags": [
+        "Ruby",
+        "Rails",
+        "日本語"
+      ],
+      "date": "Tue, 10 Nov 2026 08:30:16 +0000",
+      "hatena_count": 2
+    },
+    {
       "id": "techracho-f68eade31b",
       "source": "techracho",
       "title": "「RailsはJITコンパイラだ！」（翻訳）",
@@ -286,20 +301,6 @@
         "Qiita"
       ],
       "date": "2026-11-04T20:38:50+09:00",
-      "hatena_count": 1
-    },
-    {
-      "id": "qiita-891fe17666",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "IT未経験の私がAIに頼りすぎて挫折し、自分の頭で考えるようになるまで",
-      "url": "https://qiita.com/yu_tsukamoto/items/5fa1e302097552255fb7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 1,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-04T13:44:11+09:00",
       "hatena_count": 1
     }
   ],
