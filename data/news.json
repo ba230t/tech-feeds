@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T10:05:53.396966+00:00",
+  "updated_at": "2026-11-10T10:33:19.872967+00:00",
   "count": 500,
   "items": [
     {
@@ -6588,13 +6588,13 @@
       "sub_source": "Zenn",
       "title": "Claude Codeで最近使っているTips【2026/11】",
       "url": "https://zenn.dev/oikon/articles/claude-code-recipe",
-      "score": 93,
+      "score": 110,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 09 Nov 2026 22:01:05 GMT",
-      "hatena_count": 93
+      "hatena_count": 110
     },
     {
       "id": "zenn-1d83450d1b",
@@ -6813,13 +6813,13 @@
       "sub_source": "Zenn",
       "title": "AWSから4.3億円の課金が...バグと思われる高額請求された際にまずすること",
       "url": "https://zenn.dev/tsumita7/articles/aoss-intelligent-ingestion-billing-202610",
-      "score": 7,
+      "score": 8,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sun, 08 Nov 2026 08:56:07 GMT",
-      "hatena_count": 7
+      "hatena_count": 8
     },
     {
       "id": "zenn-f6f7ea13a9",
