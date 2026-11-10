@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T00:12:45.396270+00:00",
+  "updated_at": "2026-11-10T00:44:07.116156+00:00",
   "count": 500,
   "items": [
     {
@@ -5554,7 +5554,7 @@
       "source": "jpcert",
       "title": "注意喚起: 直近で相次いでいる国内組織における不正アクセスに関する注意喚起  (更新)",
       "url": "https://www.jpcert.or.jp/at/2026/at260030.html",
-      "score": 707,
+      "score": 708,
       "author": "JPCERT/CC",
       "tags": [
         "JPCERT",
@@ -5562,7 +5562,7 @@
       ],
       "severity": "high",
       "date": "2026-10-23T11:37+09:00",
-      "hatena_count": 707
+      "hatena_count": 708
     },
     {
       "id": "qiita-4e32422a87",
@@ -6546,13 +6546,13 @@
       "sub_source": "Zenn",
       "title": "ShopifyのReact Native→ネイティブ移行を支える「Reflex」をSwiftとKotlinで試す",
       "url": "https://zenn.dev/tellernovel_inc/articles/reflex-native-swift-kotlin",
-      "score": 11,
+      "score": 22,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 09 Nov 2026 01:38:40 GMT",
-      "hatena_count": 11
+      "hatena_count": 22
     },
     {
       "id": "zenn-db2da0d12b",
@@ -6602,13 +6602,13 @@
       "sub_source": "Zenn",
       "title": "Herdr.app と hc の上で Claude Code の司令塔を回している",
       "url": "https://zenn.dev/hoshinotsuyoshi/articles/c994c29833f36c",
-      "score": 23,
+      "score": 24,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sun, 08 Nov 2026 16:00:51 GMT",
-      "hatena_count": 23
+      "hatena_count": 24
     },
     {
       "id": "zenn-bd2574cc91",
@@ -7025,7 +7025,7 @@
       ],
       "date": "Sat, 07 Nov 2026 06:44:47 GMT",
       "severity": "high",
-      "hatena_count": 228
+      "hatena_count": 229
     },
     {
       "id": "zenn-07750019f1",
