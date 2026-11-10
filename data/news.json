@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T08:33:38.908338+00:00",
+  "updated_at": "2026-11-10T09:06:27.142888+00:00",
   "count": 500,
   "items": [
     {
@@ -6588,13 +6588,13 @@
       "sub_source": "Zenn",
       "title": "Claude Codeで最近使っているTips【2026/11】",
       "url": "https://zenn.dev/oikon/articles/claude-code-recipe",
-      "score": 75,
+      "score": 93,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 09 Nov 2026 22:01:05 GMT",
-      "hatena_count": 75
+      "hatena_count": 93
     },
     {
       "id": "zenn-1d83450d1b",
@@ -6854,7 +6854,7 @@
       "source": "techracho",
       "title": "RubyistがGoに挑む: ポケモンAPIクライアントを書いてみた（翻訳）",
       "url": "https://techracho.bpsinc.jp/hachi8833/2026_11_10/159573",
-      "score": 0,
+      "score": 1,
       "author": "Techracho",
       "tags": [
         "Ruby",
@@ -6862,7 +6862,7 @@
         "日本語"
       ],
       "date": "Tue, 10 Nov 2026 08:30:16 +0000",
-      "hatena_count": 0
+      "hatena_count": 1
     },
     {
       "id": "techracho-f68eade31b",
