@@ -1,7 +1,7 @@
 {
   "month": "2026-11",
   "total_articles": 228,
-  "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (1件)**\n\n1. 更新：PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell)\n\n**AI・機械学習動向 (3件)**\n\n1. Claude Codeで最近使っているTips【2026/11】\n\n2. 危ないPRだけ人間が見て、レビューはAIにお任せ。AI自動レビューツール作りました\n\n3. Herdr.app と hc の上で Claude Code の司令塔を回している\n\n**技術トレンド (6件)**\n\n1. 退屈なCoding AgentはMuseにやらせよう\n\n2. [破壊的変更] 明治時代の開始日が変更になって単体テストが失敗した件\n\n3. ShopifyのReact Native→ネイティブ移行を支える「Reflex」をSwiftとKotlinで試す\n\n4. Weight-Space Programming やってみた(やらせてみた)\n\n5. AWSから4.3億円の課金が...バグと思われる高額請求された際にまずすること\n\n6. なぜ mixi2 は iPhone Duo の発売初日から最適化できたのか？",
+  "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (1件)**\n\n1. 更新：PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell)\n\n**AI・機械学習動向 (3件)**\n\n1. Claude Codeで最近使っているTips【2026/11】\n\n2. 危ないPRだけ人間が見て、レビューはAIにお任せ。AI自動レビューツール作りました\n\n3. Herdr.app と hc の上で Claude Code の司令塔を回している\n\n**技術トレンド (6件)**\n\n1. 退屈なCoding AgentはMuseにやらせよう\n\n2. [破壊的変更] 明治時代の開始日が変更になって単体テストが失敗した件\n\n3. ShopifyのReact Native→ネイティブ移行を支える「Reflex」をSwiftとKotlinで試す\n\n4. AWSから4.3億円の課金が...バグと思われる高額請求された際にまずすること\n\n5. Weight-Space Programming やってみた(やらせてみた)\n\n6. なぜ mixi2 は iPhone Duo の発売初日から最適化できたのか？",
   "source_counts": {
     "sns": 201,
     "jpcert": 15,
@@ -20,13 +20,13 @@
       "sub_source": "Zenn",
       "title": "Claude Codeで最近使っているTips【2026/11】",
       "url": "https://zenn.dev/oikon/articles/claude-code-recipe",
-      "score": 420,
+      "score": 429,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 09 Nov 2026 22:01:05 GMT",
-      "hatena_count": 420
+      "hatena_count": 429
     },
     {
       "id": "zenn-86e2a08d5a",
@@ -34,13 +34,13 @@
       "sub_source": "Zenn",
       "title": "退屈なCoding AgentはMuseにやらせよう",
       "url": "https://zenn.dev/watany/articles/342b9815dd0553",
-      "score": 162,
+      "score": 167,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 10 Nov 2026 02:35:05 GMT",
-      "hatena_count": 162
+      "hatena_count": 167
     },
     {
       "id": "zenn-f7880dbf50",
@@ -99,6 +99,20 @@
       "hatena_count": 24
     },
     {
+      "id": "zenn-bd2574cc91",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "AWSから4.3億円の課金が...バグと思われる高額請求された際にまずすること",
+      "url": "https://zenn.dev/tsumita7/articles/aoss-intelligent-ingestion-billing-202610",
+      "score": 22,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 08 Nov 2026 08:56:07 GMT",
+      "hatena_count": 22
+    },
+    {
       "id": "zenn-f6f7ea13a9",
       "source": "sns",
       "sub_source": "Zenn",
@@ -125,20 +139,6 @@
       ],
       "severity": "medium",
       "date": "2026-11-02T00:00:00+09:00",
-      "hatena_count": 21
-    },
-    {
-      "id": "zenn-bd2574cc91",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "AWSから4.3億円の課金が...バグと思われる高額請求された際にまずすること",
-      "url": "https://zenn.dev/tsumita7/articles/aoss-intelligent-ingestion-billing-202610",
-      "score": 21,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 08 Nov 2026 08:56:07 GMT",
       "hatena_count": 21
     },
     {
