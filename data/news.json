@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T10:05:31.922956+00:00",
+  "updated_at": "2026-11-11T10:33:43.936635+00:00",
   "count": 500,
   "items": [
     {
@@ -35,7 +35,7 @@
       "source": "jpcert",
       "title": "注意喚起: 2026年11月マイクロソフトセキュリティ更新プログラムに関する注意喚起  (公開)",
       "url": "https://www.jpcert.or.jp/at/2026/at260035.html",
-      "score": 0,
+      "score": 1,
       "author": "JPCERT/CC",
       "tags": [
         "JPCERT",
@@ -43,7 +43,7 @@
       ],
       "severity": "high",
       "date": "2026-11-11T11:20+09:00",
-      "hatena_count": 0
+      "hatena_count": 1
     },
     {
       "id": "qiita-a7b050c39b",
@@ -6804,13 +6804,13 @@
       "sub_source": "Zenn",
       "title": "o11y基盤とAIで戦ったISUCON2026参加記（126,634点・126位）",
       "url": "https://zenn.dev/tokium_dev/articles/2026-11-10-isucon2026",
-      "score": 1,
+      "score": 2,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 10 Nov 2026 04:04:24 GMT",
-      "hatena_count": 1
+      "hatena_count": 2
     },
     {
       "id": "zenn-86e2a08d5a",
@@ -6832,13 +6832,13 @@
       "sub_source": "Zenn",
       "title": "Claude Codeで最近使っているTips【2026/11】",
       "url": "https://zenn.dev/oikon/articles/claude-code-recipe",
-      "score": 525,
+      "score": 526,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 09 Nov 2026 22:01:05 GMT",
-      "hatena_count": 525
+      "hatena_count": 526
     },
     {
       "id": "zenn-ab731c7f05",

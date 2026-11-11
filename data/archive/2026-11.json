@@ -20,13 +20,13 @@
       "sub_source": "Zenn",
       "title": "Claude Codeで最近使っているTips【2026/11】",
       "url": "https://zenn.dev/oikon/articles/claude-code-recipe",
-      "score": 525,
+      "score": 526,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 09 Nov 2026 22:01:05 GMT",
-      "hatena_count": 525
+      "hatena_count": 526
     },
     {
       "id": "zenn-86e2a08d5a",
@@ -187,6 +187,20 @@
       "hatena_count": 2
     },
     {
+      "id": "zenn-2051012466",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "o11y基盤とAIで戦ったISUCON2026参加記（126,634点・126位）",
+      "url": "https://zenn.dev/tokium_dev/articles/2026-11-10-isucon2026",
+      "score": 2,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 10 Nov 2026 04:04:24 GMT",
+      "hatena_count": 2
+    },
+    {
       "id": "techracho-511973acbf",
       "source": "techracho",
       "title": "RubyistがGoに挑む: ポケモンAPIクライアントを書いてみた（翻訳）",
@@ -232,6 +246,21 @@
       "hatena_count": 2
     },
     {
+      "id": "jpcert-b24da38fa6",
+      "source": "jpcert",
+      "title": "注意喚起: 2026年11月マイクロソフトセキュリティ更新プログラムに関する注意喚起  (公開)",
+      "url": "https://www.jpcert.or.jp/at/2026/at260035.html",
+      "score": 1,
+      "author": "JPCERT/CC",
+      "tags": [
+        "JPCERT",
+        "セキュリティ"
+      ],
+      "severity": "high",
+      "date": "2026-11-11T11:20+09:00",
+      "hatena_count": 1
+    },
+    {
       "id": "qiita-c8ba099394",
       "source": "sns",
       "sub_source": "Qiita",
@@ -272,34 +301,6 @@
       ],
       "date": "2026-11-04T20:38:50+09:00",
       "hatena_count": 1
-    },
-    {
-      "id": "qiita-891fe17666",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "IT未経験の私がAIに頼りすぎて挫折し、自分の頭で考えるようになるまで",
-      "url": "https://qiita.com/yu_tsukamoto/items/5fa1e302097552255fb7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 1,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-04T13:44:11+09:00",
-      "hatena_count": 1
-    },
-    {
-      "id": "qiita-335be4700d",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "【未来を解説】AIでエンジニア格差を生み出す質とスピードの考え方",
-      "url": "https://qiita.com/Sicut_study/items/b9e38c0584d4aa720d31?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 1,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-01T17:41:55+09:00",
-      "hatena_count": 1
     }
   ],
   "security_highlights": [
@@ -323,7 +324,7 @@
       "source": "jpcert",
       "title": "注意喚起: 2026年11月マイクロソフトセキュリティ更新プログラムに関する注意喚起  (公開)",
       "url": "https://www.jpcert.or.jp/at/2026/at260035.html",
-      "score": 0,
+      "score": 1,
       "author": "JPCERT/CC",
       "tags": [
         "JPCERT",
@@ -331,7 +332,7 @@
       ],
       "severity": "high",
       "date": "2026-11-11T11:20+09:00",
-      "hatena_count": 0
+      "hatena_count": 1
     },
     {
       "id": "qiita-eabdafc557",
