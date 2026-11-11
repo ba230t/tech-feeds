@@ -1,7 +1,7 @@
 {
   "month": "2026-11",
   "total_articles": 252,
-  "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (1件)**\n\n1. 更新：PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell)\n\n**AI・機械学習動向 (2件)**\n\n1. Claude Codeで最近使っているTips【2026/11】\n\n2. AIですぐに作れる時代に、何と向き合うか\n\n**技術トレンド (7件)**\n\n1. ISUCON2026 で優勝しました（準備編）\n\n2. 退屈なCoding AgentはMuseにやらせよう\n\n3. NVIDIAの「長文コンテキスト不要」論文\n\n4. ShopifyのReact Native→ネイティブ移行を支える「Reflex」をSwiftとKotlinで試す\n\n5. AWSから4.3億円の課金が...バグと思われる高額請求された際にまずすること\n\n6. なぜ mixi2 は iPhone Duo の発売初日から最適化できたのか？\n\n7. Snowflake Dashboards 2.0が最高な理由と、これからBIに求められること",
+  "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (1件)**\n\n1. 更新：PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell)\n\n**AI・機械学習動向 (3件)**\n\n1. Claude Codeで最近使っているTips【2026/11】\n\n2. AIですぐに作れる時代に、何と向き合うか\n\n3. RailsのコードをRactorセーフにするリファクタリングパターン集（翻訳）\n\n**技術トレンド (6件)**\n\n1. 退屈なCoding AgentはMuseにやらせよう\n\n2. ShopifyのReact Native→ネイティブ移行を支える「Reflex」をSwiftとKotlinで試す\n\n3. AWSから4.3億円の課金が...バグと思われる高額請求された際にまずすること\n\n4. なぜ mixi2 は iPhone Duo の発売初日から最適化できたのか？\n\n5. Snowflake Dashboards 2.0が最高な理由と、これからBIに求められること\n\n6. Shopifyの Rubydex linter でRubyプロジェクトに構造的lintを導入しよう（翻訳）",
   "source_counts": {
     "sns": 210,
     "jpcert": 30,
@@ -20,27 +20,13 @@
       "sub_source": "Zenn",
       "title": "Claude Codeで最近使っているTips【2026/11】",
       "url": "https://zenn.dev/oikon/articles/claude-code-recipe",
-      "score": 526,
+      "score": 527,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 09 Nov 2026 22:01:05 GMT",
-      "hatena_count": 526
-    },
-    {
-      "id": "zenn-0e4f79a20f",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "ISUCON2026 で優勝しました（準備編）",
-      "url": "https://zenn.dev/luvtechno/articles/isucon2026-preparation",
-      "score": 233,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 11 Nov 2026 05:05:46 GMT",
-      "hatena_count": 233
+      "hatena_count": 527
     },
     {
       "id": "zenn-86e2a08d5a",
@@ -55,20 +41,6 @@
       ],
       "date": "Tue, 10 Nov 2026 02:35:05 GMT",
       "hatena_count": 205
-    },
-    {
-      "id": "zenn-b2b3047a18",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "NVIDIAの「長文コンテキスト不要」論文",
-      "url": "https://zenn.dev/knowledgesense/articles/bd917ed6829121",
-      "score": 71,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 10 Nov 2026 00:01:05 GMT",
-      "hatena_count": 71
     },
     {
       "id": "zenn-695b12cc60",
@@ -215,6 +187,20 @@
       "hatena_count": 2
     },
     {
+      "id": "zenn-2051012466",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "o11y基盤とAIで戦ったISUCON2026参加記（126,634点・126位）",
+      "url": "https://zenn.dev/tokium_dev/articles/2026-11-10-isucon2026",
+      "score": 2,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 10 Nov 2026 04:04:24 GMT",
+      "hatena_count": 2
+    },
+    {
       "id": "techracho-511973acbf",
       "source": "techracho",
       "title": "RubyistがGoに挑む: ポケモンAPIクライアントを書いてみた（翻訳）",
@@ -301,6 +287,20 @@
         "Qiita"
       ],
       "date": "2026-11-09T22:46:47+09:00",
+      "hatena_count": 1
+    },
+    {
+      "id": "qiita-38c9e9ea35",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "周回遅れ？インフラエンジニア、今さら GitHub Copilot app を使い始める！？",
+      "url": "https://qiita.com/carol0226/items/21c4ad96de4d8df2f047?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 1,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-07T06:05:58+09:00",
       "hatena_count": 1
     }
   ],
