@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T16:06:13.866676+00:00",
+  "updated_at": "2026-11-11T16:33:32.703467+00:00",
   "count": 500,
   "items": [
     {
@@ -6678,13 +6678,13 @@
       "sub_source": "Zenn",
       "title": "ISUCON2026 で優勝しました（準備編）",
       "url": "https://zenn.dev/luvtechno/articles/isucon2026-preparation",
-      "score": 382,
+      "score": 386,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 11 Nov 2026 05:05:46 GMT",
-      "hatena_count": 382
+      "hatena_count": 386
     },
     {
       "id": "zenn-611c0a30bf",
@@ -6832,13 +6832,13 @@
       "sub_source": "Zenn",
       "title": "NVIDIAの「長文コンテキスト不要」論文",
       "url": "https://zenn.dev/knowledgesense/articles/bd917ed6829121",
-      "score": 72,
+      "score": 73,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 10 Nov 2026 00:01:05 GMT",
-      "hatena_count": 72
+      "hatena_count": 73
     },
     {
       "id": "zenn-294c9faf90",
@@ -6945,13 +6945,13 @@
       "sub_source": "Zenn",
       "title": "AWSから4.3億円の課金が...バグと思われる高額請求された際にまずすること",
       "url": "https://zenn.dev/tsumita7/articles/aoss-intelligent-ingestion-billing-202610",
-      "score": 35,
+      "score": 36,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sun, 08 Nov 2026 08:56:07 GMT",
-      "hatena_count": 35
+      "hatena_count": 36
     },
     {
       "id": "techracho-4616a03635",
