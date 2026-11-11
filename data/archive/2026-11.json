@@ -174,6 +174,20 @@
       "hatena_count": 3
     },
     {
+      "id": "zenn-28366bb153",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Snowflake Dashboards 2.0が最高な理由と、これからBIに求められること",
+      "url": "https://zenn.dev/dataheroes/articles/snowflake-dashboards-2-and-future-of-bi",
+      "score": 2,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 11 Nov 2026 00:21:10 GMT",
+      "hatena_count": 2
+    },
+    {
       "id": "zenn-75c86f9192",
       "source": "sns",
       "sub_source": "Zenn",
@@ -286,20 +300,6 @@
         "Qiita"
       ],
       "date": "2026-11-04T13:44:11+09:00",
-      "hatena_count": 1
-    },
-    {
-      "id": "qiita-335be4700d",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "【未来を解説】AIでエンジニア格差を生み出す質とスピードの考え方",
-      "url": "https://qiita.com/Sicut_study/items/b9e38c0584d4aa720d31?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 1,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-01T17:41:55+09:00",
       "hatena_count": 1
     }
   ],

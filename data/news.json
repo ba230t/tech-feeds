@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T07:06:14.993857+00:00",
+  "updated_at": "2026-11-11T07:33:48.529666+00:00",
   "count": 500,
   "items": [
     {
@@ -6687,13 +6687,13 @@
       "sub_source": "Zenn",
       "title": "Snowflake Dashboards 2.0が最高な理由と、これからBIに求められること",
       "url": "https://zenn.dev/dataheroes/articles/snowflake-dashboards-2-and-future-of-bi",
-      "score": 1,
+      "score": 2,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 11 Nov 2026 00:21:10 GMT",
-      "hatena_count": 1
+      "hatena_count": 2
     },
     {
       "id": "zenn-97b0a7e90d",
