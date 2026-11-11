@@ -1,15 +1,15 @@
 {
   "month": "2026-11",
-  "total_articles": 252,
+  "total_articles": 262,
   "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (1件)**\n\n1. 更新：PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell)\n\n**AI・機械学習動向 (2件)**\n\n1. Claude Codeで最近使っているTips【2026/11】\n\n2. AIですぐに作れる時代に、何と向き合うか\n\n**技術トレンド (7件)**\n\n1. ISUCON2026 で優勝しました（準備編）\n\n2. 退屈なCoding AgentはMuseにやらせよう\n\n3. NVIDIAの「長文コンテキスト不要」論文\n\n4. ShopifyのReact Native→ネイティブ移行を支える「Reflex」をSwiftとKotlinで試す\n\n5. AWSから4.3億円の課金が...バグと思われる高額請求された際にまずすること\n\n6. なぜ mixi2 は iPhone Duo の発売初日から最適化できたのか？\n\n7. Snowflake Dashboards 2.0が最高な理由と、これからBIに求められること",
   "source_counts": {
-    "sns": 210,
+    "sns": 220,
     "jpcert": 30,
     "ipa": 2,
     "techracho": 10
   },
   "severity_counts": {
-    "high": 7,
+    "high": 8,
     "info": 28,
     "medium": 2
   },
@@ -34,13 +34,13 @@
       "sub_source": "Zenn",
       "title": "ISUCON2026 で優勝しました（準備編）",
       "url": "https://zenn.dev/luvtechno/articles/isucon2026-preparation",
-      "score": 422,
+      "score": 429,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 11 Nov 2026 05:05:46 GMT",
-      "hatena_count": 422
+      "hatena_count": 429
     },
     {
       "id": "zenn-86e2a08d5a",
@@ -319,6 +319,21 @@
       "date": "Mon, 09 Nov 2026 13:51:19 GMT",
       "severity": "high",
       "hatena_count": 1
+    },
+    {
+      "id": "qiita-d2fad173fa",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "PRの脆弱性をAIが直す「CodeMender」を見て、新卒が基礎を学ぶ理由を考えた",
+      "url": "https://qiita.com/N-Kyo/items/23697fc1e92c288b426b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-12T00:47:28+09:00",
+      "severity": "high",
+      "hatena_count": 0
     },
     {
       "id": "jpcert-b24da38fa6",

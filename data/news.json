@@ -1,7 +1,92 @@
 {
-  "updated_at": "2026-11-11T20:05:46.506194+00:00",
+  "updated_at": "2026-11-11T21:03:24.293333+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "qiita-d2fad173fa",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "PRの脆弱性をAIが直す「CodeMender」を見て、新卒が基礎を学ぶ理由を考えた",
+      "url": "https://qiita.com/N-Kyo/items/23697fc1e92c288b426b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-12T00:47:28+09:00",
+      "severity": "high",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-6e4a74b821",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "Q Developer 改め AWS assistantに、共用アカウントの「お金の犯人」を聞いてみた",
+      "url": "https://qiita.com/N-Kyo/items/e795b22a860566bc7b5b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-11T21:55:34+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-92f8a7fd92",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "日々アップデートを重ねる「yomiyasu」、日本語の推敲はどう変わる？v1.0.1・v2.5.0・v3.0.0に同じ文章を通して比べてみた",
+      "url": "https://qiita.com/inoyu-qiita/items/b0a7aee8d9f97cc21e2c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-11T21:06:19+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-2f1b2721fa",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "【Unity URP】モンスターの咆哮エフェクトを作る！極座標（atan2）の切れ目解消と3D座標追従の数学",
+      "url": "https://qiita.com/YYYGame/items/a1a4f0091acd106019c8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-11T19:59:06+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-7d2209a909",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "【改定前受験推奨】Claude Certified Architect – Professional（CCAR-P）本日受験してきました。【合格体験記】",
+      "url": "https://qiita.com/takeshi_Qiita/items/a84c8eab09c878071daa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-11T18:09:14+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-80726af71b",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "Step FunctionsのwaitForTaskTokenで承認フローを作ってみる(サーバーレス構成）",
+      "url": "https://qiita.com/d-kaneda/items/921aa0542d5e59e588de?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-11T13:15:46+09:00",
+      "hatena_count": 0
+    },
     {
       "id": "qiita-4e799f1bb2",
       "source": "sns",
@@ -28,6 +113,20 @@
         "Qiita"
       ],
       "date": "2026-11-11T11:29:49+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-44a7799ab2",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "「画面数×人月」はもう通じない？見積もり単位の変遷と、バイブコーディング時代の見積もり書",
+      "url": "https://qiita.com/TH_stickey/items/f55fb76055988cf9d0ad?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-11T11:25:25+09:00",
       "hatena_count": 0
     },
     {
@@ -299,6 +398,20 @@
       "hatena_count": 1
     },
     {
+      "id": "qiita-2154a1566e",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "Claude Codeが「私が言っていない同意」を書いて、それに従って動く — 自分のログで数えてみた（解析①）",
+      "url": "https://qiita.com/Pulsar-K/items/4abdd463cdc2e1c55e3d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-10T23:15:49+09:00",
+      "hatena_count": 0
+    },
+    {
       "id": "qiita-2af0df44fe",
       "source": "sns",
       "sub_source": "Qiita",
@@ -439,6 +552,20 @@
       "hatena_count": 0
     },
     {
+      "id": "qiita-b4527f10e3",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "AIに書かせる時代だからこそ、コード1行を読む",
+      "url": "https://qiita.com/yukegineer/items/e8fa851317846aa24de6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-10T09:38:48+09:00",
+      "hatena_count": 0
+    },
+    {
       "id": "qiita-087e964d03",
       "source": "sns",
       "sub_source": "Qiita",
@@ -520,6 +647,20 @@
         "Qiita"
       ],
       "date": "2026-11-10T01:24:42+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-874a359fce",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "ログ調査の流れとよく使うLinuxコマンド早見表",
+      "url": "https://qiita.com/y-hys/items/eca888fc9dbaa3e3a8ea?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-10T01:11:23+09:00",
       "hatena_count": 0
     },
     {
@@ -6225,154 +6366,6 @@
       "hatena_count": 0
     },
     {
-      "id": "qiita-00dac1e3d6",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "顧客説明で「高市さんが言ってたから！」と言えるのが強すぎる！ PHPの緊急メンテで見えたトップダウンとAI時代の脆弱性対応",
-      "url": "https://qiita.com/shinkai_/items/a45455b514bf9d32275a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-22T19:20:29+09:00",
-      "severity": "critical",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-7d5b5ac0fd",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "【緊急】Node.jsの重大脆弱性に対応するセキュリティアップデートを安全に適用する方法",
-      "url": "https://qiita.com/superdora-cloud/items/8cad27487cd0e67d088c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 1,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-22T13:46:40+09:00",
-      "severity": "critical",
-      "hatena_count": 1
-    },
-    {
-      "id": "qiita-19486e2b18",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "「PHPなんて使ってるやつが悪い」と言っている輩が一番危ない",
-      "url": "https://qiita.com/kotowazaman/items/aab621d31a8501617eb4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-22T12:50:13+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-804ca66c04",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "PHP脆弱性php2shell対応、7.4本番を止めずに守った夜と実際の攻撃",
-      "url": "https://qiita.com/kenimo49/items/30f290bf0f4fff021fb3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-22T02:15:15+09:00",
-      "severity": "high",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-9af9c6ce33",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "Amazon Linux 2023 の PHP を CVE-2026-109618 修正版へ先行ビルドする",
-      "url": "https://qiita.com/amu-kuroneko/items/46f00fbe8b5bac009c1c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-22T00:02:18+09:00",
-      "severity": "high",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-7d2b34e682",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "【緊急】PHPの重大脆弱性2件(CVE-2026-109618 / 109619)を安全にアップデートする方法",
-      "url": "https://qiita.com/superdora-cloud/items/10ddecde5fb1d032f17c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-21T23:17:51+09:00",
-      "severity": "critical",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-9e5e15aef9",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "「ドパ資料」の作り方",
-      "url": "https://qiita.com/kikuziro/items/b6a0743b070d7320c36d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-21T18:04:32+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "jpcert-c09c0b7b32",
-      "source": "jpcert",
-      "title": "Weekly Report: Microsoft Edgeに複数の脆弱性",
-      "url": "https://www.jpcert.or.jp/wr/2026/wr261021.html#1",
-      "score": 0,
-      "author": "JPCERT/CC",
-      "tags": [
-        "JPCERT",
-        "セキュリティ"
-      ],
-      "severity": "info",
-      "date": "2026-10-21T09:12+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "jpcert-434b123aa3",
-      "source": "jpcert",
-      "title": "Weekly Report: 複数のJuniper Networks製品に脆弱性",
-      "url": "https://www.jpcert.or.jp/wr/2026/wr261021.html#2",
-      "score": 0,
-      "author": "JPCERT/CC",
-      "tags": [
-        "JPCERT",
-        "セキュリティ"
-      ],
-      "severity": "info",
-      "date": "2026-10-21T09:12+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "jpcert-28c01c363f",
-      "source": "jpcert",
-      "title": "Weekly Report: BeyondTrust Remote Supportになりすましによる認証回避の脆弱性",
-      "url": "https://www.jpcert.or.jp/wr/2026/wr261021.html#3",
-      "score": 0,
-      "author": "JPCERT/CC",
-      "tags": [
-        "JPCERT",
-        "セキュリティ"
-      ],
-      "severity": "info",
-      "date": "2026-10-21T09:12+09:00",
-      "hatena_count": 0
-    },
-    {
       "id": "ipa-6e5c697bce",
       "source": "ipa",
       "title": "【事前準備のお願い】PHPのセキュリティリリース公開予定について",
@@ -6678,13 +6671,13 @@
       "sub_source": "Zenn",
       "title": "ISUCON2026 で優勝しました（準備編）",
       "url": "https://zenn.dev/luvtechno/articles/isucon2026-preparation",
-      "score": 422,
+      "score": 429,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 11 Nov 2026 05:05:46 GMT",
-      "hatena_count": 422
+      "hatena_count": 429
     },
     {
       "id": "zenn-611c0a30bf",
