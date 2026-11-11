@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T21:03:24.293333+00:00",
+  "updated_at": "2026-11-11T21:33:39.918902+00:00",
   "count": 500,
   "items": [
     {
@@ -571,13 +571,13 @@
       "sub_source": "Qiita",
       "title": "AIが書いたテストでは変異の半分を検出できなかった",
       "url": "https://qiita.com/meursyphus/items/f3c05ced6a6815c1cf0c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
+      "score": 1,
       "author": "Qiita",
       "tags": [
         "Qiita"
       ],
       "date": "2026-11-10T09:38:11+09:00",
-      "hatena_count": 0
+      "hatena_count": 1
     },
     {
       "id": "qiita-4cd4f8e22c",
@@ -613,13 +613,13 @@
       "sub_source": "Qiita",
       "title": "Claude Code を新しい Fable 5.2 に切り替えると速く安くなるのか。36回測ったら、Fable 5.1 より2割速く3割安く、費用は Opus 5.5 の1.6倍だった",
       "url": "https://qiita.com/suwa_nobu/items/a6a104575596915dac2e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
+      "score": 1,
       "author": "Qiita",
       "tags": [
         "Qiita"
       ],
       "date": "2026-11-10T08:50:19+09:00",
-      "hatena_count": 0
+      "hatena_count": 1
     },
     {
       "id": "qiita-34cf3dce58",
@@ -6671,13 +6671,13 @@
       "sub_source": "Zenn",
       "title": "ISUCON2026 で優勝しました（準備編）",
       "url": "https://zenn.dev/luvtechno/articles/isucon2026-preparation",
-      "score": 429,
+      "score": 435,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 11 Nov 2026 05:05:46 GMT",
-      "hatena_count": 429
+      "hatena_count": 435
     },
     {
       "id": "zenn-611c0a30bf",
