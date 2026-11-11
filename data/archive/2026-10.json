@@ -1,14 +1,14 @@
 {
   "month": "2026-10",
-  "total_articles": 245,
-  "summary": "# 2026-10の技術動向レポート\n\n**セキュリティ動向 (6件)**\n\n1. 【事前準備のお願い】PHPのセキュリティリリース公開予定について\n\n2. Oracle Java の脆弱性対策について(2026年10月)\n\n3. 注意喚起: PHPにおける複数の脆弱性（CVE-2026-109618、CVE-2026-109619）に関する注意喚起  (更新)\n\n4. 注意喚起: BrotliのC言語実装における境界外書き込みの脆弱性（CVE-2026-111497）に関する注意喚起  (公開)\n\n5. 注意喚起: SiteGuard Server EditionにおけるOSコマンドインジェクションの脆弱性（CVE-2026-106931）に関する注意喚起  (公開)\n\n6. 注意喚起: NetScaler ADCおよびNetScaler Gatewayにおける複数の脆弱性（CVE-2026-88771、CVE-2026-88772等）に関する注意喚起  (更新)\n\n**AI・機械学習動向 (2件)**\n\n1. Xで話題の、原文をたどってドメイン知識を集めるスキル「imozuru」を普通のAI検索と比べてみた\n\n2. 実際に試したClaude便利術20選 まとめ\n\n**技術トレンド (2件)**\n\n1. 注意喚起: 直近で相次いでいる国内組織における不正アクセスに関する注意喚起  (更新)\n\n2. 不正アクセスによる漏えい等の事案を踏まえ、速やかに実施すべき対策等について",
+  "total_articles": 244,
+  "summary": "# 2026-10の技術動向レポート\n\n**セキュリティ動向 (5件)**\n\n1. 【事前準備のお願い】PHPのセキュリティリリース公開予定について\n\n2. Oracle Java の脆弱性対策について(2026年10月)\n\n3. 注意喚起: PHPにおける複数の脆弱性（CVE-2026-109618、CVE-2026-109619）に関する注意喚起  (更新)\n\n4. 注意喚起: BrotliのC言語実装における境界外書き込みの脆弱性（CVE-2026-111497）に関する注意喚起  (公開)\n\n5. 注意喚起: SiteGuard Server EditionにおけるOSコマンドインジェクションの脆弱性（CVE-2026-106931）に関する注意喚起  (公開)\n\n**AI・機械学習動向 (3件)**\n\n1. Xで話題の、原文をたどってドメイン知識を集めるスキル「imozuru」を普通のAI検索と比べてみた\n\n2. 実際に試したClaude便利術20選 まとめ\n\n3. AIのみで作られたシステムを引き継いだら、品質の現実に直面した話\n\n**技術トレンド (2件)**\n\n1. 注意喚起: 直近で相次いでいる国内組織における不正アクセスに関する注意喚起  (更新)\n\n2. 不正アクセスによる漏えい等の事案を踏まえ、速やかに実施すべき対策等について",
   "source_counts": {
     "sns": 207,
-    "jpcert": 33,
+    "jpcert": 32,
     "ipa": 5
   },
   "severity_counts": {
-    "high": 13,
+    "high": 12,
     "medium": 6,
     "critical": 6,
     "info": 26
@@ -145,21 +145,6 @@
         "Qiita"
       ],
       "date": "2026-10-26T20:05:51+09:00",
-      "hatena_count": 2
-    },
-    {
-      "id": "jpcert-992361585c",
-      "source": "jpcert",
-      "title": "注意喚起: NetScaler ADCおよびNetScaler Gatewayにおける複数の脆弱性（CVE-2026-88771、CVE-2026-88772等）に関する注意喚起  (更新)",
-      "url": "https://www.jpcert.or.jp/at/2026/at260029.html",
-      "score": 2,
-      "author": "JPCERT/CC",
-      "tags": [
-        "JPCERT",
-        "セキュリティ"
-      ],
-      "severity": "high",
-      "date": "2026-10-02T14:15+09:00",
       "hatena_count": 2
     },
     {
@@ -302,6 +287,20 @@
         "Qiita"
       ],
       "date": "2026-11-01T08:07:08+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-a315a0e212",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "受験生用鉄緑風プリント作成プロンプト",
+      "url": "https://qiita.com/KKTeX/items/c2612d68b2882afd620a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-01T07:55:06+09:00",
       "hatena_count": 0
     }
   ],
@@ -575,21 +574,6 @@
       "severity": "high",
       "date": "2026-10-14T11:25+09:00",
       "hatena_count": 0
-    },
-    {
-      "id": "jpcert-992361585c",
-      "source": "jpcert",
-      "title": "注意喚起: NetScaler ADCおよびNetScaler Gatewayにおける複数の脆弱性（CVE-2026-88771、CVE-2026-88772等）に関する注意喚起  (更新)",
-      "url": "https://www.jpcert.or.jp/at/2026/at260029.html",
-      "score": 2,
-      "author": "JPCERT/CC",
-      "tags": [
-        "JPCERT",
-        "セキュリティ"
-      ],
-      "severity": "high",
-      "date": "2026-10-02T14:15+09:00",
-      "hatena_count": 2
     }
   ]
 }

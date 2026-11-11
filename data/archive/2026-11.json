@@ -1,17 +1,17 @@
 {
   "month": "2026-11",
-  "total_articles": 241,
+  "total_articles": 243,
   "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (1件)**\n\n1. 更新：PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell)\n\n**AI・機械学習動向 (3件)**\n\n1. Claude Codeで最近使っているTips【2026/11】\n\n2. AIですぐに作れる時代に、何と向き合うか\n\n3. RailsのコードをRactorセーフにするリファクタリングパターン集（翻訳）\n\n**技術トレンド (6件)**\n\n1. 退屈なCoding AgentはMuseにやらせよう\n\n2. [破壊的変更] 明治時代の開始日が変更になって単体テストが失敗した件\n\n3. NVIDIAの「長文コンテキスト不要」論文\n\n4. AWSから4.3億円の課金が...バグと思われる高額請求された際にまずすること\n\n5. なぜ mixi2 は iPhone Duo の発売初日から最適化できたのか？\n\n6. Shopifyの Rubydex linter でRubyプロジェクトに構造的lintを導入しよう（翻訳）",
   "source_counts": {
-    "jpcert": 29,
+    "jpcert": 30,
+    "ipa": 2,
     "sns": 201,
-    "ipa": 1,
     "techracho": 10
   },
   "severity_counts": {
+    "high": 7,
     "info": 28,
-    "high": 6,
-    "medium": 1
+    "medium": 2
   },
   "top_articles": [
     {
@@ -34,13 +34,13 @@
       "sub_source": "Zenn",
       "title": "退屈なCoding AgentはMuseにやらせよう",
       "url": "https://zenn.dev/watany/articles/342b9815dd0553",
-      "score": 188,
+      "score": 191,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 10 Nov 2026 02:35:05 GMT",
-      "hatena_count": 188
+      "hatena_count": 191
     },
     {
       "id": "zenn-f7880dbf50",
@@ -62,13 +62,13 @@
       "sub_source": "Zenn",
       "title": "NVIDIAの「長文コンテキスト不要」論文",
       "url": "https://zenn.dev/knowledgesense/articles/bd917ed6829121",
-      "score": 53,
+      "score": 60,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 10 Nov 2026 00:01:05 GMT",
-      "hatena_count": 53
+      "hatena_count": 60
     },
     {
       "id": "zenn-bd2574cc91",
@@ -76,13 +76,13 @@
       "sub_source": "Zenn",
       "title": "AWSから4.3億円の課金が...バグと思われる高額請求された際にまずすること",
       "url": "https://zenn.dev/tsumita7/articles/aoss-intelligent-ingestion-billing-202610",
-      "score": 31,
+      "score": 32,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sun, 08 Nov 2026 08:56:07 GMT",
-      "hatena_count": 31
+      "hatena_count": 32
     },
     {
       "id": "ipa-ee45d6bd49",
@@ -318,6 +318,21 @@
       "date": "Mon, 09 Nov 2026 13:51:19 GMT",
       "severity": "high",
       "hatena_count": 1
+    },
+    {
+      "id": "jpcert-b24da38fa6",
+      "source": "jpcert",
+      "title": "注意喚起: 2026年11月マイクロソフトセキュリティ更新プログラムに関する注意喚起  (公開)",
+      "url": "https://www.jpcert.or.jp/at/2026/at260035.html",
+      "score": 0,
+      "author": "JPCERT/CC",
+      "tags": [
+        "JPCERT",
+        "セキュリティ"
+      ],
+      "severity": "high",
+      "date": "2026-11-11T11:20+09:00",
+      "hatena_count": 0
     },
     {
       "id": "qiita-eabdafc557",
