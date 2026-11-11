@@ -1,14 +1,12 @@
 {
   "month": "2026-09",
-  "total_articles": 4,
-  "summary": "# 2026-09の技術動向レポート\n\n**セキュリティ動向 (3件)**\n\n1. NetScaler ADCおよびNetScaler Gatewayの脆弱性について(CVE-2026-88771、CVE-2026-88772等)\n\n2. 注意喚起: F5 BIG-IP Access Policy Managerにおけるヒープベースのバッファオーバーフローの脆弱性（CVE-2026-94127）に関する注意喚起  (公開)\n\n3. Adobe Acrobat および Reader の脆弱性対策について(2026年9月)",
+  "total_articles": 3,
+  "summary": "# 2026-09の技術動向レポート\n\n**セキュリティ動向 (2件)**\n\n1. NetScaler ADCおよびNetScaler Gatewayの脆弱性について(CVE-2026-88771、CVE-2026-88772等)\n\n2. Adobe Acrobat および Reader の脆弱性対策について(2026年9月)",
   "source_counts": {
-    "ipa": 3,
-    "jpcert": 1
+    "ipa": 3
   },
   "severity_counts": {
-    "medium": 3,
-    "high": 1
+    "medium": 3
   },
   "top_articles": [
     {
@@ -25,21 +23,6 @@
       "severity": "medium",
       "date": "2026-09-28T00:00:00+09:00",
       "hatena_count": 3
-    },
-    {
-      "id": "jpcert-d1a73c3457",
-      "source": "jpcert",
-      "title": "注意喚起: F5 BIG-IP Access Policy Managerにおけるヒープベースのバッファオーバーフローの脆弱性（CVE-2026-94127）に関する注意喚起  (公開)",
-      "url": "https://www.jpcert.or.jp/at/2026/at260028.html",
-      "score": 2,
-      "author": "JPCERT/CC",
-      "tags": [
-        "JPCERT",
-        "セキュリティ"
-      ],
-      "severity": "high",
-      "date": "2026-09-24T16:14+09:00",
-      "hatena_count": 2
     },
     {
       "id": "ipa-7e3a17e128",
@@ -72,21 +55,5 @@
       "hatena_count": 0
     }
   ],
-  "security_highlights": [
-    {
-      "id": "jpcert-d1a73c3457",
-      "source": "jpcert",
-      "title": "注意喚起: F5 BIG-IP Access Policy Managerにおけるヒープベースのバッファオーバーフローの脆弱性（CVE-2026-94127）に関する注意喚起  (公開)",
-      "url": "https://www.jpcert.or.jp/at/2026/at260028.html",
-      "score": 2,
-      "author": "JPCERT/CC",
-      "tags": [
-        "JPCERT",
-        "セキュリティ"
-      ],
-      "severity": "high",
-      "date": "2026-09-24T16:14+09:00",
-      "hatena_count": 2
-    }
-  ]
+  "security_highlights": []
 }
