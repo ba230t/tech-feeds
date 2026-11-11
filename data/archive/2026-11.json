@@ -1,7 +1,7 @@
 {
   "month": "2026-11",
   "total_articles": 243,
-  "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (1件)**\n\n1. 更新：PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell)\n\n**AI・機械学習動向 (3件)**\n\n1. Claude Codeで最近使っているTips【2026/11】\n\n2. AIですぐに作れる時代に、何と向き合うか\n\n3. RailsのコードをRactorセーフにするリファクタリングパターン集（翻訳）\n\n**技術トレンド (6件)**\n\n1. 退屈なCoding AgentはMuseにやらせよう\n\n2. [破壊的変更] 明治時代の開始日が変更になって単体テストが失敗した件\n\n3. NVIDIAの「長文コンテキスト不要」論文\n\n4. AWSから4.3億円の課金が...バグと思われる高額請求された際にまずすること\n\n5. なぜ mixi2 は iPhone Duo の発売初日から最適化できたのか？\n\n6. Shopifyの Rubydex linter でRubyプロジェクトに構造的lintを導入しよう（翻訳）",
+  "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (1件)**\n\n1. 更新：PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell)\n\n**AI・機械学習動向 (3件)**\n\n1. Claude Codeで最近使っているTips【2026/11】\n\n2. AIですぐに作れる時代に、何と向き合うか\n\n3. RailsのコードをRactorセーフにするリファクタリングパターン集（翻訳）\n\n**技術トレンド (6件)**\n\n1. 退屈なCoding AgentはMuseにやらせよう\n\n2. ShopifyのReact Native→ネイティブ移行を支える「Reflex」をSwiftとKotlinで試す\n\n3. AWSから4.3億円の課金が...バグと思われる高額請求された際にまずすること\n\n4. なぜ mixi2 は iPhone Duo の発売初日から最適化できたのか？\n\n5. Shopifyの Rubydex linter でRubyプロジェクトに構造的lintを導入しよう（翻訳）\n\n6. YJIT で純粋な Ruby コードがC拡張より速くなる理由（翻訳）",
   "source_counts": {
     "jpcert": 30,
     "ipa": 2,
@@ -34,41 +34,27 @@
       "sub_source": "Zenn",
       "title": "退屈なCoding AgentはMuseにやらせよう",
       "url": "https://zenn.dev/watany/articles/342b9815dd0553",
-      "score": 198,
+      "score": 201,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 10 Nov 2026 02:35:05 GMT",
-      "hatena_count": 198
+      "hatena_count": 201
     },
     {
-      "id": "zenn-f7880dbf50",
+      "id": "zenn-695b12cc60",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "[破壊的変更] 明治時代の開始日が変更になって単体テストが失敗した件",
-      "url": "https://zenn.dev/xin9le/articles/9a1cf8e10494d6",
-      "score": 145,
+      "title": "ShopifyのReact Native→ネイティブ移行を支える「Reflex」をSwiftとKotlinで試す",
+      "url": "https://zenn.dev/tellernovel_inc/articles/reflex-native-swift-kotlin",
+      "score": 46,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Fri, 06 Nov 2026 14:39:45 GMT",
-      "hatena_count": 145
-    },
-    {
-      "id": "zenn-b2b3047a18",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "NVIDIAの「長文コンテキスト不要」論文",
-      "url": "https://zenn.dev/knowledgesense/articles/bd917ed6829121",
-      "score": 63,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 10 Nov 2026 00:01:05 GMT",
-      "hatena_count": 63
+      "date": "Mon, 09 Nov 2026 01:38:40 GMT",
+      "hatena_count": 46
     },
     {
       "id": "zenn-bd2574cc91",
@@ -105,13 +91,13 @@
       "sub_source": "Zenn",
       "title": "なぜ mixi2 は iPhone Duo の発売初日から最適化できたのか？",
       "url": "https://zenn.dev/mixi/articles/b0ea64fded9503",
-      "score": 13,
+      "score": 16,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 09 Nov 2026 06:57:46 GMT",
-      "hatena_count": 13
+      "hatena_count": 16
     },
     {
       "id": "zenn-f9b3376cd7",
@@ -186,6 +172,20 @@
       ],
       "date": "Wed, 21 Oct 2026 08:30:47 +0000",
       "hatena_count": 3
+    },
+    {
+      "id": "zenn-75c86f9192",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Rustで作られたExpoの新フレームワーク「Exact」で、モバイル・Web・デスクトップアプリを作ってみた",
+      "url": "https://zenn.dev/tellernovel_inc/articles/expo-exact-first-impression",
+      "score": 2,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 10 Nov 2026 05:06:37 GMT",
+      "hatena_count": 2
     },
     {
       "id": "techracho-511973acbf",
