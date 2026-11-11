@@ -3,7 +3,7 @@
     {
       "month": "2026-11",
       "total_articles": 252,
-      "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (1件)**\n\n1. 更新：PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell)\n\n**AI・機械学習動向 (3件)**\n\n1. Claude Codeで最近使っているTips【2026/11】\n\n2. AIですぐに作れる時代に、何と向き合うか\n\n3. RailsのコードをRactorセーフにするリファクタリングパターン集（翻訳）\n\n**技術トレンド (6件)**\n\n1. 退屈なCoding AgentはMuseにやらせよう\n\n2. ShopifyのReact Native→ネイティブ移行を支える「Reflex」をSwiftとKotlinで試す\n\n3. AWSから4.3億円の課金が...バグと思われる高額請求された際にまずすること\n\n4. なぜ mixi2 は iPhone Duo の発売初日から最適化できたのか？\n\n5. Snowflake Dashboards 2.0が最高な理由と、これからBIに求められること\n\n6. Shopifyの Rubydex linter でRubyプロジェクトに構造的lintを導入しよう（翻訳）",
+      "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (1件)**\n\n1. 更新：PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell)\n\n**AI・機械学習動向 (2件)**\n\n1. Claude Codeで最近使っているTips【2026/11】\n\n2. AIですぐに作れる時代に、何と向き合うか\n\n**技術トレンド (7件)**\n\n1. ISUCON2026 で優勝しました（準備編）\n\n2. 退屈なCoding AgentはMuseにやらせよう\n\n3. NVIDIAの「長文コンテキスト不要」論文\n\n4. ShopifyのReact Native→ネイティブ移行を支える「Reflex」をSwiftとKotlinで試す\n\n5. AWSから4.3億円の課金が...バグと思われる高額請求された際にまずすること\n\n6. なぜ mixi2 は iPhone Duo の発売初日から最適化できたのか？\n\n7. Snowflake Dashboards 2.0が最高な理由と、これからBIに求められること",
       "file": "2026-11.json",
       "html_file": "2026-11.html",
       "compressed": false
