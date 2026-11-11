@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T23:33:27.716788+00:00",
+  "updated_at": "2026-11-11T00:13:21.547382+00:00",
   "count": 500,
   "items": [
     {
@@ -6667,76 +6667,6 @@
       "hatena_count": 1
     },
     {
-      "id": "zenn-6cadd7d758",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "HAC125DX 用の無線カメラを Pi Zero 2 W で作って、ライブスタックしてみた",
-      "url": "https://zenn.dev/tsukitsukiss/articles/livestack-hac125dx-wireless-camera",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 10 Nov 2026 20:52:00 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-97b0a7e90d",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "LiteLLM Adaptive Routerを検証する（後編）：学習シグナルと運用上の注意",
-      "url": "https://zenn.dev/aws_japan/articles/4399262cf00559",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 10 Nov 2026 14:30:35 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-81d42474b6",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "LiteLLM Adaptive Router を検証する（前編）：モデル選択と学習の仕組み",
-      "url": "https://zenn.dev/aws_japan/articles/ac9ae548d57323",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 10 Nov 2026 14:28:03 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-0d945d9878",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Clojureのマクロによるメタプログラミングで業務ルールのDSLを作る",
-      "url": "https://zenn.dev/pksha/articles/b7e4c1a9d38f52",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 10 Nov 2026 12:55:14 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-4f1b3a8b49",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "JaCoCoはどうやってカバレッジを測っているのか",
-      "url": "https://zenn.dev/chikina/articles/jacoco-coverage-bytecode",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 10 Nov 2026 08:41:07 GMT",
-      "hatena_count": 0
-    },
-    {
       "id": "zenn-2e254ba5bc",
       "source": "sns",
       "sub_source": "Zenn",
@@ -6784,27 +6714,13 @@
       "sub_source": "Zenn",
       "title": "退屈なCoding AgentはMuseにやらせよう",
       "url": "https://zenn.dev/watany/articles/342b9815dd0553",
-      "score": 171,
+      "score": 181,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 10 Nov 2026 02:35:05 GMT",
-      "hatena_count": 171
-    },
-    {
-      "id": "zenn-b2b3047a18",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "NVIDIAの「長文コンテキスト不要」論文",
-      "url": "https://zenn.dev/knowledgesense/articles/bd917ed6829121",
-      "score": 22,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 10 Nov 2026 00:01:05 GMT",
-      "hatena_count": 22
+      "hatena_count": 181
     },
     {
       "id": "zenn-a9d487fb41",
@@ -6826,13 +6742,55 @@
       "sub_source": "Zenn",
       "title": "Claude Codeで最近使っているTips【2026/11】",
       "url": "https://zenn.dev/oikon/articles/claude-code-recipe",
-      "score": 476,
+      "score": 499,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 09 Nov 2026 22:01:05 GMT",
-      "hatena_count": 476
+      "hatena_count": 499
+    },
+    {
+      "id": "zenn-1d83450d1b",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "撮る側として、学ぶ側として。JAWS FESTA 2026 in AKITA 参加レポート",
+      "url": "https://zenn.dev/yukiblue63/articles/4d81ff46e01381",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 09 Nov 2026 21:00:06 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-be0e691f98",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "少年団の役員向けRAGを作った — 条文単位に切り直しただけで正答52%→72%、ハイブリッド検索は効かなかった",
+      "url": "https://zenn.dev/mappy55/articles/rulebook-rag-01",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 09 Nov 2026 20:35:11 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-d912e98431",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "ゼロから作ったMamba3言語モデルを日本語で話せる全二重音声対話モデルに拡張するまで",
+      "url": "https://zenn.dev/taaroo/articles/47f8d1ac55d4af",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 09 Nov 2026 14:48:35 GMT",
+      "hatena_count": 0
     },
     {
       "id": "zenn-ab731c7f05",
@@ -6850,17 +6808,17 @@
       "hatena_count": 1
     },
     {
-      "id": "zenn-41be3077a8",
+      "id": "zenn-c721c925b4",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "JAWS FESTA 2026 in AKITA 懇親会を振り返ってみる",
-      "url": "https://zenn.dev/k_suzuki_pnx/articles/411e236ab4f2c7",
+      "title": "2 つのエージェントで異なる方向性から検証を行う",
+      "url": "https://zenn.dev/kokagex/articles/75f89df3b007cc",
       "score": 0,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Mon, 09 Nov 2026 08:13:00 GMT",
+      "date": "Mon, 09 Nov 2026 13:41:19 GMT",
       "hatena_count": 0
     },
     {
@@ -6869,13 +6827,13 @@
       "sub_source": "Zenn",
       "title": "なぜ mixi2 は iPhone Duo の発売初日から最適化できたのか？",
       "url": "https://zenn.dev/mixi/articles/b0ea64fded9503",
-      "score": 7,
+      "score": 11,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 09 Nov 2026 06:57:46 GMT",
-      "hatena_count": 7
+      "hatena_count": 11
     },
     {
       "id": "zenn-f9b3376cd7",
@@ -6890,6 +6848,20 @@
       ],
       "date": "Mon, 09 Nov 2026 04:49:20 GMT",
       "hatena_count": 3
+    },
+    {
+      "id": "zenn-800f7701a2",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "LLM アプリケーションのプロンプトをどこで管理するか",
+      "url": "https://zenn.dev/painter/articles/663816c3195cec",
+      "score": 1,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 09 Nov 2026 03:11:23 GMT",
+      "hatena_count": 1
     },
     {
       "id": "zenn-d78c3e0089",
@@ -6920,18 +6892,46 @@
       "hatena_count": 0
     },
     {
-      "id": "zenn-bd2574cc91",
+      "id": "zenn-c74c4cb54d",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "AWSから4.3億円の課金が...バグと思われる高額請求された際にまずすること",
-      "url": "https://zenn.dev/tsumita7/articles/aoss-intelligent-ingestion-billing-202610",
+      "title": "Herdr.app と hc の上で Claude Code の司令塔を回している",
+      "url": "https://zenn.dev/hoshinotsuyoshi/articles/c994c29833f36c",
       "score": 24,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Sun, 08 Nov 2026 08:56:07 GMT",
+      "date": "Sun, 08 Nov 2026 16:00:51 GMT",
       "hatena_count": 24
+    },
+    {
+      "id": "zenn-111c6fb5fc",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "危ないPRだけ人間が見て、レビューはAIにお任せ。AI自動レビューツール作りました",
+      "url": "https://zenn.dev/karamage/articles/f59f4109030d93",
+      "score": 29,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 08 Nov 2026 11:01:27 GMT",
+      "hatena_count": 29
+    },
+    {
+      "id": "zenn-bd2574cc91",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "AWSから4.3億円の課金が...バグと思われる高額請求された際にまずすること",
+      "url": "https://zenn.dev/tsumita7/articles/aoss-intelligent-ingestion-billing-202610",
+      "score": 29,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 08 Nov 2026 08:56:07 GMT",
+      "hatena_count": 29
     },
     {
       "id": "zenn-f7880dbf50",
@@ -7098,17 +7098,17 @@
       "hatena_count": 3
     },
     {
-      "id": "zenn-1d83450d1b",
+      "id": "zenn-6cadd7d758",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "撮る側として、学ぶ側として。JAWS FESTA 2026 in AKITA 参加レポート",
-      "url": "https://zenn.dev/yukiblue63/articles/4d81ff46e01381",
+      "title": "HAC125DX 用の無線カメラを Pi Zero 2 W で作って、ライブスタックしてみた",
+      "url": "https://zenn.dev/tsukitsukiss/articles/livestack-hac125dx-wireless-camera",
       "score": 0,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Mon, 09 Nov 2026 21:00:06 GMT",
+      "date": "Tue, 10 Nov 2026 20:52:00 GMT",
       "hatena_count": 0
     }
   ]
