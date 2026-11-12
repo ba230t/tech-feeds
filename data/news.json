@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T13:05:46.806309+00:00",
+  "updated_at": "2026-11-12T13:33:39.825570+00:00",
   "count": 500,
   "items": [
     {
@@ -6665,31 +6665,102 @@
       "hatena_count": 0
     },
     {
-      "id": "zenn-77c5db3b7a",
+      "id": "zenn-11389f36ac",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "Software Factoryの先へ：全社の仕事をAI-NativeにするUbieの内製クラウドエージェント基盤",
-      "url": "https://zenn.dev/ubie_dev/articles/45501469c9c044",
-      "score": 109,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 12 Nov 2026 00:44:52 GMT",
-      "hatena_count": 109
-    },
-    {
-      "id": "zenn-47de0dc461",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Amazon Bedrock AgentCore Gatewayで、vLLMのQwenとAmazon Bedrockを使い分けてみた",
-      "url": "https://zenn.dev/fusic/articles/4dc357178cbc1e",
+      "title": "セキュリティ・キャンプ 2026 応募課題晒し",
+      "url": "https://zenn.dev/uvu/articles/758ee227a614ea",
       "score": 0,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Wed, 11 Nov 2026 22:00:05 GMT",
+      "date": "Thu, 12 Nov 2026 06:45:01 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-03820b944c",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "AIエージェントが決定を勝手に変えてしまった5つのパターンと工夫",
+      "url": "https://zenn.dev/dress_code/articles/568fd547315abe",
+      "score": 2,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 12 Nov 2026 03:00:05 GMT",
+      "hatena_count": 2
+    },
+    {
+      "id": "zenn-4a6c322c7b",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Node.js 22 / 24 / 26 の脆弱性、自分のアプリが影響を受けるか確認する方法【2026年11月】",
+      "url": "https://zenn.dev/rakko_inc/articles/nodejs-security-nov-2026-proxy",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 12 Nov 2026 02:31:30 GMT",
+      "severity": "high",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-7cbf5ec65b",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "libsignal のグループ暗号化を追って、署名改ざんのテストを追加した",
+      "url": "https://zenn.dev/under_michi/articles/7791295efdb23e",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 12 Nov 2026 01:12:25 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-77c5db3b7a",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Software Factoryの先へ：全社の仕事をAI-NativeにするUbieの内製クラウドエージェント基盤",
+      "url": "https://zenn.dev/ubie_dev/articles/45501469c9c044",
+      "score": 126,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 12 Nov 2026 00:44:52 GMT",
+      "hatena_count": 126
+    },
+    {
+      "id": "zenn-615f48d8d1",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "AI ファーストな管理画面を、WebMCP もどきで実現したい",
+      "url": "https://zenn.dev/tokium_dev/articles/llm-admin-interface",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 11 Nov 2026 23:00:06 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-4ddf24c1a9",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Claude Code に忘れさせたら、トークン使用量が4割減った",
+      "url": "https://zenn.dev/sae_eng/articles/0e9ed7205ebc41",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 11 Nov 2026 23:00:06 GMT",
       "hatena_count": 0
     },
     {
@@ -6707,32 +6778,32 @@
       "hatena_count": 0
     },
     {
-      "id": "zenn-c1482d4215",
+      "id": "zenn-df3281609f",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "Real2Sim2Realの現在地：現場スキャンからロボット検証環境へ",
-      "url": "https://zenn.dev/kudan_jp/articles/a0cb75384f4a83",
-      "score": 1,
+      "title": "上書きされたドラレコの映像は、ファイルの“余り”にまだ残っていた",
+      "url": "https://zenn.dev/haruto_miyakawa/articles/dashcam-overwritten-video-in-file-slack",
+      "score": 0,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Wed, 11 Nov 2026 09:46:24 GMT",
-      "hatena_count": 1
+      "date": "Wed, 11 Nov 2026 10:00:05 GMT",
+      "hatena_count": 0
     },
     {
-      "id": "zenn-c5d7799872",
+      "id": "zenn-aa9fb858be",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "React Nativeのローカル開発をAIに任せやすくするStimを試してみた",
-      "url": "https://zenn.dev/mybest_dev/articles/6b5d8597681def",
-      "score": 1,
+      "title": "【2026/11/11最新】Claude Data・Sheets・Whiteboards・connectors を Team プランで試した",
+      "url": "https://zenn.dev/canly/articles/9943093ef0c25c",
+      "score": 0,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Wed, 11 Nov 2026 08:05:34 GMT",
-      "hatena_count": 1
+      "date": "Wed, 11 Nov 2026 09:49:21 GMT",
+      "hatena_count": 0
     },
     {
       "id": "zenn-0e4f79a20f",
@@ -6740,27 +6811,13 @@
       "sub_source": "Zenn",
       "title": "ISUCON2026 で優勝しました（準備編）",
       "url": "https://zenn.dev/luvtechno/articles/isucon2026-preparation",
-      "score": 492,
+      "score": 493,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 11 Nov 2026 05:05:46 GMT",
-      "hatena_count": 492
-    },
-    {
-      "id": "zenn-cd1e1a743d",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "個人的な推し、Raycastの音声入力「Dictation」",
-      "url": "https://zenn.dev/miive/articles/aa272cc544ddf3",
-      "score": 2,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 11 Nov 2026 04:26:44 GMT",
-      "hatena_count": 2
+      "hatena_count": 493
     },
     {
       "id": "zenn-611c0a30bf",
@@ -6802,20 +6859,6 @@
         "Zenn"
       ],
       "date": "Tue, 10 Nov 2026 12:55:14 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-2e254ba5bc",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "AI ネイティブなデータ分析基盤を作った話（後編）",
-      "url": "https://zenn.dev/pksha/articles/laplace-build-guide",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 10 Nov 2026 07:38:37 GMT",
       "hatena_count": 0
     },
     {
@@ -6876,20 +6919,6 @@
       "hatena_count": 1
     },
     {
-      "id": "zenn-991f3568be",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Zennに投稿された26.4万件の記事のデータから見る現在の技術ブログ",
-      "url": "https://zenn.dev/northward/articles/zenn-data-report-2611",
-      "score": 1,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 09 Nov 2026 07:00:05 GMT",
-      "hatena_count": 1
-    },
-    {
       "id": "zenn-6cd8308eec",
       "source": "sns",
       "sub_source": "Zenn",
@@ -6902,20 +6931,6 @@
       ],
       "date": "Mon, 09 Nov 2026 06:57:46 GMT",
       "hatena_count": 19
-    },
-    {
-      "id": "zenn-f9b3376cd7",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "AIですぐに作れる時代に、何と向き合うか",
-      "url": "https://zenn.dev/peoplex_blog/articles/2611-what-to-face-when-ai-builds-fast",
-      "score": 5,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 09 Nov 2026 04:49:20 GMT",
-      "hatena_count": 5
     },
     {
       "id": "zenn-d78c3e0089",
@@ -6932,25 +6947,11 @@
       "hatena_count": 1
     },
     {
-      "id": "zenn-bd2574cc91",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "AWSから4.3億円の課金が...バグと思われる高額請求された際にまずすること",
-      "url": "https://zenn.dev/tsumita7/articles/aoss-intelligent-ingestion-billing-202610",
-      "score": 36,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 08 Nov 2026 08:56:07 GMT",
-      "hatena_count": 36
-    },
-    {
       "id": "techracho-4b67c39e4f",
       "source": "techracho",
       "title": "Rails: DHHがRails World 2026キーノートで「語らなかった」部分とは（翻訳）",
       "url": "https://techracho.bpsinc.jp/hachi8833/2026_11_12/161307",
-      "score": 2,
+      "score": 9,
       "author": "Techracho",
       "tags": [
         "Ruby",
@@ -6958,7 +6959,7 @@
         "日本語"
       ],
       "date": "Thu, 12 Nov 2026 08:30:57 +0000",
-      "hatena_count": 2
+      "hatena_count": 9
     },
     {
       "id": "techracho-4616a03635",
@@ -6995,7 +6996,7 @@
       "source": "techracho",
       "title": "「RailsはJITコンパイラだ！」（翻訳）",
       "url": "https://techracho.bpsinc.jp/hachi8833/2026_11_09/160947",
-      "score": 2,
+      "score": 3,
       "author": "Techracho",
       "tags": [
         "Ruby",
@@ -7003,7 +7004,7 @@
         "日本語"
       ],
       "date": "Mon, 09 Nov 2026 08:30:25 +0000",
-      "hatena_count": 2
+      "hatena_count": 3
     },
     {
       "id": "techracho-3ff1a08033",
