@@ -1,9 +1,9 @@
 {
   "month": "2026-11",
-  "total_articles": 262,
+  "total_articles": 273,
   "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (1件)**\n\n1. 更新：PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell)\n\n**AI・機械学習動向 (3件)**\n\n1. Claude Codeで最近使っているTips【2026/11】\n\n2. Software Factoryの先へ：全社の仕事をAI-NativeにするUbieの内製クラウドエージェント基盤\n\n3. AIですぐに作れる時代に、何と向き合うか\n\n**技術トレンド (6件)**\n\n1. ISUCON2026 で優勝しました（準備編）\n\n2. 退屈なCoding AgentはMuseにやらせよう\n\n3. AWSから4.3億円の課金が...バグと思われる高額請求された際にまずすること\n\n4. なぜ mixi2 は iPhone Duo の発売初日から最適化できたのか？\n\n5. Snowflake Dashboards 2.0が最高な理由と、これからBIに求められること\n\n6. Shopifyの Rubydex linter でRubyプロジェクトに構造的lintを導入しよう（翻訳）",
   "source_counts": {
-    "sns": 220,
+    "sns": 231,
     "jpcert": 30,
     "ipa": 2,
     "techracho": 10
@@ -62,13 +62,13 @@
       "sub_source": "Zenn",
       "title": "Software Factoryの先へ：全社の仕事をAI-NativeにするUbieの内製クラウドエージェント基盤",
       "url": "https://zenn.dev/ubie_dev/articles/45501469c9c044",
-      "score": 72,
+      "score": 75,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 12 Nov 2026 00:44:52 GMT",
-      "hatena_count": 72
+      "hatena_count": 75
     },
     {
       "id": "zenn-bd2574cc91",
