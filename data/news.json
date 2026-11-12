@@ -1,7 +1,49 @@
 {
-  "updated_at": "2026-11-12T20:05:49.917264+00:00",
+  "updated_at": "2026-11-12T20:33:32.303847+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "qiita-4cdb756303",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "お漏らししまくりの今だからこそIAPを再度推していく",
+      "url": "https://qiita.com/hokutoh/items/873f5117f8507123d509?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-12T22:45:35+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-f0dfd72d2d",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "Gemma 5が出るぞ！ OllamaとvLLMでの予行比較",
+      "url": "https://qiita.com/ryosuke_ohori/items/5c560c086d8c92173ac7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-12T18:13:47+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-75ca97a15d",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "財源幻想はなぜ生き残るのか——三層防衛構造という設計バグ : システム設計視点の行動経済学 (61)",
+      "url": "https://qiita.com/maskot1977/items/0f8816d5e85ba791176f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-12T17:43:00+09:00",
+      "hatena_count": 0
+    },
     {
       "id": "qiita-9bc09c0bb1",
       "source": "sns",
@@ -45,6 +87,34 @@
       "hatena_count": 0
     },
     {
+      "id": "qiita-5342c1935f",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "新Genieの発表を受けて、Genieファミリーの変遷と構成、今後の方向性を整理する",
+      "url": "https://qiita.com/taka_yayoi/items/49129c0d657364f3bd04?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-12T11:40:54+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-7a5e06df4a",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "【Production Ready RAG】PDF・Office・テキストなど17形式で、原文の引用箇所をハイライトしてみた",
+      "url": "https://qiita.com/engchina/items/68febc83ffd16eb56f08?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-12T11:36:09+09:00",
+      "hatena_count": 0
+    },
+    {
       "id": "qiita-28078d911f",
       "source": "sns",
       "sub_source": "Qiita",
@@ -84,6 +154,34 @@
         "Qiita"
       ],
       "date": "2026-11-12T08:39:20+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-29e997686a",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "10年以上前に自作したシリアル通信の試験ツールを、AIにWPFへ置き換えてもらった ― ついでに内部のバグも直してもらった",
+      "url": "https://qiita.com/okakousuke1124/items/ae982344111c31542d21?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-12T07:33:25+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-7cacec7a7e",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "シングル AZ 構成の本番環境 EC2 を夜間土日に停止する運用のリスクについて考える",
+      "url": "https://qiita.com/takeda_h/items/38d3f358b4e7f09efcd3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-12T01:46:03+09:00",
       "hatena_count": 0
     },
     {
@@ -211,6 +309,20 @@
         "Qiita"
       ],
       "date": "2026-11-11T15:02:52+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-a6af11cee6",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "DDD・CQRS・イベント駆動を組み合わせたバックエンドアーキテクチャ設計",
+      "url": "https://qiita.com/ditchcrimson/items/ce71bf981e5cdd0bd8f5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-11T13:46:01+09:00",
       "hatena_count": 0
     },
     {
@@ -6238,118 +6350,6 @@
       "hatena_count": 0
     },
     {
-      "id": "qiita-a31e125948",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "AIの報告「約5時間止まっていた」は約2分だった：Claude Code の JSONL で照合",
-      "url": "https://qiita.com/kaiyaku_iyada/items/cbadd82923bd7fcee3b3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-24T07:58:51+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-d945c3a553",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "定期タスクの1行の $( ) で、誰もいない朝に止まった：Claude Code の承認待ちと日付の取り方",
-      "url": "https://qiita.com/vellum_office/items/923da31d9b8f287caf78?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-24T07:47:16+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-d6e62e48c0",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "耳で聞く！Python で学ぶ マクロ経済学 入門 34",
-      "url": "https://qiita.com/maskot1977/items/3c68b2af16850b86253c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-24T02:06:19+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-d31b6cb503",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "Claude Code の routine とローカル定期実行で、承認待ちで止まった AI 会社を動かし直した話",
-      "url": "https://qiita.com/berrylove/items/e5ae1c4b9ca20e1f34ce?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-24T01:35:39+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-d7023aa68b",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "dev-orchestra に自作のエージェントを繋いでみた（ローカルLLM編）",
-      "url": "https://qiita.com/istb16/items/076d39eec03d02352da7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-23T23:20:33+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-84c25f3bc6",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "なぜAIは1回の出力上限を超えて巨大コードを書けるのか？コーディングエージェント徹底解剖",
-      "url": "https://qiita.com/lumichy/items/fa63c052c502f3713006?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-23T21:39:15+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-c42c9a0ab3",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "Claude Code + OpenRouter で実現する「ゼロ円 AI コーディング環境」— 無料モデル 5 選と設定手順",
-      "url": "https://qiita.com/locallab/items/0a10af8cb0d50592b98b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-23T21:01:10+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-c29ad4f6dd",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "WiresharkでHTTPリクエストの中身を見る",
-      "url": "https://qiita.com/oyashimi_c/items/38578a3b5000e377a0cc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-23T18:35:42+09:00",
-      "hatena_count": 0
-    },
-    {
       "id": "jpcert-16ed91e989",
       "source": "jpcert",
       "title": "注意喚起: 直近で相次いでいる国内組織における不正アクセスに関する注意喚起  (更新)",
@@ -6839,13 +6839,13 @@
       "sub_source": "Zenn",
       "title": "Snowflake Dashboards 2.0が最高な理由と、これからBIに求められること",
       "url": "https://zenn.dev/dataheroes/articles/snowflake-dashboards-2-and-future-of-bi",
-      "score": 4,
+      "score": 5,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 11 Nov 2026 00:21:10 GMT",
-      "hatena_count": 4
+      "hatena_count": 5
     },
     {
       "id": "zenn-0d945d9878",

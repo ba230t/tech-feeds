@@ -1,9 +1,9 @@
 {
   "month": "2026-11",
-  "total_articles": 273,
+  "total_articles": 281,
   "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (1件)**\n\n1. 更新：PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell)\n\n**AI・機械学習動向 (5件)**\n\n1. Claude Codeで最近使っているTips【2026/11】\n\n2. Software Factoryの先へ：全社の仕事をAI-NativeにするUbieの内製クラウドエージェント基盤\n\n3. Rails: DHHがRails World 2026キーノートで「語らなかった」部分とは（翻訳）\n\n4. AIエージェントが決定を勝手に変えてしまった5つのパターンと工夫\n\n5. 「RailsはJITコンパイラだ！」（翻訳）\n\n**技術トレンド (4件)**\n\n1. ISUCON2026 で優勝しました（準備編）\n\n2. 退屈なCoding AgentはMuseにやらせよう\n\n3. なぜ mixi2 は iPhone Duo の発売初日から最適化できたのか？\n\n4. Snowflake Dashboards 2.0が最高な理由と、これからBIに求められること",
   "source_counts": {
-    "sns": 231,
+    "sns": 239,
     "jpcert": 30,
     "ipa": 2,
     "techracho": 10
@@ -120,13 +120,13 @@
       "sub_source": "Zenn",
       "title": "Snowflake Dashboards 2.0が最高な理由と、これからBIに求められること",
       "url": "https://zenn.dev/dataheroes/articles/snowflake-dashboards-2-and-future-of-bi",
-      "score": 4,
+      "score": 5,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 11 Nov 2026 00:21:10 GMT",
-      "hatena_count": 4
+      "hatena_count": 5
     },
     {
       "id": "zenn-03820b944c",
