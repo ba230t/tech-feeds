@@ -1,7 +1,7 @@
 {
   "month": "2026-11",
   "total_articles": 273,
-  "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (1件)**\n\n1. 更新：PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell)\n\n**AI・機械学習動向 (3件)**\n\n1. Claude Codeで最近使っているTips【2026/11】\n\n2. Software Factoryの先へ：全社の仕事をAI-NativeにするUbieの内製クラウドエージェント基盤\n\n3. AIですぐに作れる時代に、何と向き合うか\n\n**技術トレンド (6件)**\n\n1. ISUCON2026 で優勝しました（準備編）\n\n2. 退屈なCoding AgentはMuseにやらせよう\n\n3. AWSから4.3億円の課金が...バグと思われる高額請求された際にまずすること\n\n4. なぜ mixi2 は iPhone Duo の発売初日から最適化できたのか？\n\n5. Snowflake Dashboards 2.0が最高な理由と、これからBIに求められること\n\n6. Shopifyの Rubydex linter でRubyプロジェクトに構造的lintを導入しよう（翻訳）",
+  "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (1件)**\n\n1. 更新：PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell)\n\n**AI・機械学習動向 (4件)**\n\n1. Claude Codeで最近使っているTips【2026/11】\n\n2. Software Factoryの先へ：全社の仕事をAI-NativeにするUbieの内製クラウドエージェント基盤\n\n3. AIですぐに作れる時代に、何と向き合うか\n\n4. RailsのコードをRactorセーフにするリファクタリングパターン集（翻訳）\n\n**技術トレンド (5件)**\n\n1. ISUCON2026 で優勝しました（準備編）\n\n2. 退屈なCoding AgentはMuseにやらせよう\n\n3. なぜ mixi2 は iPhone Duo の発売初日から最適化できたのか？\n\n4. Snowflake Dashboards 2.0が最高な理由と、これからBIに求められること\n\n5. Shopifyの Rubydex linter でRubyプロジェクトに構造的lintを導入しよう（翻訳）",
   "source_counts": {
     "sns": 231,
     "jpcert": 30,
@@ -62,27 +62,13 @@
       "sub_source": "Zenn",
       "title": "Software Factoryの先へ：全社の仕事をAI-NativeにするUbieの内製クラウドエージェント基盤",
       "url": "https://zenn.dev/ubie_dev/articles/45501469c9c044",
-      "score": 96,
+      "score": 106,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 12 Nov 2026 00:44:52 GMT",
-      "hatena_count": 96
-    },
-    {
-      "id": "zenn-bd2574cc91",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "AWSから4.3億円の課金が...バグと思われる高額請求された際にまずすること",
-      "url": "https://zenn.dev/tsumita7/articles/aoss-intelligent-ingestion-billing-202610",
-      "score": 36,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 08 Nov 2026 08:56:07 GMT",
-      "hatena_count": 36
+      "hatena_count": 106
     },
     {
       "id": "ipa-ee45d6bd49",
@@ -133,13 +119,13 @@
       "sub_source": "Zenn",
       "title": "Snowflake Dashboards 2.0が最高な理由と、これからBIに求められること",
       "url": "https://zenn.dev/dataheroes/articles/snowflake-dashboards-2-and-future-of-bi",
-      "score": 3,
+      "score": 4,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 11 Nov 2026 00:21:10 GMT",
-      "hatena_count": 3
+      "hatena_count": 4
     },
     {
       "id": "techracho-3ff1a08033",
@@ -185,6 +171,20 @@
       ],
       "date": "Wed, 28 Oct 2026 08:30:47 +0000",
       "hatena_count": 3
+    },
+    {
+      "id": "zenn-03820b944c",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "AIエージェントが決定を勝手に変えてしまった5つのパターンと工夫",
+      "url": "https://zenn.dev/dress_code/articles/568fd547315abe",
+      "score": 2,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 12 Nov 2026 03:00:05 GMT",
+      "hatena_count": 2
     },
     {
       "id": "zenn-cd1e1a743d",
