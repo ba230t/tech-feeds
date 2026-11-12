@@ -34,13 +34,13 @@
       "sub_source": "Zenn",
       "title": "ISUCON2026 で優勝しました（準備編）",
       "url": "https://zenn.dev/luvtechno/articles/isucon2026-preparation",
-      "score": 472,
+      "score": 477,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 11 Nov 2026 05:05:46 GMT",
-      "hatena_count": 472
+      "hatena_count": 477
     },
     {
       "id": "zenn-86e2a08d5a",
@@ -48,13 +48,13 @@
       "sub_source": "Zenn",
       "title": "退屈なCoding AgentはMuseにやらせよう",
       "url": "https://zenn.dev/watany/articles/342b9815dd0553",
-      "score": 209,
+      "score": 210,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 10 Nov 2026 02:35:05 GMT",
-      "hatena_count": 209
+      "hatena_count": 210
     },
     {
       "id": "zenn-b2b3047a18",
@@ -201,6 +201,20 @@
       "hatena_count": 3
     },
     {
+      "id": "zenn-cd1e1a743d",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "個人的な推し、Raycastの音声入力「Dictation」",
+      "url": "https://zenn.dev/miive/articles/aa272cc544ddf3",
+      "score": 2,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 11 Nov 2026 04:26:44 GMT",
+      "hatena_count": 2
+    },
+    {
       "id": "zenn-75c86f9192",
       "source": "sns",
       "sub_source": "Zenn",
@@ -287,20 +301,6 @@
       ],
       "severity": "medium",
       "date": "2026-11-11T00:00:00+09:00",
-      "hatena_count": 1
-    },
-    {
-      "id": "qiita-087e964d03",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "AIが書いたテストでは変異の半分を検出できなかった",
-      "url": "https://qiita.com/meursyphus/items/f3c05ced6a6815c1cf0c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 1,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-10T09:38:11+09:00",
       "hatena_count": 1
     }
   ],

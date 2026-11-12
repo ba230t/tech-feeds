@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T01:05:56.535205+00:00",
+  "updated_at": "2026-11-12T01:34:40.796979+00:00",
   "count": 500,
   "items": [
     {
@@ -6666,18 +6666,60 @@
       "hatena_count": 0
     },
     {
+      "id": "zenn-9f4d7e0460",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "OpenCodeを拡張して、複数の担当と定期実行をひとつのチャットにまとめる「いちょまる」を作った",
+      "url": "https://zenn.dev/theoj/articles/opencode-development-log",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 11 Nov 2026 12:38:35 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-c1482d4215",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Real2Sim2Realの現在地：現場スキャンからロボット検証環境へ",
+      "url": "https://zenn.dev/kudan_jp/articles/a0cb75384f4a83",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 11 Nov 2026 09:46:24 GMT",
+      "hatena_count": 0
+    },
+    {
       "id": "zenn-0e4f79a20f",
       "source": "sns",
       "sub_source": "Zenn",
       "title": "ISUCON2026 で優勝しました（準備編）",
       "url": "https://zenn.dev/luvtechno/articles/isucon2026-preparation",
-      "score": 472,
+      "score": 477,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 11 Nov 2026 05:05:46 GMT",
-      "hatena_count": 472
+      "hatena_count": 477
+    },
+    {
+      "id": "zenn-cd1e1a743d",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "個人的な推し、Raycastの音声入力「Dictation」",
+      "url": "https://zenn.dev/miive/articles/aa272cc544ddf3",
+      "score": 2,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 11 Nov 2026 04:26:44 GMT",
+      "hatena_count": 2
     },
     {
       "id": "zenn-611c0a30bf",
@@ -6708,34 +6750,6 @@
       "hatena_count": 3
     },
     {
-      "id": "zenn-97b0a7e90d",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "LiteLLM Adaptive Routerを検証する（後編）：学習シグナルと運用上の注意",
-      "url": "https://zenn.dev/aws_japan/articles/4399262cf00559",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 10 Nov 2026 14:30:35 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-81d42474b6",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "LiteLLM Adaptive Router を検証する（前編）：モデル選択と学習の仕組み",
-      "url": "https://zenn.dev/aws_japan/articles/ac9ae548d57323",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 10 Nov 2026 14:28:03 GMT",
-      "hatena_count": 0
-    },
-    {
       "id": "zenn-0d945d9878",
       "source": "sns",
       "sub_source": "Zenn",
@@ -6747,34 +6761,6 @@
         "Zenn"
       ],
       "date": "Tue, 10 Nov 2026 12:55:14 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-1163968c88",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Claude Fable 5.2のプロンプトガイドを読んで正直に思ったことを書く",
-      "url": "https://zenn.dev/tree_and_tree/articles/thoughts-on-claude-fable-5-2",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 10 Nov 2026 12:44:52 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-affe5098a4",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "職務経歴書の JSON から「技術ごとの経験年数」を出す ― 形を決めつけない集計を TypeScript で",
-      "url": "https://zenn.dev/megrou/articles/e04a9edaaea79d",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 10 Nov 2026 12:41:25 GMT",
       "hatena_count": 0
     },
     {
@@ -6811,13 +6797,13 @@
       "sub_source": "Zenn",
       "title": "退屈なCoding AgentはMuseにやらせよう",
       "url": "https://zenn.dev/watany/articles/342b9815dd0553",
-      "score": 209,
+      "score": 210,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 10 Nov 2026 02:35:05 GMT",
-      "hatena_count": 209
+      "hatena_count": 210
     },
     {
       "id": "zenn-b2b3047a18",
@@ -6861,6 +6847,20 @@
       "date": "Mon, 09 Nov 2026 13:51:19 GMT",
       "severity": "high",
       "hatena_count": 1
+    },
+    {
+      "id": "zenn-991f3568be",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Zennに投稿された26.4万件の記事のデータから見る現在の技術ブログ",
+      "url": "https://zenn.dev/northward/articles/zenn-data-report-2611",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 09 Nov 2026 07:00:05 GMT",
+      "hatena_count": 0
     },
     {
       "id": "zenn-6cd8308eec",
