@@ -34,13 +34,13 @@
       "sub_source": "Zenn",
       "title": "ISUCON2026 で優勝しました（準備編）",
       "url": "https://zenn.dev/luvtechno/articles/isucon2026-preparation",
-      "score": 497,
+      "score": 498,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 11 Nov 2026 05:05:46 GMT",
-      "hatena_count": 497
+      "hatena_count": 498
     },
     {
       "id": "zenn-86e2a08d5a",
@@ -71,6 +71,21 @@
       "hatena_count": 149
     },
     {
+      "id": "techracho-4b67c39e4f",
+      "source": "techracho",
+      "title": "Rails: DHHがRails World 2026キーノートで「語らなかった」部分とは（翻訳）",
+      "url": "https://techracho.bpsinc.jp/hachi8833/2026_11_12/161307",
+      "score": 22,
+      "author": "Techracho",
+      "tags": [
+        "Ruby",
+        "Rails",
+        "日本語"
+      ],
+      "date": "Thu, 12 Nov 2026 08:30:57 +0000",
+      "hatena_count": 22
+    },
+    {
       "id": "ipa-ee45d6bd49",
       "source": "ipa",
       "title": "更新：PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell)",
@@ -83,21 +98,6 @@
       ],
       "severity": "medium",
       "date": "2026-11-02T00:00:00+09:00",
-      "hatena_count": 21
-    },
-    {
-      "id": "techracho-4b67c39e4f",
-      "source": "techracho",
-      "title": "Rails: DHHがRails World 2026キーノートで「語らなかった」部分とは（翻訳）",
-      "url": "https://techracho.bpsinc.jp/hachi8833/2026_11_12/161307",
-      "score": 21,
-      "author": "Techracho",
-      "tags": [
-        "Ruby",
-        "Rails",
-        "日本語"
-      ],
-      "date": "Thu, 12 Nov 2026 08:30:57 +0000",
       "hatena_count": 21
     },
     {
