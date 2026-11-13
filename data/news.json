@@ -1,7 +1,35 @@
 {
-  "updated_at": "2026-11-13T20:05:30.515726+00:00",
+  "updated_at": "2026-11-13T20:33:15.105766+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "qiita-fd387271d3",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "バックアップ HDD の「静かな死」を防ぐ仕組み ― smartctl でヘルスチェック",
+      "url": "https://qiita.com/r-jw/items/bd4721fccc457bf8e64a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-13T16:15:13+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-37d655008d",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "初めてのチーム開発で効いたのは「同じものを見る」こと——ハッカソン2位の工夫と、ぶつかって学んだこと",
+      "url": "https://qiita.com/mmsbox/items/5f1486a1887f21218ee0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-13T15:33:23+09:00",
+      "hatena_count": 0
+    },
     {
       "id": "qiita-1f5467099d",
       "source": "sns",
@@ -42,6 +70,34 @@
         "Qiita"
       ],
       "date": "2026-11-13T13:23:59+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-970d59e39e",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "Unityを選ぶ企業は赤字体質である。",
+      "url": "https://qiita.com/roripika/items/bdeb5537efc1f27af726?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-13T12:29:15+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-d5ef6d55cd",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "「ざっくり工数どのくらい？」に「ざっくり工数このくらい」で答えてはいけない",
+      "url": "https://qiita.com/tsutorm/items/c9ab1e1c64474c341d77?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-13T11:03:33+09:00",
       "hatena_count": 0
     },
     {
@@ -88,6 +144,20 @@
       "hatena_count": 0
     },
     {
+      "id": "qiita-802c3d4e77",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "Claude API の Message Threads で、会話の履歴を自分で持たなくてよくなるのか。公式を読むと、スレッドは5分で切れ、写しは自分で持ち続ける前提だった",
+      "url": "https://qiita.com/suwa_nobu/items/40e9eba3a7d99a2a485b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-13T09:00:23+09:00",
+      "hatena_count": 0
+    },
+    {
       "id": "qiita-b5484c1a8d",
       "source": "sns",
       "sub_source": "Qiita",
@@ -102,6 +172,20 @@
       "hatena_count": 0
     },
     {
+      "id": "qiita-b1bee523f9",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "Finder の代わりに使える macOS ファイルマネージャー「Macorn」を作りました。フォルダはそのまま、整理はいくつもの次元で",
+      "url": "https://qiita.com/ponta8240/items/06e4a9360abdc68a5c48?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-13T07:16:58+09:00",
+      "hatena_count": 0
+    },
+    {
       "id": "qiita-4cdb756303",
       "source": "sns",
       "sub_source": "Qiita",
@@ -113,6 +197,20 @@
         "Qiita"
       ],
       "date": "2026-11-12T22:45:35+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-2d58b64fa8",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "Gemini APIが503エラー",
+      "url": "https://qiita.com/J-T_ky2g/items/f7f3138f94a668f18480?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-12T22:38:20+09:00",
       "hatena_count": 0
     },
     {
@@ -6251,104 +6349,6 @@
         "Qiita"
       ],
       "date": "2026-10-24T23:49:53+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-b38c7e5907",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "「コードレビューは死ぬ、ターミナルも消える」——海外著名エンジニアが予測するAI時代のソフトウェア開発の未来",
-      "url": "https://qiita.com/softbase/items/fb72de63c975fcbbd2f6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 1,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-24T23:42:12+09:00",
-      "hatena_count": 1
-    },
-    {
-      "id": "qiita-87a81676aa",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "ネットワークの問題で繋がらなさそうな時の調査",
-      "url": "https://qiita.com/J-T_ky2g/items/1093a593502967a8e384?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 1,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-24T23:28:11+09:00",
-      "hatena_count": 1
-    },
-    {
-      "id": "qiita-b461e68f8c",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "chakra-uiのtoastを使う",
-      "url": "https://qiita.com/J-T_ky2g/items/e34968326e2b7773e2ae?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-24T23:16:28+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-95257f259d",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "個人開発で学ぶKubernetes入門【#1】―Dockerでの運用に限界が見えた話",
-      "url": "https://qiita.com/takuteh/items/a097bd02403bbee7e3fe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-24T22:54:58+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-157a9e9be1",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "わからない言葉を、わからないままにしない。React基礎用語の学び直し！",
-      "url": "https://qiita.com/jota9613/items/138c3a90bd981659844f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-24T22:53:48+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-1a1f846c69",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "美容室チェーンの社長ヒアリングから学ぶドメイン駆動設計",
-      "url": "https://qiita.com/gensan64311466/items/8e434fa991619f123f74?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-24T22:00:34+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-0deddd40a9",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "MetaのMuseが日本で開始したのでMuse Gadgetsで遊ぼう",
-      "url": "https://qiita.com/moritalous/items/840ed6c78ba0508142ef?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-24T19:54:53+09:00",
       "hatena_count": 0
     },
     {
