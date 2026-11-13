@@ -1,7 +1,7 @@
 {
   "month": "2026-11",
   "total_articles": 293,
-  "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (1件)**\n\n1. 更新：PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell)\n\n**AI・機械学習動向 (6件)**\n\n1. Claude Codeで最近使っているTips【2026/11】\n\n2. Software Factoryの先へ：全社の仕事をAI-NativeにするUbieの内製クラウドエージェント基盤\n\n3. AIエージェントが決定を勝手に変えてしまった5つのパターンと工夫\n\n4. Rails: DHHがRails World 2026キーノートで「語らなかった」部分とは（翻訳）\n\n5. RailsのコードをRactorセーフにするリファクタリングパターン集（翻訳）\n\n6. 「RailsはJITコンパイラだ！」（翻訳）\n\n**技術トレンド (3件)**\n\n1. ISUCON2026 で優勝しました（準備編）\n\n2. 退屈なCoding AgentはMuseにやらせよう\n\n3. Snowflake Dashboards 2.0が最高な理由と、これからBIに求められること",
+  "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (1件)**\n\n1. 更新：PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell)\n\n**AI・機械学習動向 (5件)**\n\n1. Claude Codeで最近使っているTips【2026/11】\n\n2. Software Factoryの先へ：全社の仕事をAI-NativeにするUbieの内製クラウドエージェント基盤\n\n3. AIエージェントが決定を勝手に変えてしまった5つのパターンと工夫\n\n4. Rails: DHHがRails World 2026キーノートで「語らなかった」部分とは（翻訳）\n\n5. RailsのコードをRactorセーフにするリファクタリングパターン集（翻訳）\n\n**技術トレンド (4件)**\n\n1. ISUCON2026 で優勝しました（準備編）\n\n2. 退屈なCoding AgentはMuseにやらせよう\n\n3. なぜ mixi2 は iPhone Duo の発売初日から最適化できたのか？\n\n4. Snowflake Dashboards 2.0が最高な理由と、これからBIに求められること",
   "source_counts": {
     "sns": 251,
     "jpcert": 30,
@@ -116,6 +116,20 @@
       "hatena_count": 21
     },
     {
+      "id": "zenn-6cd8308eec",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "なぜ mixi2 は iPhone Duo の発売初日から最適化できたのか？",
+      "url": "https://zenn.dev/mixi/articles/b0ea64fded9503",
+      "score": 19,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 09 Nov 2026 06:57:46 GMT",
+      "hatena_count": 19
+    },
+    {
       "id": "zenn-28366bb153",
       "source": "sns",
       "sub_source": "Zenn",
@@ -190,20 +204,6 @@
       "hatena_count": 3
     },
     {
-      "id": "zenn-6a57f31d34",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "5年後のエンジニアは、何に責任を持つのだろうか",
-      "url": "https://zenn.dev/ara_ta3/articles/thinking-about-engineers-five-years-from-now",
-      "score": 2,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 13 Nov 2026 05:03:44 GMT",
-      "hatena_count": 2
-    },
-    {
       "id": "zenn-b1b28a0f1c",
       "source": "sns",
       "sub_source": "Zenn",
@@ -215,6 +215,20 @@
         "Zenn"
       ],
       "date": "Fri, 13 Nov 2026 01:55:36 GMT",
+      "hatena_count": 2
+    },
+    {
+      "id": "zenn-75c86f9192",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Rustで作られたExpoの新フレームワーク「Exact」で、モバイル・Web・デスクトップアプリを作ってみた",
+      "url": "https://zenn.dev/tellernovel_inc/articles/expo-exact-first-impression",
+      "score": 2,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 10 Nov 2026 05:06:37 GMT",
       "hatena_count": 2
     },
     {
@@ -289,20 +303,6 @@
         "Qiita"
       ],
       "date": "2026-11-10T09:38:11+09:00",
-      "hatena_count": 1
-    },
-    {
-      "id": "qiita-8fb4c8b879",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "Claude Code を新しい Fable 5.2 に切り替えると速く安くなるのか。36回測ったら、Fable 5.1 より2割速く3割安く、費用は Opus 5.5 の1.6倍だった",
-      "url": "https://qiita.com/suwa_nobu/items/a6a104575596915dac2e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 1,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-10T08:50:19+09:00",
       "hatena_count": 1
     }
   ],
