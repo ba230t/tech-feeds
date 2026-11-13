@@ -101,6 +101,20 @@
       "hatena_count": 21
     },
     {
+      "id": "zenn-03820b944c",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "AIエージェントが決定を勝手に変えてしまった5つのパターンと工夫",
+      "url": "https://zenn.dev/dress_code/articles/568fd547315abe",
+      "score": 21,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 12 Nov 2026 03:00:05 GMT",
+      "hatena_count": 21
+    },
+    {
       "id": "zenn-6cd8308eec",
       "source": "sns",
       "sub_source": "Zenn",
@@ -113,20 +127,6 @@
       ],
       "date": "Mon, 09 Nov 2026 06:57:46 GMT",
       "hatena_count": 19
-    },
-    {
-      "id": "zenn-03820b944c",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "AIエージェントが決定を勝手に変えてしまった5つのパターンと工夫",
-      "url": "https://zenn.dev/dress_code/articles/568fd547315abe",
-      "score": 14,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 12 Nov 2026 03:00:05 GMT",
-      "hatena_count": 14
     },
     {
       "id": "zenn-28366bb153",

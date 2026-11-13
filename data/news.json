@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T00:46:12.632943+00:00",
+  "updated_at": "2026-11-13T01:05:49.779945+00:00",
   "count": 500,
   "items": [
     {
@@ -6665,6 +6665,34 @@
       "hatena_count": 0
     },
     {
+      "id": "zenn-588f4392fb",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "【備忘録】Transformerを数式レベルからnumpyのみで実装して理解する（②Backward Propagation編）",
+      "url": "https://zenn.dev/matsu8/articles/a01ba3fc713e03",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 12 Nov 2026 13:30:40 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-2dc75227fd",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Tauri の MSI インストーラーが更新のたびに削除済みデスクトップショートカットを復活させる問題を直した話",
+      "url": "https://zenn.dev/takahiro_nago/articles/article-tauri-msi-desktop-shortcut",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 12 Nov 2026 09:34:34 GMT",
+      "hatena_count": 0
+    },
+    {
       "id": "zenn-11389f36ac",
       "source": "sns",
       "sub_source": "Zenn",
@@ -6679,18 +6707,46 @@
       "hatena_count": 0
     },
     {
+      "id": "zenn-ee77a49ac1",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "AWS EmulatorはAWS Blocksのモックを置き換えるのか？実際に動かして見えた「三つ目の層」",
+      "url": "https://zenn.dev/genda_jp/articles/18d1f780f6b41f",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 12 Nov 2026 05:20:41 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-0275786995",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "週刊Cloudflare - 2026/11/08週",
+      "url": "https://zenn.dev/gemcook/articles/weekly-cloudflare_2026_1101-1107",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 12 Nov 2026 04:54:55 GMT",
+      "hatena_count": 0
+    },
+    {
       "id": "zenn-03820b944c",
       "source": "sns",
       "sub_source": "Zenn",
       "title": "AIエージェントが決定を勝手に変えてしまった5つのパターンと工夫",
       "url": "https://zenn.dev/dress_code/articles/568fd547315abe",
-      "score": 14,
+      "score": 21,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 12 Nov 2026 03:00:05 GMT",
-      "hatena_count": 14
+      "hatena_count": 21
     },
     {
       "id": "zenn-4a6c322c7b",
@@ -6764,45 +6820,17 @@
       "hatena_count": 0
     },
     {
-      "id": "zenn-9f4d7e0460",
+      "id": "zenn-47de0dc461",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "OpenCodeを拡張して、複数の担当と定期実行をひとつのチャットにまとめる「いちょまる」を作った",
-      "url": "https://zenn.dev/theoj/articles/opencode-development-log",
+      "title": "Amazon Bedrock AgentCore Gatewayで、vLLMのQwenとAmazon Bedrockを使い分けてみた",
+      "url": "https://zenn.dev/fusic/articles/4dc357178cbc1e",
       "score": 0,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Wed, 11 Nov 2026 12:38:35 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-df3281609f",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "上書きされたドラレコの映像は、ファイルの“余り”にまだ残っていた",
-      "url": "https://zenn.dev/haruto_miyakawa/articles/dashcam-overwritten-video-in-file-slack",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 11 Nov 2026 10:00:05 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-aa9fb858be",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "【2026/11/11最新】Claude Data・Sheets・Whiteboards・connectors を Team プランで試した",
-      "url": "https://zenn.dev/canly/articles/9943093ef0c25c",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 11 Nov 2026 09:49:21 GMT",
+      "date": "Wed, 11 Nov 2026 22:00:05 GMT",
       "hatena_count": 0
     },
     {
@@ -6846,20 +6874,6 @@
       ],
       "date": "Wed, 11 Nov 2026 00:21:10 GMT",
       "hatena_count": 5
-    },
-    {
-      "id": "zenn-0d945d9878",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Clojureのマクロによるメタプログラミングで業務ルールのDSLを作る",
-      "url": "https://zenn.dev/pksha/articles/b7e4c1a9d38f52",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 10 Nov 2026 12:55:14 GMT",
-      "hatena_count": 0
     },
     {
       "id": "zenn-75c86f9192",
@@ -6931,20 +6945,6 @@
       ],
       "date": "Mon, 09 Nov 2026 06:57:46 GMT",
       "hatena_count": 19
-    },
-    {
-      "id": "zenn-d78c3e0089",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "個性を磨くUI観点",
-      "url": "https://zenn.dev/silverbirder/books/ui-craft-techniques",
-      "score": 1,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 09 Nov 2026 00:00:14 GMT",
-      "hatena_count": 1
     },
     {
       "id": "techracho-4b67c39e4f",
