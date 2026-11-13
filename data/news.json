@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T04:33:25.767017+00:00",
+  "updated_at": "2026-11-13T05:05:45.531097+00:00",
   "count": 500,
   "items": [
     {
@@ -6665,18 +6665,60 @@
       "hatena_count": 0
     },
     {
-      "id": "zenn-588f4392fb",
+      "id": "zenn-b1b28a0f1c",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "【備忘録】Transformerを数式レベルからnumpyのみで実装して理解する（②Backward Propagation編）",
-      "url": "https://zenn.dev/matsu8/articles/a01ba3fc713e03",
+      "title": "仕組み編：Two-Towerによる検索システム（学習・推論・配信）",
+      "url": "https://zenn.dev/ca_kagglers/articles/two-tower-mechanism",
       "score": 0,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Thu, 12 Nov 2026 13:30:40 GMT",
+      "date": "Fri, 13 Nov 2026 01:55:36 GMT",
       "hatena_count": 0
+    },
+    {
+      "id": "zenn-16f5071113",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "最強オープンウェイトモデル Kimi-K3.1-Pro をセルフホストして独自ベンチで比べてみた",
+      "url": "https://zenn.dev/fixstars/articles/kimi-k31-pro-benchmark",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 12 Nov 2026 23:50:35 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-89bb6e25e0",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "大容量データのアップロードを止めるな：tusによる再開できるアップロード",
+      "url": "https://zenn.dev/hololab/articles/7c2d34e9711ddf",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 12 Nov 2026 23:00:05 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-6882e5cf17",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "AIで膨らみ続けるテストケースを、リスクベースドテストで選んで回すまでの記録",
+      "url": "https://zenn.dev/pivotmedia/articles/risk-based-testing-for-uat",
+      "score": 1,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 12 Nov 2026 11:41:36 GMT",
+      "hatena_count": 1
     },
     {
       "id": "zenn-2dc75227fd",
@@ -6690,6 +6732,34 @@
         "Zenn"
       ],
       "date": "Thu, 12 Nov 2026 09:34:34 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-10994780e3",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "JAWS FESTA 2026 in AKITA 当日スタッフを振り返ってみる",
+      "url": "https://zenn.dev/atuykunkamuy/articles/e7bf74ff539a98",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 12 Nov 2026 08:11:52 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-7a21cdac0c",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "非同期処理でもポーリングが必要なのはなぜ？",
+      "url": "https://zenn.dev/yuyak/articles/polling-async-completion",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 12 Nov 2026 07:27:13 GMT",
       "hatena_count": 0
     },
     {
@@ -6740,13 +6810,13 @@
       "sub_source": "Zenn",
       "title": "AIエージェントが決定を勝手に変えてしまった5つのパターンと工夫",
       "url": "https://zenn.dev/dress_code/articles/568fd547315abe",
-      "score": 42,
+      "score": 53,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 12 Nov 2026 03:00:05 GMT",
-      "hatena_count": 42
+      "hatena_count": 53
     },
     {
       "id": "zenn-4a6c322c7b",
@@ -6764,20 +6834,6 @@
       "hatena_count": 0
     },
     {
-      "id": "zenn-7cbf5ec65b",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "libsignal のグループ暗号化を追って、署名改ざんのテストを追加した",
-      "url": "https://zenn.dev/under_michi/articles/7791295efdb23e",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 12 Nov 2026 01:12:25 GMT",
-      "hatena_count": 0
-    },
-    {
       "id": "zenn-77c5db3b7a",
       "source": "sns",
       "sub_source": "Zenn",
@@ -6792,74 +6848,18 @@
       "hatena_count": 161
     },
     {
-      "id": "zenn-615f48d8d1",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "AI ファーストな管理画面を、WebMCP もどきで実現したい",
-      "url": "https://zenn.dev/tokium_dev/articles/llm-admin-interface",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 11 Nov 2026 23:00:06 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-4ddf24c1a9",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Claude Code に忘れさせたら、トークン使用量が4割減った",
-      "url": "https://zenn.dev/sae_eng/articles/0e9ed7205ebc41",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 11 Nov 2026 23:00:06 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-47de0dc461",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Amazon Bedrock AgentCore Gatewayで、vLLMのQwenとAmazon Bedrockを使い分けてみた",
-      "url": "https://zenn.dev/fusic/articles/4dc357178cbc1e",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 11 Nov 2026 22:00:05 GMT",
-      "hatena_count": 0
-    },
-    {
       "id": "zenn-0e4f79a20f",
       "source": "sns",
       "sub_source": "Zenn",
       "title": "ISUCON2026 で優勝しました（準備編）",
       "url": "https://zenn.dev/luvtechno/articles/isucon2026-preparation",
-      "score": 501,
+      "score": 502,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 11 Nov 2026 05:05:46 GMT",
-      "hatena_count": 501
-    },
-    {
-      "id": "zenn-611c0a30bf",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "AIに書かせた、が全然AIが書いてない件",
-      "url": "https://zenn.dev/appleworld/articles/65aed6c725af71",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 11 Nov 2026 02:11:05 GMT",
-      "hatena_count": 0
+      "hatena_count": 502
     },
     {
       "id": "zenn-28366bb153",
@@ -6895,13 +6895,13 @@
       "sub_source": "Zenn",
       "title": "退屈なCoding AgentはMuseにやらせよう",
       "url": "https://zenn.dev/watany/articles/342b9815dd0553",
-      "score": 212,
+      "score": 213,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 10 Nov 2026 02:35:05 GMT",
-      "hatena_count": 212
+      "hatena_count": 213
     },
     {
       "id": "zenn-294c9faf90",
@@ -6951,7 +6951,7 @@
       "source": "techracho",
       "title": "Rails: DHHがRails World 2026キーノートで「語らなかった」部分とは（翻訳）",
       "url": "https://techracho.bpsinc.jp/hachi8833/2026_11_12/161307",
-      "score": 27,
+      "score": 29,
       "author": "Techracho",
       "tags": [
         "Ruby",
@@ -6959,7 +6959,7 @@
         "日本語"
       ],
       "date": "Thu, 12 Nov 2026 08:30:57 +0000",
-      "hatena_count": 27
+      "hatena_count": 29
     },
     {
       "id": "techracho-4616a03635",
