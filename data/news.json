@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T03:33:38.627483+00:00",
+  "updated_at": "2026-11-13T04:06:26.032500+00:00",
   "count": 500,
   "items": [
     {
@@ -6740,13 +6740,13 @@
       "sub_source": "Zenn",
       "title": "AIエージェントが決定を勝手に変えてしまった5つのパターンと工夫",
       "url": "https://zenn.dev/dress_code/articles/568fd547315abe",
-      "score": 42,
+      "score": 52,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 12 Nov 2026 03:00:05 GMT",
-      "hatena_count": 42
+      "hatena_count": 52
     },
     {
       "id": "zenn-4a6c322c7b",
@@ -6895,13 +6895,13 @@
       "sub_source": "Zenn",
       "title": "退屈なCoding AgentはMuseにやらせよう",
       "url": "https://zenn.dev/watany/articles/342b9815dd0553",
-      "score": 212,
+      "score": 213,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 10 Nov 2026 02:35:05 GMT",
-      "hatena_count": 212
+      "hatena_count": 213
     },
     {
       "id": "zenn-294c9faf90",
@@ -6951,7 +6951,7 @@
       "source": "techracho",
       "title": "Rails: DHHがRails World 2026キーノートで「語らなかった」部分とは（翻訳）",
       "url": "https://techracho.bpsinc.jp/hachi8833/2026_11_12/161307",
-      "score": 27,
+      "score": 28,
       "author": "Techracho",
       "tags": [
         "Ruby",
@@ -6959,7 +6959,7 @@
         "日本語"
       ],
       "date": "Thu, 12 Nov 2026 08:30:57 +0000",
-      "hatena_count": 27
+      "hatena_count": 28
     },
     {
       "id": "techracho-4616a03635",
