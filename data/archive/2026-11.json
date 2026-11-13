@@ -1,15 +1,16 @@
 {
   "month": "2026-11",
-  "total_articles": 281,
+  "total_articles": 293,
   "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (1件)**\n\n1. 更新：PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell)\n\n**AI・機械学習動向 (5件)**\n\n1. Claude Codeで最近使っているTips【2026/11】\n\n2. Software Factoryの先へ：全社の仕事をAI-NativeにするUbieの内製クラウドエージェント基盤\n\n3. AIエージェントが決定を勝手に変えてしまった5つのパターンと工夫\n\n4. Rails: DHHがRails World 2026キーノートで「語らなかった」部分とは（翻訳）\n\n5. 「RailsはJITコンパイラだ！」（翻訳）\n\n**技術トレンド (4件)**\n\n1. ISUCON2026 で優勝しました（準備編）\n\n2. 退屈なCoding AgentはMuseにやらせよう\n\n3. なぜ mixi2 は iPhone Duo の発売初日から最適化できたのか？\n\n4. Snowflake Dashboards 2.0が最高な理由と、これからBIに求められること",
   "source_counts": {
-    "sns": 239,
+    "sns": 251,
     "jpcert": 30,
     "ipa": 2,
     "techracho": 10
   },
   "severity_counts": {
-    "high": 9,
+    "high": 10,
+    "critical": 1,
     "info": 28,
     "medium": 2
   },
@@ -62,13 +63,13 @@
       "sub_source": "Zenn",
       "title": "Software Factoryの先へ：全社の仕事をAI-NativeにするUbieの内製クラウドエージェント基盤",
       "url": "https://zenn.dev/ubie_dev/articles/45501469c9c044",
-      "score": 161,
+      "score": 162,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 12 Nov 2026 00:44:52 GMT",
-      "hatena_count": 161
+      "hatena_count": 162
     },
     {
       "id": "zenn-03820b944c",
@@ -76,13 +77,13 @@
       "sub_source": "Zenn",
       "title": "AIエージェントが決定を勝手に変えてしまった5つのパターンと工夫",
       "url": "https://zenn.dev/dress_code/articles/568fd547315abe",
-      "score": 66,
+      "score": 69,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 12 Nov 2026 03:00:05 GMT",
-      "hatena_count": 66
+      "hatena_count": 69
     },
     {
       "id": "techracho-4b67c39e4f",
@@ -334,6 +335,36 @@
       ],
       "date": "Thu, 12 Nov 2026 02:31:30 GMT",
       "severity": "high",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-0124ab1918",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "CRA報告対応② Dependency-Trackで脆弱性の検知を自動化する(Pleasanter連携)",
+      "url": "https://qiita.com/yyoshida15/items/4ea6a0752ff2ba942dff?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-13T09:22:46+09:00",
+      "severity": "high",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-f8589758a6",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "AI 診断で出た緊急・高21件中6件は OWASP ASVS の1項目だった。せめて L1 は要件に入れたい話（2026年版）",
+      "url": "https://qiita.com/ntaka329/items/012ad27328ecaae1c469?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-12T18:34:55+09:00",
+      "severity": "critical",
       "hatena_count": 0
     },
     {

@@ -1,7 +1,106 @@
 {
-  "updated_at": "2026-11-13T08:06:23.370018+00:00",
+  "updated_at": "2026-11-13T08:33:25.472519+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "qiita-1f5467099d",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "耳で聞く！Python で学ぶ マクロ経済学 入門 45",
+      "url": "https://qiita.com/maskot1977/items/6d3f5c504360cf7858c4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-13T14:06:38+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-9992abfba6",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "Claude Fable 5.2はOpusの単価2倍、でも1タスクは約半額!? Mythos5.2との違いと使いどころ",
+      "url": "https://qiita.com/ryosuke_ohori/items/17995524b433cf04fd55?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-13T13:26:32+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-0ad2b3b4f4",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "本番(prod)サーバーに自動処理を組んだのでまとめ",
+      "url": "https://qiita.com/metappi/items/b2319478cd692c9b492f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-13T13:23:59+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-7d0b4d683d",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "耳で聞く！ システム設計 視点の 行動経済学 5",
+      "url": "https://qiita.com/maskot1977/items/76cb2a92efe0433b1de4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-13T10:56:06+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-0124ab1918",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "CRA報告対応② Dependency-Trackで脆弱性の検知を自動化する(Pleasanter連携)",
+      "url": "https://qiita.com/yyoshida15/items/4ea6a0752ff2ba942dff?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-13T09:22:46+09:00",
+      "severity": "high",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-e1f91dfcd9",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "Copilot in SharePoint で、リストとライブラリの作成はどこまで楽になったか試してみた",
+      "url": "https://qiita.com/Takashi_Masumori/items/c2b9270a9a13a316b618?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-13T09:05:49+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-b5484c1a8d",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "【AWS】AgentCore runtimeをV1からV2へ移行しよう【AgentCore】",
+      "url": "https://qiita.com/Nana_777/items/25f3d9c5449a62cdc50f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-13T08:44:03+09:00",
+      "hatena_count": 0
+    },
     {
       "id": "qiita-4cdb756303",
       "source": "sns",
@@ -14,6 +113,63 @@
         "Qiita"
       ],
       "date": "2026-11-12T22:45:35+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-a37b95af2c",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "VSCodeのCompare Modelsが面白そうなので試してみた",
+      "url": "https://qiita.com/shivvvvvv/items/c1feef6d2ad5ff7f8f73?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-12T20:59:01+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-2079d6b6cf",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "Claude Code の SessionStart hook で渡していた 31 万字は、会話にほぼ入っていなかった（上限は 1 万字）",
+      "url": "https://qiita.com/ussu_ussu_ussu/items/e3d3653b05e359e2dfbb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-12T20:18:57+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-224982f257",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "claude codeにMacを1台まるごと渡してチェスをさせてみた【terminal-mac】",
+      "url": "https://qiita.com/hiroshi_ito9854/items/a3ea4d3db0d45f12f500?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-12T19:23:02+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-f8589758a6",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "AI 診断で出た緊急・高21件中6件は OWASP ASVS の1項目だった。せめて L1 は要件に入れたい話（2026年版）",
+      "url": "https://qiita.com/ntaka329/items/012ad27328ecaae1c469?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-12T18:34:55+09:00",
+      "severity": "critical",
       "hatena_count": 0
     },
     {
@@ -42,6 +198,20 @@
         "Qiita"
       ],
       "date": "2026-11-12T17:43:00+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-da7ac0c3da",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "【Part 1】ハンドトラッキングで行う盆栽育成アプリの開発",
+      "url": "https://qiita.com/Rikuto_q/items/5b27251bb934f50bf903?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-12T16:56:50+09:00",
       "hatena_count": 0
     },
     {
@@ -6182,174 +6352,6 @@
       "hatena_count": 0
     },
     {
-      "id": "qiita-be824b9a55",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "Anthropic公式の「データアナリスト用スキル」を読んで、分析の進め方を5段に整理してみた",
-      "url": "https://qiita.com/ktdatascience/items/8f1756519016c6f64ea0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-24T17:30:50+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-9e24595791",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "LLMにローグライクを遊ばせて分かった、測り方の落とし穴",
-      "url": "https://qiita.com/tamaki_omoto/items/f49a97ff8c202c7a33e6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-24T17:19:41+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-7e2df95003",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "エラーは出ないのに数字が間違っている——データ分析で間違えやすい8つのポイントと見つけ方",
-      "url": "https://qiita.com/ktdatascience/items/590daa27d9752a9f38fd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-24T17:16:33+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-373a813302",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "【書評】プロフェッショナルAI駆動開発を読んだ",
-      "url": "https://qiita.com/tetsuro731/items/c673cf947c3724cd5493?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-24T16:39:50+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-183bdb507a",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "AIエージェント専用の技術ブログ基盤をHonoとCloudflare無料枠で作った",
-      "url": "https://qiita.com/y-moriya/items/5181ec40e2180348565c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-24T16:32:10+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-15f4ca4cb7",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "【S3 Files】ファイルシステムと S3 バケットの同期にかかる時間を測ってみた",
-      "url": "https://qiita.com/ryu-ki/items/ac1152359bcf1217c1f5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-24T15:39:32+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-b0370a5195",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "日本と同じ条件の国は何をしたか ― 財政政策の国際比較実証研究 : システム設計視点の行動経済学 (48)",
-      "url": "https://qiita.com/maskot1977/items/faa29f9bdce4dab79040?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-24T11:35:12+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-099c3df519",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "医療従事者からIT業界へ。1年目エンジニアの自己紹介と、Pythonで目視作業を自動化して感動した話",
-      "url": "https://qiita.com/L-Avenir/items/921c343d8e6ffe15ab79?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-24T11:15:34+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-36fb0d80f8",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "Databricks の ai_decide で「個人情報が入っているか」だけ先に判定して、LLM のマスクを減らす",
-      "url": "https://qiita.com/kamo-shika/items/6e2223296543af9a7c9e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-24T11:09:43+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-4053fddc82",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "2026年10月24日 今日のQiitaトレンド記事をポッドキャストで聴こう！",
-      "url": "https://qiita.com/ennagara128/items/a6fedbfb8bafd9b24b25?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-24T10:40:42+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-c2bb63a966",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "ReActとPlan-Executeを実装して比較する — タスク特性ごとの向き不向き【TypeScript】",
-      "url": "https://qiita.com/joinclass/items/21ec0a1cb73de7a270e0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-24T08:30:02+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-cce032bf74",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "AIに美容室の社長を演じてもらい、コアドメインを探すヒアリング練習をしたら「強み」を掴めなかった話",
-      "url": "https://qiita.com/ken_risu_dev/items/c2e392bdb0d8ffd50fc6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-24T08:16:55+09:00",
-      "hatena_count": 0
-    },
-    {
       "id": "jpcert-16ed91e989",
       "source": "jpcert",
       "title": "注意喚起: 直近で相次いでいる国内組織における不正アクセスに関する注意喚起  (更新)",
@@ -6810,13 +6812,13 @@
       "sub_source": "Zenn",
       "title": "AIエージェントが決定を勝手に変えてしまった5つのパターンと工夫",
       "url": "https://zenn.dev/dress_code/articles/568fd547315abe",
-      "score": 66,
+      "score": 69,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 12 Nov 2026 03:00:05 GMT",
-      "hatena_count": 66
+      "hatena_count": 69
     },
     {
       "id": "zenn-4a6c322c7b",
@@ -6839,13 +6841,13 @@
       "sub_source": "Zenn",
       "title": "Software Factoryの先へ：全社の仕事をAI-NativeにするUbieの内製クラウドエージェント基盤",
       "url": "https://zenn.dev/ubie_dev/articles/45501469c9c044",
-      "score": 161,
+      "score": 162,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 12 Nov 2026 00:44:52 GMT",
-      "hatena_count": 161
+      "hatena_count": 162
     },
     {
       "id": "zenn-0e4f79a20f",
