@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T12:07:32.241978+00:00",
+  "updated_at": "2026-11-13T12:35:00.493252+00:00",
   "count": 500,
   "items": [
     {
@@ -6667,48 +6667,6 @@
       "hatena_count": 0
     },
     {
-      "id": "zenn-5445c3bb99",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "困ったらAIにすぐ聞く3年目エンジニアが社会人になって読んだ技術書 10冊.",
-      "url": "https://zenn.dev/atrae/articles/032b9fccca0ff7",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 13 Nov 2026 07:46:50 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-6a57f31d34",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "5年後のエンジニアは、何に責任を持つのだろうか",
-      "url": "https://zenn.dev/ara_ta3/articles/thinking-about-engineers-five-years-from-now",
-      "score": 2,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 13 Nov 2026 05:03:44 GMT",
-      "hatena_count": 2
-    },
-    {
-      "id": "zenn-18cf4cedd5",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "フィーチャーチームに配属された新卒エンジニアのAIに振り回されない「AI活用」",
-      "url": "https://zenn.dev/safie_inc/articles/b6fa3de06606be",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 13 Nov 2026 03:00:05 GMT",
-      "hatena_count": 0
-    },
-    {
       "id": "zenn-b1b28a0f1c",
       "source": "sns",
       "sub_source": "Zenn",
@@ -6737,59 +6695,17 @@
       "hatena_count": 0
     },
     {
-      "id": "zenn-828a8567fb",
+      "id": "zenn-89bb6e25e0",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "脱WordPress：10年超の個人ブログをAstro + Cloudflare Workersへ移行しPageSpeed 100点を実現",
-      "url": "https://zenn.dev/unsoluble_sugar/articles/8cdf1efc01e6cb",
+      "title": "大容量データのアップロードを止めるな：tusによる再開できるアップロード",
+      "url": "https://zenn.dev/hololab/articles/7c2d34e9711ddf",
       "score": 0,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Thu, 12 Nov 2026 15:31:01 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-4d9c7afdf5",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "AliExpress で買った丸いノブを、自分だけの AI デバイスにしてみた",
-      "url": "https://zenn.dev/bmexami/articles/knobby-esp32-round-knob",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 12 Nov 2026 14:26:56 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-588f4392fb",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "【備忘録】Transformerを数式レベルからnumpyのみで実装して理解する（②Backward Propagation編）",
-      "url": "https://zenn.dev/matsu8/articles/a01ba3fc713e03",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 12 Nov 2026 13:30:40 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-af64b8a2ce",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "ISUCONから学ぶAIとの付き合い方",
-      "url": "https://zenn.dev/ojey/articles/isucon2026-kansousen",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 12 Nov 2026 13:24:09 GMT",
+      "date": "Thu, 12 Nov 2026 23:00:05 GMT",
       "hatena_count": 0
     },
     {
@@ -6807,17 +6723,87 @@
       "hatena_count": 1
     },
     {
-      "id": "zenn-9ea67229df",
+      "id": "zenn-2dc75227fd",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "PM の資質は仕事の「外」で磨ける ー 修羅場に頼らない、これからの時代の PM 成長論",
-      "url": "https://zenn.dev/t_vana4/articles/96279b1619f6ca",
+      "title": "Tauri の MSI インストーラーが更新のたびに削除済みデスクトップショートカットを復活させる問題を直した話",
+      "url": "https://zenn.dev/takahiro_nago/articles/article-tauri-msi-desktop-shortcut",
       "score": 0,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Thu, 12 Nov 2026 09:53:38 GMT",
+      "date": "Thu, 12 Nov 2026 09:34:34 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-10994780e3",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "JAWS FESTA 2026 in AKITA 当日スタッフを振り返ってみる",
+      "url": "https://zenn.dev/atuykunkamuy/articles/e7bf74ff539a98",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 12 Nov 2026 08:11:52 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-7a21cdac0c",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "非同期処理でもポーリングが必要なのはなぜ？",
+      "url": "https://zenn.dev/yuyak/articles/polling-async-completion",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 12 Nov 2026 07:27:13 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-11389f36ac",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "セキュリティ・キャンプ 2026 応募課題晒し",
+      "url": "https://zenn.dev/uvu/articles/758ee227a614ea",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 12 Nov 2026 06:45:01 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-ee77a49ac1",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "AWS EmulatorはAWS Blocksのモックを置き換えるのか？実際に動かして見えた「三つ目の層」",
+      "url": "https://zenn.dev/genda_jp/articles/18d1f780f6b41f",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 12 Nov 2026 05:20:41 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-0275786995",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "週刊Cloudflare - 2026/11/08週",
+      "url": "https://zenn.dev/gemcook/articles/weekly-cloudflare_2026_1101-1107",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 12 Nov 2026 04:54:55 GMT",
       "hatena_count": 0
     },
     {
@@ -6864,20 +6850,6 @@
       "hatena_count": 164
     },
     {
-      "id": "zenn-4ddf24c1a9",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Claude Code に忘れさせたら、トークン使用量が4割減った",
-      "url": "https://zenn.dev/sae_eng/articles/0e9ed7205ebc41",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 11 Nov 2026 23:00:06 GMT",
-      "hatena_count": 0
-    },
-    {
       "id": "zenn-0e4f79a20f",
       "source": "sns",
       "sub_source": "Zenn",
@@ -6904,6 +6876,20 @@
       ],
       "date": "Wed, 11 Nov 2026 00:21:10 GMT",
       "hatena_count": 5
+    },
+    {
+      "id": "zenn-75c86f9192",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Rustで作られたExpoの新フレームワーク「Exact」で、モバイル・Web・デスクトップアプリを作ってみた",
+      "url": "https://zenn.dev/tellernovel_inc/articles/expo-exact-first-impression",
+      "score": 2,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 10 Nov 2026 05:06:37 GMT",
+      "hatena_count": 2
     },
     {
       "id": "zenn-86e2a08d5a",
@@ -6947,6 +6933,20 @@
       "date": "Mon, 09 Nov 2026 13:51:19 GMT",
       "severity": "high",
       "hatena_count": 1
+    },
+    {
+      "id": "zenn-6cd8308eec",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "なぜ mixi2 は iPhone Duo の発売初日から最適化できたのか？",
+      "url": "https://zenn.dev/mixi/articles/b0ea64fded9503",
+      "score": 19,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 09 Nov 2026 06:57:46 GMT",
+      "hatena_count": 19
     },
     {
       "id": "techracho-4b67c39e4f",
