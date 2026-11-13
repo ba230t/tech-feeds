@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T09:33:38.342323+00:00",
+  "updated_at": "2026-11-13T10:05:29.223648+00:00",
   "count": 500,
   "items": [
     {
@@ -6812,13 +6812,13 @@
       "sub_source": "Zenn",
       "title": "AIエージェントが決定を勝手に変えてしまった5つのパターンと工夫",
       "url": "https://zenn.dev/dress_code/articles/568fd547315abe",
-      "score": 74,
+      "score": 78,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 12 Nov 2026 03:00:05 GMT",
-      "hatena_count": 74
+      "hatena_count": 78
     },
     {
       "id": "zenn-4a6c322c7b",
@@ -7058,7 +7058,7 @@
       "source": "techracho",
       "title": "RailsのコードをRactorセーフにするリファクタリングパターン集（翻訳）",
       "url": "https://techracho.bpsinc.jp/hachi8833/2026_10_29/160778",
-      "score": 3,
+      "score": 4,
       "author": "Techracho",
       "tags": [
         "Ruby",
@@ -7066,7 +7066,7 @@
         "日本語"
       ],
       "date": "Thu, 29 Oct 2026 08:30:36 +0000",
-      "hatena_count": 3
+      "hatena_count": 4
     },
     {
       "id": "techracho-2f1472b57b",
