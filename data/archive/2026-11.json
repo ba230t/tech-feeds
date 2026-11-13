@@ -20,13 +20,13 @@
       "sub_source": "Zenn",
       "title": "Claude Codeで最近使っているTips【2026/11】",
       "url": "https://zenn.dev/oikon/articles/claude-code-recipe",
-      "score": 538,
+      "score": 539,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 09 Nov 2026 22:01:05 GMT",
-      "hatena_count": 538
+      "hatena_count": 539
     },
     {
       "id": "zenn-0e4f79a20f",
@@ -34,13 +34,13 @@
       "sub_source": "Zenn",
       "title": "ISUCON2026 で優勝しました（準備編）",
       "url": "https://zenn.dev/luvtechno/articles/isucon2026-preparation",
-      "score": 502,
+      "score": 501,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 11 Nov 2026 05:05:46 GMT",
-      "hatena_count": 502
+      "hatena_count": 501
     },
     {
       "id": "zenn-86e2a08d5a",
@@ -48,13 +48,13 @@
       "sub_source": "Zenn",
       "title": "退屈なCoding AgentはMuseにやらせよう",
       "url": "https://zenn.dev/watany/articles/342b9815dd0553",
-      "score": 213,
+      "score": 214,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 10 Nov 2026 02:35:05 GMT",
-      "hatena_count": 213
+      "hatena_count": 214
     },
     {
       "id": "zenn-77c5db3b7a",
@@ -76,20 +76,20 @@
       "sub_source": "Zenn",
       "title": "AIエージェントが決定を勝手に変えてしまった5つのパターンと工夫",
       "url": "https://zenn.dev/dress_code/articles/568fd547315abe",
-      "score": 60,
+      "score": 66,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 12 Nov 2026 03:00:05 GMT",
-      "hatena_count": 60
+      "hatena_count": 66
     },
     {
       "id": "techracho-4b67c39e4f",
       "source": "techracho",
       "title": "Rails: DHHがRails World 2026キーノートで「語らなかった」部分とは（翻訳）",
       "url": "https://techracho.bpsinc.jp/hachi8833/2026_11_12/161307",
-      "score": 30,
+      "score": 31,
       "author": "Techracho",
       "tags": [
         "Ruby",
@@ -97,7 +97,7 @@
         "日本語"
       ],
       "date": "Thu, 12 Nov 2026 08:30:57 +0000",
-      "hatena_count": 30
+      "hatena_count": 31
     },
     {
       "id": "ipa-ee45d6bd49",
@@ -203,6 +203,20 @@
       "hatena_count": 3
     },
     {
+      "id": "zenn-b1b28a0f1c",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "仕組み編：Two-Towerによる検索システム（学習・推論・配信）",
+      "url": "https://zenn.dev/ca_kagglers/articles/two-tower-mechanism",
+      "score": 2,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 13 Nov 2026 01:55:36 GMT",
+      "hatena_count": 2
+    },
+    {
       "id": "zenn-75c86f9192",
       "source": "sns",
       "sub_source": "Zenn",
@@ -288,20 +302,6 @@
         "Qiita"
       ],
       "date": "2026-11-10T09:38:11+09:00",
-      "hatena_count": 1
-    },
-    {
-      "id": "qiita-8fb4c8b879",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "Claude Code を新しい Fable 5.2 に切り替えると速く安くなるのか。36回測ったら、Fable 5.1 より2割速く3割安く、費用は Opus 5.5 の1.6倍だった",
-      "url": "https://qiita.com/suwa_nobu/items/a6a104575596915dac2e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 1,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-10T08:50:19+09:00",
       "hatena_count": 1
     }
   ],
