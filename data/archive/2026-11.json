@@ -1,7 +1,7 @@
 {
   "month": "2026-11",
   "total_articles": 316,
-  "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (1件)**\n\n1. 更新：PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell)\n\n**AI・機械学習動向 (5件)**\n\n1. Claude Codeで最近使っているTips【2026/11】\n\n2. Software Factoryの先へ：全社の仕事をAI-NativeにするUbieの内製クラウドエージェント基盤\n\n3. 【pstack】AIに敵対的レビューをさせるな。トークンは検証に使え\n\n4. AIエージェントが決定を勝手に変えてしまった5つのパターンと工夫\n\n5. Rails: DHHがRails World 2026キーノートで「語らなかった」部分とは（翻訳）\n\n**技術トレンド (4件)**\n\n1. ISUCON2026 で優勝しました（準備編）\n\n2. 退屈なCoding AgentはMuseにやらせよう\n\n3. ng: Neovim のためのシンプルな GUI\n\n4. なぜ mixi2 は iPhone Duo の発売初日から最適化できたのか？",
+  "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (1件)**\n\n1. 更新：PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell)\n\n**AI・機械学習動向 (6件)**\n\n1. Claude Codeで最近使っているTips【2026/11】\n\n2. Software Factoryの先へ：全社の仕事をAI-NativeにするUbieの内製クラウドエージェント基盤\n\n3. 【pstack】AIに敵対的レビューをさせるな。トークンは検証に使え\n\n4. AIエージェントが決定を勝手に変えてしまった5つのパターンと工夫\n\n5. Rails: DHHがRails World 2026キーノートで「語らなかった」部分とは（翻訳）\n\n6. RailsのコードをRactorセーフにするリファクタリングパターン集（翻訳）\n\n**技術トレンド (3件)**\n\n1. ISUCON2026 で優勝しました（準備編）\n\n2. 退屈なCoding AgentはMuseにやらせよう\n\n3. ng: Neovim のためのシンプルな GUI",
   "source_counts": {
     "sns": 274,
     "jpcert": 30,
@@ -9,7 +9,7 @@
     "techracho": 10
   },
   "severity_counts": {
-    "high": 9,
+    "high": 10,
     "critical": 1,
     "info": 28,
     "medium": 2
@@ -77,13 +77,13 @@
       "sub_source": "Zenn",
       "title": "【pstack】AIに敵対的レビューをさせるな。トークンは検証に使え",
       "url": "https://zenn.dev/karamage/articles/5c3f8370b2b370",
-      "score": 107,
+      "score": 108,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 13 Nov 2026 02:48:24 GMT",
-      "hatena_count": 107
+      "hatena_count": 108
     },
     {
       "id": "zenn-03820b944c",
@@ -91,13 +91,13 @@
       "sub_source": "Zenn",
       "title": "AIエージェントが決定を勝手に変えてしまった5つのパターンと工夫",
       "url": "https://zenn.dev/dress_code/articles/568fd547315abe",
-      "score": 89,
+      "score": 90,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 12 Nov 2026 03:00:05 GMT",
-      "hatena_count": 89
+      "hatena_count": 90
     },
     {
       "id": "techracho-4b67c39e4f",
@@ -120,13 +120,13 @@
       "sub_source": "Zenn",
       "title": "ng: Neovim のためのシンプルな GUI",
       "url": "https://zenn.dev/shougo/articles/ng-nvim-simple-gui",
-      "score": 22,
+      "score": 24,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 13 Nov 2026 10:49:55 GMT",
-      "hatena_count": 22
+      "hatena_count": 24
     },
     {
       "id": "ipa-ee45d6bd49",
@@ -142,20 +142,6 @@
       "severity": "medium",
       "date": "2026-11-02T00:00:00+09:00",
       "hatena_count": 21
-    },
-    {
-      "id": "zenn-6cd8308eec",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "なぜ mixi2 は iPhone Duo の発売初日から最適化できたのか？",
-      "url": "https://zenn.dev/mixi/articles/b0ea64fded9503",
-      "score": 19,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 09 Nov 2026 06:57:46 GMT",
-      "hatena_count": 19
     },
     {
       "id": "techracho-9300f8dd2f",
@@ -260,17 +246,17 @@
       "hatena_count": 2
     },
     {
-      "id": "zenn-75c86f9192",
+      "id": "zenn-83e64119d0",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "Rustで作られたExpoの新フレームワーク「Exact」で、モバイル・Web・デスクトップアプリを作ってみた",
-      "url": "https://zenn.dev/tellernovel_inc/articles/expo-exact-first-impression",
+      "title": "SlackでMarkdown記法が使えるようになっていた",
+      "url": "https://zenn.dev/lnest_knowledge/articles/ed5977bd7b6c1f",
       "score": 2,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Tue, 10 Nov 2026 05:06:37 GMT",
+      "date": "Wed, 11 Nov 2026 05:52:02 GMT",
       "hatena_count": 2
     },
     {
@@ -302,9 +288,39 @@
       ],
       "date": "Mon, 02 Nov 2026 08:30:18 +0000",
       "hatena_count": 2
+    },
+    {
+      "id": "jpcert-b24da38fa6",
+      "source": "jpcert",
+      "title": "注意喚起: 2026年11月マイクロソフトセキュリティ更新プログラムに関する注意喚起  (公開)",
+      "url": "https://www.jpcert.or.jp/at/2026/at260035.html",
+      "score": 1,
+      "author": "JPCERT/CC",
+      "tags": [
+        "JPCERT",
+        "セキュリティ"
+      ],
+      "severity": "high",
+      "date": "2026-11-11T11:20+09:00",
+      "hatena_count": 1
     }
   ],
   "security_highlights": [
+    {
+      "id": "zenn-ab731c7f05",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "脆弱性問題を解決するためにRustに移行するべきなのか？",
+      "url": "https://zenn.dev/garasubo/articles/72340052cdd871",
+      "score": 1,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 09 Nov 2026 13:51:19 GMT",
+      "severity": "high",
+      "hatena_count": 1
+    },
     {
       "id": "zenn-4a6c322c7b",
       "source": "sns",
