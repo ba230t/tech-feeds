@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T07:05:40.486549+00:00",
+  "updated_at": "2026-11-14T07:33:15.276044+00:00",
   "count": 500,
   "items": [
     {
@@ -6686,13 +6686,13 @@
       "sub_source": "Zenn",
       "title": "ng: Neovim のためのシンプルな GUI",
       "url": "https://zenn.dev/shougo/articles/ng-nvim-simple-gui",
-      "score": 5,
+      "score": 7,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 13 Nov 2026 10:49:55 GMT",
-      "hatena_count": 5
+      "hatena_count": 7
     },
     {
       "id": "zenn-5445c3bb99",
@@ -6742,13 +6742,13 @@
       "sub_source": "Zenn",
       "title": "【pstack】AIに敵対的レビューをさせるな。トークンは検証に使え",
       "url": "https://zenn.dev/karamage/articles/5c3f8370b2b370",
-      "score": 95,
+      "score": 97,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 13 Nov 2026 02:48:24 GMT",
-      "hatena_count": 95
+      "hatena_count": 97
     },
     {
       "id": "zenn-b1b28a0f1c",
