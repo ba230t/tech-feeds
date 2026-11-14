@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T23:04:19.715302+00:00",
+  "updated_at": "2026-11-14T23:33:02.307899+00:00",
   "count": 500,
   "items": [
     {
@@ -6666,6 +6666,34 @@
       "hatena_count": 0
     },
     {
+      "id": "zenn-b98d6d65a9",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "1時間で作るPerlOS: Yet Another Perl Computer",
+      "url": "https://zenn.dev/takesako/articles/e9b10360d889ca",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 14 Nov 2026 07:09:37 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-7f43414021",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "ハッカソン初心者に伝えたい、失敗から学んだチーム開発前の3つの準備",
+      "url": "https://zenn.dev/kinuuu/articles/hackathon-team-dev-preparation",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 14 Nov 2026 04:01:19 GMT",
+      "hatena_count": 0
+    },
+    {
       "id": "zenn-52558933ac",
       "source": "sns",
       "sub_source": "Zenn",
@@ -6680,18 +6708,18 @@
       "hatena_count": 1
     },
     {
-      "id": "zenn-bf3284232c",
+      "id": "zenn-2ab5d8958b",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "Qwen3.8 Flash Nextに混ざる中国語を、出力層の書き換えで消した: 27%→0%、他の重みは1バイトも変えずに",
-      "url": "https://zenn.dev/caphtech/articles/qwen38-zh-ban",
-      "score": 42,
+      "title": "AWS Emulatorで、CloudFront＋API Gateway＋Cognitoの構成をローカルで動かしてみた",
+      "url": "https://zenn.dev/visionarray/articles/2978284b5a9706",
+      "score": 0,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Fri, 13 Nov 2026 13:08:40 GMT",
-      "hatena_count": 42
+      "date": "Fri, 13 Nov 2026 11:31:59 GMT",
+      "hatena_count": 0
     },
     {
       "id": "zenn-9a6717ebd2",
@@ -6699,13 +6727,13 @@
       "sub_source": "Zenn",
       "title": "ng: Neovim のためのシンプルな GUI",
       "url": "https://zenn.dev/shougo/articles/ng-nvim-simple-gui",
-      "score": 28,
+      "score": 30,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 13 Nov 2026 10:49:55 GMT",
-      "hatena_count": 28
+      "hatena_count": 30
     },
     {
       "id": "zenn-5445c3bb99",
@@ -6783,13 +6811,27 @@
       "sub_source": "Zenn",
       "title": "AIで膨らみ続けるテストケースを、リスクベースドテストで選んで回すまでの記録",
       "url": "https://zenn.dev/pivotmedia/articles/risk-based-testing-for-uat",
-      "score": 3,
+      "score": 8,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 12 Nov 2026 11:41:36 GMT",
-      "hatena_count": 3
+      "hatena_count": 8
+    },
+    {
+      "id": "zenn-ee77a49ac1",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "AWS EmulatorはAWS Blocksのモックを置き換えるのか？実際に動かして見えた「三つ目の層」",
+      "url": "https://zenn.dev/genda_jp/articles/18d1f780f6b41f",
+      "score": 1,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 12 Nov 2026 05:20:41 GMT",
+      "hatena_count": 1
     },
     {
       "id": "zenn-03820b944c",
@@ -6863,34 +6905,6 @@
       "hatena_count": 508
     },
     {
-      "id": "zenn-28366bb153",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Snowflake Dashboards 2.0が最高な理由と、これからBIに求められること",
-      "url": "https://zenn.dev/dataheroes/articles/snowflake-dashboards-2-and-future-of-bi",
-      "score": 5,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 11 Nov 2026 00:21:10 GMT",
-      "hatena_count": 5
-    },
-    {
-      "id": "zenn-75c86f9192",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Rustで作られたExpoの新フレームワーク「Exact」で、モバイル・Web・デスクトップアプリを作ってみた",
-      "url": "https://zenn.dev/tellernovel_inc/articles/expo-exact-first-impression",
-      "score": 2,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 10 Nov 2026 05:06:37 GMT",
-      "hatena_count": 2
-    },
-    {
       "id": "zenn-86e2a08d5a",
       "source": "sns",
       "sub_source": "Zenn",
@@ -6932,20 +6946,6 @@
       "date": "Mon, 09 Nov 2026 13:51:19 GMT",
       "severity": "high",
       "hatena_count": 1
-    },
-    {
-      "id": "zenn-6cd8308eec",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "なぜ mixi2 は iPhone Duo の発売初日から最適化できたのか？",
-      "url": "https://zenn.dev/mixi/articles/b0ea64fded9503",
-      "score": 19,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 09 Nov 2026 06:57:46 GMT",
-      "hatena_count": 19
     },
     {
       "id": "techracho-4b67c39e4f",
