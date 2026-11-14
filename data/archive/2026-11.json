@@ -35,13 +35,13 @@
       "sub_source": "Zenn",
       "title": "ISUCON2026 で優勝しました（準備編）",
       "url": "https://zenn.dev/luvtechno/articles/isucon2026-preparation",
-      "score": 505,
+      "score": 508,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 11 Nov 2026 05:05:46 GMT",
-      "hatena_count": 505
+      "hatena_count": 508
     },
     {
       "id": "zenn-86e2a08d5a",
@@ -63,13 +63,13 @@
       "sub_source": "Zenn",
       "title": "Software Factoryの先へ：全社の仕事をAI-NativeにするUbieの内製クラウドエージェント基盤",
       "url": "https://zenn.dev/ubie_dev/articles/45501469c9c044",
-      "score": 164,
+      "score": 166,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 12 Nov 2026 00:44:52 GMT",
-      "hatena_count": 164
+      "hatena_count": 166
     },
     {
       "id": "zenn-4773a6c123",
@@ -77,13 +77,13 @@
       "sub_source": "Zenn",
       "title": "【pstack】AIに敵対的レビューをさせるな。トークンは検証に使え",
       "url": "https://zenn.dev/karamage/articles/5c3f8370b2b370",
-      "score": 89,
+      "score": 93,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 13 Nov 2026 02:48:24 GMT",
-      "hatena_count": 89
+      "hatena_count": 93
     },
     {
       "id": "zenn-03820b944c",
@@ -91,13 +91,13 @@
       "sub_source": "Zenn",
       "title": "AIエージェントが決定を勝手に変えてしまった5つのパターンと工夫",
       "url": "https://zenn.dev/dress_code/articles/568fd547315abe",
-      "score": 88,
+      "score": 89,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 12 Nov 2026 03:00:05 GMT",
-      "hatena_count": 88
+      "hatena_count": 89
     },
     {
       "id": "techracho-4b67c39e4f",
@@ -260,6 +260,20 @@
       "hatena_count": 2
     },
     {
+      "id": "zenn-6882e5cf17",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "AIで膨らみ続けるテストケースを、リスクベースドテストで選んで回すまでの記録",
+      "url": "https://zenn.dev/pivotmedia/articles/risk-based-testing-for-uat",
+      "score": 2,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 12 Nov 2026 11:41:36 GMT",
+      "hatena_count": 2
+    },
+    {
       "id": "zenn-75c86f9192",
       "source": "sns",
       "sub_source": "Zenn",
@@ -286,21 +300,6 @@
         "日本語"
       ],
       "date": "Tue, 10 Nov 2026 08:30:16 +0000",
-      "hatena_count": 2
-    },
-    {
-      "id": "techracho-b23695913c",
-      "source": "techracho",
-      "title": "Ruby: C拡張をRuby 4のVM APIに合わせて効率化するためのtips集（翻訳）",
-      "url": "https://techracho.bpsinc.jp/hachi8833/2026_11_02/160896",
-      "score": 2,
-      "author": "Techracho",
-      "tags": [
-        "Ruby",
-        "Rails",
-        "日本語"
-      ],
-      "date": "Mon, 02 Nov 2026 08:30:18 +0000",
       "hatena_count": 2
     }
   ],
