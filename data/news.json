@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T09:33:10.171290+00:00",
+  "updated_at": "2026-11-14T10:04:40.786110+00:00",
   "count": 500,
   "items": [
     {
@@ -6685,13 +6685,13 @@
       "sub_source": "Zenn",
       "title": "ng: Neovim のためのシンプルな GUI",
       "url": "https://zenn.dev/shougo/articles/ng-nvim-simple-gui",
-      "score": 9,
+      "score": 13,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 13 Nov 2026 10:49:55 GMT",
-      "hatena_count": 9
+      "hatena_count": 13
     },
     {
       "id": "zenn-5445c3bb99",
@@ -6741,13 +6741,13 @@
       "sub_source": "Zenn",
       "title": "【pstack】AIに敵対的レビューをさせるな。トークンは検証に使え",
       "url": "https://zenn.dev/karamage/articles/5c3f8370b2b370",
-      "score": 100,
+      "score": 101,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 13 Nov 2026 02:48:24 GMT",
-      "hatena_count": 100
+      "hatena_count": 101
     },
     {
       "id": "zenn-b1b28a0f1c",
@@ -6868,13 +6868,13 @@
       "sub_source": "Zenn",
       "title": "Software Factoryの先へ：全社の仕事をAI-NativeにするUbieの内製クラウドエージェント基盤",
       "url": "https://zenn.dev/ubie_dev/articles/45501469c9c044",
-      "score": 166,
+      "score": 167,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 12 Nov 2026 00:44:52 GMT",
-      "hatena_count": 166
+      "hatena_count": 167
     },
     {
       "id": "zenn-0e4f79a20f",
