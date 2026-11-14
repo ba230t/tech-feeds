@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T01:34:24.771374+00:00",
+  "updated_at": "2026-11-14T02:06:58.161237+00:00",
   "count": 500,
   "items": [
     {
@@ -6714,13 +6714,13 @@
       "sub_source": "Zenn",
       "title": "【pstack】AIに敵対的レビューをさせるな。トークンは検証に使え",
       "url": "https://zenn.dev/karamage/articles/5c3f8370b2b370",
-      "score": 72,
+      "score": 81,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 13 Nov 2026 02:48:24 GMT",
-      "hatena_count": 72
+      "hatena_count": 81
     },
     {
       "id": "zenn-b1b28a0f1c",
@@ -6798,13 +6798,13 @@
       "sub_source": "Zenn",
       "title": "AIエージェントが決定を勝手に変えてしまった5つのパターンと工夫",
       "url": "https://zenn.dev/dress_code/articles/568fd547315abe",
-      "score": 87,
+      "score": 88,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 12 Nov 2026 03:00:05 GMT",
-      "hatena_count": 87
+      "hatena_count": 88
     },
     {
       "id": "zenn-4a6c322c7b",
