@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T10:04:40.786110+00:00",
+  "updated_at": "2026-11-14T10:33:26.466791+00:00",
   "count": 500,
   "items": [
     {
@@ -6685,13 +6685,13 @@
       "sub_source": "Zenn",
       "title": "ng: Neovim のためのシンプルな GUI",
       "url": "https://zenn.dev/shougo/articles/ng-nvim-simple-gui",
-      "score": 13,
+      "score": 15,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 13 Nov 2026 10:49:55 GMT",
-      "hatena_count": 13
+      "hatena_count": 15
     },
     {
       "id": "zenn-5445c3bb99",
