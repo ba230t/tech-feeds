@@ -1,7 +1,49 @@
 {
-  "updated_at": "2026-11-14T20:05:13.993175+00:00",
+  "updated_at": "2026-11-14T20:33:15.829889+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "qiita-da6dd769fe",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "agentgatewayで始めるMCP管理",
+      "url": "https://qiita.com/licux/items/cd639f2ae807b35b6697?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-14T19:49:51+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-a62f894576",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "AWS Emulatorが一般提供されたので、ローカルでS3バケットを作成してみた",
+      "url": "https://qiita.com/moyomoyomoyo/items/522ba880ff37971aa969?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-14T16:41:30+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-804f8fd879",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "【AWS】AWS EmulatorでPRごとのCI（結合テスト）を回す【GitHubActions】",
+      "url": "https://qiita.com/Nana_777/items/6be40f2779bb25e69484?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-14T16:28:23+09:00",
+      "hatena_count": 0
+    },
     {
       "id": "qiita-3857ebcbe5",
       "source": "sns",
@@ -31,6 +73,20 @@
       "hatena_count": 0
     },
     {
+      "id": "qiita-447f11e6b1",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "Dell Technologies Forum 2026 参加レポート：仮想化の熱量は今も健在だった件",
+      "url": "https://qiita.com/lab8010/items/b23816de04b60ebb9a9a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-14T14:51:49+09:00",
+      "hatena_count": 0
+    },
+    {
       "id": "qiita-6db7d01322",
       "source": "sns",
       "sub_source": "Qiita",
@@ -56,6 +112,20 @@
         "Qiita"
       ],
       "date": "2026-11-14T12:39:16+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-1cb94717da",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "AI駆動開発で実装が速くなったら、CI待ちが一番長くなった——品質を落とさずCIを軽くする",
+      "url": "https://qiita.com/ktdatascience/items/b129d5eee1bc9077f085?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-14T10:15:36+09:00",
       "hatena_count": 0
     },
     {
@@ -101,6 +171,20 @@
       "hatena_count": 0
     },
     {
+      "id": "qiita-b63138f35c",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "社畜2年目で意識していること",
+      "url": "https://qiita.com/TumoTumo/items/68cc6c02cc702f322f2c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-14T03:03:46+09:00",
+      "hatena_count": 0
+    },
+    {
       "id": "qiita-2d20b75a5c",
       "source": "sns",
       "sub_source": "Qiita",
@@ -126,6 +210,20 @@
         "Qiita"
       ],
       "date": "2026-11-14T00:22:50+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-ea2a2fef08",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "AWSでAssumeRoleって2回連続でできるの？試してみたら普通にできた話（ロールチェイニング）",
+      "url": "https://qiita.com/nkrk/items/90ca7ee3a3df66d12b2a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-13T23:03:05+09:00",
       "hatena_count": 0
     },
     {
@@ -280,6 +378,20 @@
         "Qiita"
       ],
       "date": "2026-11-13T12:29:15+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-3433045835",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "AWS SAAに737点で合格。Udemyの講座を流し見して、模擬試験に集中した話",
+      "url": "https://qiita.com/ktdatascience/items/2e52969a445c07cd3ff4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-13T12:07:04+09:00",
       "hatena_count": 0
     },
     {
@@ -6236,118 +6348,6 @@
         "Qiita"
       ],
       "date": "2026-10-26T01:38:51+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-c21ef63360",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "Oracle AI World 2026 開幕！ 注目発表と講演まとめ【随時更新】",
-      "url": "https://qiita.com/shirok/items/fb1d5dded8654002d2c1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-26T00:24:44+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-d6803358b4",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "【登壇レポート】「JAWS-UG 茨城 #18 祝！2周年記念祭」 で承認依頼を電話で鳴らしてきました📞",
-      "url": "https://qiita.com/yosuke-suzuki/items/cd8e63528eb5958d8c3d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-25T23:59:54+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-9fdb4bc8e7",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "【解説】クリーンアーキテクチャとは何か？ 炎上議論はなぜ起きるのか？",
-      "url": "https://qiita.com/Sicut_study/items/3c1995d2a3f1695a18a7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 1,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-25T22:54:38+09:00",
-      "hatena_count": 1
-    },
-    {
-      "id": "qiita-e87b7d5c56",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "美容室ヒアリングからみるコアドメインの考え方",
-      "url": "https://qiita.com/o68606007/items/1d2493da81e969fc5e02?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-25T22:33:13+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-721e9aa0de",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "Symbol のコンセンサスをいじらず、誰にも預けない、なんか DEX っぽいものが作れてしまった話",
-      "url": "https://qiita.com/HinaBlogChannel/items/b5f3020e0e42235dda0c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-25T21:29:41+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-12dc42abdc",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "【個人開発】SSR / SSG / ISRとキャッシュを使い分けた技術ブログを作りました【Next.js/TypeScript/microCMS】",
-      "url": "https://qiita.com/takahiro_honda/items/19f15f755afbd922afe7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-25T19:57:04+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-902ec8cdea",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "エージェントとワークフローが混じってしまったので責務を分け直した",
-      "url": "https://qiita.com/Tachiuo/items/3c9a6bc9e1eb2b05a346?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-25T18:29:43+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-5ec5515c47",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "「スマホを向けるだけ」で麻雀の点数を出したくて、牌認識をブラウザの中だけで動かした",
-      "url": "https://qiita.com/hiroshiasayadev-prog/items/d792cc85dde2d7cfd75c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-25T18:16:56+09:00",
       "hatena_count": 0
     },
     {
