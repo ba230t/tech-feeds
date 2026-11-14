@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T06:08:08.991181+00:00",
+  "updated_at": "2026-11-14T06:35:44.075661+00:00",
   "count": 500,
   "items": [
     {
@@ -6667,6 +6667,20 @@
       "hatena_count": 0
     },
     {
+      "id": "zenn-52558933ac",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "【2026/11/13時点】Claude Duet を Team プランで触ってみた（組織で使うときの注意点つき）",
+      "url": "https://zenn.dev/canly/articles/e2bd67c9a4c18b",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 13 Nov 2026 23:45:16 GMT",
+      "hatena_count": 0
+    },
+    {
       "id": "zenn-9a6717ebd2",
       "source": "sns",
       "sub_source": "Zenn",
@@ -6692,6 +6706,20 @@
         "Zenn"
       ],
       "date": "Fri, 13 Nov 2026 07:46:50 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-3f37e3fb73",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "ぎりぎりで受かった AWS AIF の記録",
+      "url": "https://zenn.dev/flagxs/articles/c5d6aac5e432b7",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 13 Nov 2026 05:28:57 GMT",
       "hatena_count": 0
     },
     {
@@ -6765,6 +6793,20 @@
       "hatena_count": 2
     },
     {
+      "id": "zenn-9ea67229df",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "PM の資質は仕事の「外」で磨ける ー 修羅場に頼らない、これからの時代の PM 成長論",
+      "url": "https://zenn.dev/t_vana4/articles/96279b1619f6ca",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 12 Nov 2026 09:53:38 GMT",
+      "hatena_count": 0
+    },
+    {
       "id": "zenn-11389f36ac",
       "source": "sns",
       "sub_source": "Zenn",
@@ -6836,20 +6878,6 @@
       "hatena_count": 166
     },
     {
-      "id": "zenn-4ddf24c1a9",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Claude Code に忘れさせたら、トークン使用量が4割減った",
-      "url": "https://zenn.dev/sae_eng/articles/0e9ed7205ebc41",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 11 Nov 2026 23:00:06 GMT",
-      "hatena_count": 0
-    },
-    {
       "id": "zenn-0e4f79a20f",
       "source": "sns",
       "sub_source": "Zenn",
@@ -6862,20 +6890,6 @@
       ],
       "date": "Wed, 11 Nov 2026 05:05:46 GMT",
       "hatena_count": 508
-    },
-    {
-      "id": "zenn-28366bb153",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Snowflake Dashboards 2.0が最高な理由と、これからBIに求められること",
-      "url": "https://zenn.dev/dataheroes/articles/snowflake-dashboards-2-and-future-of-bi",
-      "score": 5,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 11 Nov 2026 00:21:10 GMT",
-      "hatena_count": 5
     },
     {
       "id": "zenn-75c86f9192",
@@ -6918,21 +6932,6 @@
       ],
       "date": "Mon, 09 Nov 2026 22:01:05 GMT",
       "hatena_count": 540
-    },
-    {
-      "id": "zenn-ab731c7f05",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "脆弱性問題を解決するためにRustに移行するべきなのか？",
-      "url": "https://zenn.dev/garasubo/articles/72340052cdd871",
-      "score": 1,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 09 Nov 2026 13:51:19 GMT",
-      "severity": "high",
-      "hatena_count": 1
     },
     {
       "id": "zenn-6cd8308eec",

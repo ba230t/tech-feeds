@@ -9,7 +9,7 @@
     "techracho": 10
   },
   "severity_counts": {
-    "high": 10,
+    "high": 9,
     "critical": 1,
     "info": 28,
     "medium": 2
@@ -158,20 +158,6 @@
       "hatena_count": 5
     },
     {
-      "id": "zenn-28366bb153",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Snowflake Dashboards 2.0が最高な理由と、これからBIに求められること",
-      "url": "https://zenn.dev/dataheroes/articles/snowflake-dashboards-2-and-future-of-bi",
-      "score": 5,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 11 Nov 2026 00:21:10 GMT",
-      "hatena_count": 5
-    },
-    {
       "id": "techracho-9300f8dd2f",
       "source": "techracho",
       "title": "RailsのコードをRactorセーフにするリファクタリングパターン集（翻訳）",
@@ -301,24 +287,24 @@
       ],
       "date": "Tue, 10 Nov 2026 08:30:16 +0000",
       "hatena_count": 2
+    },
+    {
+      "id": "techracho-b23695913c",
+      "source": "techracho",
+      "title": "Ruby: C拡張をRuby 4のVM APIに合わせて効率化するためのtips集（翻訳）",
+      "url": "https://techracho.bpsinc.jp/hachi8833/2026_11_02/160896",
+      "score": 2,
+      "author": "Techracho",
+      "tags": [
+        "Ruby",
+        "Rails",
+        "日本語"
+      ],
+      "date": "Mon, 02 Nov 2026 08:30:18 +0000",
+      "hatena_count": 2
     }
   ],
   "security_highlights": [
-    {
-      "id": "zenn-ab731c7f05",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "脆弱性問題を解決するためにRustに移行するべきなのか？",
-      "url": "https://zenn.dev/garasubo/articles/72340052cdd871",
-      "score": 1,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 09 Nov 2026 13:51:19 GMT",
-      "severity": "high",
-      "hatena_count": 1
-    },
     {
       "id": "zenn-4a6c322c7b",
       "source": "sns",
