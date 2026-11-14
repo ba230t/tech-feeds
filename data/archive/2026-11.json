@@ -77,13 +77,13 @@
       "sub_source": "Zenn",
       "title": "【pstack】AIに敵対的レビューをさせるな。トークンは検証に使え",
       "url": "https://zenn.dev/karamage/articles/5c3f8370b2b370",
-      "score": 101,
+      "score": 104,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 13 Nov 2026 02:48:24 GMT",
-      "hatena_count": 101
+      "hatena_count": 104
     },
     {
       "id": "zenn-03820b944c",
@@ -149,13 +149,13 @@
       "sub_source": "Zenn",
       "title": "ng: Neovim のためのシンプルな GUI",
       "url": "https://zenn.dev/shougo/articles/ng-nvim-simple-gui",
-      "score": 13,
+      "score": 18,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 13 Nov 2026 10:49:55 GMT",
-      "hatena_count": 13
+      "hatena_count": 18
     },
     {
       "id": "techracho-9300f8dd2f",
@@ -171,6 +171,20 @@
       ],
       "date": "Thu, 29 Oct 2026 08:30:36 +0000",
       "hatena_count": 4
+    },
+    {
+      "id": "zenn-6882e5cf17",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "AIで膨らみ続けるテストケースを、リスクベースドテストで選んで回すまでの記録",
+      "url": "https://zenn.dev/pivotmedia/articles/risk-based-testing-for-uat",
+      "score": 3,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 12 Nov 2026 11:41:36 GMT",
+      "hatena_count": 3
     },
     {
       "id": "techracho-f68eade31b",
@@ -243,20 +257,6 @@
         "Zenn"
       ],
       "date": "Fri, 13 Nov 2026 01:55:36 GMT",
-      "hatena_count": 2
-    },
-    {
-      "id": "zenn-6882e5cf17",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "AIで膨らみ続けるテストケースを、リスクベースドテストで選んで回すまでの記録",
-      "url": "https://zenn.dev/pivotmedia/articles/risk-based-testing-for-uat",
-      "score": 2,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 12 Nov 2026 11:41:36 GMT",
       "hatena_count": 2
     },
     {
