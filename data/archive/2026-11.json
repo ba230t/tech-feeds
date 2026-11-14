@@ -290,18 +290,17 @@
       "hatena_count": 2
     },
     {
-      "id": "jpcert-b24da38fa6",
-      "source": "jpcert",
-      "title": "注意喚起: 2026年11月マイクロソフトセキュリティ更新プログラムに関する注意喚起  (公開)",
-      "url": "https://www.jpcert.or.jp/at/2026/at260035.html",
+      "id": "qiita-9992abfba6",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "Claude Fable 5.2はOpusの単価2倍、でも1タスクは約半額!? Mythos5.2との違いと使いどころ",
+      "url": "https://qiita.com/ryosuke_ohori/items/17995524b433cf04fd55?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
       "score": 1,
-      "author": "JPCERT/CC",
+      "author": "Qiita",
       "tags": [
-        "JPCERT",
-        "セキュリティ"
+        "Qiita"
       ],
-      "severity": "high",
-      "date": "2026-11-11T11:20+09:00",
+      "date": "2026-11-13T13:26:32+09:00",
       "hatena_count": 1
     }
   ],
