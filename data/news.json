@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T03:05:54.723994+00:00",
+  "updated_at": "2026-11-14T03:33:37.952367+00:00",
   "count": 500,
   "items": [
     {
@@ -6672,13 +6672,13 @@
       "sub_source": "Zenn",
       "title": "ng: Neovim のためのシンプルな GUI",
       "url": "https://zenn.dev/shougo/articles/ng-nvim-simple-gui",
-      "score": 2,
+      "score": 5,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 13 Nov 2026 10:49:55 GMT",
-      "hatena_count": 2
+      "hatena_count": 5
     },
     {
       "id": "zenn-5445c3bb99",
@@ -6714,13 +6714,13 @@
       "sub_source": "Zenn",
       "title": "【pstack】AIに敵対的レビューをさせるな。トークンは検証に使え",
       "url": "https://zenn.dev/karamage/articles/5c3f8370b2b370",
-      "score": 82,
+      "score": 89,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 13 Nov 2026 02:48:24 GMT",
-      "hatena_count": 82
+      "hatena_count": 89
     },
     {
       "id": "zenn-b1b28a0f1c",
@@ -6855,13 +6855,13 @@
       "sub_source": "Zenn",
       "title": "ISUCON2026 で優勝しました（準備編）",
       "url": "https://zenn.dev/luvtechno/articles/isucon2026-preparation",
-      "score": 504,
+      "score": 505,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 11 Nov 2026 05:05:46 GMT",
-      "hatena_count": 504
+      "hatena_count": 505
     },
     {
       "id": "zenn-28366bb153",

@@ -1,7 +1,7 @@
 {
   "month": "2026-11",
   "total_articles": 300,
-  "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (1件)**\n\n1. 更新：PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell)\n\n**AI・機械学習動向 (5件)**\n\n1. Claude Codeで最近使っているTips【2026/11】\n\n2. Software Factoryの先へ：全社の仕事をAI-NativeにするUbieの内製クラウドエージェント基盤\n\n3. AIエージェントが決定を勝手に変えてしまった5つのパターンと工夫\n\n4. 【pstack】AIに敵対的レビューをさせるな。トークンは検証に使え\n\n5. Rails: DHHがRails World 2026キーノートで「語らなかった」部分とは（翻訳）\n\n**技術トレンド (4件)**\n\n1. ISUCON2026 で優勝しました（準備編）\n\n2. 退屈なCoding AgentはMuseにやらせよう\n\n3. なぜ mixi2 は iPhone Duo の発売初日から最適化できたのか？\n\n4. Snowflake Dashboards 2.0が最高な理由と、これからBIに求められること",
+  "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (1件)**\n\n1. 更新：PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell)\n\n**AI・機械学習動向 (5件)**\n\n1. Claude Codeで最近使っているTips【2026/11】\n\n2. Software Factoryの先へ：全社の仕事をAI-NativeにするUbieの内製クラウドエージェント基盤\n\n3. 【pstack】AIに敵対的レビューをさせるな。トークンは検証に使え\n\n4. AIエージェントが決定を勝手に変えてしまった5つのパターンと工夫\n\n5. Rails: DHHがRails World 2026キーノートで「語らなかった」部分とは（翻訳）\n\n**技術トレンド (4件)**\n\n1. ISUCON2026 で優勝しました（準備編）\n\n2. 退屈なCoding AgentはMuseにやらせよう\n\n3. なぜ mixi2 は iPhone Duo の発売初日から最適化できたのか？\n\n4. ng: Neovim のためのシンプルな GUI",
   "source_counts": {
     "sns": 258,
     "jpcert": 30,
@@ -35,13 +35,13 @@
       "sub_source": "Zenn",
       "title": "ISUCON2026 で優勝しました（準備編）",
       "url": "https://zenn.dev/luvtechno/articles/isucon2026-preparation",
-      "score": 504,
+      "score": 505,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 11 Nov 2026 05:05:46 GMT",
-      "hatena_count": 504
+      "hatena_count": 505
     },
     {
       "id": "zenn-86e2a08d5a",
@@ -72,6 +72,20 @@
       "hatena_count": 164
     },
     {
+      "id": "zenn-4773a6c123",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "【pstack】AIに敵対的レビューをさせるな。トークンは検証に使え",
+      "url": "https://zenn.dev/karamage/articles/5c3f8370b2b370",
+      "score": 89,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 13 Nov 2026 02:48:24 GMT",
+      "hatena_count": 89
+    },
+    {
       "id": "zenn-03820b944c",
       "source": "sns",
       "sub_source": "Zenn",
@@ -84,20 +98,6 @@
       ],
       "date": "Thu, 12 Nov 2026 03:00:05 GMT",
       "hatena_count": 88
-    },
-    {
-      "id": "zenn-4773a6c123",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "【pstack】AIに敵対的レビューをさせるな。トークンは検証に使え",
-      "url": "https://zenn.dev/karamage/articles/5c3f8370b2b370",
-      "score": 82,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 13 Nov 2026 02:48:24 GMT",
-      "hatena_count": 82
     },
     {
       "id": "techracho-4b67c39e4f",
@@ -142,6 +142,20 @@
       ],
       "date": "Mon, 09 Nov 2026 06:57:46 GMT",
       "hatena_count": 19
+    },
+    {
+      "id": "zenn-9a6717ebd2",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "ng: Neovim のためのシンプルな GUI",
+      "url": "https://zenn.dev/shougo/articles/ng-nvim-simple-gui",
+      "score": 5,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 13 Nov 2026 10:49:55 GMT",
+      "hatena_count": 5
     },
     {
       "id": "zenn-28366bb153",
@@ -216,20 +230,6 @@
       ],
       "date": "Wed, 28 Oct 2026 08:30:47 +0000",
       "hatena_count": 3
-    },
-    {
-      "id": "zenn-9a6717ebd2",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "ng: Neovim のためのシンプルな GUI",
-      "url": "https://zenn.dev/shougo/articles/ng-nvim-simple-gui",
-      "score": 2,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 13 Nov 2026 10:49:55 GMT",
-      "hatena_count": 2
     },
     {
       "id": "zenn-6a57f31d34",
