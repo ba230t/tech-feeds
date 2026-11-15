@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T11:04:17.025967+00:00",
+  "updated_at": "2026-11-15T11:33:22.015765+00:00",
   "count": 500,
   "items": [
     {
@@ -6666,6 +6666,20 @@
       "hatena_count": 0
     },
     {
+      "id": "zenn-9b661c6620",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "フロントエンドのフレームワークを、安全に段階的に入れ替える",
+      "url": "https://zenn.dev/yasuakiomokawa/articles/de83bb4c4ea928",
+      "score": 3,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 14 Nov 2026 07:12:52 GMT",
+      "hatena_count": 3
+    },
+    {
       "id": "zenn-52558933ac",
       "source": "sns",
       "sub_source": "Zenn",
@@ -6685,13 +6699,13 @@
       "sub_source": "Zenn",
       "title": "Qwen3.8 Flash Nextに混ざる中国語を、出力層の書き換えで消した: 27%→0%、他の重みは1バイトも変えずに",
       "url": "https://zenn.dev/caphtech/articles/qwen38-zh-ban",
-      "score": 80,
+      "score": 81,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 13 Nov 2026 13:08:40 GMT",
-      "hatena_count": 80
+      "hatena_count": 81
     },
     {
       "id": "zenn-9a6717ebd2",
@@ -6699,27 +6713,13 @@
       "sub_source": "Zenn",
       "title": "ng: Neovim のためのシンプルな GUI",
       "url": "https://zenn.dev/shougo/articles/ng-nvim-simple-gui",
-      "score": 32,
+      "score": 33,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 13 Nov 2026 10:49:55 GMT",
-      "hatena_count": 32
-    },
-    {
-      "id": "zenn-5445c3bb99",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "困ったらAIにすぐ聞く3年目エンジニアが社会人になって読んだ技術書 10冊.",
-      "url": "https://zenn.dev/atrae/articles/032b9fccca0ff7",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 13 Nov 2026 07:46:50 GMT",
-      "hatena_count": 0
+      "hatena_count": 33
     },
     {
       "id": "zenn-6a57f31d34",
@@ -6741,13 +6741,13 @@
       "sub_source": "Zenn",
       "title": "【pstack】AIに敵対的レビューをさせるな。トークンは検証に使え",
       "url": "https://zenn.dev/karamage/articles/5c3f8370b2b370",
-      "score": 112,
+      "score": 113,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 13 Nov 2026 02:48:24 GMT",
-      "hatena_count": 112
+      "hatena_count": 113
     },
     {
       "id": "zenn-b1b28a0f1c",
@@ -6783,13 +6783,13 @@
       "sub_source": "Zenn",
       "title": "脱WordPress：10年超の個人ブログをAstro + Cloudflare Workersへ移行しPageSpeed 100点を実現",
       "url": "https://zenn.dev/unsoluble_sugar/articles/8cdf1efc01e6cb",
-      "score": 27,
+      "score": 43,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 12 Nov 2026 15:31:01 GMT",
-      "hatena_count": 27
+      "hatena_count": 43
     },
     {
       "id": "zenn-6882e5cf17",
@@ -6797,13 +6797,27 @@
       "sub_source": "Zenn",
       "title": "AIで膨らみ続けるテストケースを、リスクベースドテストで選んで回すまでの記録",
       "url": "https://zenn.dev/pivotmedia/articles/risk-based-testing-for-uat",
-      "score": 54,
+      "score": 57,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 12 Nov 2026 11:41:36 GMT",
-      "hatena_count": 54
+      "hatena_count": 57
+    },
+    {
+      "id": "zenn-d844a6cd17",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Skills を持つ単一エージェントは、サブエージェント構成より品質で上回ることが多い — Anthropic が示す移行の手順",
+      "url": "https://zenn.dev/happy_elements/articles/201519107f93de",
+      "score": 1,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 12 Nov 2026 03:38:09 GMT",
+      "hatena_count": 1
     },
     {
       "id": "zenn-03820b944c",
@@ -6867,13 +6881,13 @@
       "sub_source": "Zenn",
       "title": "Rustで作られたExpoの新フレームワーク「Exact」で、モバイル・Web・デスクトップアプリを作ってみた",
       "url": "https://zenn.dev/tellernovel_inc/articles/expo-exact-first-impression",
-      "score": 2,
+      "score": 3,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 10 Nov 2026 05:06:37 GMT",
-      "hatena_count": 2
+      "hatena_count": 3
     },
     {
       "id": "zenn-86e2a08d5a",
@@ -6931,20 +6945,6 @@
       ],
       "date": "Mon, 09 Nov 2026 06:57:46 GMT",
       "hatena_count": 19
-    },
-    {
-      "id": "zenn-f9b3376cd7",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "AIですぐに作れる時代に、何と向き合うか",
-      "url": "https://zenn.dev/peoplex_blog/articles/2611-what-to-face-when-ai-builds-fast",
-      "score": 5,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 09 Nov 2026 04:49:20 GMT",
-      "hatena_count": 5
     },
     {
       "id": "techracho-4b67c39e4f",

@@ -1,7 +1,7 @@
 {
   "month": "2026-11",
   "total_articles": 334,
-  "summary": "# 2026-11の技術動向レポート\n\n**AI・機械学習動向 (6件)**\n\n1. Claude Codeで最近使っているTips【2026/11】\n\n2. Software Factoryの先へ：全社の仕事をAI-NativeにするUbieの内製クラウドエージェント基盤\n\n3. 【pstack】AIに敵対的レビューをさせるな。トークンは検証に使え\n\n4. AIエージェントが決定を勝手に変えてしまった5つのパターンと工夫\n\n5. AIで膨らみ続けるテストケースを、リスクベースドテストで選んで回すまでの記録\n\n6. Rails: DHHがRails World 2026キーノートで「語らなかった」部分とは（翻訳）\n\n**技術トレンド (4件)**\n\n1. ISUCON2026 で優勝しました（準備編）\n\n2. 退屈なCoding AgentはMuseにやらせよう\n\n3. Qwen3.8 Flash Nextに混ざる中国語を、出力層の書き換えで消した: 27%→0%、他の重みは1バイトも変えずに\n\n4. ng: Neovim のためのシンプルな GUI",
+  "summary": "# 2026-11の技術動向レポート\n\n**AI・機械学習動向 (5件)**\n\n1. Claude Codeで最近使っているTips【2026/11】\n\n2. Software Factoryの先へ：全社の仕事をAI-NativeにするUbieの内製クラウドエージェント基盤\n\n3. 【pstack】AIに敵対的レビューをさせるな。トークンは検証に使え\n\n4. AIエージェントが決定を勝手に変えてしまった5つのパターンと工夫\n\n5. AIで膨らみ続けるテストケースを、リスクベースドテストで選んで回すまでの記録\n\n**技術トレンド (5件)**\n\n1. ISUCON2026 で優勝しました（準備編）\n\n2. 退屈なCoding AgentはMuseにやらせよう\n\n3. Qwen3.8 Flash Nextに混ざる中国語を、出力層の書き換えで消した: 27%→0%、他の重みは1バイトも変えずに\n\n4. 脱WordPress：10年超の個人ブログをAstro + Cloudflare Workersへ移行しPageSpeed 100点を実現\n\n5. ng: Neovim のためのシンプルな GUI",
   "source_counts": {
     "sns": 292,
     "jpcert": 30,
@@ -77,13 +77,13 @@
       "sub_source": "Zenn",
       "title": "【pstack】AIに敵対的レビューをさせるな。トークンは検証に使え",
       "url": "https://zenn.dev/karamage/articles/5c3f8370b2b370",
-      "score": 112,
+      "score": 113,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 13 Nov 2026 02:48:24 GMT",
-      "hatena_count": 112
+      "hatena_count": 113
     },
     {
       "id": "zenn-03820b944c",
@@ -105,13 +105,13 @@
       "sub_source": "Zenn",
       "title": "Qwen3.8 Flash Nextに混ざる中国語を、出力層の書き換えで消した: 27%→0%、他の重みは1バイトも変えずに",
       "url": "https://zenn.dev/caphtech/articles/qwen38-zh-ban",
-      "score": 80,
+      "score": 81,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 13 Nov 2026 13:08:40 GMT",
-      "hatena_count": 80
+      "hatena_count": 81
     },
     {
       "id": "zenn-6882e5cf17",
@@ -119,13 +119,27 @@
       "sub_source": "Zenn",
       "title": "AIで膨らみ続けるテストケースを、リスクベースドテストで選んで回すまでの記録",
       "url": "https://zenn.dev/pivotmedia/articles/risk-based-testing-for-uat",
-      "score": 54,
+      "score": 57,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 12 Nov 2026 11:41:36 GMT",
-      "hatena_count": 54
+      "hatena_count": 57
+    },
+    {
+      "id": "zenn-828a8567fb",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "脱WordPress：10年超の個人ブログをAstro + Cloudflare Workersへ移行しPageSpeed 100点を実現",
+      "url": "https://zenn.dev/unsoluble_sugar/articles/8cdf1efc01e6cb",
+      "score": 43,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 12 Nov 2026 15:31:01 GMT",
+      "hatena_count": 43
     },
     {
       "id": "zenn-9a6717ebd2",
@@ -133,13 +147,13 @@
       "sub_source": "Zenn",
       "title": "ng: Neovim のためのシンプルな GUI",
       "url": "https://zenn.dev/shougo/articles/ng-nvim-simple-gui",
-      "score": 32,
+      "score": 33,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 13 Nov 2026 10:49:55 GMT",
-      "hatena_count": 32
+      "hatena_count": 33
     },
     {
       "id": "techracho-4b67c39e4f",
@@ -155,20 +169,6 @@
       ],
       "date": "Thu, 12 Nov 2026 08:30:57 +0000",
       "hatena_count": 32
-    },
-    {
-      "id": "zenn-828a8567fb",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "脱WordPress：10年超の個人ブログをAstro + Cloudflare Workersへ移行しPageSpeed 100点を実現",
-      "url": "https://zenn.dev/unsoluble_sugar/articles/8cdf1efc01e6cb",
-      "score": 27,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 12 Nov 2026 15:31:01 GMT",
-      "hatena_count": 27
     },
     {
       "id": "ipa-ee45d6bd49",
@@ -200,20 +200,6 @@
       "hatena_count": 19
     },
     {
-      "id": "zenn-f9b3376cd7",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "AIですぐに作れる時代に、何と向き合うか",
-      "url": "https://zenn.dev/peoplex_blog/articles/2611-what-to-face-when-ai-builds-fast",
-      "score": 5,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 09 Nov 2026 04:49:20 GMT",
-      "hatena_count": 5
-    },
-    {
       "id": "techracho-9300f8dd2f",
       "source": "techracho",
       "title": "RailsのコードをRactorセーフにするリファクタリングパターン集（翻訳）",
@@ -229,6 +215,20 @@
       "hatena_count": 4
     },
     {
+      "id": "zenn-9b661c6620",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "フロントエンドのフレームワークを、安全に段階的に入れ替える",
+      "url": "https://zenn.dev/yasuakiomokawa/articles/de83bb4c4ea928",
+      "score": 3,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 14 Nov 2026 07:12:52 GMT",
+      "hatena_count": 3
+    },
+    {
       "id": "zenn-83e64119d0",
       "source": "sns",
       "sub_source": "Zenn",
@@ -240,6 +240,20 @@
         "Zenn"
       ],
       "date": "Wed, 11 Nov 2026 05:52:02 GMT",
+      "hatena_count": 3
+    },
+    {
+      "id": "zenn-75c86f9192",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Rustで作られたExpoの新フレームワーク「Exact」で、モバイル・Web・デスクトップアプリを作ってみた",
+      "url": "https://zenn.dev/tellernovel_inc/articles/expo-exact-first-impression",
+      "score": 3,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 10 Nov 2026 05:06:37 GMT",
       "hatena_count": 3
     },
     {
@@ -286,20 +300,6 @@
       ],
       "date": "Wed, 28 Oct 2026 08:30:47 +0000",
       "hatena_count": 3
-    },
-    {
-      "id": "zenn-6a57f31d34",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "5年後のエンジニアは、何に責任を持つのだろうか",
-      "url": "https://zenn.dev/ara_ta3/articles/thinking-about-engineers-five-years-from-now",
-      "score": 2,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 13 Nov 2026 05:03:44 GMT",
-      "hatena_count": 2
     }
   ],
   "security_highlights": [
