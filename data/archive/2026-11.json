@@ -1,7 +1,7 @@
 {
   "month": "2026-11",
   "total_articles": 324,
-  "summary": "# 2026-11の技術動向レポート\n\n**AI・機械学習動向 (6件)**\n\n1. Claude Codeで最近使っているTips【2026/11】\n\n2. Software Factoryの先へ：全社の仕事をAI-NativeにするUbieの内製クラウドエージェント基盤\n\n3. 【pstack】AIに敵対的レビューをさせるな。トークンは検証に使え\n\n4. AIエージェントが決定を勝手に変えてしまった5つのパターンと工夫\n\n5. Rails: DHHがRails World 2026キーノートで「語らなかった」部分とは（翻訳）\n\n6. AIで膨らみ続けるテストケースを、リスクベースドテストで選んで回すまでの記録\n\n**技術トレンド (4件)**\n\n1. ISUCON2026 で優勝しました（準備編）\n\n2. 退屈なCoding AgentはMuseにやらせよう\n\n3. Qwen3.8 Flash Nextに混ざる中国語を、出力層の書き換えで消した: 27%→0%、他の重みは1バイトも変えずに\n\n4. ng: Neovim のためのシンプルな GUI",
+  "summary": "# 2026-11の技術動向レポート\n\n**AI・機械学習動向 (6件)**\n\n1. Claude Codeで最近使っているTips【2026/11】\n\n2. Software Factoryの先へ：全社の仕事をAI-NativeにするUbieの内製クラウドエージェント基盤\n\n3. 【pstack】AIに敵対的レビューをさせるな。トークンは検証に使え\n\n4. AIエージェントが決定を勝手に変えてしまった5つのパターンと工夫\n\n5. AIで膨らみ続けるテストケースを、リスクベースドテストで選んで回すまでの記録\n\n6. Rails: DHHがRails World 2026キーノートで「語らなかった」部分とは（翻訳）\n\n**技術トレンド (4件)**\n\n1. ISUCON2026 で優勝しました（準備編）\n\n2. 退屈なCoding AgentはMuseにやらせよう\n\n3. Qwen3.8 Flash Nextに混ざる中国語を、出力層の書き換えで消した: 27%→0%、他の重みは1バイトも変えずに\n\n4. ng: Neovim のためのシンプルな GUI",
   "source_counts": {
     "sns": 282,
     "jpcert": 30,
@@ -105,13 +105,27 @@
       "sub_source": "Zenn",
       "title": "Qwen3.8 Flash Nextに混ざる中国語を、出力層の書き換えで消した: 27%→0%、他の重みは1バイトも変えずに",
       "url": "https://zenn.dev/caphtech/articles/qwen38-zh-ban",
-      "score": 72,
+      "score": 75,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 13 Nov 2026 13:08:40 GMT",
-      "hatena_count": 72
+      "hatena_count": 75
+    },
+    {
+      "id": "zenn-6882e5cf17",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "AIで膨らみ続けるテストケースを、リスクベースドテストで選んで回すまでの記録",
+      "url": "https://zenn.dev/pivotmedia/articles/risk-based-testing-for-uat",
+      "score": 35,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 12 Nov 2026 11:41:36 GMT",
+      "hatena_count": 35
     },
     {
       "id": "techracho-4b67c39e4f",
@@ -134,27 +148,13 @@
       "sub_source": "Zenn",
       "title": "ng: Neovim のためのシンプルな GUI",
       "url": "https://zenn.dev/shougo/articles/ng-nvim-simple-gui",
-      "score": 30,
+      "score": 31,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 13 Nov 2026 10:49:55 GMT",
-      "hatena_count": 30
-    },
-    {
-      "id": "zenn-6882e5cf17",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "AIで膨らみ続けるテストケースを、リスクベースドテストで選んで回すまでの記録",
-      "url": "https://zenn.dev/pivotmedia/articles/risk-based-testing-for-uat",
-      "score": 30,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 12 Nov 2026 11:41:36 GMT",
-      "hatena_count": 30
+      "hatena_count": 31
     },
     {
       "id": "ipa-ee45d6bd49",
