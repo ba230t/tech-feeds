@@ -215,6 +215,20 @@
       "hatena_count": 4
     },
     {
+      "id": "zenn-83e64119d0",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "SlackでMarkdown記法が使えるようになっていた",
+      "url": "https://zenn.dev/lnest_knowledge/articles/ed5977bd7b6c1f",
+      "score": 3,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 11 Nov 2026 05:52:02 GMT",
+      "hatena_count": 3
+    },
+    {
       "id": "techracho-f68eade31b",
       "source": "techracho",
       "title": "「RailsはJITコンパイラだ！」（翻訳）",
@@ -285,20 +299,6 @@
         "Zenn"
       ],
       "date": "Fri, 13 Nov 2026 01:55:36 GMT",
-      "hatena_count": 2
-    },
-    {
-      "id": "zenn-83e64119d0",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "SlackでMarkdown記法が使えるようになっていた",
-      "url": "https://zenn.dev/lnest_knowledge/articles/ed5977bd7b6c1f",
-      "score": 2,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 11 Nov 2026 05:52:02 GMT",
       "hatena_count": 2
     }
   ],
