@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T20:33:20.566451+00:00",
+  "updated_at": "2026-11-15T21:04:15.933375+00:00",
   "count": 500,
   "items": [
     {
@@ -6785,13 +6785,13 @@
       "sub_source": "Zenn",
       "title": "脱WordPress：10年超の個人ブログをAstro + Cloudflare Workersへ移行しPageSpeed 100点を実現",
       "url": "https://zenn.dev/unsoluble_sugar/articles/8cdf1efc01e6cb",
-      "score": 128,
+      "score": 129,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 12 Nov 2026 15:31:01 GMT",
-      "hatena_count": 128
+      "hatena_count": 129
     },
     {
       "id": "zenn-6882e5cf17",
