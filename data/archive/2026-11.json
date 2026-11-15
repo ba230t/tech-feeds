@@ -105,13 +105,13 @@
       "sub_source": "Zenn",
       "title": "Qwen3.8 Flash Nextに混ざる中国語を、出力層の書き換えで消した: 27%→0%、他の重みは1バイトも変えずに",
       "url": "https://zenn.dev/caphtech/articles/qwen38-zh-ban",
-      "score": 70,
+      "score": 71,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 13 Nov 2026 13:08:40 GMT",
-      "hatena_count": 70
+      "hatena_count": 71
     },
     {
       "id": "techracho-4b67c39e4f",
@@ -148,13 +148,13 @@
       "sub_source": "Zenn",
       "title": "AIで膨らみ続けるテストケースを、リスクベースドテストで選んで回すまでの記録",
       "url": "https://zenn.dev/pivotmedia/articles/risk-based-testing-for-uat",
-      "score": 24,
+      "score": 28,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 12 Nov 2026 11:41:36 GMT",
-      "hatena_count": 24
+      "hatena_count": 28
     },
     {
       "id": "ipa-ee45d6bd49",
