@@ -1,7 +1,105 @@
 {
-  "updated_at": "2026-11-15T08:06:27.871290+00:00",
+  "updated_at": "2026-11-15T08:33:12.399183+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "qiita-c11f0b78c6",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "『バックエンドの知識地図』を読んだ感想 ─ 現代のバックエンド学習をつなぐ一冊",
+      "url": "https://qiita.com/tomokusaba/items/015330c008f62355894c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-15T15:42:37+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-f7170f83ed",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "【入緑記事】凡人向け入緑記事（灰色～入緑まで）",
+      "url": "https://qiita.com/akih1r/items/13b55d807e8e085247c1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-15T12:46:52+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-032d210f58",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "AWS Client VPNの設定でハマったポイントとその過程で得た気づき",
+      "url": "https://qiita.com/amarelo_n24/items/f9b563de2eeeb8d3f8cd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-15T11:09:26+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-c132f346a3",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "AIアシスタント「Grok Bot」をセットアップして、メール整理から献立・買い物エージェントまで作ってみた",
+      "url": "https://qiita.com/junko105106/items/dbf759f029e31a5fa325?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-15T09:48:37+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-0d61a7f462",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "AIが書いたコードは使って確かめる ― 舞台アプリ開発のレビュー記録",
+      "url": "https://qiita.com/oosawak@github/items/a93703112834983bc1f1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-15T08:01:56+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-1780c07351",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "社長の一言は重い。RAGにも忖度させてみた（重み付け検索）",
+      "url": "https://qiita.com/kikuziro/items/43b360420d0cdcbf190c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-15T00:30:41+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-712ab0b208",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "あなたのAIはまだ、「ものの調べ方」を知らない。──調査スキル「imozuru」を作ってバズった話",
+      "url": "https://qiita.com/BaspisKawaE/items/933b883e4585ebd59299?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-14T21:14:20+09:00",
+      "hatena_count": 0
+    },
     {
       "id": "qiita-da6dd769fe",
       "source": "sns",
@@ -42,6 +140,20 @@
         "Qiita"
       ],
       "date": "2026-11-14T16:28:23+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-289a31151b",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "最初に「あい」を学ぶことば日本語でプログラミング入門 「Mindで定番アルゴリズム」リンク集",
+      "url": "https://qiita.com/mylifewithviolin/items/9b3f33b109264928752b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-14T16:10:21+09:00",
       "hatena_count": 0
     },
     {
@@ -115,6 +227,20 @@
       "hatena_count": 0
     },
     {
+      "id": "qiita-7c9f9dc0a2",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "エンジニアなら全問正解したい！セキュリティ攻撃手法の一問一答15問【答えは折りたたみ】",
+      "url": "https://qiita.com/pds_siken/items/a7032fe29f9ec113463b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-14T10:35:50+09:00",
+      "hatena_count": 0
+    },
+    {
       "id": "qiita-1cb94717da",
       "source": "sns",
       "sub_source": "Qiita",
@@ -140,6 +266,20 @@
         "Qiita"
       ],
       "date": "2026-11-14T10:10:55+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-9691388b34",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "0。3回連続で拒否されてきた`git checkout -B main origin/main`を、今日2つのリポジトリに投げたら、拒否された回数はこの数字だった",
+      "url": "https://qiita.com/Hideki_Tamae/items/d67159e5cde6132eab13?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-14T09:48:49+09:00",
       "hatena_count": 0
     },
     {
@@ -6211,146 +6351,6 @@
       "hatena_count": 0
     },
     {
-      "id": "qiita-71df67719c",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "エンジニア歴数か月の私「理論上、理解できない物事はない」",
-      "url": "https://qiita.com/Minotaurasu/items/a13a3fc940c2cd384063?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 1,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-26T10:50:31+09:00",
-      "hatena_count": 1
-    },
-    {
-      "id": "qiita-94e64d459e",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "VueFes Japan 2026 参加(出展)記",
-      "url": "https://qiita.com/oyashimi_c/items/2272340c078d9281a922?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-26T10:34:38+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-d41ccdd597",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "Kimi Codeは遅い。それでも使い道を感じた理由",
-      "url": "https://qiita.com/Masaki_Cho/items/8a720994a14538883cda?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-26T09:48:54+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-7320009c4f",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "動画生成AIを使わず、Claude Codeだけで、静止画にどの程度の動きをつけられるか試してみた",
-      "url": "https://qiita.com/nabata/items/09f76aa0dddbcecf0979?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-26T08:39:39+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-bcdaf9e770",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "ランチ明けの「続きやって」が一番高い。Claude Code のキャッシュは 1 時間で切れる",
-      "url": "https://qiita.com/araom/items/3d026f2df58c7328aa74?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-26T08:28:41+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-95a76ac72c",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "【C# / Unity】型制約なしゼロアロケでDisposeする方法",
-      "url": "https://qiita.com/Omochaya/items/c396ca2910e1c5e90e92?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-26T07:34:26+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-8c907ed23b",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "トークン代 9 割減？プロンプトキャッシュの仕組みと効果の実測 — 保持時間が過ぎるとコスト 11 倍に",
-      "url": "https://qiita.com/songchong/items/7144594b0ad9529a168b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-26T04:00:26+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-1155124f1f",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "AI に資料を毎回貼るな！ファイル・SKILL・AGENTS.md 活用でトークン課金最大 6 割減？ 6 つの方法を試してみた",
-      "url": "https://qiita.com/songchong/items/235bed0f8c72f268477e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-26T04:00:21+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-9560212364",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "あの頃のAdvanced RAGは、なぜ遅くて不正確だったのか？ 今ならこう設計する",
-      "url": "https://qiita.com/Busta/items/64e1c233b040056af829?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-26T03:54:08+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-8d86723186",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "AWS Certified AI Business Strategist(AIB-C01)ベータ版に満点合格したので学習方法をまとめる",
-      "url": "https://qiita.com/okshin-yk/items/ceb49e482a257e960411?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-26T01:38:51+09:00",
-      "hatena_count": 0
-    },
-    {
       "id": "jpcert-16ed91e989",
       "source": "jpcert",
       "title": "注意喚起: 直近で相次いでいる国内組織における不正アクセスに関する注意喚起  (更新)",
@@ -6797,13 +6797,13 @@
       "sub_source": "Zenn",
       "title": "AIで膨らみ続けるテストケースを、リスクベースドテストで選んで回すまでの記録",
       "url": "https://zenn.dev/pivotmedia/articles/risk-based-testing-for-uat",
-      "score": 49,
+      "score": 50,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 12 Nov 2026 11:41:36 GMT",
-      "hatena_count": 49
+      "hatena_count": 50
     },
     {
       "id": "zenn-03820b944c",
