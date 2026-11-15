@@ -49,13 +49,13 @@
       "sub_source": "Zenn",
       "title": "退屈なCoding AgentはMuseにやらせよう",
       "url": "https://zenn.dev/watany/articles/342b9815dd0553",
-      "score": 215,
+      "score": 216,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 10 Nov 2026 02:35:05 GMT",
-      "hatena_count": 215
+      "hatena_count": 216
     },
     {
       "id": "zenn-77c5db3b7a",
@@ -105,13 +105,13 @@
       "sub_source": "Zenn",
       "title": "Qwen3.8 Flash Nextに混ざる中国語を、出力層の書き換えで消した: 27%→0%、他の重みは1バイトも変えずに",
       "url": "https://zenn.dev/caphtech/articles/qwen38-zh-ban",
-      "score": 79,
+      "score": 80,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 13 Nov 2026 13:08:40 GMT",
-      "hatena_count": 79
+      "hatena_count": 80
     },
     {
       "id": "zenn-6882e5cf17",
@@ -119,13 +119,13 @@
       "sub_source": "Zenn",
       "title": "AIで膨らみ続けるテストケースを、リスクベースドテストで選んで回すまでの記録",
       "url": "https://zenn.dev/pivotmedia/articles/risk-based-testing-for-uat",
-      "score": 51,
+      "score": 52,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 12 Nov 2026 11:41:36 GMT",
-      "hatena_count": 51
+      "hatena_count": 52
     },
     {
       "id": "zenn-9a6717ebd2",
@@ -186,6 +186,20 @@
       "hatena_count": 19
     },
     {
+      "id": "zenn-828a8567fb",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "脱WordPress：10年超の個人ブログをAstro + Cloudflare Workersへ移行しPageSpeed 100点を実現",
+      "url": "https://zenn.dev/unsoluble_sugar/articles/8cdf1efc01e6cb",
+      "score": 9,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 12 Nov 2026 15:31:01 GMT",
+      "hatena_count": 9
+    },
+    {
       "id": "zenn-f9b3376cd7",
       "source": "sns",
       "sub_source": "Zenn",
@@ -213,20 +227,6 @@
       ],
       "date": "Thu, 29 Oct 2026 08:30:36 +0000",
       "hatena_count": 4
-    },
-    {
-      "id": "zenn-828a8567fb",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "脱WordPress：10年超の個人ブログをAstro + Cloudflare Workersへ移行しPageSpeed 100点を実現",
-      "url": "https://zenn.dev/unsoluble_sugar/articles/8cdf1efc01e6cb",
-      "score": 3,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 12 Nov 2026 15:31:01 GMT",
-      "hatena_count": 3
     },
     {
       "id": "zenn-83e64119d0",
