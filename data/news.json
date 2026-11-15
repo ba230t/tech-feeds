@@ -1,7 +1,121 @@
 {
-  "updated_at": "2026-11-15T20:05:04.321372+00:00",
+  "updated_at": "2026-11-15T20:33:20.566451+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "qiita-f141bfba0d",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "今週中に対応すべき脆弱性 6 つ。Outlook・Chrome・Edge・VPN 機器は悪用あり、iPhone・Mac・SonicWall は今週が期限（11/16〜11/22）",
+      "url": "https://qiita.com/songchong/items/75bf50a67ca5370ec6bf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-16T03:58:36+09:00",
+      "severity": "high",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-fc159e0af2",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "【AWS】Cognitoのトークン交換を活用したRAGにおける権限管理について",
+      "url": "https://qiita.com/yakumo_09/items/d6e092dbb566decee632?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-15T23:18:25+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-f8f0add405",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "【2026年版】VMware Fusion Pro を無償ダウンロードする手順（Broadcom Support Portal）",
+      "url": "https://qiita.com/sanjushi003/items/55be64ff81173b9e6295?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-15T22:53:16+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-5e2e794776",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "【個人開発】学習記録アプリのデータ永続化とCI/CDで自動化に取り組んだ",
+      "url": "https://qiita.com/ryu0947/items/8e12e4f1871233ef7169?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-15T18:05:13+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-6222b4dbea",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "AI で作った配布サイトは公開してから守ることが山ほどあった",
+      "url": "https://qiita.com/AllegroMoltoV/items/67e583950029346b6e29?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-15T17:59:20+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-3abb5ac5c8",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "日本語の脆弱性 DB は 4.6 日かかる。待てないので、46 秒でセキュリティ情報が載るようにした",
+      "url": "https://qiita.com/songchong/items/fa50cc82e49b24925fe3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-15T17:20:40+09:00",
+      "severity": "high",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-abada63386",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "AI開発のセキュリティは設計で証明！今後エンジニアに求められるスキルを完全解説",
+      "url": "https://qiita.com/Sicut_study/items/b6d17933cc276dadf6d5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-15T17:03:34+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-c547107e0e",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "M-1・R-1王者、野田クリスタルさんのものづくりへの思いを聞いてきた【CoLab Conf 2026秋】",
+      "url": "https://qiita.com/inoyu-qiita/items/5179be7e6712dd33ea68?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-15T16:22:31+09:00",
+      "hatena_count": 0
+    },
     {
       "id": "qiita-c11f0b78c6",
       "source": "sns",
@@ -59,6 +173,20 @@
       "hatena_count": 0
     },
     {
+      "id": "qiita-9a73c4d658",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "Azure Files 間のデータ同期ができるようになったので触ってみた",
+      "url": "https://qiita.com/iboy/items/bf39c22f2337deeaf439?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-15T08:47:34+09:00",
+      "hatena_count": 0
+    },
+    {
       "id": "qiita-0d61a7f462",
       "source": "sns",
       "sub_source": "Qiita",
@@ -70,6 +198,20 @@
         "Qiita"
       ],
       "date": "2026-11-15T08:01:56+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-bc43b15626",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "【Vitest + RTL】Reactアプリをテストする",
+      "url": "https://qiita.com/ryu0947/items/f9d1cf940005b7a7909a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-15T00:35:42+09:00",
       "hatena_count": 0
     },
     {
@@ -280,6 +422,20 @@
         "Qiita"
       ],
       "date": "2026-11-14T09:48:49+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-2ad7106e42",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "pgvectorの距離を類似度に直して根拠不足を判定する：RAG検索層とpytest回帰",
+      "url": "https://qiita.com/takumi_engineer/items/93db73ccf114bad454f1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-14T09:00:08+09:00",
       "hatena_count": 0
     },
     {
@@ -617,6 +773,20 @@
         "Qiita"
       ],
       "date": "2026-11-13T09:00:23+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-503b551866",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "引き継ぎ先不明の社内システムの証明書期限をPython標準ライブラリで棚卸しする",
+      "url": "https://qiita.com/takumi_engineer/items/8a1412ee75fb47465276?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-13T09:00:08+09:00",
       "hatena_count": 0
     },
     {
@@ -6168,104 +6338,6 @@
       "hatena_count": 1
     },
     {
-      "id": "qiita-2493efe6ae",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "QRコードはなぜログインの鍵にならないのか。写真1枚で複製できる仕組みと安全な使い道",
-      "url": "https://qiita.com/koreangyoseishoshi/items/6aa82ae67148164a354b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-26T23:11:10+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-0d939654d0",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "GMO、うそをついてハッカーに呆れられてしまう",
-      "url": "https://qiita.com/Q11Q/items/73bd326df5069f07f0fe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-26T22:49:02+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-08dd246129",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "【PHP2Shell】PHP公式の発表『本日のセキュリティリリースと、セキュリティ対策について』",
-      "url": "https://qiita.com/rana_kualu/items/f5a44b09241bdb21907e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-26T20:58:55+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-42ec92ed15",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "実際に試したClaude便利術20選 まとめ",
-      "url": "https://qiita.com/N-Kyo/items/bf4a3a2185db2d28eee5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 2,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-26T20:05:51+09:00",
-      "hatena_count": 2
-    },
-    {
-      "id": "qiita-63f1baa19f",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "記憶に頼るな。Claudeセッションの記録を取ろう",
-      "url": "https://qiita.com/qwertyhoge/items/987c0ea8afdb5cd045e8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-26T19:51:04+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-7af49883e6",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "LLMを組み込むETLパイプラインの設計：品質をどう証明し、欠陥をどう特定するか",
-      "url": "https://qiita.com/AoraNow_Xun_Zheng/items/60d12958bddaabd5f1de?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-26T17:28:56+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-50b442f9da",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "CloudFront + AWS WAF のパストラバーサル対策 ― パス条件のルールは `../` ですり抜けられるのか検証した",
-      "url": "https://qiita.com/k-matsu516/items/d94caff03976fb8a30f0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-26T17:04:33+09:00",
-      "hatena_count": 0
-    },
-    {
       "id": "jpcert-382a807b6d",
       "source": "jpcert",
       "title": "注意喚起: BrotliのC言語実装における境界外書き込みの脆弱性（CVE-2026-111497）に関する注意喚起  (公開)",
@@ -6279,76 +6351,6 @@
       "severity": "high",
       "date": "2026-10-26T16:25+09:00",
       "hatena_count": 6
-    },
-    {
-      "id": "qiita-392d65b036",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "どこから始めるか ― 財源幻想脱却の制度的ロードマップ : システム設計視点の行動経済学 (49)",
-      "url": "https://qiita.com/maskot1977/items/f1b4c5d0be3ad99f74ce?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-26T15:02:10+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-8c42ce22fc",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "【AI-DLC】GitHub Copilot Quest Lv3：Hack the LegacyでAI-DLCを初めて実践してみた！",
-      "url": "https://qiita.com/yucn_qiita/items/13a5d2ba160e52dd8359?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-26T13:53:56+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-33fc69da24",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "生成AIに渡す仕様書はどう書くべきか ― AIが「読みやすい」形式と「読みにくい」形式",
-      "url": "https://qiita.com/kodai_kitahara/items/d9b8c30d50e7bc8be317?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-26T12:44:28+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-4286e48e0b",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "2026年10月26日 今日のQiitaトレンド記事をポッドキャストで聴こう！",
-      "url": "https://qiita.com/ennagara128/items/9cb5cccbb3c9100b75a8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-26T11:06:20+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-68098b0a5e",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "New Relic AI Knowledge × Autopilot で「怪しいアクティビティ」を検知させてみた",
-      "url": "https://qiita.com/nr-mito/items/eca8767bb68723645e6d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-26T11:01:28+09:00",
-      "hatena_count": 0
     },
     {
       "id": "jpcert-16ed91e989",

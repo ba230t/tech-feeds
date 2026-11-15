@@ -1,9 +1,9 @@
 {
   "month": "2026-10",
-  "total_articles": 153,
-  "summary": "# 2026-10の技術動向レポート\n\n**セキュリティ動向 (5件)**\n\n1. 【事前準備のお願い】PHPのセキュリティリリース公開予定について\n\n2. Oracle Java の脆弱性対策について(2026年10月)\n\n3. 注意喚起: PHPにおける複数の脆弱性（CVE-2026-109618、CVE-2026-109619）に関する注意喚起  (更新)\n\n4. 注意喚起: BrotliのC言語実装における境界外書き込みの脆弱性（CVE-2026-111497）に関する注意喚起  (公開)\n\n5. 注意喚起: SiteGuard Server EditionにおけるOSコマンドインジェクションの脆弱性（CVE-2026-106931）に関する注意喚起  (公開)\n\n**AI・機械学習動向 (3件)**\n\n1. Xで話題の、原文をたどってドメイン知識を集めるスキル「imozuru」を普通のAI検索と比べてみた\n\n2. 実際に試したClaude便利術20選 まとめ\n\n3. AIのみで作られたシステムを引き継いだら、品質の現実に直面した話\n\n**技術トレンド (2件)**\n\n1. 注意喚起: 直近で相次いでいる国内組織における不正アクセスに関する注意喚起  (更新)\n\n2. 不正アクセスによる漏えい等の事案を踏まえ、速やかに実施すべき対策等について",
+  "total_articles": 141,
+  "summary": "# 2026-10の技術動向レポート\n\n**セキュリティ動向 (5件)**\n\n1. 【事前準備のお願い】PHPのセキュリティリリース公開予定について\n\n2. Oracle Java の脆弱性対策について(2026年10月)\n\n3. 注意喚起: PHPにおける複数の脆弱性（CVE-2026-109618、CVE-2026-109619）に関する注意喚起  (更新)\n\n4. 注意喚起: BrotliのC言語実装における境界外書き込みの脆弱性（CVE-2026-111497）に関する注意喚起  (公開)\n\n5. 注意喚起: SiteGuard Server EditionにおけるOSコマンドインジェクションの脆弱性（CVE-2026-106931）に関する注意喚起  (公開)\n\n**AI・機械学習動向 (3件)**\n\n1. Xで話題の、原文をたどってドメイン知識を集めるスキル「imozuru」を普通のAI検索と比べてみた\n\n2. AIのみで作られたシステムを引き継いだら、品質の現実に直面した話\n\n3. 先週の PHP 祭りから見えた、業務システムの「止まり方」の共通点と違い — 予防的な停止・障害・計画メンテを、日本・海外・AI の告知 751 件で比べた\n\n**技術トレンド (2件)**\n\n1. 注意喚起: 直近で相次いでいる国内組織における不正アクセスに関する注意喚起  (更新)\n\n2. 不正アクセスによる漏えい等の事案を踏まえ、速やかに実施すべき対策等について",
   "source_counts": {
-    "sns": 128,
+    "sns": 116,
     "jpcert": 20,
     "ipa": 5
   },
@@ -131,20 +131,6 @@
         "Qiita"
       ],
       "date": "2026-10-27T19:06:53+09:00",
-      "hatena_count": 2
-    },
-    {
-      "id": "qiita-42ec92ed15",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "実際に試したClaude便利術20選 まとめ",
-      "url": "https://qiita.com/N-Kyo/items/bf4a3a2185db2d28eee5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 2,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-26T20:05:51+09:00",
       "hatena_count": 2
     },
     {
@@ -301,6 +287,20 @@
         "Qiita"
       ],
       "date": "2026-10-31T22:58:17+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-451ccee1ad",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "「暑く／寒くなるほど激しく踊る現在気温BOT」のしくみとこだわり",
+      "url": "https://qiita.com/UmiKazeYu/items/33b65f26620601120e70?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-31T22:30:51+09:00",
       "hatena_count": 0
     }
   ],

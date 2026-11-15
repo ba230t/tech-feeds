@@ -1,15 +1,15 @@
 {
   "month": "2026-11",
-  "total_articles": 334,
+  "total_articles": 346,
   "summary": "# 2026-11の技術動向レポート\n\n**AI・機械学習動向 (5件)**\n\n1. Claude Codeで最近使っているTips【2026/11】\n\n2. Software Factoryの先へ：全社の仕事をAI-NativeにするUbieの内製クラウドエージェント基盤\n\n3. 【pstack】AIに敵対的レビューをさせるな。トークンは検証に使え\n\n4. AIエージェントが決定を勝手に変えてしまった5つのパターンと工夫\n\n5. AIで膨らみ続けるテストケースを、リスクベースドテストで選んで回すまでの記録\n\n**技術トレンド (5件)**\n\n1. ISUCON2026 で優勝しました（準備編）\n\n2. 退屈なCoding AgentはMuseにやらせよう\n\n3. 脱WordPress：10年超の個人ブログをAstro + Cloudflare Workersへ移行しPageSpeed 100点を実現\n\n4. Qwen3.8 Flash Nextに混ざる中国語を、出力層の書き換えで消した: 27%→0%、他の重みは1バイトも変えずに\n\n5. ng: Neovim のためのシンプルな GUI",
   "source_counts": {
-    "sns": 292,
+    "sns": 304,
     "jpcert": 30,
     "ipa": 2,
     "techracho": 10
   },
   "severity_counts": {
-    "high": 9,
+    "high": 11,
     "critical": 1,
     "info": 28,
     "medium": 2
@@ -317,6 +317,36 @@
       "date": "Mon, 09 Nov 2026 13:51:19 GMT",
       "severity": "high",
       "hatena_count": 1
+    },
+    {
+      "id": "qiita-f141bfba0d",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "今週中に対応すべき脆弱性 6 つ。Outlook・Chrome・Edge・VPN 機器は悪用あり、iPhone・Mac・SonicWall は今週が期限（11/16〜11/22）",
+      "url": "https://qiita.com/songchong/items/75bf50a67ca5370ec6bf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-16T03:58:36+09:00",
+      "severity": "high",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-3abb5ac5c8",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "日本語の脆弱性 DB は 4.6 日かかる。待てないので、46 秒でセキュリティ情報が載るようにした",
+      "url": "https://qiita.com/songchong/items/fa50cc82e49b24925fe3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-15T17:20:40+09:00",
+      "severity": "high",
+      "hatena_count": 0
     },
     {
       "id": "qiita-0124ab1918",
