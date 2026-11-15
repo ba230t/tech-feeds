@@ -9,7 +9,7 @@
     "techracho": 10
   },
   "severity_counts": {
-    "high": 10,
+    "high": 9,
     "critical": 1,
     "info": 28,
     "medium": 2
@@ -35,13 +35,13 @@
       "sub_source": "Zenn",
       "title": "ISUCON2026 で優勝しました（準備編）",
       "url": "https://zenn.dev/luvtechno/articles/isucon2026-preparation",
-      "score": 508,
+      "score": 509,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 11 Nov 2026 05:05:46 GMT",
-      "hatena_count": 508
+      "hatena_count": 509
     },
     {
       "id": "zenn-86e2a08d5a",
@@ -119,13 +119,27 @@
       "sub_source": "Zenn",
       "title": "AIで膨らみ続けるテストケースを、リスクベースドテストで選んで回すまでの記録",
       "url": "https://zenn.dev/pivotmedia/articles/risk-based-testing-for-uat",
-      "score": 35,
+      "score": 39,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 12 Nov 2026 11:41:36 GMT",
-      "hatena_count": 35
+      "hatena_count": 39
+    },
+    {
+      "id": "zenn-9a6717ebd2",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "ng: Neovim のためのシンプルな GUI",
+      "url": "https://zenn.dev/shougo/articles/ng-nvim-simple-gui",
+      "score": 32,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 13 Nov 2026 10:49:55 GMT",
+      "hatena_count": 32
     },
     {
       "id": "techracho-4b67c39e4f",
@@ -141,20 +155,6 @@
       ],
       "date": "Thu, 12 Nov 2026 08:30:57 +0000",
       "hatena_count": 32
-    },
-    {
-      "id": "zenn-9a6717ebd2",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "ng: Neovim のためのシンプルな GUI",
-      "url": "https://zenn.dev/shougo/articles/ng-nvim-simple-gui",
-      "score": 31,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 13 Nov 2026 10:49:55 GMT",
-      "hatena_count": 31
     },
     {
       "id": "ipa-ee45d6bd49",
@@ -186,17 +186,17 @@
       "hatena_count": 19
     },
     {
-      "id": "zenn-28366bb153",
+      "id": "zenn-f9b3376cd7",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "Snowflake Dashboards 2.0が最高な理由と、これからBIに求められること",
-      "url": "https://zenn.dev/dataheroes/articles/snowflake-dashboards-2-and-future-of-bi",
+      "title": "AIですぐに作れる時代に、何と向き合うか",
+      "url": "https://zenn.dev/peoplex_blog/articles/2611-what-to-face-when-ai-builds-fast",
       "score": 5,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Wed, 11 Nov 2026 00:21:10 GMT",
+      "date": "Mon, 09 Nov 2026 04:49:20 GMT",
       "hatena_count": 5
     },
     {
@@ -213,6 +213,20 @@
       ],
       "date": "Thu, 29 Oct 2026 08:30:36 +0000",
       "hatena_count": 4
+    },
+    {
+      "id": "zenn-828a8567fb",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "脱WordPress：10年超の個人ブログをAstro + Cloudflare Workersへ移行しPageSpeed 100点を実現",
+      "url": "https://zenn.dev/unsoluble_sugar/articles/8cdf1efc01e6cb",
+      "score": 3,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 12 Nov 2026 15:31:01 GMT",
+      "hatena_count": 3
     },
     {
       "id": "zenn-83e64119d0",
@@ -286,20 +300,6 @@
       ],
       "date": "Fri, 13 Nov 2026 05:03:44 GMT",
       "hatena_count": 2
-    },
-    {
-      "id": "zenn-b1b28a0f1c",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "仕組み編：Two-Towerによる検索システム（学習・推論・配信）",
-      "url": "https://zenn.dev/ca_kagglers/articles/two-tower-mechanism",
-      "score": 2,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 13 Nov 2026 01:55:36 GMT",
-      "hatena_count": 2
     }
   ],
   "security_highlights": [
@@ -317,21 +317,6 @@
       "date": "Mon, 09 Nov 2026 13:51:19 GMT",
       "severity": "high",
       "hatena_count": 1
-    },
-    {
-      "id": "zenn-4a6c322c7b",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Node.js 22 / 24 / 26 の脆弱性、自分のアプリが影響を受けるか確認する方法【2026年11月】",
-      "url": "https://zenn.dev/rakko_inc/articles/nodejs-security-nov-2026-proxy",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 12 Nov 2026 02:31:30 GMT",
-      "severity": "high",
-      "hatena_count": 0
     },
     {
       "id": "qiita-0124ab1918",
