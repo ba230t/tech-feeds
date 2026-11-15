@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T14:33:10.586861+00:00",
+  "updated_at": "2026-11-15T15:04:33.940797+00:00",
   "count": 500,
   "items": [
     {
@@ -6783,13 +6783,13 @@
       "sub_source": "Zenn",
       "title": "脱WordPress：10年超の個人ブログをAstro + Cloudflare Workersへ移行しPageSpeed 100点を実現",
       "url": "https://zenn.dev/unsoluble_sugar/articles/8cdf1efc01e6cb",
-      "score": 103,
+      "score": 109,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 12 Nov 2026 15:31:01 GMT",
-      "hatena_count": 103
+      "hatena_count": 109
     },
     {
       "id": "zenn-6882e5cf17",
@@ -6797,13 +6797,13 @@
       "sub_source": "Zenn",
       "title": "AIで膨らみ続けるテストケースを、リスクベースドテストで選んで回すまでの記録",
       "url": "https://zenn.dev/pivotmedia/articles/risk-based-testing-for-uat",
-      "score": 64,
+      "score": 65,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 12 Nov 2026 11:41:36 GMT",
-      "hatena_count": 64
+      "hatena_count": 65
     },
     {
       "id": "zenn-d844a6cd17",
@@ -6867,13 +6867,13 @@
       "sub_source": "Zenn",
       "title": "ISUCON2026 で優勝しました（準備編）",
       "url": "https://zenn.dev/luvtechno/articles/isucon2026-preparation",
-      "score": 508,
+      "score": 509,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 11 Nov 2026 05:05:46 GMT",
-      "hatena_count": 508
+      "hatena_count": 509
     },
     {
       "id": "zenn-75c86f9192",
@@ -6909,13 +6909,13 @@
       "sub_source": "Zenn",
       "title": "Claude Codeで最近使っているTips【2026/11】",
       "url": "https://zenn.dev/oikon/articles/claude-code-recipe",
-      "score": 543,
+      "score": 544,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 09 Nov 2026 22:01:05 GMT",
-      "hatena_count": 543
+      "hatena_count": 544
     },
     {
       "id": "zenn-ab731c7f05",
