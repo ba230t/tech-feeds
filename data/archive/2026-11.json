@@ -119,13 +119,13 @@
       "sub_source": "Zenn",
       "title": "脱WordPress：10年超の個人ブログをAstro + Cloudflare Workersへ移行しPageSpeed 100点を実現",
       "url": "https://zenn.dev/unsoluble_sugar/articles/8cdf1efc01e6cb",
-      "score": 72,
+      "score": 84,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 12 Nov 2026 15:31:01 GMT",
-      "hatena_count": 72
+      "hatena_count": 84
     },
     {
       "id": "zenn-6882e5cf17",
@@ -133,13 +133,13 @@
       "sub_source": "Zenn",
       "title": "AIで膨らみ続けるテストケースを、リスクベースドテストで選んで回すまでの記録",
       "url": "https://zenn.dev/pivotmedia/articles/risk-based-testing-for-uat",
-      "score": 60,
+      "score": 63,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 12 Nov 2026 11:41:36 GMT",
-      "hatena_count": 60
+      "hatena_count": 63
     },
     {
       "id": "zenn-9a6717ebd2",
@@ -200,20 +200,6 @@
       "hatena_count": 19
     },
     {
-      "id": "zenn-f9b3376cd7",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "AIですぐに作れる時代に、何と向き合うか",
-      "url": "https://zenn.dev/peoplex_blog/articles/2611-what-to-face-when-ai-builds-fast",
-      "score": 5,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 09 Nov 2026 04:49:20 GMT",
-      "hatena_count": 5
-    },
-    {
       "id": "techracho-9300f8dd2f",
       "source": "techracho",
       "title": "RailsのコードをRactorセーフにするリファクタリングパターン集（翻訳）",
@@ -227,6 +213,20 @@
       ],
       "date": "Thu, 29 Oct 2026 08:30:36 +0000",
       "hatena_count": 4
+    },
+    {
+      "id": "zenn-9b661c6620",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "フロントエンドのフレームワークを、安全に段階的に入れ替える",
+      "url": "https://zenn.dev/yasuakiomokawa/articles/de83bb4c4ea928",
+      "score": 3,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 14 Nov 2026 07:12:52 GMT",
+      "hatena_count": 3
     },
     {
       "id": "zenn-83e64119d0",
