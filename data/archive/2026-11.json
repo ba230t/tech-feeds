@@ -158,6 +158,20 @@
       "hatena_count": 21
     },
     {
+      "id": "zenn-20d00e30b0",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "GitHub IssueにArtifactとしてHTMLとMarkdownを添付できるようになった",
+      "url": "https://zenn.dev/kesin11/articles/20261114_github_issue_artifact",
+      "score": 8,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 15 Nov 2026 23:00:07 GMT",
+      "hatena_count": 8
+    },
+    {
       "id": "zenn-83e64119d0",
       "source": "sns",
       "sub_source": "Zenn",
@@ -170,20 +184,6 @@
       ],
       "date": "Wed, 11 Nov 2026 05:52:02 GMT",
       "hatena_count": 6
-    },
-    {
-      "id": "zenn-20d00e30b0",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "GitHub IssueにArtifactとしてHTMLとMarkdownを添付できるようになった",
-      "url": "https://zenn.dev/kesin11/articles/20261114_github_issue_artifact",
-      "score": 5,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 15 Nov 2026 23:00:07 GMT",
-      "hatena_count": 5
     },
     {
       "id": "techracho-9300f8dd2f",
@@ -311,14 +311,14 @@
       "sub_source": "Qiita",
       "title": "今週中に対応すべき脆弱性 6 つ。Outlook・Chrome・Edge・VPN 機器は悪用あり、iPhone・Mac・SonicWall は今週が期限（11/16〜11/22）",
       "url": "https://qiita.com/songchong/items/75bf50a67ca5370ec6bf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
+      "score": 1,
       "author": "Qiita",
       "tags": [
         "Qiita"
       ],
       "date": "2026-11-16T03:58:36+09:00",
       "severity": "high",
-      "hatena_count": 0
+      "hatena_count": 1
     },
     {
       "id": "qiita-3abb5ac5c8",
