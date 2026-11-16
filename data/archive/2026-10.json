@@ -1,9 +1,9 @@
 {
   "month": "2026-10",
-  "total_articles": 141,
-  "summary": "# 2026-10の技術動向レポート\n\n**セキュリティ動向 (5件)**\n\n1. 【事前準備のお願い】PHPのセキュリティリリース公開予定について\n\n2. Oracle Java の脆弱性対策について(2026年10月)\n\n3. 注意喚起: PHPにおける複数の脆弱性（CVE-2026-109618、CVE-2026-109619）に関する注意喚起  (更新)\n\n4. 注意喚起: BrotliのC言語実装における境界外書き込みの脆弱性（CVE-2026-111497）に関する注意喚起  (公開)\n\n5. 注意喚起: SiteGuard Server EditionにおけるOSコマンドインジェクションの脆弱性（CVE-2026-106931）に関する注意喚起  (公開)\n\n**AI・機械学習動向 (3件)**\n\n1. Xで話題の、原文をたどってドメイン知識を集めるスキル「imozuru」を普通のAI検索と比べてみた\n\n2. AIのみで作られたシステムを引き継いだら、品質の現実に直面した話\n\n3. 先週の PHP 祭りから見えた、業務システムの「止まり方」の共通点と違い — 予防的な停止・障害・計画メンテを、日本・海外・AI の告知 751 件で比べた\n\n**技術トレンド (2件)**\n\n1. 注意喚起: 直近で相次いでいる国内組織における不正アクセスに関する注意喚起  (更新)\n\n2. 不正アクセスによる漏えい等の事案を踏まえ、速やかに実施すべき対策等について",
+  "total_articles": 128,
+  "summary": "# 2026-10の技術動向レポート\n\n**セキュリティ動向 (6件)**\n\n1. 【事前準備のお願い】PHPのセキュリティリリース公開予定について\n\n2. Oracle Java の脆弱性対策について(2026年10月)\n\n3. 注意喚起: PHPにおける複数の脆弱性（CVE-2026-109618、CVE-2026-109619）に関する注意喚起  (更新)\n\n4. 注意喚起: BrotliのC言語実装における境界外書き込みの脆弱性（CVE-2026-111497）に関する注意喚起  (公開)\n\n5. 注意喚起: SiteGuard Server EditionにおけるOSコマンドインジェクションの脆弱性（CVE-2026-106931）に関する注意喚起  (公開)\n\n6. 「Movable Type」における複数の脆弱性について（JVN#91153973）\n\n**技術トレンド (2件)**\n\n1. 注意喚起: 直近で相次いでいる国内組織における不正アクセスに関する注意喚起  (更新)\n\n2. 不正アクセスによる漏えい等の事案を踏まえ、速やかに実施すべき対策等について",
   "source_counts": {
-    "sns": 116,
+    "sns": 103,
     "jpcert": 20,
     "ipa": 5
   },
@@ -118,48 +118,6 @@
       "severity": "high",
       "date": "2026-10-14T14:18+09:00",
       "hatena_count": 4
-    },
-    {
-      "id": "qiita-44a4d518df",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "Xで話題の、原文をたどってドメイン知識を集めるスキル「imozuru」を普通のAI検索と比べてみた",
-      "url": "https://qiita.com/inoyu-qiita/items/4fc91ba7f67d6763960e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 2,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-27T19:06:53+09:00",
-      "hatena_count": 2
-    },
-    {
-      "id": "qiita-8bc2e53654",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "AIのみで作られたシステムを引き継いだら、品質の現実に直面した話",
-      "url": "https://qiita.com/Kokuto821/items/352e44c77489c22945c2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 1,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-27T08:27:13+09:00",
-      "hatena_count": 1
-    },
-    {
-      "id": "qiita-ed07f141b1",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "先週の PHP 祭りから見えた、業務システムの「止まり方」の共通点と違い — 予防的な停止・障害・計画メンテを、日本・海外・AI の告知 751 件で比べた",
-      "url": "https://qiita.com/songchong/items/eb2e60b469a148c2fb8b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 1,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-27T07:51:42+09:00",
-      "hatena_count": 1
     },
     {
       "id": "ipa-285b7532c9",
@@ -301,6 +259,48 @@
         "Qiita"
       ],
       "date": "2026-10-31T22:30:51+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-f9e6da427b",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "【ServiceNow】これから始めるAI Control Tower実践：実画面で見る「何ができるのか」",
+      "url": "https://qiita.com/AoraNow_Yoshiyuki_Ito/items/c780df751b781bc06d6c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-31T21:55:17+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-d889c8679f",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "autoracex、ついに対面開催 ―― 画面越しに何度も会った人と、はじめて会った夜",
+      "url": "https://qiita.com/torifukukaiou/items/7f1468c5b566aa23a330?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-31T20:57:08+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-a7ff99e604",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "世界を「巨大なJSON」として捉えたら、人間関係のバグとAIのディストピアに気づいてゾッとした話",
+      "url": "https://qiita.com/nuhaha_2023/items/30d0bc3cc1149bca17b7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-10-31T20:21:35+09:00",
       "hatena_count": 0
     }
   ],
