@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T22:05:13.611654+00:00",
+  "updated_at": "2026-11-16T22:33:16.390149+00:00",
   "count": 500,
   "items": [
     {
@@ -6668,48 +6668,6 @@
       "hatena_count": 0
     },
     {
-      "id": "zenn-a71e71ea8e",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "実践パスキー認証設計",
-      "url": "https://zenn.dev/yasuakiomokawa/articles/89f5c46e8effe9",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 16 Nov 2026 12:53:34 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-e84c29b207",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Kotlin Fest 2026 参加記",
-      "url": "https://zenn.dev/0st_ts/articles/d55862e1a134c2",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 16 Nov 2026 10:00:05 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-bea85b5ab6",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "QA生産性を爆上げさせるためのQA AIプラットフォーム構築",
-      "url": "https://zenn.dev/gatechnologies/articles/8bdea59269eb10",
-      "score": 2,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 16 Nov 2026 09:12:44 GMT",
-      "hatena_count": 2
-    },
-    {
       "id": "zenn-5b1d35f664",
       "source": "sns",
       "sub_source": "Zenn",
@@ -6722,62 +6680,6 @@
       ],
       "date": "Mon, 16 Nov 2026 08:00:05 GMT",
       "hatena_count": 1
-    },
-    {
-      "id": "zenn-d9fb625a1e",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "中編　LLM推論エンジンを作る",
-      "url": "https://zenn.dev/shozotanaka/articles/632191056c62f4",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 16 Nov 2026 07:46:05 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-df7bc32cac",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Claudeで試験項目の自動消化を試す",
-      "url": "https://zenn.dev/sre_holdings/articles/29458d1ff4cc39",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 16 Nov 2026 07:24:54 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-178c582807",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "前編　LLM推論エンジンを作る",
-      "url": "https://zenn.dev/shozotanaka/articles/7e86f85974eebb",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 16 Nov 2026 07:01:05 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-9a1c1249f1",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Claude Codeが書いたコードを読む代わりにやっていること",
-      "url": "https://zenn.dev/linkedge/articles/claude-code-instead-of-reading-code",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 16 Nov 2026 05:04:44 GMT",
-      "hatena_count": 0
     },
     {
       "id": "zenn-52eec506e8",
@@ -6794,32 +6696,46 @@
       "hatena_count": 1
     },
     {
-      "id": "zenn-ea61765f89",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "StrataとゲーミングPCでローカルLLM生活は始められるのか",
-      "url": "https://zenn.dev/sonicmoov/articles/afbc7281c59cb8",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 16 Nov 2026 03:33:19 GMT",
-      "hatena_count": 0
-    },
-    {
       "id": "zenn-20d00e30b0",
       "source": "sns",
       "sub_source": "Zenn",
       "title": "GitHub IssueにArtifactとしてHTMLとMarkdownを添付できるようになった",
       "url": "https://zenn.dev/kesin11/articles/20261114_github_issue_artifact",
-      "score": 14,
+      "score": 19,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sun, 15 Nov 2026 23:00:07 GMT",
-      "hatena_count": 14
+      "hatena_count": 19
+    },
+    {
+      "id": "zenn-20f5d439b4",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "AIエージェントは悪意ある指示を記憶するのか？— AgentCore MemoryとGuardrailsで検証",
+      "url": "https://zenn.dev/takuyousou/articles/agentcore-memory-poisoning-guardrails",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 15 Nov 2026 15:40:12 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-1c497f2c9a",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Lightdashで作れるグラフを試してみた【dbt v2】",
+      "url": "https://zenn.dev/ryatora/articles/lightdash-chart-catalog",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 15 Nov 2026 15:07:26 GMT",
+      "hatena_count": 0
     },
     {
       "id": "zenn-eff7528997",
@@ -6836,6 +6752,20 @@
       "hatena_count": 0
     },
     {
+      "id": "zenn-25df02568e",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Apple container で docker compose を動かす（DNS 名と SSH で簡単になった）",
+      "url": "https://zenn.dev/7kaji/articles/a9e056ced5f0c1",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 15 Nov 2026 09:00:05 GMT",
+      "hatena_count": 0
+    },
+    {
       "id": "zenn-f48df0a2aa",
       "source": "sns",
       "sub_source": "Zenn",
@@ -6847,6 +6777,20 @@
         "Zenn"
       ],
       "date": "Sun, 15 Nov 2026 00:19:17 GMT",
+      "hatena_count": 1
+    },
+    {
+      "id": "zenn-b256f3fc7b",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "ローカルLLMで動く翻訳拡張機能「Sakutto」を開発した話",
+      "url": "https://zenn.dev/jammaru_lab/articles/sakutto-local-llm-chrome-extension",
+      "score": 1,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 14 Nov 2026 20:02:29 GMT",
       "hatena_count": 1
     },
     {
@@ -6920,6 +6864,34 @@
       "hatena_count": 123
     },
     {
+      "id": "zenn-828a8567fb",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "脱WordPress：10年超の個人ブログをAstro + Cloudflare Workersへ移行しPageSpeed 100点を実現",
+      "url": "https://zenn.dev/unsoluble_sugar/articles/8cdf1efc01e6cb",
+      "score": 165,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 12 Nov 2026 15:31:01 GMT",
+      "hatena_count": 165
+    },
+    {
+      "id": "zenn-6882e5cf17",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "AIで膨らみ続けるテストケースを、リスクベースドテストで選んで回すまでの記録",
+      "url": "https://zenn.dev/pivotmedia/articles/risk-based-testing-for-uat",
+      "score": 72,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 12 Nov 2026 11:41:36 GMT",
+      "hatena_count": 72
+    },
+    {
       "id": "zenn-77c5db3b7a",
       "source": "sns",
       "sub_source": "Zenn",
@@ -6934,6 +6906,20 @@
       "hatena_count": 178
     },
     {
+      "id": "zenn-83e64119d0",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "SlackでMarkdown記法が使えるようになっていた",
+      "url": "https://zenn.dev/lnest_knowledge/articles/ed5977bd7b6c1f",
+      "score": 6,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 11 Nov 2026 05:52:02 GMT",
+      "hatena_count": 6
+    },
+    {
       "id": "zenn-0e4f79a20f",
       "source": "sns",
       "sub_source": "Zenn",
@@ -6946,6 +6932,20 @@
       ],
       "date": "Wed, 11 Nov 2026 05:05:46 GMT",
       "hatena_count": 510
+    },
+    {
+      "id": "zenn-294c9faf90",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Claude Codeで最近使っているTips【2026/11】",
+      "url": "https://zenn.dev/oikon/articles/claude-code-recipe",
+      "score": 544,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 09 Nov 2026 22:01:05 GMT",
+      "hatena_count": 544
     },
     {
       "id": "techracho-a0dbaebccc",

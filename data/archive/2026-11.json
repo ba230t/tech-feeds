@@ -1,7 +1,7 @@
 {
   "month": "2026-11",
   "total_articles": 363,
-  "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (1件)**\n\n1. 更新：PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell)\n\n**AI・機械学習動向 (4件)**\n\n1. Software Factoryの先へ：全社の仕事をAI-NativeにするUbieの内製クラウドエージェント基盤\n\n2. 【pstack】AIに敵対的レビューをさせるな。トークンは検証に使え\n\n3. Rails: DHHがRails World 2026キーノートで「語らなかった」部分とは（翻訳）\n\n4. RailsのコードをRactorセーフにするリファクタリングパターン集（翻訳）\n\n**技術トレンド (5件)**\n\n1. ISUCON2026 で優勝しました（準備編）\n\n2. Qwen3.8 Flash Nextに混ざる中国語を、出力層の書き換えで消した: 27%→0%、他の重みは1バイトも変えずに\n\n3. ng: Neovim のためのシンプルな GUI\n\n4. GitHub IssueにArtifactとしてHTMLとMarkdownを添付できるようになった\n\n5. フロントエンドのフレームワークを、安全に段階的に入れ替える",
+  "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (1件)**\n\n1. 更新：PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell)\n\n**AI・機械学習動向 (5件)**\n\n1. Claude Codeで最近使っているTips【2026/11】\n\n2. Software Factoryの先へ：全社の仕事をAI-NativeにするUbieの内製クラウドエージェント基盤\n\n3. 【pstack】AIに敵対的レビューをさせるな。トークンは検証に使え\n\n4. AIで膨らみ続けるテストケースを、リスクベースドテストで選んで回すまでの記録\n\n5. Rails: DHHがRails World 2026キーノートで「語らなかった」部分とは（翻訳）\n\n**技術トレンド (4件)**\n\n1. ISUCON2026 で優勝しました（準備編）\n\n2. 脱WordPress：10年超の個人ブログをAstro + Cloudflare Workersへ移行しPageSpeed 100点を実現\n\n3. Qwen3.8 Flash Nextに混ざる中国語を、出力層の書き換えで消した: 27%→0%、他の重みは1バイトも変えずに\n\n4. ng: Neovim のためのシンプルな GUI",
   "source_counts": {
     "sns": 321,
     "jpcert": 30,
@@ -15,6 +15,20 @@
     "medium": 2
   },
   "top_articles": [
+    {
+      "id": "zenn-294c9faf90",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Claude Codeで最近使っているTips【2026/11】",
+      "url": "https://zenn.dev/oikon/articles/claude-code-recipe",
+      "score": 544,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 09 Nov 2026 22:01:05 GMT",
+      "hatena_count": 544
+    },
     {
       "id": "zenn-0e4f79a20f",
       "source": "sns",
@@ -44,6 +58,20 @@
       "hatena_count": 178
     },
     {
+      "id": "zenn-828a8567fb",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "脱WordPress：10年超の個人ブログをAstro + Cloudflare Workersへ移行しPageSpeed 100点を実現",
+      "url": "https://zenn.dev/unsoluble_sugar/articles/8cdf1efc01e6cb",
+      "score": 165,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 12 Nov 2026 15:31:01 GMT",
+      "hatena_count": 165
+    },
+    {
       "id": "zenn-4773a6c123",
       "source": "sns",
       "sub_source": "Zenn",
@@ -70,6 +98,20 @@
       ],
       "date": "Fri, 13 Nov 2026 13:08:40 GMT",
       "hatena_count": 89
+    },
+    {
+      "id": "zenn-6882e5cf17",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "AIで膨らみ続けるテストケースを、リスクベースドテストで選んで回すまでの記録",
+      "url": "https://zenn.dev/pivotmedia/articles/risk-based-testing-for-uat",
+      "score": 72,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 12 Nov 2026 11:41:36 GMT",
+      "hatena_count": 72
     },
     {
       "id": "zenn-9a6717ebd2",
@@ -121,13 +163,27 @@
       "sub_source": "Zenn",
       "title": "GitHub IssueにArtifactとしてHTMLとMarkdownを添付できるようになった",
       "url": "https://zenn.dev/kesin11/articles/20261114_github_issue_artifact",
-      "score": 14,
+      "score": 19,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sun, 15 Nov 2026 23:00:07 GMT",
-      "hatena_count": 14
+      "hatena_count": 19
+    },
+    {
+      "id": "zenn-83e64119d0",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "SlackでMarkdown記法が使えるようになっていた",
+      "url": "https://zenn.dev/lnest_knowledge/articles/ed5977bd7b6c1f",
+      "score": 6,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 11 Nov 2026 05:52:02 GMT",
+      "hatena_count": 6
     },
     {
       "id": "techracho-9300f8dd2f",
@@ -218,20 +274,6 @@
       "hatena_count": 3
     },
     {
-      "id": "zenn-bea85b5ab6",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "QA生産性を爆上げさせるためのQA AIプラットフォーム構築",
-      "url": "https://zenn.dev/gatechnologies/articles/8bdea59269eb10",
-      "score": 2,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 16 Nov 2026 09:12:44 GMT",
-      "hatena_count": 2
-    },
-    {
       "id": "techracho-511973acbf",
       "source": "techracho",
       "title": "RubyistがGoに挑む: ポケモンAPIクライアントを書いてみた（翻訳）",
@@ -260,50 +302,6 @@
       ],
       "date": "Mon, 02 Nov 2026 08:30:18 +0000",
       "hatena_count": 2
-    },
-    {
-      "id": "qiita-f141bfba0d",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "今週中に対応すべき脆弱性 6 つ。Outlook・Chrome・Edge・VPN 機器は悪用あり、iPhone・Mac・SonicWall は今週が期限（11/16〜11/22）",
-      "url": "https://qiita.com/songchong/items/75bf50a67ca5370ec6bf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 1,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-16T03:58:36+09:00",
-      "severity": "high",
-      "hatena_count": 1
-    },
-    {
-      "id": "qiita-9992abfba6",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "Claude Fable 5.2はOpusの単価2倍、でも1タスクは約半額!? Mythos5.2との違いと使いどころ",
-      "url": "https://qiita.com/ryosuke_ohori/items/17995524b433cf04fd55?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 1,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-13T13:26:32+09:00",
-      "hatena_count": 1
-    },
-    {
-      "id": "jpcert-b24da38fa6",
-      "source": "jpcert",
-      "title": "注意喚起: 2026年11月マイクロソフトセキュリティ更新プログラムに関する注意喚起  (公開)",
-      "url": "https://www.jpcert.or.jp/at/2026/at260035.html",
-      "score": 1,
-      "author": "JPCERT/CC",
-      "tags": [
-        "JPCERT",
-        "セキュリティ"
-      ],
-      "severity": "high",
-      "date": "2026-11-11T11:20+09:00",
-      "hatena_count": 1
     }
   ],
   "security_highlights": [
