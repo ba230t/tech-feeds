@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T06:54:58.088130+00:00",
+  "updated_at": "2026-11-16T07:11:39.126456+00:00",
   "count": 500,
   "items": [
     {
@@ -6785,13 +6785,13 @@
       "sub_source": "Zenn",
       "title": "AIの回答が長すぎて、理解しないまま実装している問題（理解負債）",
       "url": "https://zenn.dev/kent_code/articles/5892898be90cac",
-      "score": 0,
+      "score": 1,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sun, 15 Nov 2026 00:19:17 GMT",
-      "hatena_count": 0
+      "hatena_count": 1
     },
     {
       "id": "zenn-9b661c6620",
