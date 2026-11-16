@@ -1,7 +1,7 @@
 {
   "month": "2026-11",
   "total_articles": 363,
-  "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (1件)**\n\n1. 更新：PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell)\n\n**AI・機械学習動向 (4件)**\n\n1. Software Factoryの先へ：全社の仕事をAI-NativeにするUbieの内製クラウドエージェント基盤\n\n2. 【pstack】AIに敵対的レビューをさせるな。トークンは検証に使え\n\n3. Rails: DHHがRails World 2026キーノートで「語らなかった」部分とは（翻訳）\n\n4. RailsのコードをRactorセーフにするリファクタリングパターン集（翻訳）\n\n**技術トレンド (5件)**\n\n1. ISUCON2026 で優勝しました（準備編）\n\n2. Qwen3.8 Flash Nextに混ざる中国語を、出力層の書き換えで消した: 27%→0%、他の重みは1バイトも変えずに\n\n3. ng: Neovim のためのシンプルな GUI\n\n4. GitHub IssueにArtifactとしてHTMLとMarkdownを添付できるようになった\n\n5. フロントエンドのフレームワークを、安全に段階的に入れ替える",
+  "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (1件)**\n\n1. 更新：PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell)\n\n**AI・機械学習動向 (5件)**\n\n1. Software Factoryの先へ：全社の仕事をAI-NativeにするUbieの内製クラウドエージェント基盤\n\n2. 【pstack】AIに敵対的レビューをさせるな。トークンは検証に使え\n\n3. Rails: DHHがRails World 2026キーノートで「語らなかった」部分とは（翻訳）\n\n4. RailsのコードをRactorセーフにするリファクタリングパターン集（翻訳）\n\n5. QA生産性を爆上げさせるためのQA AIプラットフォーム構築\n\n**技術トレンド (4件)**\n\n1. ISUCON2026 で優勝しました（準備編）\n\n2. Qwen3.8 Flash Nextに混ざる中国語を、出力層の書き換えで消した: 27%→0%、他の重みは1バイトも変えずに\n\n3. ng: Neovim のためのシンプルな GUI\n\n4. GitHub IssueにArtifactとしてHTMLとMarkdownを添付できるようになった",
   "source_counts": {
     "sns": 321,
     "jpcert": 30,
@@ -86,6 +86,20 @@
       "hatena_count": 33
     },
     {
+      "id": "zenn-20d00e30b0",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "GitHub IssueにArtifactとしてHTMLとMarkdownを添付できるようになった",
+      "url": "https://zenn.dev/kesin11/articles/20261114_github_issue_artifact",
+      "score": 32,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 15 Nov 2026 23:00:07 GMT",
+      "hatena_count": 32
+    },
+    {
       "id": "techracho-4b67c39e4f",
       "source": "techracho",
       "title": "Rails: DHHがRails World 2026キーノートで「語らなかった」部分とは（翻訳）",
@@ -99,20 +113,6 @@
       ],
       "date": "Thu, 12 Nov 2026 08:30:57 +0000",
       "hatena_count": 32
-    },
-    {
-      "id": "zenn-20d00e30b0",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "GitHub IssueにArtifactとしてHTMLとMarkdownを添付できるようになった",
-      "url": "https://zenn.dev/kesin11/articles/20261114_github_issue_artifact",
-      "score": 28,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 15 Nov 2026 23:00:07 GMT",
-      "hatena_count": 28
     },
     {
       "id": "ipa-ee45d6bd49",
@@ -143,6 +143,20 @@
       ],
       "date": "Thu, 29 Oct 2026 08:30:36 +0000",
       "hatena_count": 4
+    },
+    {
+      "id": "zenn-bea85b5ab6",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "QA生産性を爆上げさせるためのQA AIプラットフォーム構築",
+      "url": "https://zenn.dev/gatechnologies/articles/8bdea59269eb10",
+      "score": 3,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 16 Nov 2026 09:12:44 GMT",
+      "hatena_count": 3
     },
     {
       "id": "zenn-9b661c6620",
@@ -216,20 +230,6 @@
       ],
       "date": "Wed, 28 Oct 2026 08:30:47 +0000",
       "hatena_count": 3
-    },
-    {
-      "id": "zenn-bea85b5ab6",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "QA生産性を爆上げさせるためのQA AIプラットフォーム構築",
-      "url": "https://zenn.dev/gatechnologies/articles/8bdea59269eb10",
-      "score": 2,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 16 Nov 2026 09:12:44 GMT",
-      "hatena_count": 2
     },
     {
       "id": "zenn-52eec506e8",

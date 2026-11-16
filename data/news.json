@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T23:04:43.635465+00:00",
+  "updated_at": "2026-11-16T23:33:22.655719+00:00",
   "count": 500,
   "items": [
     {
@@ -6701,13 +6701,13 @@
       "sub_source": "Zenn",
       "title": "QA生産性を爆上げさせるためのQA AIプラットフォーム構築",
       "url": "https://zenn.dev/gatechnologies/articles/8bdea59269eb10",
-      "score": 2,
+      "score": 3,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 16 Nov 2026 09:12:44 GMT",
-      "hatena_count": 2
+      "hatena_count": 3
     },
     {
       "id": "zenn-5b1d35f664",
@@ -6813,13 +6813,13 @@
       "sub_source": "Zenn",
       "title": "GitHub IssueにArtifactとしてHTMLとMarkdownを添付できるようになった",
       "url": "https://zenn.dev/kesin11/articles/20261114_github_issue_artifact",
-      "score": 28,
+      "score": 32,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sun, 15 Nov 2026 23:00:07 GMT",
-      "hatena_count": 28
+      "hatena_count": 32
     },
     {
       "id": "zenn-eff7528997",
