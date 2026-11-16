@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T08:44:46.497678+00:00",
+  "updated_at": "2026-11-16T09:08:28.014854+00:00",
   "count": 500,
   "items": [
     {
@@ -6897,13 +6897,13 @@
       "sub_source": "Zenn",
       "title": "Skills を持つ単一エージェントは、サブエージェント構成より品質で上回ることが多い — Anthropic が示す移行の手順",
       "url": "https://zenn.dev/happy_elements/articles/201519107f93de",
-      "score": 4,
+      "score": 3,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 12 Nov 2026 03:38:09 GMT",
-      "hatena_count": 4
+      "hatena_count": 3
     },
     {
       "id": "zenn-77c5db3b7a",
