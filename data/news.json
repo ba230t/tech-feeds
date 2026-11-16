@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T05:33:23.285712+00:00",
+  "updated_at": "2026-11-16T06:13:02.492998+00:00",
   "count": 500,
   "items": [
     {
@@ -6841,13 +6841,13 @@
       "sub_source": "Zenn",
       "title": "脱WordPress：10年超の個人ブログをAstro + Cloudflare Workersへ移行しPageSpeed 100点を実現",
       "url": "https://zenn.dev/unsoluble_sugar/articles/8cdf1efc01e6cb",
-      "score": 161,
+      "score": 162,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 12 Nov 2026 15:31:01 GMT",
-      "hatena_count": 161
+      "hatena_count": 162
     },
     {
       "id": "zenn-6882e5cf17",
@@ -6897,13 +6897,13 @@
       "sub_source": "Zenn",
       "title": "SlackでMarkdown記法が使えるようになっていた",
       "url": "https://zenn.dev/lnest_knowledge/articles/ed5977bd7b6c1f",
-      "score": 4,
+      "score": 5,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 11 Nov 2026 05:52:02 GMT",
-      "hatena_count": 4
+      "hatena_count": 5
     },
     {
       "id": "zenn-0e4f79a20f",
