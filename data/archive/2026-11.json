@@ -158,6 +158,20 @@
       "hatena_count": 5
     },
     {
+      "id": "zenn-d844a6cd17",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Skills を持つ単一エージェントは、サブエージェント構成より品質で上回ることが多い — Anthropic が示す移行の手順",
+      "url": "https://zenn.dev/happy_elements/articles/201519107f93de",
+      "score": 4,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 12 Nov 2026 03:38:09 GMT",
+      "hatena_count": 4
+    },
+    {
       "id": "techracho-9300f8dd2f",
       "source": "techracho",
       "title": "RailsのコードをRactorセーフにするリファクタリングパターン集（翻訳）",
@@ -198,20 +212,6 @@
         "Zenn"
       ],
       "date": "Fri, 13 Nov 2026 05:03:44 GMT",
-      "hatena_count": 3
-    },
-    {
-      "id": "zenn-d844a6cd17",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Skills を持つ単一エージェントは、サブエージェント構成より品質で上回ることが多い — Anthropic が示す移行の手順",
-      "url": "https://zenn.dev/happy_elements/articles/201519107f93de",
-      "score": 3,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 12 Nov 2026 03:38:09 GMT",
       "hatena_count": 3
     },
     {

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T09:08:28.014854+00:00",
+  "updated_at": "2026-11-16T09:42:01.835054+00:00",
   "count": 500,
   "items": [
     {
@@ -6696,20 +6696,6 @@
       "hatena_count": 0
     },
     {
-      "id": "zenn-42cc6da520",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "「死別」「死別　30代」で検索している人に見つけてほしい、私の体験記",
-      "url": "https://zenn.dev/hamapu/articles/a53a58363327b6",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 15 Nov 2026 14:05:49 GMT",
-      "hatena_count": 0
-    },
-    {
       "id": "zenn-eff7528997",
       "source": "sns",
       "sub_source": "Zenn",
@@ -6791,6 +6777,20 @@
         "Zenn"
       ],
       "date": "Sun, 15 Nov 2026 00:19:17 GMT",
+      "hatena_count": 1
+    },
+    {
+      "id": "zenn-b256f3fc7b",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "ローカルLLMで動く翻訳拡張機能「Sakutto」を開発した話",
+      "url": "https://zenn.dev/jammaru_lab/articles/sakutto-local-llm-chrome-extension",
+      "score": 1,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 14 Nov 2026 20:02:29 GMT",
       "hatena_count": 1
     },
     {
@@ -6897,13 +6897,13 @@
       "sub_source": "Zenn",
       "title": "Skills を持つ単一エージェントは、サブエージェント構成より品質で上回ることが多い — Anthropic が示す移行の手順",
       "url": "https://zenn.dev/happy_elements/articles/201519107f93de",
-      "score": 3,
+      "score": 4,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 12 Nov 2026 03:38:09 GMT",
-      "hatena_count": 3
+      "hatena_count": 4
     },
     {
       "id": "zenn-77c5db3b7a",
