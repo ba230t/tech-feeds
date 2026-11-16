@@ -77,13 +77,13 @@
       "sub_source": "Zenn",
       "title": "【pstack】AIに敵対的レビューをさせるな。トークンは検証に使え",
       "url": "https://zenn.dev/karamage/articles/5c3f8370b2b370",
-      "score": 122,
+      "score": 123,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 13 Nov 2026 02:48:24 GMT",
-      "hatena_count": 122
+      "hatena_count": 123
     },
     {
       "id": "zenn-bf3284232c",
@@ -187,6 +187,20 @@
       "hatena_count": 4
     },
     {
+      "id": "zenn-20d00e30b0",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "GitHub IssueにArtifactとしてHTMLとMarkdownを添付できるようになった",
+      "url": "https://zenn.dev/kesin11/articles/20261114_github_issue_artifact",
+      "score": 3,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 15 Nov 2026 23:00:07 GMT",
+      "hatena_count": 3
+    },
+    {
       "id": "zenn-9b661c6620",
       "source": "sns",
       "sub_source": "Zenn",
@@ -288,20 +302,6 @@
       ],
       "date": "Mon, 02 Nov 2026 08:30:18 +0000",
       "hatena_count": 2
-    },
-    {
-      "id": "qiita-9992abfba6",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "Claude Fable 5.2はOpusの単価2倍、でも1タスクは約半額!? Mythos5.2との違いと使いどころ",
-      "url": "https://qiita.com/ryosuke_ohori/items/17995524b433cf04fd55?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 1,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-13T13:26:32+09:00",
-      "hatena_count": 1
     }
   ],
   "security_highlights": [
