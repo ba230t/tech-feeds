@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T10:35:19.681666+00:00",
+  "updated_at": "2026-11-16T11:06:42.446818+00:00",
   "count": 500,
   "items": [
     {
@@ -6668,48 +6668,6 @@
       "hatena_count": 0
     },
     {
-      "id": "zenn-5b1d35f664",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "物理世界とAIをつなぐ：可視化で学ぶカメラ・座標系・運動制御入門",
-      "url": "https://zenn.dev/turing_motors/articles/cea9e3c85611b2",
-      "score": 1,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 16 Nov 2026 08:00:05 GMT",
-      "hatena_count": 1
-    },
-    {
-      "id": "zenn-52eec506e8",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "mizchi/mutator を入れてみた",
-      "url": "https://zenn.dev/polyco/articles/e05cb28c569801",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 16 Nov 2026 03:49:18 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-20d00e30b0",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "GitHub IssueにArtifactとしてHTMLとMarkdownを添付できるようになった",
-      "url": "https://zenn.dev/kesin11/articles/20261114_github_issue_artifact",
-      "score": 1,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 15 Nov 2026 23:00:07 GMT",
-      "hatena_count": 1
-    },
-    {
       "id": "zenn-20f5d439b4",
       "source": "sns",
       "sub_source": "Zenn",
@@ -6752,6 +6710,20 @@
       "hatena_count": 0
     },
     {
+      "id": "zenn-60ae22d5de",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Canton Networkとは何か――金融機関が「見せる相手を選べる」ブロックチェーンに集まる理由",
+      "url": "https://zenn.dev/komlock_lab/articles/canton-network-evm-comparison-2026",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 15 Nov 2026 09:06:22 GMT",
+      "hatena_count": 0
+    },
+    {
       "id": "zenn-25df02568e",
       "source": "sns",
       "sub_source": "Zenn",
@@ -6763,6 +6735,34 @@
         "Zenn"
       ],
       "date": "Sun, 15 Nov 2026 09:00:05 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-7583bf691c",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": ".NET 11 の ASP.NET Core Blazor の新機能のスケールイン対応機能！",
+      "url": "https://zenn.dev/microsoft/articles/aspnetcore-blazor-dotnet11-scale",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 15 Nov 2026 07:58:03 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-6e57afed7c",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "AIで作った結婚式向けの地図サイトを1年後にコードレビューして分かった3つのこと",
+      "url": "https://zenn.dev/taka26taka/articles/76bceac9cae8aa",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 15 Nov 2026 04:48:14 GMT",
       "hatena_count": 0
     },
     {
@@ -6869,13 +6869,13 @@
       "sub_source": "Zenn",
       "title": "脱WordPress：10年超の個人ブログをAstro + Cloudflare Workersへ移行しPageSpeed 100点を実現",
       "url": "https://zenn.dev/unsoluble_sugar/articles/8cdf1efc01e6cb",
-      "score": 162,
+      "score": 163,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 12 Nov 2026 15:31:01 GMT",
-      "hatena_count": 162
+      "hatena_count": 163
     },
     {
       "id": "zenn-6882e5cf17",
@@ -6883,13 +6883,27 @@
       "sub_source": "Zenn",
       "title": "AIで膨らみ続けるテストケースを、リスクベースドテストで選んで回すまでの記録",
       "url": "https://zenn.dev/pivotmedia/articles/risk-based-testing-for-uat",
-      "score": 70,
+      "score": 72,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 12 Nov 2026 11:41:36 GMT",
-      "hatena_count": 70
+      "hatena_count": 72
+    },
+    {
+      "id": "zenn-d844a6cd17",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Skills を持つ単一エージェントは、サブエージェント構成より品質で上回ることが多い — Anthropic が示す移行の手順",
+      "url": "https://zenn.dev/happy_elements/articles/201519107f93de",
+      "score": 8,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 12 Nov 2026 03:38:09 GMT",
+      "hatena_count": 8
     },
     {
       "id": "zenn-77c5db3b7a",
@@ -6932,20 +6946,6 @@
       ],
       "date": "Wed, 11 Nov 2026 05:05:46 GMT",
       "hatena_count": 509
-    },
-    {
-      "id": "zenn-294c9faf90",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Claude Codeで最近使っているTips【2026/11】",
-      "url": "https://zenn.dev/oikon/articles/claude-code-recipe",
-      "score": 544,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 09 Nov 2026 22:01:05 GMT",
-      "hatena_count": 544
     },
     {
       "id": "techracho-a0dbaebccc",
