@@ -172,6 +172,20 @@
       "hatena_count": 6
     },
     {
+      "id": "zenn-20d00e30b0",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "GitHub IssueにArtifactとしてHTMLとMarkdownを添付できるようになった",
+      "url": "https://zenn.dev/kesin11/articles/20261114_github_issue_artifact",
+      "score": 4,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 15 Nov 2026 23:00:07 GMT",
+      "hatena_count": 4
+    },
+    {
       "id": "techracho-9300f8dd2f",
       "source": "techracho",
       "title": "RailsのコードをRactorセーフにするリファクタリングパターン集（翻訳）",
@@ -185,20 +199,6 @@
       ],
       "date": "Thu, 29 Oct 2026 08:30:36 +0000",
       "hatena_count": 4
-    },
-    {
-      "id": "zenn-20d00e30b0",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "GitHub IssueにArtifactとしてHTMLとMarkdownを添付できるようになった",
-      "url": "https://zenn.dev/kesin11/articles/20261114_github_issue_artifact",
-      "score": 3,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 15 Nov 2026 23:00:07 GMT",
-      "hatena_count": 3
     },
     {
       "id": "zenn-9b661c6620",
