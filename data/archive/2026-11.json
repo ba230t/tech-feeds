@@ -77,13 +77,13 @@
       "sub_source": "Zenn",
       "title": "GitHub IssueにArtifactとしてHTMLとMarkdownを添付できるようになった",
       "url": "https://zenn.dev/kesin11/articles/20261114_github_issue_artifact",
-      "score": 52,
+      "score": 41,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sun, 15 Nov 2026 23:00:07 GMT",
-      "hatena_count": 52
+      "hatena_count": 41
     },
     {
       "id": "zenn-9a6717ebd2",
@@ -135,13 +135,13 @@
       "sub_source": "Zenn",
       "title": "QA生産性を爆上げさせるためのQA AIプラットフォーム構築",
       "url": "https://zenn.dev/gatechnologies/articles/8bdea59269eb10",
-      "score": 18,
+      "score": 9,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 16 Nov 2026 09:12:44 GMT",
-      "hatena_count": 18
+      "hatena_count": 9
     },
     {
       "id": "techracho-9300f8dd2f",
@@ -232,20 +232,6 @@
       "hatena_count": 3
     },
     {
-      "id": "zenn-5b1d35f664",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "物理世界とAIをつなぐ：可視化で学ぶカメラ・座標系・運動制御入門",
-      "url": "https://zenn.dev/turing_motors/articles/cea9e3c85611b2",
-      "score": 2,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 16 Nov 2026 08:00:05 GMT",
-      "hatena_count": 2
-    },
-    {
       "id": "zenn-52eec506e8",
       "source": "sns",
       "sub_source": "Zenn",
@@ -302,6 +288,20 @@
       ],
       "date": "2026-11-16T03:58:36+09:00",
       "severity": "high",
+      "hatena_count": 1
+    },
+    {
+      "id": "qiita-9992abfba6",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "Claude Fable 5.2はOpusの単価2倍、でも1タスクは約半額!? Mythos5.2との違いと使いどころ",
+      "url": "https://qiita.com/ryosuke_ohori/items/17995524b433cf04fd55?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 1,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-13T13:26:32+09:00",
       "hatena_count": 1
     }
   ],
