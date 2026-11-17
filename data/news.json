@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T11:05:07.332338+00:00",
+  "updated_at": "2026-11-17T11:33:14.562745+00:00",
   "count": 500,
   "items": [
     {
@@ -174,7 +174,7 @@
       "id": "qiita-db40b4884a",
       "source": "sns",
       "sub_source": "Qiita",
-      "title": "Kanaryの「/relay」でClaude・Codex・Cursorを行き来するのが便利だったので、コードレビューを往復させてみた",
+      "title": "Kanaryの新機能「/relay」でClaude・Codex・Cursorをつないで往復するのが便利だったので、コードレビューを往復させてみた",
       "url": "https://qiita.com/inoyu-qiita/items/f2e2d1006407a4d5f28e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
       "score": 0,
       "author": "Qiita",
@@ -6674,13 +6674,13 @@
       "sub_source": "Zenn",
       "title": "毎月6,000 AI Agentsを捌くためにキーボードを捨てた話",
       "url": "https://zenn.dev/andoshin11/articles/ba68b39ef9a8ce",
-      "score": 9,
+      "score": 6,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 17 Nov 2026 03:13:36 GMT",
-      "hatena_count": 9
+      "hatena_count": 6
     },
     {
       "id": "zenn-ec11bcb3f0",
@@ -6688,13 +6688,13 @@
       "sub_source": "Zenn",
       "title": "mise + gh skill で、dotfiles から Agent Skills を管理する",
       "url": "https://zenn.dev/dress_code/articles/30bd78e1a67f87",
-      "score": 19,
+      "score": 17,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 17 Nov 2026 03:00:08 GMT",
-      "hatena_count": 19
+      "hatena_count": 17
     },
     {
       "id": "zenn-cb0a34be62",
@@ -6800,13 +6800,13 @@
       "sub_source": "Zenn",
       "title": "QA生産性を爆上げさせるためのQA AIプラットフォーム構築",
       "url": "https://zenn.dev/gatechnologies/articles/8bdea59269eb10",
-      "score": 76,
+      "score": 75,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 16 Nov 2026 09:12:44 GMT",
-      "hatena_count": 76
+      "hatena_count": 75
     },
     {
       "id": "zenn-5b1d35f664",
@@ -6856,13 +6856,13 @@
       "sub_source": "Zenn",
       "title": "GitHub IssueにArtifactとしてHTMLとMarkdownを添付できるようになった",
       "url": "https://zenn.dev/kesin11/articles/20261114_github_issue_artifact",
-      "score": 91,
+      "score": 90,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sun, 15 Nov 2026 23:00:07 GMT",
-      "hatena_count": 91
+      "hatena_count": 90
     },
     {
       "id": "zenn-eff7528997",
@@ -6912,13 +6912,13 @@
       "sub_source": "Zenn",
       "title": "【pstack】AIに敵対的レビューをさせるな。トークンは検証に使え",
       "url": "https://zenn.dev/karamage/articles/5c3f8370b2b370",
-      "score": 125,
+      "score": 124,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 13 Nov 2026 02:48:24 GMT",
-      "hatena_count": 125
+      "hatena_count": 124
     },
     {
       "id": "zenn-77c5db3b7a",
