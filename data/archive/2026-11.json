@@ -1,7 +1,7 @@
 {
   "month": "2026-11",
   "total_articles": 363,
-  "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (1件)**\n\n1. 更新：PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell)\n\n**AI・機械学習動向 (5件)**\n\n1. Software Factoryの先へ：全社の仕事をAI-NativeにするUbieの内製クラウドエージェント基盤\n\n2. 【pstack】AIに敵対的レビューをさせるな。トークンは検証に使え\n\n3. Rails: DHHがRails World 2026キーノートで「語らなかった」部分とは（翻訳）\n\n4. QA生産性を爆上げさせるためのQA AIプラットフォーム構築\n\n5. RailsのコードをRactorセーフにするリファクタリングパターン集（翻訳）\n\n**技術トレンド (4件)**\n\n1. ISUCON2026 で優勝しました（準備編）\n\n2. Qwen3.8 Flash Nextに混ざる中国語を、出力層の書き換えで消した: 27%→0%、他の重みは1バイトも変えずに\n\n3. GitHub IssueにArtifactとしてHTMLとMarkdownを添付できるようになった\n\n4. ng: Neovim のためのシンプルな GUI",
+  "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (1件)**\n\n1. 更新：PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell)\n\n**AI・機械学習動向 (5件)**\n\n1. Software Factoryの先へ：全社の仕事をAI-NativeにするUbieの内製クラウドエージェント基盤\n\n2. 【pstack】AIに敵対的レビューをさせるな。トークンは検証に使え\n\n3. QA生産性を爆上げさせるためのQA AIプラットフォーム構築\n\n4. Rails: DHHがRails World 2026キーノートで「語らなかった」部分とは（翻訳）\n\n5. 物理世界とAIをつなぐ：可視化で学ぶカメラ・座標系・運動制御入門\n\n**技術トレンド (4件)**\n\n1. ISUCON2026 で優勝しました（準備編）\n\n2. Qwen3.8 Flash Nextに混ざる中国語を、出力層の書き換えで消した: 27%→0%、他の重みは1バイトも変えずに\n\n3. GitHub IssueにArtifactとしてHTMLとMarkdownを添付できるようになった\n\n4. ng: Neovim のためのシンプルな GUI",
   "source_counts": {
     "sns": 321,
     "jpcert": 30,
@@ -77,13 +77,27 @@
       "sub_source": "Zenn",
       "title": "GitHub IssueにArtifactとしてHTMLとMarkdownを添付できるようになった",
       "url": "https://zenn.dev/kesin11/articles/20261114_github_issue_artifact",
-      "score": 65,
+      "score": 73,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sun, 15 Nov 2026 23:00:07 GMT",
-      "hatena_count": 65
+      "hatena_count": 73
+    },
+    {
+      "id": "zenn-bea85b5ab6",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "QA生産性を爆上げさせるためのQA AIプラットフォーム構築",
+      "url": "https://zenn.dev/gatechnologies/articles/8bdea59269eb10",
+      "score": 36,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 16 Nov 2026 09:12:44 GMT",
+      "hatena_count": 36
     },
     {
       "id": "zenn-9a6717ebd2",
@@ -115,20 +129,6 @@
       "hatena_count": 32
     },
     {
-      "id": "zenn-bea85b5ab6",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "QA生産性を爆上げさせるためのQA AIプラットフォーム構築",
-      "url": "https://zenn.dev/gatechnologies/articles/8bdea59269eb10",
-      "score": 27,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 16 Nov 2026 09:12:44 GMT",
-      "hatena_count": 27
-    },
-    {
       "id": "ipa-ee45d6bd49",
       "source": "ipa",
       "title": "更新：PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell)",
@@ -144,6 +144,20 @@
       "hatena_count": 21
     },
     {
+      "id": "zenn-5b1d35f664",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "物理世界とAIをつなぐ：可視化で学ぶカメラ・座標系・運動制御入門",
+      "url": "https://zenn.dev/turing_motors/articles/cea9e3c85611b2",
+      "score": 6,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 16 Nov 2026 08:00:05 GMT",
+      "hatena_count": 6
+    },
+    {
       "id": "techracho-9300f8dd2f",
       "source": "techracho",
       "title": "RailsのコードをRactorセーフにするリファクタリングパターン集（翻訳）",
@@ -157,20 +171,6 @@
       ],
       "date": "Thu, 29 Oct 2026 08:30:36 +0000",
       "hatena_count": 4
-    },
-    {
-      "id": "zenn-5b1d35f664",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "物理世界とAIをつなぐ：可視化で学ぶカメラ・座標系・運動制御入門",
-      "url": "https://zenn.dev/turing_motors/articles/cea9e3c85611b2",
-      "score": 3,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 16 Nov 2026 08:00:05 GMT",
-      "hatena_count": 3
     },
     {
       "id": "zenn-9b661c6620",
