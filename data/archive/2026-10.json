@@ -1,17 +1,17 @@
 {
   "month": "2026-10",
-  "total_articles": 124,
+  "total_articles": 111,
   "summary": "# 2026-10の技術動向レポート\n\n**セキュリティ動向 (6件)**\n\n1. 【事前準備のお願い】PHPのセキュリティリリース公開予定について\n\n2. Oracle Java の脆弱性対策について(2026年10月)\n\n3. 注意喚起: PHPにおける複数の脆弱性（CVE-2026-109618、CVE-2026-109619）に関する注意喚起  (更新)\n\n4. 注意喚起: BrotliのC言語実装における境界外書き込みの脆弱性（CVE-2026-111497）に関する注意喚起  (公開)\n\n5. 注意喚起: SiteGuard Server EditionにおけるOSコマンドインジェクションの脆弱性（CVE-2026-106931）に関する注意喚起  (公開)\n\n6. 「Movable Type」における複数の脆弱性について（JVN#91153973）\n\n**技術トレンド (2件)**\n\n1. 注意喚起: 直近で相次いでいる国内組織における不正アクセスに関する注意喚起  (更新)\n\n2. 不正アクセスによる漏えい等の事案を踏まえ、速やかに実施すべき対策等について",
   "source_counts": {
     "sns": 99,
-    "jpcert": 20,
+    "jpcert": 7,
     "ipa": 5
   },
   "severity_counts": {
-    "high": 10,
+    "high": 9,
     "medium": 6,
     "critical": 1,
-    "info": 14
+    "info": 2
   },
   "top_articles": [
     {
@@ -393,21 +393,6 @@
       ],
       "date": "2026-10-28T11:25:35+09:00",
       "severity": "high",
-      "hatena_count": 0
-    },
-    {
-      "id": "jpcert-00b7dcc590",
-      "source": "jpcert",
-      "title": "Weekly Report: PHPにおける複数の脆弱性（CVE-2026-109618、CVE-2026-109619）に関する注意喚起",
-      "url": "https://www.jpcert.or.jp/wr/2026/wr261028.html#13",
-      "score": 0,
-      "author": "JPCERT/CC",
-      "tags": [
-        "JPCERT",
-        "セキュリティ"
-      ],
-      "severity": "high",
-      "date": "2026-10-28T09:07+09:00",
       "hatena_count": 0
     },
     {
