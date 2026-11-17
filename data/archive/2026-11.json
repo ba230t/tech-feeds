@@ -63,13 +63,13 @@
       "sub_source": "Zenn",
       "title": "QA生産性を爆上げさせるためのQA AIプラットフォーム構築",
       "url": "https://zenn.dev/gatechnologies/articles/8bdea59269eb10",
-      "score": 85,
+      "score": 86,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 16 Nov 2026 09:12:44 GMT",
-      "hatena_count": 85
+      "hatena_count": 86
     },
     {
       "id": "zenn-07aa176070",
@@ -173,6 +173,20 @@
       "hatena_count": 4
     },
     {
+      "id": "zenn-52eec506e8",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "mizchi/mutator を入れてみた",
+      "url": "https://zenn.dev/polyco/articles/e05cb28c569801",
+      "score": 3,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 16 Nov 2026 03:49:18 GMT",
+      "hatena_count": 3
+    },
+    {
       "id": "zenn-9b661c6620",
       "source": "sns",
       "sub_source": "Zenn",
@@ -230,20 +244,6 @@
       ],
       "date": "Thu, 05 Nov 2026 08:30:46 +0000",
       "hatena_count": 3
-    },
-    {
-      "id": "zenn-52eec506e8",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "mizchi/mutator を入れてみた",
-      "url": "https://zenn.dev/polyco/articles/e05cb28c569801",
-      "score": 2,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 16 Nov 2026 03:49:18 GMT",
-      "hatena_count": 2
     },
     {
       "id": "techracho-b23695913c",

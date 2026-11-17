@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T15:05:45.643019+00:00",
+  "updated_at": "2026-11-17T15:33:49.199927+00:00",
   "count": 500,
   "items": [
     {
@@ -6800,13 +6800,13 @@
       "sub_source": "Zenn",
       "title": "QA生産性を爆上げさせるためのQA AIプラットフォーム構築",
       "url": "https://zenn.dev/gatechnologies/articles/8bdea59269eb10",
-      "score": 85,
+      "score": 86,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 16 Nov 2026 09:12:44 GMT",
-      "hatena_count": 85
+      "hatena_count": 86
     },
     {
       "id": "zenn-5b1d35f664",
@@ -6842,13 +6842,13 @@
       "sub_source": "Zenn",
       "title": "mizchi/mutator を入れてみた",
       "url": "https://zenn.dev/polyco/articles/e05cb28c569801",
-      "score": 2,
+      "score": 3,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 16 Nov 2026 03:49:18 GMT",
-      "hatena_count": 2
+      "hatena_count": 3
     },
     {
       "id": "zenn-20d00e30b0",
