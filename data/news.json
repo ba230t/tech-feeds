@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T10:05:52.439277+00:00",
+  "updated_at": "2026-11-17T10:33:37.330024+00:00",
   "count": 500,
   "items": [
     {
@@ -6655,6 +6655,62 @@
       "hatena_count": 0
     },
     {
+      "id": "zenn-61a940e7c3",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "ローカルLLM入門",
+      "url": "https://zenn.dev/port_inc/articles/ff974c7456f4db",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 17 Nov 2026 07:17:24 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-07aa176070",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "毎月6,000 AI Agentsを捌くためにキーボードを捨てた話",
+      "url": "https://zenn.dev/andoshin11/articles/ba68b39ef9a8ce",
+      "score": 6,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 17 Nov 2026 03:13:36 GMT",
+      "hatena_count": 6
+    },
+    {
+      "id": "zenn-ec11bcb3f0",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "mise + gh skill で、dotfiles から Agent Skills を管理する",
+      "url": "https://zenn.dev/dress_code/articles/30bd78e1a67f87",
+      "score": 17,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 17 Nov 2026 03:00:08 GMT",
+      "hatena_count": 17
+    },
+    {
+      "id": "zenn-cb0a34be62",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "お問い合わせの8割を、AIボットが解決するようになった話",
+      "url": "https://zenn.dev/rimo/articles/701d18b7764669",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 17 Nov 2026 01:05:13 GMT",
+      "hatena_count": 0
+    },
+    {
       "id": "zenn-022387e7aa",
       "source": "sns",
       "sub_source": "Zenn",
@@ -6666,6 +6722,34 @@
         "Zenn"
       ],
       "date": "Tue, 17 Nov 2026 00:37:04 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-4d74fd9348",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "dbt + TerraformでCortex Searchを構築し，最小権限を目指すためにハマったこと",
+      "url": "https://zenn.dev/finatext/articles/cortex-search-least-privilege-dbt-terraform",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 17 Nov 2026 00:19:31 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-0ad39bac5f",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "最近、コードを真面目に読まなくなった",
+      "url": "https://zenn.dev/hiromoo/articles/reading-less-preparing-more",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 16 Nov 2026 15:24:23 GMT",
       "hatena_count": 0
     },
     {
@@ -6711,32 +6795,18 @@
       "hatena_count": 0
     },
     {
-      "id": "zenn-14475a8c52",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "X の投稿を Rust で画像にするライブラリ xeet を試す",
-      "url": "https://zenn.dev/yamauz/articles/fb97f92af23a3e",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 16 Nov 2026 09:20:35 GMT",
-      "hatena_count": 0
-    },
-    {
       "id": "zenn-bea85b5ab6",
       "source": "sns",
       "sub_source": "Zenn",
       "title": "QA生産性を爆上げさせるためのQA AIプラットフォーム構築",
       "url": "https://zenn.dev/gatechnologies/articles/8bdea59269eb10",
-      "score": 73,
+      "score": 75,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 16 Nov 2026 09:12:44 GMT",
-      "hatena_count": 73
+      "hatena_count": 75
     },
     {
       "id": "zenn-5b1d35f664",
@@ -6751,34 +6821,6 @@
       ],
       "date": "Mon, 16 Nov 2026 08:00:05 GMT",
       "hatena_count": 13
-    },
-    {
-      "id": "zenn-313e29efd4",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "インフラ＆CI/CD（GitHub Actionsの自動デプロイ）〜化石時代のFTPから脱却。あえて作り込まない「運用カバー」の自動化〜",
-      "url": "https://zenn.dev/dgft/articles/da631c5758aa6a",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 16 Nov 2026 08:00:05 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-e097f33b5c",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "若手の「説明力」は、AI開発で育てられるか ― 資料レビューAIを題材にしたOJTの実践",
-      "url": "https://zenn.dev/nttdata_tech/articles/d159fdd9c38c00",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 16 Nov 2026 07:30:17 GMT",
-      "hatena_count": 0
     },
     {
       "id": "zenn-9a1c1249f1",
@@ -6837,20 +6879,6 @@
       "hatena_count": 0
     },
     {
-      "id": "zenn-f48df0a2aa",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "AIの回答が長すぎて、理解しないまま実装している問題（理解負債）",
-      "url": "https://zenn.dev/kent_code/articles/5892898be90cac",
-      "score": 1,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 15 Nov 2026 00:19:17 GMT",
-      "hatena_count": 1
-    },
-    {
       "id": "zenn-9b661c6620",
       "source": "sns",
       "sub_source": "Zenn",
@@ -6879,32 +6907,18 @@
       "hatena_count": 34
     },
     {
-      "id": "zenn-6a57f31d34",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "5年後のエンジニアは、何に責任を持つのだろうか",
-      "url": "https://zenn.dev/ara_ta3/articles/thinking-about-engineers-five-years-from-now",
-      "score": 3,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 13 Nov 2026 05:03:44 GMT",
-      "hatena_count": 3
-    },
-    {
       "id": "zenn-4773a6c123",
       "source": "sns",
       "sub_source": "Zenn",
       "title": "【pstack】AIに敵対的レビューをさせるな。トークンは検証に使え",
       "url": "https://zenn.dev/karamage/articles/5c3f8370b2b370",
-      "score": 123,
+      "score": 124,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 13 Nov 2026 02:48:24 GMT",
-      "hatena_count": 123
+      "hatena_count": 124
     },
     {
       "id": "zenn-77c5db3b7a",
@@ -6919,20 +6933,6 @@
       ],
       "date": "Thu, 12 Nov 2026 00:44:52 GMT",
       "hatena_count": 180
-    },
-    {
-      "id": "zenn-0e4f79a20f",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "ISUCON2026 で優勝しました（準備編）",
-      "url": "https://zenn.dev/luvtechno/articles/isucon2026-preparation",
-      "score": 510,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 11 Nov 2026 05:05:46 GMT",
-      "hatena_count": 510
     },
     {
       "id": "techracho-7d9e7aecae",
