@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T12:07:30.242839+00:00",
+  "updated_at": "2026-11-17T12:35:50.489980+00:00",
   "count": 500,
   "items": [
     {
@@ -6674,13 +6674,13 @@
       "sub_source": "Zenn",
       "title": "毎月6,000 AI Agentsを捌くためにキーボードを捨てた話",
       "url": "https://zenn.dev/andoshin11/articles/ba68b39ef9a8ce",
-      "score": 16,
+      "score": 18,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 17 Nov 2026 03:13:36 GMT",
-      "hatena_count": 16
+      "hatena_count": 18
     },
     {
       "id": "zenn-ec11bcb3f0",
@@ -6800,13 +6800,13 @@
       "sub_source": "Zenn",
       "title": "QA生産性を爆上げさせるためのQA AIプラットフォーム構築",
       "url": "https://zenn.dev/gatechnologies/articles/8bdea59269eb10",
-      "score": 79,
+      "score": 81,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 16 Nov 2026 09:12:44 GMT",
-      "hatena_count": 79
+      "hatena_count": 81
     },
     {
       "id": "zenn-5b1d35f664",
