@@ -120,13 +120,13 @@
       "sub_source": "Zenn",
       "title": "QA生産性を爆上げさせるためのQA AIプラットフォーム構築",
       "url": "https://zenn.dev/gatechnologies/articles/8bdea59269eb10",
-      "score": 26,
+      "score": 27,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 16 Nov 2026 09:12:44 GMT",
-      "hatena_count": 26
+      "hatena_count": 27
     },
     {
       "id": "ipa-ee45d6bd49",
@@ -157,6 +157,20 @@
       ],
       "date": "Thu, 29 Oct 2026 08:30:36 +0000",
       "hatena_count": 4
+    },
+    {
+      "id": "zenn-5b1d35f664",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "物理世界とAIをつなぐ：可視化で学ぶカメラ・座標系・運動制御入門",
+      "url": "https://zenn.dev/turing_motors/articles/cea9e3c85611b2",
+      "score": 3,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 16 Nov 2026 08:00:05 GMT",
+      "hatena_count": 3
     },
     {
       "id": "zenn-9b661c6620",
@@ -230,20 +244,6 @@
       ],
       "date": "Wed, 28 Oct 2026 08:30:47 +0000",
       "hatena_count": 3
-    },
-    {
-      "id": "zenn-5b1d35f664",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "物理世界とAIをつなぐ：可視化で学ぶカメラ・座標系・運動制御入門",
-      "url": "https://zenn.dev/turing_motors/articles/cea9e3c85611b2",
-      "score": 2,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 16 Nov 2026 08:00:05 GMT",
-      "hatena_count": 2
     },
     {
       "id": "zenn-52eec506e8",
