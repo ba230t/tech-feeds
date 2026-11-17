@@ -1,7 +1,63 @@
 {
-  "updated_at": "2026-11-17T20:05:43.596797+00:00",
+  "updated_at": "2026-11-17T20:33:31.984268+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "qiita-f4c5c8e0a1",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "AIっぽい日本語を直すスキル yomiyasu-mini を Microsoft Copilot の色々なところで使ってみた",
+      "url": "https://qiita.com/Oyu3m/items/8efff0925c0994dda6ee?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-17T22:52:59+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-25e474f423",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "[AWS] S3Vectorsは全文検索エンジンとしてOpenSearchの代わりになるのか？",
+      "url": "https://qiita.com/kikuziro/items/cd1389f6a1601494895f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-17T21:55:43+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-5a6cb4f224",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "【AWS】CloudWatch Omni、なんか良さそうなので触ってみた！",
+      "url": "https://qiita.com/kuracchi_enj/items/f771a426c68df7972ba4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-17T20:16:13+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-d4cf5ec265",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "🥕難解言語Emojicodeで競プロがしたい！🐇",
+      "url": "https://qiita.com/Un_titled/items/b566535aa04d982bb9c8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-17T18:14:30+09:00",
+      "hatena_count": 0
+    },
     {
       "id": "qiita-c79d8539a4",
       "source": "sns",
@@ -143,6 +199,20 @@
       "hatena_count": 0
     },
     {
+      "id": "qiita-613ae8405d",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "【予習特集】IETF 127 高機能暗号・新しい暗号利用 分析 ― ゼロ知識証明の部品が CFRG に揃う",
+      "url": "https://qiita.com/satokan3/items/a3ec7c3b031afbc78796?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-16T16:47:23+09:00",
+      "hatena_count": 0
+    },
+    {
       "id": "qiita-1a50b794bb",
       "source": "sns",
       "sub_source": "Qiita",
@@ -154,6 +224,20 @@
         "Qiita"
       ],
       "date": "2026-11-16T16:41:26+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-d735100cd1",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "Everything Claude Code（ECC）入門：ルール・スキル・フックで開発環境を整える",
+      "url": "https://qiita.com/takuya035035/items/8a43c6f44aa8a9f6ea0d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-16T16:33:28+09:00",
       "hatena_count": 0
     },
     {
@@ -408,6 +492,20 @@
       "date": "2026-11-16T03:58:36+09:00",
       "severity": "high",
       "hatena_count": 1
+    },
+    {
+      "id": "qiita-751123cc1b",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "仮想世界を作って、AI が気づくか 100 回試した",
+      "url": "https://qiita.com/top_of_the_world_winter/items/080b7f89899e13e4037d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-16T03:13:31+09:00",
+      "hatena_count": 0
     },
     {
       "id": "qiita-4d9295b40e",
@@ -6224,107 +6322,6 @@
       "hatena_count": 0
     },
     {
-      "id": "qiita-7f2cda8b3f",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "今週の PHP・LiteLLM の脆弱性を Claude Code に探させたら、Web 検索ありで6回中5回見つけた",
-      "url": "https://qiita.com/suwa_nobu/items/e6b2737d3eddb921e40d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-28T11:25:35+09:00",
-      "severity": "high",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-c94c0486c5",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "elepayの決済3方式の比較 ― LIFFアプリでどれを選ぶべきか",
-      "url": "https://qiita.com/Natsuki_R/items/926d3b56f4b97c0543c5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-28T11:17:07+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-592cc7f1c1",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "システム設計視点の行動経済学 全50回 総復習",
-      "url": "https://qiita.com/maskot1977/items/77c8714f0c82e56f2cfa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-28T09:44:47+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-5e7d2d004e",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "耳で聞く！Python で学ぶ マクロ経済学 入門 37",
-      "url": "https://qiita.com/maskot1977/items/b41dcbcdc7a7557e3214?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-28T09:36:10+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-0d8c1e2dd5",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "【Oracle AI World 2026現地参加レポート②】PoCの先へ！先行事例から見るエンタープライズAI活用の最前線",
-      "url": "https://qiita.com/ReQ_HY/items/7fb5ce713cb60a96fcde?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-28T09:07:40+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "jpcert-4c75938883",
-      "source": "jpcert",
-      "title": "Weekly Report: VeloCloud OrchestratorにSQLインジェクションの脆弱性",
-      "url": "https://www.jpcert.or.jp/wr/2026/wr261028.html#1",
-      "score": 0,
-      "author": "JPCERT/CC",
-      "tags": [
-        "JPCERT",
-        "セキュリティ"
-      ],
-      "severity": "info",
-      "date": "2026-10-28T09:07+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "jpcert-cc97e02a66",
-      "source": "jpcert",
-      "title": "Weekly Report: ISC BINDに複数の脆弱性",
-      "url": "https://www.jpcert.or.jp/wr/2026/wr261028.html#2",
-      "score": 0,
-      "author": "JPCERT/CC",
-      "tags": [
-        "JPCERT",
-        "セキュリティ"
-      ],
-      "severity": "info",
-      "date": "2026-10-28T09:07+09:00",
-      "hatena_count": 0
-    },
-    {
       "id": "jpcert-382a807b6d",
       "source": "jpcert",
       "title": "注意喚起: BrotliのC言語実装における境界外書き込みの脆弱性（CVE-2026-111497）に関する注意喚起  (公開)",
@@ -6674,13 +6671,13 @@
       "sub_source": "Zenn",
       "title": "毎月6,000 AI Agentsを捌くためにキーボードを捨てた話",
       "url": "https://zenn.dev/andoshin11/articles/ba68b39ef9a8ce",
-      "score": 72,
+      "score": 73,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 17 Nov 2026 03:13:36 GMT",
-      "hatena_count": 72
+      "hatena_count": 73
     },
     {
       "id": "zenn-ec11bcb3f0",
