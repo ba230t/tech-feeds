@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T22:33:50.486957+00:00",
+  "updated_at": "2026-11-17T23:04:42.179802+00:00",
   "count": 500,
   "items": [
     {
@@ -6652,6 +6652,48 @@
       "hatena_count": 0
     },
     {
+      "id": "zenn-f0a46c9c13",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "L40S 1台で社内RAGは何人まで使えるか",
+      "url": "https://zenn.dev/epicai_techblog/articles/29b509117755af",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 17 Nov 2026 10:00:06 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-ac0340dfae",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "おい、 Mutation Test をやれ。テスト品質を、測るために",
+      "url": "https://zenn.dev/mizchi/articles/mutation-test-quality",
+      "score": 280,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 17 Nov 2026 09:53:47 GMT",
+      "hatena_count": 280
+    },
+    {
+      "id": "zenn-f4c7185665",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Go Conference 2026実行委員を終えて",
+      "url": "https://zenn.dev/mire0726/articles/1f3f118662a0f5",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 17 Nov 2026 07:21:52 GMT",
+      "hatena_count": 0
+    },
+    {
       "id": "zenn-61a940e7c3",
       "source": "sns",
       "sub_source": "Zenn",
@@ -6666,18 +6708,46 @@
       "hatena_count": 1
     },
     {
+      "id": "zenn-848b5868f3",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "LTを盛り上げよう！AWSサービス応援うちわ制作裏話",
+      "url": "https://zenn.dev/namiki64/articles/7aab23e02d1dc4",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 17 Nov 2026 03:55:17 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-3483494854",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Claude Desktop 開発のすゝめ",
+      "url": "https://zenn.dev/peoplex_blog/articles/vscode-to-claude-desktop",
+      "score": 2,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 17 Nov 2026 03:41:36 GMT",
+      "hatena_count": 2
+    },
+    {
       "id": "zenn-07aa176070",
       "source": "sns",
       "sub_source": "Zenn",
       "title": "毎月6,000 AI Agentsを捌くためにキーボードを捨てた話",
       "url": "https://zenn.dev/andoshin11/articles/ba68b39ef9a8ce",
-      "score": 84,
+      "score": 89,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 17 Nov 2026 03:13:36 GMT",
-      "hatena_count": 84
+      "hatena_count": 89
     },
     {
       "id": "zenn-ec11bcb3f0",
@@ -6692,6 +6762,20 @@
       ],
       "date": "Tue, 17 Nov 2026 03:00:08 GMT",
       "hatena_count": 24
+    },
+    {
+      "id": "zenn-d090aef4c0",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "OpenTelemetry×Cloudflareで組織のClaude Code利用ログを収集する",
+      "url": "https://zenn.dev/gemcook/articles/claude-code-otel-cloudflare",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 17 Nov 2026 02:35:22 GMT",
+      "hatena_count": 0
     },
     {
       "id": "zenn-cb0a34be62",
@@ -6722,74 +6806,18 @@
       "hatena_count": 0
     },
     {
-      "id": "zenn-4d74fd9348",
+      "id": "zenn-a7e023f6dd",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "dbt + TerraformでCortex Searchを構築し，最小権限を目指すためにハマったこと",
-      "url": "https://zenn.dev/finatext/articles/cortex-search-least-privilege-dbt-terraform",
-      "score": 0,
+      "title": "フロントエンドの logic と UI は、エージェントの責任範囲で分けられるのか",
+      "url": "https://zenn.dev/xtm_blog/articles/20261116-fd1702b0ba06cd",
+      "score": 5,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Tue, 17 Nov 2026 00:19:31 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-0ad39bac5f",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "最近、コードを真面目に読まなくなった",
-      "url": "https://zenn.dev/hiromoo/articles/reading-less-preparing-more",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 16 Nov 2026 15:24:23 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-1dbe86a4d2",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "AI駆動開発で自分用の情報収集Discordサーバーを作る",
-      "url": "https://zenn.dev/tree_and_tree/articles/ai-driven-discord-info-server",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 16 Nov 2026 15:14:11 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-a71e71ea8e",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "実践パスキー認証設計",
-      "url": "https://zenn.dev/yasuakiomokawa/articles/89f5c46e8effe9",
-      "score": 1,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 16 Nov 2026 12:53:34 GMT",
-      "hatena_count": 1
-    },
-    {
-      "id": "zenn-e84c29b207",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Kotlin Fest 2026 参加記",
-      "url": "https://zenn.dev/0st_ts/articles/d55862e1a134c2",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 16 Nov 2026 10:00:05 GMT",
-      "hatena_count": 0
+      "date": "Mon, 16 Nov 2026 23:00:05 GMT",
+      "hatena_count": 5
     },
     {
       "id": "zenn-bea85b5ab6",
@@ -6862,20 +6890,6 @@
       "hatena_count": 93
     },
     {
-      "id": "zenn-eff7528997",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "サンドボックス内のAIエージェントにHerdrを安全に使わせたい",
-      "url": "https://zenn.dev/naofumimurata/articles/nono-hc-proxy",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 15 Nov 2026 09:46:35 GMT",
-      "hatena_count": 0
-    },
-    {
       "id": "zenn-9b661c6620",
       "source": "sns",
       "sub_source": "Zenn",
@@ -6888,20 +6902,6 @@
       ],
       "date": "Sat, 14 Nov 2026 07:12:52 GMT",
       "hatena_count": 3
-    },
-    {
-      "id": "zenn-9a6717ebd2",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "ng: Neovim のためのシンプルな GUI",
-      "url": "https://zenn.dev/shougo/articles/ng-nvim-simple-gui",
-      "score": 34,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 13 Nov 2026 10:49:55 GMT",
-      "hatena_count": 34
     },
     {
       "id": "zenn-4773a6c123",

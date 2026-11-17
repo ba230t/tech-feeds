@@ -1,7 +1,7 @@
 {
   "month": "2026-11",
   "total_articles": 383,
-  "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (1件)**\n\n1. 更新：PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell)\n\n**AI・機械学習動向 (6件)**\n\n1. Software Factoryの先へ：全社の仕事をAI-NativeにするUbieの内製クラウドエージェント基盤\n\n2. 【pstack】AIに敵対的レビューをさせるな。トークンは検証に使え\n\n3. QA生産性を爆上げさせるためのQA AIプラットフォーム構築\n\n4. 毎月6,000 AI Agentsを捌くためにキーボードを捨てた話\n\n5. Rails: DHHがRails World 2026キーノートで「語らなかった」部分とは（翻訳）\n\n6. 物理世界とAIをつなぐ：可視化で学ぶカメラ・座標系・運動制御入門\n\n**技術トレンド (3件)**\n\n1. GitHub IssueにArtifactとしてHTMLとMarkdownを添付できるようになった\n\n2. ng: Neovim のためのシンプルな GUI\n\n3. mise + gh skill で、dotfiles から Agent Skills を管理する",
+  "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (1件)**\n\n1. 更新：PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell)\n\n**AI・機械学習動向 (6件)**\n\n1. Software Factoryの先へ：全社の仕事をAI-NativeにするUbieの内製クラウドエージェント基盤\n\n2. 【pstack】AIに敵対的レビューをさせるな。トークンは検証に使え\n\n3. 毎月6,000 AI Agentsを捌くためにキーボードを捨てた話\n\n4. QA生産性を爆上げさせるためのQA AIプラットフォーム構築\n\n5. Rails: DHHがRails World 2026キーノートで「語らなかった」部分とは（翻訳）\n\n6. 物理世界とAIをつなぐ：可視化で学ぶカメラ・座標系・運動制御入門\n\n**技術トレンド (3件)**\n\n1. おい、 Mutation Test をやれ。テスト品質を、測るために\n\n2. GitHub IssueにArtifactとしてHTMLとMarkdownを添付できるようになった\n\n3. mise + gh skill で、dotfiles から Agent Skills を管理する",
   "source_counts": {
     "sns": 341,
     "jpcert": 30,
@@ -15,6 +15,20 @@
     "medium": 2
   },
   "top_articles": [
+    {
+      "id": "zenn-ac0340dfae",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "おい、 Mutation Test をやれ。テスト品質を、測るために",
+      "url": "https://zenn.dev/mizchi/articles/mutation-test-quality",
+      "score": 280,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 17 Nov 2026 09:53:47 GMT",
+      "hatena_count": 280
+    },
     {
       "id": "zenn-77c5db3b7a",
       "source": "sns",
@@ -58,6 +72,20 @@
       "hatena_count": 93
     },
     {
+      "id": "zenn-07aa176070",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "毎月6,000 AI Agentsを捌くためにキーボードを捨てた話",
+      "url": "https://zenn.dev/andoshin11/articles/ba68b39ef9a8ce",
+      "score": 89,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 17 Nov 2026 03:13:36 GMT",
+      "hatena_count": 89
+    },
+    {
       "id": "zenn-bea85b5ab6",
       "source": "sns",
       "sub_source": "Zenn",
@@ -70,34 +98,6 @@
       ],
       "date": "Mon, 16 Nov 2026 09:12:44 GMT",
       "hatena_count": 88
-    },
-    {
-      "id": "zenn-07aa176070",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "毎月6,000 AI Agentsを捌くためにキーボードを捨てた話",
-      "url": "https://zenn.dev/andoshin11/articles/ba68b39ef9a8ce",
-      "score": 84,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 17 Nov 2026 03:13:36 GMT",
-      "hatena_count": 84
-    },
-    {
-      "id": "zenn-9a6717ebd2",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "ng: Neovim のためのシンプルな GUI",
-      "url": "https://zenn.dev/shougo/articles/ng-nvim-simple-gui",
-      "score": 34,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 13 Nov 2026 10:49:55 GMT",
-      "hatena_count": 34
     },
     {
       "id": "techracho-4b67c39e4f",
@@ -156,6 +156,20 @@
       ],
       "date": "Mon, 16 Nov 2026 08:00:05 GMT",
       "hatena_count": 13
+    },
+    {
+      "id": "zenn-a7e023f6dd",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "フロントエンドの logic と UI は、エージェントの責任範囲で分けられるのか",
+      "url": "https://zenn.dev/xtm_blog/articles/20261116-fd1702b0ba06cd",
+      "score": 5,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 16 Nov 2026 23:00:05 GMT",
+      "hatena_count": 5
     },
     {
       "id": "techracho-9300f8dd2f",
@@ -246,6 +260,20 @@
       "hatena_count": 3
     },
     {
+      "id": "zenn-3483494854",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Claude Desktop 開発のすゝめ",
+      "url": "https://zenn.dev/peoplex_blog/articles/vscode-to-claude-desktop",
+      "score": 2,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 17 Nov 2026 03:41:36 GMT",
+      "hatena_count": 2
+    },
+    {
       "id": "techracho-b23695913c",
       "source": "techracho",
       "title": "Ruby: C拡張をRuby 4のVM APIに合わせて効率化するためのtips集（翻訳）",
@@ -273,35 +301,6 @@
       ],
       "date": "2026-11-16T03:58:36+09:00",
       "severity": "high",
-      "hatena_count": 1
-    },
-    {
-      "id": "qiita-9992abfba6",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "Claude Fable 5.2はOpusの単価2倍、でも1タスクは約半額!? Mythos5.2との違いと使いどころ",
-      "url": "https://qiita.com/ryosuke_ohori/items/17995524b433cf04fd55?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 1,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-13T13:26:32+09:00",
-      "hatena_count": 1
-    },
-    {
-      "id": "jpcert-b24da38fa6",
-      "source": "jpcert",
-      "title": "注意喚起: 2026年11月マイクロソフトセキュリティ更新プログラムに関する注意喚起  (公開)",
-      "url": "https://www.jpcert.or.jp/at/2026/at260035.html",
-      "score": 1,
-      "author": "JPCERT/CC",
-      "tags": [
-        "JPCERT",
-        "セキュリティ"
-      ],
-      "severity": "high",
-      "date": "2026-11-11T11:20+09:00",
       "hatena_count": 1
     }
   ],
