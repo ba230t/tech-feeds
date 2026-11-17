@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T08:33:29.072263+00:00",
+  "updated_at": "2026-11-17T09:06:20.660843+00:00",
   "count": 500,
   "items": [
     {
@@ -6688,13 +6688,13 @@
       "sub_source": "Zenn",
       "title": "実践パスキー認証設計",
       "url": "https://zenn.dev/yasuakiomokawa/articles/89f5c46e8effe9",
-      "score": 0,
+      "score": 1,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 16 Nov 2026 12:53:34 GMT",
-      "hatena_count": 0
+      "hatena_count": 1
     },
     {
       "id": "zenn-e84c29b207",
@@ -6730,13 +6730,13 @@
       "sub_source": "Zenn",
       "title": "QA生産性を爆上げさせるためのQA AIプラットフォーム構築",
       "url": "https://zenn.dev/gatechnologies/articles/8bdea59269eb10",
-      "score": 68,
+      "score": 69,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 16 Nov 2026 09:12:44 GMT",
-      "hatena_count": 68
+      "hatena_count": 69
     },
     {
       "id": "zenn-5b1d35f664",
@@ -6969,7 +6969,7 @@
       "source": "techracho",
       "title": "Rails: DHHがRails World 2026キーノートで「語らなかった」部分とは（翻訳）",
       "url": "https://techracho.bpsinc.jp/hachi8833/2026_11_12/161307",
-      "score": 32,
+      "score": 33,
       "author": "Techracho",
       "tags": [
         "Ruby",
@@ -6977,7 +6977,7 @@
         "日本語"
       ],
       "date": "Thu, 12 Nov 2026 08:30:57 +0000",
-      "hatena_count": 32
+      "hatena_count": 33
     },
     {
       "id": "techracho-4616a03635",
@@ -6999,7 +6999,7 @@
       "source": "techracho",
       "title": "RubyistがGoに挑む: ポケモンAPIクライアントを書いてみた（翻訳）",
       "url": "https://techracho.bpsinc.jp/hachi8833/2026_11_10/159573",
-      "score": 2,
+      "score": 3,
       "author": "Techracho",
       "tags": [
         "Ruby",
@@ -7007,7 +7007,7 @@
         "日本語"
       ],
       "date": "Tue, 10 Nov 2026 08:30:16 +0000",
-      "hatena_count": 2
+      "hatena_count": 3
     },
     {
       "id": "techracho-f68eade31b",
