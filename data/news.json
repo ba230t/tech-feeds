@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T05:33:40.329282+00:00",
+  "updated_at": "2026-11-17T06:08:42.629261+00:00",
   "count": 500,
   "items": [
     {
@@ -6668,6 +6668,34 @@
       "hatena_count": 0
     },
     {
+      "id": "zenn-022387e7aa",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "スマホ内蔵のセンサーを使って周辺光取得を試す",
+      "url": "https://zenn.dev/aldagram_tech/articles/f7b57935e31070",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 17 Nov 2026 00:37:04 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-1dbe86a4d2",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "AI駆動開発で自分用の情報収集Discordサーバーを作る",
+      "url": "https://zenn.dev/tree_and_tree/articles/ai-driven-discord-info-server",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 16 Nov 2026 15:14:11 GMT",
+      "hatena_count": 0
+    },
+    {
       "id": "zenn-a71e71ea8e",
       "source": "sns",
       "sub_source": "Zenn",
@@ -6696,18 +6724,32 @@
       "hatena_count": 0
     },
     {
+      "id": "zenn-14475a8c52",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "X の投稿を Rust で画像にするライブラリ xeet を試す",
+      "url": "https://zenn.dev/yamauz/articles/fb97f92af23a3e",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 16 Nov 2026 09:20:35 GMT",
+      "hatena_count": 0
+    },
+    {
       "id": "zenn-bea85b5ab6",
       "source": "sns",
       "sub_source": "Zenn",
       "title": "QA生産性を爆上げさせるためのQA AIプラットフォーム構築",
       "url": "https://zenn.dev/gatechnologies/articles/8bdea59269eb10",
-      "score": 60,
+      "score": 63,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 16 Nov 2026 09:12:44 GMT",
-      "hatena_count": 60
+      "hatena_count": 63
     },
     {
       "id": "zenn-5b1d35f664",
@@ -6715,54 +6757,40 @@
       "sub_source": "Zenn",
       "title": "物理世界とAIをつなぐ：可視化で学ぶカメラ・座標系・運動制御入門",
       "url": "https://zenn.dev/turing_motors/articles/cea9e3c85611b2",
-      "score": 10,
+      "score": 11,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 16 Nov 2026 08:00:05 GMT",
-      "hatena_count": 10
+      "hatena_count": 11
     },
     {
-      "id": "zenn-d9fb625a1e",
+      "id": "zenn-313e29efd4",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "中編　LLM推論エンジンを作る",
-      "url": "https://zenn.dev/shozotanaka/articles/632191056c62f4",
+      "title": "インフラ＆CI/CD（GitHub Actionsの自動デプロイ）〜化石時代のFTPから脱却。あえて作り込まない「運用カバー」の自動化〜",
+      "url": "https://zenn.dev/dgft/articles/da631c5758aa6a",
       "score": 0,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Mon, 16 Nov 2026 07:46:05 GMT",
+      "date": "Mon, 16 Nov 2026 08:00:05 GMT",
       "hatena_count": 0
     },
     {
-      "id": "zenn-df7bc32cac",
+      "id": "zenn-e097f33b5c",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "Claudeで試験項目の自動消化を試す",
-      "url": "https://zenn.dev/sre_holdings/articles/29458d1ff4cc39",
+      "title": "若手の「説明力」は、AI開発で育てられるか ― 資料レビューAIを題材にしたOJTの実践",
+      "url": "https://zenn.dev/nttdata_tech/articles/d159fdd9c38c00",
       "score": 0,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Mon, 16 Nov 2026 07:24:54 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-178c582807",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "前編　LLM推論エンジンを作る",
-      "url": "https://zenn.dev/shozotanaka/articles/7e86f85974eebb",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 16 Nov 2026 07:01:05 GMT",
+      "date": "Mon, 16 Nov 2026 07:30:17 GMT",
       "hatena_count": 0
     },
     {
@@ -6792,20 +6820,6 @@
       ],
       "date": "Mon, 16 Nov 2026 03:49:18 GMT",
       "hatena_count": 2
-    },
-    {
-      "id": "zenn-ea61765f89",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "StrataとゲーミングPCでローカルLLM生活は始められるのか",
-      "url": "https://zenn.dev/sonicmoov/articles/afbc7281c59cb8",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 16 Nov 2026 03:33:19 GMT",
-      "hatena_count": 0
     },
     {
       "id": "zenn-20d00e30b0",
@@ -6862,20 +6876,6 @@
       ],
       "date": "Sat, 14 Nov 2026 07:12:52 GMT",
       "hatena_count": 3
-    },
-    {
-      "id": "zenn-bf3284232c",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Qwen3.8 Flash Nextに混ざる中国語を、出力層の書き換えで消した: 27%→0%、他の重みは1バイトも変えずに",
-      "url": "https://zenn.dev/caphtech/articles/qwen38-zh-ban",
-      "score": 89,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 13 Nov 2026 13:08:40 GMT",
-      "hatena_count": 89
     },
     {
       "id": "zenn-9a6717ebd2",
