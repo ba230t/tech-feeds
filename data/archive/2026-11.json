@@ -1,7 +1,7 @@
 {
   "month": "2026-11",
   "total_articles": 424,
-  "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (2件)**\n\n1. 更新：PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell)\n\n2. Oracle Java の脆弱性対策について(2026年11月)\n\n**AI・機械学習動向 (4件)**\n\n1. 毎月6,000 AI Agentsを捌くためにキーボードを捨てた話\n\n2. QA生産性を爆上げさせるためのQA AIプラットフォーム構築\n\n3. Rails: DHHがRails World 2026キーノートで「語らなかった」部分とは（翻訳）\n\n4. 物理世界とAIをつなぐ：可視化で学ぶカメラ・座標系・運動制御入門\n\n**技術トレンド (4件)**\n\n1. おい、 Mutation Test をやれ。テスト品質を、測るために\n\n2. GitHub IssueにArtifactとしてHTMLとMarkdownを添付できるようになった\n\n3. mise + gh skill で、dotfiles から Agent Skills を管理する\n\n4. mizchi/mutator を入れてみた",
+  "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (2件)**\n\n1. 更新：PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell)\n\n2. Oracle Java の脆弱性対策について(2026年11月)\n\n**AI・機械学習動向 (4件)**\n\n1. 毎月6,000 AI Agentsを捌くためにキーボードを捨てた話\n\n2. QA生産性を爆上げさせるためのQA AIプラットフォーム構築\n\n3. Rails: DHHがRails World 2026キーノートで「語らなかった」部分とは（翻訳）\n\n4. 物理世界とAIをつなぐ：可視化で学ぶカメラ・座標系・運動制御入門\n\n**技術トレンド (4件)**\n\n1. おい、 Mutation Test をやれ。テスト品質を、測るために\n\n2. GitHub IssueにArtifactとしてHTMLとMarkdownを添付できるようになった\n\n3. フロントエンドの logic と UI は、エージェントの責任範囲で分けられるのか\n\n4. mise + gh skill で、dotfiles から Agent Skills を管理する",
   "source_counts": {
     "sns": 357,
     "jpcert": 54,
@@ -21,13 +21,13 @@
       "sub_source": "Zenn",
       "title": "おい、 Mutation Test をやれ。テスト品質を、測るために",
       "url": "https://zenn.dev/mizchi/articles/mutation-test-quality",
-      "score": 365,
+      "score": 367,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 17 Nov 2026 09:53:47 GMT",
-      "hatena_count": 365
+      "hatena_count": 367
     },
     {
       "id": "zenn-07aa176070",
@@ -35,13 +35,13 @@
       "sub_source": "Zenn",
       "title": "毎月6,000 AI Agentsを捌くためにキーボードを捨てた話",
       "url": "https://zenn.dev/andoshin11/articles/ba68b39ef9a8ce",
-      "score": 117,
+      "score": 118,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 17 Nov 2026 03:13:36 GMT",
-      "hatena_count": 117
+      "hatena_count": 118
     },
     {
       "id": "zenn-20d00e30b0",
@@ -70,6 +70,20 @@
       ],
       "date": "Mon, 16 Nov 2026 09:12:44 GMT",
       "hatena_count": 90
+    },
+    {
+      "id": "zenn-a7e023f6dd",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "フロントエンドの logic と UI は、エージェントの責任範囲で分けられるのか",
+      "url": "https://zenn.dev/xtm_blog/articles/20261116-fd1702b0ba06cd",
+      "score": 33,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 16 Nov 2026 23:00:05 GMT",
+      "hatena_count": 33
     },
     {
       "id": "techracho-4b67c39e4f",
@@ -116,6 +130,21 @@
       "hatena_count": 21
     },
     {
+      "id": "ipa-3630a63272",
+      "source": "ipa",
+      "title": "Oracle Java の脆弱性対策について(2026年11月)",
+      "url": "https://www.ipa.go.jp/security/security-alert/2026/1118-jre.html",
+      "score": 17,
+      "author": "IPA",
+      "tags": [
+        "IPA",
+        "セキュリティ"
+      ],
+      "severity": "medium",
+      "date": "2026-11-18T00:00:00+09:00",
+      "hatena_count": 17
+    },
+    {
       "id": "zenn-5b1d35f664",
       "source": "sns",
       "sub_source": "Zenn",
@@ -130,19 +159,32 @@
       "hatena_count": 15
     },
     {
-      "id": "ipa-3630a63272",
-      "source": "ipa",
-      "title": "Oracle Java の脆弱性対策について(2026年11月)",
-      "url": "https://www.ipa.go.jp/security/security-alert/2026/1118-jre.html",
-      "score": 4,
-      "author": "IPA",
+      "id": "zenn-b225a7e395",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "tsrs を導入したら oxlint の type-aware linting と typecheck が爆速になった話",
+      "url": "https://zenn.dev/dress_code/articles/6c179ae5129131",
+      "score": 11,
+      "author": "Zenn",
       "tags": [
-        "IPA",
-        "セキュリティ"
+        "Zenn"
       ],
-      "severity": "medium",
-      "date": "2026-11-18T00:00:00+09:00",
-      "hatena_count": 4
+      "date": "Wed, 18 Nov 2026 07:00:06 GMT",
+      "hatena_count": 11
+    },
+    {
+      "id": "zenn-0ad39bac5f",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "最近、コードを真面目に読まなくなった",
+      "url": "https://zenn.dev/hiromoo/articles/reading-less-preparing-more",
+      "score": 6,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 16 Nov 2026 15:24:23 GMT",
+      "hatena_count": 6
     },
     {
       "id": "zenn-52eec506e8",
@@ -174,6 +216,20 @@
       "hatena_count": 4
     },
     {
+      "id": "zenn-5ab9908de4",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Odin に賭けたい人向けの Odin 言語入門ガイド",
+      "url": "https://zenn.dev/mizchi/articles/odin-introduction-guide",
+      "score": 3,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 18 Nov 2026 05:53:00 GMT",
+      "hatena_count": 3
+    },
+    {
       "id": "zenn-61a940e7c3",
       "source": "sns",
       "sub_source": "Zenn",
@@ -199,20 +255,6 @@
         "Zenn"
       ],
       "date": "Tue, 17 Nov 2026 03:41:36 GMT",
-      "hatena_count": 3
-    },
-    {
-      "id": "zenn-9b661c6620",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "フロントエンドのフレームワークを、安全に段階的に入れ替える",
-      "url": "https://zenn.dev/yasuakiomokawa/articles/de83bb4c4ea928",
-      "score": 3,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 14 Nov 2026 07:12:52 GMT",
       "hatena_count": 3
     },
     {
@@ -259,49 +301,6 @@
       ],
       "date": "Thu, 05 Nov 2026 08:30:46 +0000",
       "hatena_count": 3
-    },
-    {
-      "id": "zenn-ffcb738412",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "CSS では書きにくいアニメーションを Web Animations API で書く",
-      "url": "https://zenn.dev/omu_tryangle/articles/b5817393592229",
-      "score": 2,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 16 Nov 2026 06:35:01 GMT",
-      "hatena_count": 2
-    },
-    {
-      "id": "techracho-b23695913c",
-      "source": "techracho",
-      "title": "Ruby: C拡張をRuby 4のVM APIに合わせて効率化するためのtips集（翻訳）",
-      "url": "https://techracho.bpsinc.jp/hachi8833/2026_11_02/160896",
-      "score": 2,
-      "author": "Techracho",
-      "tags": [
-        "Ruby",
-        "Rails",
-        "日本語"
-      ],
-      "date": "Mon, 02 Nov 2026 08:30:18 +0000",
-      "hatena_count": 2
-    },
-    {
-      "id": "qiita-c2a965d741",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "部下がClaudeっぽいスライドしか出してこなくてウンザリしてる上司はこれを使わせなさい",
-      "url": "https://qiita.com/nuco_d/items/b279477cbcdbe5921abd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 1,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-17T09:58:19+09:00",
-      "hatena_count": 1
     }
   ],
   "security_highlights": [
