@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T04:06:13.952979+00:00",
+  "updated_at": "2026-11-18T04:33:29.815426+00:00",
   "count": 500,
   "items": [
     {
@@ -6695,13 +6695,13 @@
       "sub_source": "Zenn",
       "title": "おい、 Mutation Test をやれ。テスト品質を、測るために",
       "url": "https://zenn.dev/mizchi/articles/mutation-test-quality",
-      "score": 353,
+      "score": 358,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 17 Nov 2026 09:53:47 GMT",
-      "hatena_count": 353
+      "hatena_count": 358
     },
     {
       "id": "zenn-f4c7185665",
