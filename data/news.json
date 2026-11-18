@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T22:33:28.713848+00:00",
+  "updated_at": "2026-11-18T23:04:53.485020+00:00",
   "count": 500,
   "items": [
     {
@@ -577,7 +577,7 @@
       "source": "ipa",
       "title": "Oracle Java の脆弱性対策について(2026年11月)",
       "url": "https://www.ipa.go.jp/security/security-alert/2026/1118-jre.html",
-      "score": 27,
+      "score": 28,
       "author": "IPA",
       "tags": [
         "IPA",
@@ -585,7 +585,7 @@
       ],
       "severity": "medium",
       "date": "2026-11-18T00:00:00+09:00",
-      "hatena_count": 27
+      "hatena_count": 28
     },
     {
       "id": "qiita-f4c5c8e0a1",
@@ -6678,13 +6678,27 @@
       "sub_source": "Zenn",
       "title": "tsrs を導入したら oxlint の type-aware linting と typecheck が爆速になった話",
       "url": "https://zenn.dev/dress_code/articles/6c179ae5129131",
-      "score": 22,
+      "score": 25,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 18 Nov 2026 07:00:06 GMT",
-      "hatena_count": 22
+      "hatena_count": 25
+    },
+    {
+      "id": "zenn-2ff5c6536d",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "QA効率化におけるAI活用事例",
+      "url": "https://zenn.dev/applibot_tech/articles/6b8ec8d196634b",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 18 Nov 2026 06:33:59 GMT",
+      "hatena_count": 0
     },
     {
       "id": "zenn-5ab9908de4",
@@ -6701,74 +6715,32 @@
       "hatena_count": 3
     },
     {
-      "id": "zenn-7e7d2c8cd2",
+      "id": "zenn-07c4850847",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "危険コマンドを止める Claude Code hook を書いたのに、素通ししていた",
-      "url": "https://zenn.dev/minewo/articles/claude-code-hook-fail-open",
+      "title": "Snowflake の managed access schema で COPY GRANTS 付き CLONE がなぜか初回だけ失敗した話",
+      "url": "https://zenn.dev/finatext/articles/snowflake-managed-access-copy-grants",
       "score": 0,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Tue, 17 Nov 2026 21:31:02 GMT",
+      "date": "Wed, 18 Nov 2026 02:22:05 GMT",
       "hatena_count": 0
     },
     {
-      "id": "zenn-aafa5150b4",
+      "id": "zenn-64ab151ad7",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "Kaggle 膝コンペ振り返り & 上位解法まとめ | RSNA Knee Abnormality Detection",
-      "url": "https://zenn.dev/ca_kagglers/articles/kaggle-rsna-knee",
-      "score": 0,
+      "title": "ESLint から oxlint へ。lint が 50 倍速くなるまでの移行の記録",
+      "url": "https://zenn.dev/rimo/articles/12d6a7b1c58fcd",
+      "score": 1,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Tue, 17 Nov 2026 14:09:17 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-d3e340e0dc",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Museは「成長する相棒」になれるのか？ 記憶と改善の積み重ねを観察する",
-      "url": "https://zenn.dev/daydream/articles/muse-observation-01-memory-and-boundaries",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 17 Nov 2026 11:31:17 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-5260732c47",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "決済という機能を実装するのは容易だが、思っていたより考えることが多かった",
-      "url": "https://zenn.dev/chot/articles/1297582ee96341",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 17 Nov 2026 11:22:51 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-f0a46c9c13",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "L40S 1台で社内RAGは何人まで使えるか",
-      "url": "https://zenn.dev/epicai_techblog/articles/29b509117755af",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 17 Nov 2026 10:00:06 GMT",
-      "hatena_count": 0
+      "date": "Wed, 18 Nov 2026 00:51:16 GMT",
+      "hatena_count": 1
     },
     {
       "id": "zenn-ac0340dfae",
@@ -6804,13 +6776,13 @@
       "sub_source": "Zenn",
       "title": "ローカルLLM入門",
       "url": "https://zenn.dev/port_inc/articles/ff974c7456f4db",
-      "score": 31,
+      "score": 36,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 17 Nov 2026 07:17:24 GMT",
-      "hatena_count": 31
+      "hatena_count": 36
     },
     {
       "id": "zenn-3483494854",
@@ -6860,13 +6832,13 @@
       "sub_source": "Zenn",
       "title": "フロントエンドの logic と UI は、エージェントの責任範囲で分けられるのか",
       "url": "https://zenn.dev/xtm_blog/articles/20261116-fd1702b0ba06cd",
-      "score": 35,
+      "score": 36,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 16 Nov 2026 23:00:05 GMT",
-      "hatena_count": 35
+      "hatena_count": 36
     },
     {
       "id": "zenn-0ad39bac5f",
@@ -6874,13 +6846,13 @@
       "sub_source": "Zenn",
       "title": "最近、コードを真面目に読まなくなった",
       "url": "https://zenn.dev/hiromoo/articles/reading-less-preparing-more",
-      "score": 65,
+      "score": 70,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 16 Nov 2026 15:24:23 GMT",
-      "hatena_count": 65
+      "hatena_count": 70
     },
     {
       "id": "zenn-794a5d4566",
@@ -6923,6 +6895,34 @@
       ],
       "date": "Mon, 16 Nov 2026 08:00:05 GMT",
       "hatena_count": 15
+    },
+    {
+      "id": "zenn-ffcb738412",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "CSS では書きにくいアニメーションを Web Animations API で書く",
+      "url": "https://zenn.dev/omu_tryangle/articles/b5817393592229",
+      "score": 21,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 16 Nov 2026 06:35:01 GMT",
+      "hatena_count": 21
+    },
+    {
+      "id": "zenn-9a1c1249f1",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Claude Codeが書いたコードを読む代わりにやっていること",
+      "url": "https://zenn.dev/linkedge/articles/claude-code-instead-of-reading-code",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 16 Nov 2026 05:04:44 GMT",
+      "hatena_count": 0
     },
     {
       "id": "zenn-52eec506e8",

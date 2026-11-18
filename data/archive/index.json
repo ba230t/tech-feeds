@@ -3,7 +3,7 @@
     {
       "month": "2026-11",
       "total_articles": 430,
-      "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (1件)**\n\n1. Oracle Java の脆弱性対策について(2026年11月)\n\n**AI・機械学習動向 (4件)**\n\n1. 毎月6,000 AI Agentsを捌くためにキーボードを捨てた話\n\n2. QA生産性を爆上げさせるためのQA AIプラットフォーム構築\n\n3. Rails: DHHがRails World 2026キーノートで「語らなかった」部分とは（翻訳）\n\n4. ローカルLLM入門\n\n**技術トレンド (5件)**\n\n1. おい、 Mutation Test をやれ。テスト品質を、測るために\n\n2. GitHub IssueにArtifactとしてHTMLとMarkdownを添付できるようになった\n\n3. 最近、コードを真面目に読まなくなった\n\n4. フロントエンドの logic と UI は、エージェントの責任範囲で分けられるのか\n\n5. mise + gh skill で、dotfiles から Agent Skills を管理する",
+      "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (1件)**\n\n1. Oracle Java の脆弱性対策について(2026年11月)\n\n**AI・機械学習動向 (4件)**\n\n1. 毎月6,000 AI Agentsを捌くためにキーボードを捨てた話\n\n2. QA生産性を爆上げさせるためのQA AIプラットフォーム構築\n\n3. ローカルLLM入門\n\n4. Rails: DHHがRails World 2026キーノートで「語らなかった」部分とは（翻訳）\n\n**技術トレンド (5件)**\n\n1. おい、 Mutation Test をやれ。テスト品質を、測るために\n\n2. GitHub IssueにArtifactとしてHTMLとMarkdownを添付できるようになった\n\n3. 最近、コードを真面目に読まなくなった\n\n4. フロントエンドの logic と UI は、エージェントの責任範囲で分けられるのか\n\n5. mise + gh skill で、dotfiles から Agent Skills を管理する",
       "file": "2026-11.json",
       "html_file": "2026-11.html",
       "compressed": false

@@ -1,7 +1,7 @@
 {
   "month": "2026-11",
   "total_articles": 430,
-  "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (1件)**\n\n1. Oracle Java の脆弱性対策について(2026年11月)\n\n**AI・機械学習動向 (4件)**\n\n1. 毎月6,000 AI Agentsを捌くためにキーボードを捨てた話\n\n2. QA生産性を爆上げさせるためのQA AIプラットフォーム構築\n\n3. Rails: DHHがRails World 2026キーノートで「語らなかった」部分とは（翻訳）\n\n4. ローカルLLM入門\n\n**技術トレンド (5件)**\n\n1. おい、 Mutation Test をやれ。テスト品質を、測るために\n\n2. GitHub IssueにArtifactとしてHTMLとMarkdownを添付できるようになった\n\n3. 最近、コードを真面目に読まなくなった\n\n4. フロントエンドの logic と UI は、エージェントの責任範囲で分けられるのか\n\n5. mise + gh skill で、dotfiles から Agent Skills を管理する",
+  "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (1件)**\n\n1. Oracle Java の脆弱性対策について(2026年11月)\n\n**AI・機械学習動向 (4件)**\n\n1. 毎月6,000 AI Agentsを捌くためにキーボードを捨てた話\n\n2. QA生産性を爆上げさせるためのQA AIプラットフォーム構築\n\n3. ローカルLLM入門\n\n4. Rails: DHHがRails World 2026キーノートで「語らなかった」部分とは（翻訳）\n\n**技術トレンド (5件)**\n\n1. おい、 Mutation Test をやれ。テスト品質を、測るために\n\n2. GitHub IssueにArtifactとしてHTMLとMarkdownを添付できるようになった\n\n3. 最近、コードを真面目に読まなくなった\n\n4. フロントエンドの logic と UI は、エージェントの責任範囲で分けられるのか\n\n5. mise + gh skill で、dotfiles から Agent Skills を管理する",
   "source_counts": {
     "sns": 363,
     "jpcert": 54,
@@ -77,13 +77,27 @@
       "sub_source": "Zenn",
       "title": "最近、コードを真面目に読まなくなった",
       "url": "https://zenn.dev/hiromoo/articles/reading-less-preparing-more",
-      "score": 65,
+      "score": 70,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 16 Nov 2026 15:24:23 GMT",
-      "hatena_count": 65
+      "hatena_count": 70
+    },
+    {
+      "id": "zenn-61a940e7c3",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "ローカルLLM入門",
+      "url": "https://zenn.dev/port_inc/articles/ff974c7456f4db",
+      "score": 36,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 17 Nov 2026 07:17:24 GMT",
+      "hatena_count": 36
     },
     {
       "id": "zenn-a7e023f6dd",
@@ -91,13 +105,13 @@
       "sub_source": "Zenn",
       "title": "フロントエンドの logic と UI は、エージェントの責任範囲で分けられるのか",
       "url": "https://zenn.dev/xtm_blog/articles/20261116-fd1702b0ba06cd",
-      "score": 35,
+      "score": 36,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 16 Nov 2026 23:00:05 GMT",
-      "hatena_count": 35
+      "hatena_count": 36
     },
     {
       "id": "techracho-4b67c39e4f",
@@ -115,18 +129,19 @@
       "hatena_count": 33
     },
     {
-      "id": "zenn-61a940e7c3",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "ローカルLLM入門",
-      "url": "https://zenn.dev/port_inc/articles/ff974c7456f4db",
-      "score": 31,
-      "author": "Zenn",
+      "id": "ipa-3630a63272",
+      "source": "ipa",
+      "title": "Oracle Java の脆弱性対策について(2026年11月)",
+      "url": "https://www.ipa.go.jp/security/security-alert/2026/1118-jre.html",
+      "score": 28,
+      "author": "IPA",
       "tags": [
-        "Zenn"
+        "IPA",
+        "セキュリティ"
       ],
-      "date": "Tue, 17 Nov 2026 07:17:24 GMT",
-      "hatena_count": 31
+      "severity": "medium",
+      "date": "2026-11-18T00:00:00+09:00",
+      "hatena_count": 28
     },
     {
       "id": "zenn-ec11bcb3f0",
@@ -143,33 +158,18 @@
       "hatena_count": 28
     },
     {
-      "id": "ipa-3630a63272",
-      "source": "ipa",
-      "title": "Oracle Java の脆弱性対策について(2026年11月)",
-      "url": "https://www.ipa.go.jp/security/security-alert/2026/1118-jre.html",
-      "score": 27,
-      "author": "IPA",
-      "tags": [
-        "IPA",
-        "セキュリティ"
-      ],
-      "severity": "medium",
-      "date": "2026-11-18T00:00:00+09:00",
-      "hatena_count": 27
-    },
-    {
       "id": "zenn-b225a7e395",
       "source": "sns",
       "sub_source": "Zenn",
       "title": "tsrs を導入したら oxlint の type-aware linting と typecheck が爆速になった話",
       "url": "https://zenn.dev/dress_code/articles/6c179ae5129131",
-      "score": 22,
+      "score": 25,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 18 Nov 2026 07:00:06 GMT",
-      "hatena_count": 22
+      "hatena_count": 25
     },
     {
       "id": "ipa-ee45d6bd49",
@@ -184,6 +184,20 @@
       ],
       "severity": "medium",
       "date": "2026-11-02T00:00:00+09:00",
+      "hatena_count": 21
+    },
+    {
+      "id": "zenn-ffcb738412",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "CSS では書きにくいアニメーションを Web Animations API で書く",
+      "url": "https://zenn.dev/omu_tryangle/articles/b5817393592229",
+      "score": 21,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 16 Nov 2026 06:35:01 GMT",
       "hatena_count": 21
     },
     {
@@ -285,21 +299,6 @@
         "日本語"
       ],
       "date": "Mon, 09 Nov 2026 08:30:25 +0000",
-      "hatena_count": 3
-    },
-    {
-      "id": "techracho-3ff1a08033",
-      "source": "techracho",
-      "title": "Shopifyの Rubydex linter でRubyプロジェクトに構造的lintを導入しよう（翻訳）",
-      "url": "https://techracho.bpsinc.jp/hachi8833/2026_11_05/160032",
-      "score": 3,
-      "author": "Techracho",
-      "tags": [
-        "Ruby",
-        "Rails",
-        "日本語"
-      ],
-      "date": "Thu, 05 Nov 2026 08:30:46 +0000",
       "hatena_count": 3
     }
   ],
