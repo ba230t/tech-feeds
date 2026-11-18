@@ -1,7 +1,7 @@
 {
   "month": "2026-11",
   "total_articles": 424,
-  "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (1件)**\n\n1. 更新：PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell)\n\n**AI・機械学習動向 (5件)**\n\n1. 毎月6,000 AI Agentsを捌くためにキーボードを捨てた話\n\n2. QA生産性を爆上げさせるためのQA AIプラットフォーム構築\n\n3. Rails: DHHがRails World 2026キーノートで「語らなかった」部分とは（翻訳）\n\n4. 物理世界とAIをつなぐ：可視化で学ぶカメラ・座標系・運動制御入門\n\n5. RailsのコードをRactorセーフにするリファクタリングパターン集（翻訳）\n\n**技術トレンド (4件)**\n\n1. おい、 Mutation Test をやれ。テスト品質を、測るために\n\n2. GitHub IssueにArtifactとしてHTMLとMarkdownを添付できるようになった\n\n3. mise + gh skill で、dotfiles から Agent Skills を管理する\n\n4. mizchi/mutator を入れてみた",
+  "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (2件)**\n\n1. 更新：PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell)\n\n2. Oracle Java の脆弱性対策について(2026年11月)\n\n**AI・機械学習動向 (4件)**\n\n1. 毎月6,000 AI Agentsを捌くためにキーボードを捨てた話\n\n2. QA生産性を爆上げさせるためのQA AIプラットフォーム構築\n\n3. Rails: DHHがRails World 2026キーノートで「語らなかった」部分とは（翻訳）\n\n4. 物理世界とAIをつなぐ：可視化で学ぶカメラ・座標系・運動制御入門\n\n**技術トレンド (4件)**\n\n1. おい、 Mutation Test をやれ。テスト品質を、測るために\n\n2. GitHub IssueにArtifactとしてHTMLとMarkdownを添付できるようになった\n\n3. mise + gh skill で、dotfiles から Agent Skills を管理する\n\n4. mizchi/mutator を入れてみた",
   "source_counts": {
     "sns": 357,
     "jpcert": 54,
@@ -35,13 +35,13 @@
       "sub_source": "Zenn",
       "title": "毎月6,000 AI Agentsを捌くためにキーボードを捨てた話",
       "url": "https://zenn.dev/andoshin11/articles/ba68b39ef9a8ce",
-      "score": 115,
+      "score": 117,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 17 Nov 2026 03:13:36 GMT",
-      "hatena_count": 115
+      "hatena_count": 117
     },
     {
       "id": "zenn-20d00e30b0",
@@ -128,6 +128,21 @@
       ],
       "date": "Mon, 16 Nov 2026 08:00:05 GMT",
       "hatena_count": 15
+    },
+    {
+      "id": "ipa-3630a63272",
+      "source": "ipa",
+      "title": "Oracle Java の脆弱性対策について(2026年11月)",
+      "url": "https://www.ipa.go.jp/security/security-alert/2026/1118-jre.html",
+      "score": 4,
+      "author": "IPA",
+      "tags": [
+        "IPA",
+        "セキュリティ"
+      ],
+      "severity": "medium",
+      "date": "2026-11-18T00:00:00+09:00",
+      "hatena_count": 4
     },
     {
       "id": "zenn-52eec506e8",
@@ -273,21 +288,6 @@
       ],
       "date": "Mon, 02 Nov 2026 08:30:18 +0000",
       "hatena_count": 2
-    },
-    {
-      "id": "ipa-3630a63272",
-      "source": "ipa",
-      "title": "Oracle Java の脆弱性対策について(2026年11月)",
-      "url": "https://www.ipa.go.jp/security/security-alert/2026/1118-jre.html",
-      "score": 1,
-      "author": "IPA",
-      "tags": [
-        "IPA",
-        "セキュリティ"
-      ],
-      "severity": "medium",
-      "date": "2026-11-18T00:00:00+09:00",
-      "hatena_count": 1
     },
     {
       "id": "qiita-c2a965d741",
