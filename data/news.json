@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T01:34:08.439410+00:00",
+  "updated_at": "2026-11-18T02:07:50.719675+00:00",
   "count": 500,
   "items": [
     {
@@ -6695,13 +6695,13 @@
       "sub_source": "Zenn",
       "title": "おい、 Mutation Test をやれ。テスト品質を、測るために",
       "url": "https://zenn.dev/mizchi/articles/mutation-test-quality",
-      "score": 340,
+      "score": 346,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 17 Nov 2026 09:53:47 GMT",
-      "hatena_count": 340
+      "hatena_count": 346
     },
     {
       "id": "zenn-f4c7185665",
@@ -6765,13 +6765,13 @@
       "sub_source": "Zenn",
       "title": "毎月6,000 AI Agentsを捌くためにキーボードを捨てた話",
       "url": "https://zenn.dev/andoshin11/articles/ba68b39ef9a8ce",
-      "score": 101,
+      "score": 104,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 17 Nov 2026 03:13:36 GMT",
-      "hatena_count": 101
+      "hatena_count": 104
     },
     {
       "id": "zenn-ec11bcb3f0",
@@ -6835,13 +6835,13 @@
       "sub_source": "Zenn",
       "title": "フロントエンドの logic と UI は、エージェントの責任範囲で分けられるのか",
       "url": "https://zenn.dev/xtm_blog/articles/20261116-fd1702b0ba06cd",
-      "score": 20,
+      "score": 24,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 16 Nov 2026 23:00:05 GMT",
-      "hatena_count": 20
+      "hatena_count": 24
     },
     {
       "id": "zenn-bea85b5ab6",
@@ -6933,13 +6933,13 @@
       "sub_source": "Zenn",
       "title": "【pstack】AIに敵対的レビューをさせるな。トークンは検証に使え",
       "url": "https://zenn.dev/karamage/articles/5c3f8370b2b370",
-      "score": 125,
+      "score": 126,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 13 Nov 2026 02:48:24 GMT",
-      "hatena_count": 125
+      "hatena_count": 126
     },
     {
       "id": "zenn-77c5db3b7a",
