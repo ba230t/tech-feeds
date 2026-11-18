@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T13:05:47.720772+00:00",
+  "updated_at": "2026-11-18T13:33:49.543542+00:00",
   "count": 500,
   "items": [
     {
@@ -521,7 +521,7 @@
       "source": "ipa",
       "title": "Oracle Java の脆弱性対策について(2026年11月)",
       "url": "https://www.ipa.go.jp/security/security-alert/2026/1118-jre.html",
-      "score": 23,
+      "score": 24,
       "author": "IPA",
       "tags": [
         "IPA",
@@ -529,7 +529,7 @@
       ],
       "severity": "medium",
       "date": "2026-11-18T00:00:00+09:00",
-      "hatena_count": 23
+      "hatena_count": 24
     },
     {
       "id": "qiita-f4c5c8e0a1",
@@ -6778,13 +6778,13 @@
       "sub_source": "Zenn",
       "title": "おい、 Mutation Test をやれ。テスト品質を、測るために",
       "url": "https://zenn.dev/mizchi/articles/mutation-test-quality",
-      "score": 370,
+      "score": 372,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 17 Nov 2026 09:53:47 GMT",
-      "hatena_count": 370
+      "hatena_count": 372
     },
     {
       "id": "zenn-f4c7185665",
@@ -6806,13 +6806,13 @@
       "sub_source": "Zenn",
       "title": "ローカルLLM入門",
       "url": "https://zenn.dev/port_inc/articles/ff974c7456f4db",
-      "score": 8,
+      "score": 13,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 17 Nov 2026 07:17:24 GMT",
-      "hatena_count": 8
+      "hatena_count": 13
     },
     {
       "id": "zenn-3483494854",
@@ -6876,13 +6876,13 @@
       "sub_source": "Zenn",
       "title": "最近、コードを真面目に読まなくなった",
       "url": "https://zenn.dev/hiromoo/articles/reading-less-preparing-more",
-      "score": 22,
+      "score": 27,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 16 Nov 2026 15:24:23 GMT",
-      "hatena_count": 22
+      "hatena_count": 27
     },
     {
       "id": "zenn-794a5d4566",
@@ -6904,13 +6904,13 @@
       "sub_source": "Zenn",
       "title": "QA生産性を爆上げさせるためのQA AIプラットフォーム構築",
       "url": "https://zenn.dev/gatechnologies/articles/8bdea59269eb10",
-      "score": 90,
+      "score": 91,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 16 Nov 2026 09:12:44 GMT",
-      "hatena_count": 90
+      "hatena_count": 91
     },
     {
       "id": "zenn-5b1d35f664",

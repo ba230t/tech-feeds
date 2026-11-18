@@ -1,7 +1,7 @@
 {
   "month": "2026-11",
   "total_articles": 424,
-  "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (2件)**\n\n1. Oracle Java の脆弱性対策について(2026年11月)\n\n2. 更新：PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell)\n\n**AI・機械学習動向 (3件)**\n\n1. 毎月6,000 AI Agentsを捌くためにキーボードを捨てた話\n\n2. QA生産性を爆上げさせるためのQA AIプラットフォーム構築\n\n3. Rails: DHHがRails World 2026キーノートで「語らなかった」部分とは（翻訳）\n\n**技術トレンド (5件)**\n\n1. おい、 Mutation Test をやれ。テスト品質を、測るために\n\n2. GitHub IssueにArtifactとしてHTMLとMarkdownを添付できるようになった\n\n3. フロントエンドの logic と UI は、エージェントの責任範囲で分けられるのか\n\n4. mise + gh skill で、dotfiles から Agent Skills を管理する\n\n5. 最近、コードを真面目に読まなくなった",
+  "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (2件)**\n\n1. Oracle Java の脆弱性対策について(2026年11月)\n\n2. 更新：PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell)\n\n**AI・機械学習動向 (3件)**\n\n1. 毎月6,000 AI Agentsを捌くためにキーボードを捨てた話\n\n2. QA生産性を爆上げさせるためのQA AIプラットフォーム構築\n\n3. Rails: DHHがRails World 2026キーノートで「語らなかった」部分とは（翻訳）\n\n**技術トレンド (5件)**\n\n1. おい、 Mutation Test をやれ。テスト品質を、測るために\n\n2. GitHub IssueにArtifactとしてHTMLとMarkdownを添付できるようになった\n\n3. フロントエンドの logic と UI は、エージェントの責任範囲で分けられるのか\n\n4. 最近、コードを真面目に読まなくなった\n\n5. mise + gh skill で、dotfiles から Agent Skills を管理する",
   "source_counts": {
     "sns": 357,
     "jpcert": 54,
@@ -21,13 +21,13 @@
       "sub_source": "Zenn",
       "title": "おい、 Mutation Test をやれ。テスト品質を、測るために",
       "url": "https://zenn.dev/mizchi/articles/mutation-test-quality",
-      "score": 370,
+      "score": 372,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 17 Nov 2026 09:53:47 GMT",
-      "hatena_count": 370
+      "hatena_count": 372
     },
     {
       "id": "zenn-07aa176070",
@@ -63,13 +63,13 @@
       "sub_source": "Zenn",
       "title": "QA生産性を爆上げさせるためのQA AIプラットフォーム構築",
       "url": "https://zenn.dev/gatechnologies/articles/8bdea59269eb10",
-      "score": 90,
+      "score": 91,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 16 Nov 2026 09:12:44 GMT",
-      "hatena_count": 90
+      "hatena_count": 91
     },
     {
       "id": "zenn-a7e023f6dd",
@@ -101,6 +101,35 @@
       "hatena_count": 33
     },
     {
+      "id": "zenn-0ad39bac5f",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "最近、コードを真面目に読まなくなった",
+      "url": "https://zenn.dev/hiromoo/articles/reading-less-preparing-more",
+      "score": 27,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 16 Nov 2026 15:24:23 GMT",
+      "hatena_count": 27
+    },
+    {
+      "id": "ipa-3630a63272",
+      "source": "ipa",
+      "title": "Oracle Java の脆弱性対策について(2026年11月)",
+      "url": "https://www.ipa.go.jp/security/security-alert/2026/1118-jre.html",
+      "score": 24,
+      "author": "IPA",
+      "tags": [
+        "IPA",
+        "セキュリティ"
+      ],
+      "severity": "medium",
+      "date": "2026-11-18T00:00:00+09:00",
+      "hatena_count": 24
+    },
+    {
       "id": "zenn-ec11bcb3f0",
       "source": "sns",
       "sub_source": "Zenn",
@@ -113,35 +142,6 @@
       ],
       "date": "Tue, 17 Nov 2026 03:00:08 GMT",
       "hatena_count": 24
-    },
-    {
-      "id": "ipa-3630a63272",
-      "source": "ipa",
-      "title": "Oracle Java の脆弱性対策について(2026年11月)",
-      "url": "https://www.ipa.go.jp/security/security-alert/2026/1118-jre.html",
-      "score": 23,
-      "author": "IPA",
-      "tags": [
-        "IPA",
-        "セキュリティ"
-      ],
-      "severity": "medium",
-      "date": "2026-11-18T00:00:00+09:00",
-      "hatena_count": 23
-    },
-    {
-      "id": "zenn-0ad39bac5f",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "最近、コードを真面目に読まなくなった",
-      "url": "https://zenn.dev/hiromoo/articles/reading-less-preparing-more",
-      "score": 22,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 16 Nov 2026 15:24:23 GMT",
-      "hatena_count": 22
     },
     {
       "id": "ipa-ee45d6bd49",
@@ -192,13 +192,13 @@
       "sub_source": "Zenn",
       "title": "ローカルLLM入門",
       "url": "https://zenn.dev/port_inc/articles/ff974c7456f4db",
-      "score": 8,
+      "score": 13,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 17 Nov 2026 07:17:24 GMT",
-      "hatena_count": 8
+      "hatena_count": 13
     },
     {
       "id": "zenn-3483494854",
