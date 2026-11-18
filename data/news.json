@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T12:35:46.438671+00:00",
+  "updated_at": "2026-11-18T13:05:47.720772+00:00",
   "count": 500,
   "items": [
     {
@@ -521,7 +521,7 @@
       "source": "ipa",
       "title": "Oracle Java の脆弱性対策について(2026年11月)",
       "url": "https://www.ipa.go.jp/security/security-alert/2026/1118-jre.html",
-      "score": 20,
+      "score": 23,
       "author": "IPA",
       "tags": [
         "IPA",
@@ -529,7 +529,7 @@
       ],
       "severity": "medium",
       "date": "2026-11-18T00:00:00+09:00",
-      "hatena_count": 20
+      "hatena_count": 23
     },
     {
       "id": "qiita-f4c5c8e0a1",
@@ -6675,6 +6675,48 @@
       "hatena_count": 0
     },
     {
+      "id": "zenn-b225a7e395",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "tsrs を導入したら oxlint の type-aware linting と typecheck が爆速になった話",
+      "url": "https://zenn.dev/dress_code/articles/6c179ae5129131",
+      "score": 16,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 18 Nov 2026 07:00:06 GMT",
+      "hatena_count": 16
+    },
+    {
+      "id": "zenn-5ab9908de4",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Odin に賭けたい人向けの Odin 言語入門ガイド",
+      "url": "https://zenn.dev/mizchi/articles/odin-introduction-guide",
+      "score": 3,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 18 Nov 2026 05:53:00 GMT",
+      "hatena_count": 3
+    },
+    {
+      "id": "zenn-7e7d2c8cd2",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "危険コマンドを止める Claude Code hook を書いたのに、素通ししていた",
+      "url": "https://zenn.dev/minewo/articles/claude-code-hook-fail-open",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 17 Nov 2026 21:31:02 GMT",
+      "hatena_count": 0
+    },
+    {
       "id": "zenn-aafa5150b4",
       "source": "sns",
       "sub_source": "Zenn",
@@ -6686,6 +6728,20 @@
         "Zenn"
       ],
       "date": "Tue, 17 Nov 2026 14:09:17 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-d3e340e0dc",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Museは「成長する相棒」になれるのか？ 記憶と改善の積み重ねを観察する",
+      "url": "https://zenn.dev/daydream/articles/muse-observation-01-memory-and-boundaries",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 17 Nov 2026 11:31:17 GMT",
       "hatena_count": 0
     },
     {
@@ -6722,13 +6778,13 @@
       "sub_source": "Zenn",
       "title": "おい、 Mutation Test をやれ。テスト品質を、測るために",
       "url": "https://zenn.dev/mizchi/articles/mutation-test-quality",
-      "score": 368,
+      "score": 370,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 17 Nov 2026 09:53:47 GMT",
-      "hatena_count": 368
+      "hatena_count": 370
     },
     {
       "id": "zenn-f4c7185665",
@@ -6750,55 +6806,13 @@
       "sub_source": "Zenn",
       "title": "ローカルLLM入門",
       "url": "https://zenn.dev/port_inc/articles/ff974c7456f4db",
-      "score": 5,
+      "score": 8,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 17 Nov 2026 07:17:24 GMT",
-      "hatena_count": 5
-    },
-    {
-      "id": "zenn-8f7415f842",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "AI時代の生産性を考える",
-      "url": "https://zenn.dev/mediaforce/articles/b7075a9e04e871",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 17 Nov 2026 07:12:18 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-777d2696fe",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "エージェントの自律性を上げると、何が得られて何を失うか —— 助言・承認付き実行・自律実行を実測する",
-      "url": "https://zenn.dev/enterprise_ai/articles/1b1f34af88fb8f",
-      "score": 1,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 17 Nov 2026 06:51:14 GMT",
-      "hatena_count": 1
-    },
-    {
-      "id": "zenn-848b5868f3",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "LTを盛り上げよう！AWSサービス応援うちわ制作裏話",
-      "url": "https://zenn.dev/namiki64/articles/7aab23e02d1dc4",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 17 Nov 2026 03:55:17 GMT",
-      "hatena_count": 0
+      "hatena_count": 8
     },
     {
       "id": "zenn-3483494854",
@@ -6843,6 +6857,34 @@
       "hatena_count": 24
     },
     {
+      "id": "zenn-a7e023f6dd",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "フロントエンドの logic と UI は、エージェントの責任範囲で分けられるのか",
+      "url": "https://zenn.dev/xtm_blog/articles/20261116-fd1702b0ba06cd",
+      "score": 33,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 16 Nov 2026 23:00:05 GMT",
+      "hatena_count": 33
+    },
+    {
+      "id": "zenn-0ad39bac5f",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "最近、コードを真面目に読まなくなった",
+      "url": "https://zenn.dev/hiromoo/articles/reading-less-preparing-more",
+      "score": 22,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 16 Nov 2026 15:24:23 GMT",
+      "hatena_count": 22
+    },
+    {
       "id": "zenn-794a5d4566",
       "source": "sns",
       "sub_source": "Zenn",
@@ -6885,34 +6927,6 @@
       "hatena_count": 15
     },
     {
-      "id": "zenn-ffcb738412",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "CSS では書きにくいアニメーションを Web Animations API で書く",
-      "url": "https://zenn.dev/omu_tryangle/articles/b5817393592229",
-      "score": 9,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 16 Nov 2026 06:35:01 GMT",
-      "hatena_count": 9
-    },
-    {
-      "id": "zenn-9a1c1249f1",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Claude Codeが書いたコードを読む代わりにやっていること",
-      "url": "https://zenn.dev/linkedge/articles/claude-code-instead-of-reading-code",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 16 Nov 2026 05:04:44 GMT",
-      "hatena_count": 0
-    },
-    {
       "id": "zenn-52eec506e8",
       "source": "sns",
       "sub_source": "Zenn",
@@ -6939,20 +6953,6 @@
       ],
       "date": "Sun, 15 Nov 2026 23:00:07 GMT",
       "hatena_count": 94
-    },
-    {
-      "id": "zenn-9b661c6620",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "フロントエンドのフレームワークを、安全に段階的に入れ替える",
-      "url": "https://zenn.dev/yasuakiomokawa/articles/de83bb4c4ea928",
-      "score": 3,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 14 Nov 2026 07:12:52 GMT",
-      "hatena_count": 3
     },
     {
       "id": "techracho-7d9e7aecae",
