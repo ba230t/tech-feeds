@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T02:07:50.719675+00:00",
+  "updated_at": "2026-11-18T02:33:41.710452+00:00",
   "count": 500,
   "items": [
     {
@@ -6695,13 +6695,13 @@
       "sub_source": "Zenn",
       "title": "おい、 Mutation Test をやれ。テスト品質を、測るために",
       "url": "https://zenn.dev/mizchi/articles/mutation-test-quality",
-      "score": 346,
+      "score": 349,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 17 Nov 2026 09:53:47 GMT",
-      "hatena_count": 346
+      "hatena_count": 349
     },
     {
       "id": "zenn-f4c7185665",
@@ -6765,13 +6765,13 @@
       "sub_source": "Zenn",
       "title": "毎月6,000 AI Agentsを捌くためにキーボードを捨てた話",
       "url": "https://zenn.dev/andoshin11/articles/ba68b39ef9a8ce",
-      "score": 104,
+      "score": 106,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 17 Nov 2026 03:13:36 GMT",
-      "hatena_count": 104
+      "hatena_count": 106
     },
     {
       "id": "zenn-ec11bcb3f0",
@@ -6835,13 +6835,27 @@
       "sub_source": "Zenn",
       "title": "フロントエンドの logic と UI は、エージェントの責任範囲で分けられるのか",
       "url": "https://zenn.dev/xtm_blog/articles/20261116-fd1702b0ba06cd",
-      "score": 24,
+      "score": 25,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 16 Nov 2026 23:00:05 GMT",
-      "hatena_count": 24
+      "hatena_count": 25
+    },
+    {
+      "id": "zenn-794a5d4566",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "最適化プロダクトにおけるUX",
+      "url": "https://zenn.dev/ctenopoma/books/optimization_ux",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 16 Nov 2026 12:47:52 GMT",
+      "hatena_count": 0
     },
     {
       "id": "zenn-bea85b5ab6",
@@ -6940,20 +6954,6 @@
       ],
       "date": "Fri, 13 Nov 2026 02:48:24 GMT",
       "hatena_count": 126
-    },
-    {
-      "id": "zenn-77c5db3b7a",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Software Factoryの先へ：全社の仕事をAI-NativeにするUbieの内製クラウドエージェント基盤",
-      "url": "https://zenn.dev/ubie_dev/articles/45501469c9c044",
-      "score": 180,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 12 Nov 2026 00:44:52 GMT",
-      "hatena_count": 180
     },
     {
       "id": "techracho-7d9e7aecae",
