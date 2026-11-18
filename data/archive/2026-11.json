@@ -1,7 +1,7 @@
 {
   "month": "2026-11",
   "total_articles": 383,
-  "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (1件)**\n\n1. 更新：PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell)\n\n**AI・機械学習動向 (6件)**\n\n1. Software Factoryの先へ：全社の仕事をAI-NativeにするUbieの内製クラウドエージェント基盤\n\n2. 【pstack】AIに敵対的レビューをさせるな。トークンは検証に使え\n\n3. 毎月6,000 AI Agentsを捌くためにキーボードを捨てた話\n\n4. QA生産性を爆上げさせるためのQA AIプラットフォーム構築\n\n5. Rails: DHHがRails World 2026キーノートで「語らなかった」部分とは（翻訳）\n\n6. 物理世界とAIをつなぐ：可視化で学ぶカメラ・座標系・運動制御入門\n\n**技術トレンド (3件)**\n\n1. おい、 Mutation Test をやれ。テスト品質を、測るために\n\n2. GitHub IssueにArtifactとしてHTMLとMarkdownを添付できるようになった\n\n3. mise + gh skill で、dotfiles から Agent Skills を管理する",
+  "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (1件)**\n\n1. 更新：PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell)\n\n**AI・機械学習動向 (5件)**\n\n1. Software Factoryの先へ：全社の仕事をAI-NativeにするUbieの内製クラウドエージェント基盤\n\n2. 【pstack】AIに敵対的レビューをさせるな。トークンは検証に使え\n\n3. 毎月6,000 AI Agentsを捌くためにキーボードを捨てた話\n\n4. QA生産性を爆上げさせるためのQA AIプラットフォーム構築\n\n5. Rails: DHHがRails World 2026キーノートで「語らなかった」部分とは（翻訳）\n\n**技術トレンド (4件)**\n\n1. おい、 Mutation Test をやれ。テスト品質を、測るために\n\n2. GitHub IssueにArtifactとしてHTMLとMarkdownを添付できるようになった\n\n3. mise + gh skill で、dotfiles から Agent Skills を管理する\n\n4. フロントエンドの logic と UI は、エージェントの責任範囲で分けられるのか",
   "source_counts": {
     "sns": 341,
     "jpcert": 30,
@@ -21,13 +21,13 @@
       "sub_source": "Zenn",
       "title": "おい、 Mutation Test をやれ。テスト品質を、測るために",
       "url": "https://zenn.dev/mizchi/articles/mutation-test-quality",
-      "score": 293,
+      "score": 313,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 17 Nov 2026 09:53:47 GMT",
-      "hatena_count": 293
+      "hatena_count": 313
     },
     {
       "id": "zenn-77c5db3b7a",
@@ -58,6 +58,20 @@
       "hatena_count": 125
     },
     {
+      "id": "zenn-07aa176070",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "毎月6,000 AI Agentsを捌くためにキーボードを捨てた話",
+      "url": "https://zenn.dev/andoshin11/articles/ba68b39ef9a8ce",
+      "score": 95,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 17 Nov 2026 03:13:36 GMT",
+      "hatena_count": 95
+    },
+    {
       "id": "zenn-20d00e30b0",
       "source": "sns",
       "sub_source": "Zenn",
@@ -72,32 +86,18 @@
       "hatena_count": 94
     },
     {
-      "id": "zenn-07aa176070",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "毎月6,000 AI Agentsを捌くためにキーボードを捨てた話",
-      "url": "https://zenn.dev/andoshin11/articles/ba68b39ef9a8ce",
-      "score": 93,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 17 Nov 2026 03:13:36 GMT",
-      "hatena_count": 93
-    },
-    {
       "id": "zenn-bea85b5ab6",
       "source": "sns",
       "sub_source": "Zenn",
       "title": "QA生産性を爆上げさせるためのQA AIプラットフォーム構築",
       "url": "https://zenn.dev/gatechnologies/articles/8bdea59269eb10",
-      "score": 89,
+      "score": 90,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 16 Nov 2026 09:12:44 GMT",
-      "hatena_count": 89
+      "hatena_count": 90
     },
     {
       "id": "techracho-4b67c39e4f",
@@ -144,6 +144,20 @@
       "hatena_count": 21
     },
     {
+      "id": "zenn-a7e023f6dd",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "フロントエンドの logic と UI は、エージェントの責任範囲で分けられるのか",
+      "url": "https://zenn.dev/xtm_blog/articles/20261116-fd1702b0ba06cd",
+      "score": 15,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 16 Nov 2026 23:00:05 GMT",
+      "hatena_count": 15
+    },
+    {
       "id": "zenn-5b1d35f664",
       "source": "sns",
       "sub_source": "Zenn",
@@ -156,20 +170,6 @@
       ],
       "date": "Mon, 16 Nov 2026 08:00:05 GMT",
       "hatena_count": 13
-    },
-    {
-      "id": "zenn-a7e023f6dd",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "フロントエンドの logic と UI は、エージェントの責任範囲で分けられるのか",
-      "url": "https://zenn.dev/xtm_blog/articles/20261116-fd1702b0ba06cd",
-      "score": 10,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 16 Nov 2026 23:00:05 GMT",
-      "hatena_count": 10
     },
     {
       "id": "techracho-9300f8dd2f",
