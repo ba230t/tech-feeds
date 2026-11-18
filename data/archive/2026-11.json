@@ -21,13 +21,13 @@
       "sub_source": "Zenn",
       "title": "おい、 Mutation Test をやれ。テスト品質を、測るために",
       "url": "https://zenn.dev/mizchi/articles/mutation-test-quality",
-      "score": 364,
+      "score": 365,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 17 Nov 2026 09:53:47 GMT",
-      "hatena_count": 364
+      "hatena_count": 365
     },
     {
       "id": "zenn-07aa176070",
@@ -173,6 +173,20 @@
       "hatena_count": 3
     },
     {
+      "id": "zenn-3483494854",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Claude Desktop 開発のすゝめ",
+      "url": "https://zenn.dev/peoplex_blog/articles/vscode-to-claude-desktop",
+      "score": 3,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 17 Nov 2026 03:41:36 GMT",
+      "hatena_count": 3
+    },
+    {
       "id": "zenn-9b661c6620",
       "source": "sns",
       "sub_source": "Zenn",
@@ -232,35 +246,6 @@
       "hatena_count": 3
     },
     {
-      "id": "ipa-3630a63272",
-      "source": "ipa",
-      "title": "Oracle Java の脆弱性対策について(2026年11月)",
-      "url": "https://www.ipa.go.jp/security/security-alert/2026/1118-jre.html",
-      "score": 2,
-      "author": "IPA",
-      "tags": [
-        "IPA",
-        "セキュリティ"
-      ],
-      "severity": "medium",
-      "date": "2026-11-18T00:00:00+09:00",
-      "hatena_count": 2
-    },
-    {
-      "id": "zenn-3483494854",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Claude Desktop 開発のすゝめ",
-      "url": "https://zenn.dev/peoplex_blog/articles/vscode-to-claude-desktop",
-      "score": 2,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 17 Nov 2026 03:41:36 GMT",
-      "hatena_count": 2
-    },
-    {
       "id": "zenn-ffcb738412",
       "source": "sns",
       "sub_source": "Zenn",
@@ -288,6 +273,21 @@
       ],
       "date": "Mon, 02 Nov 2026 08:30:18 +0000",
       "hatena_count": 2
+    },
+    {
+      "id": "ipa-3630a63272",
+      "source": "ipa",
+      "title": "Oracle Java の脆弱性対策について(2026年11月)",
+      "url": "https://www.ipa.go.jp/security/security-alert/2026/1118-jre.html",
+      "score": 1,
+      "author": "IPA",
+      "tags": [
+        "IPA",
+        "セキュリティ"
+      ],
+      "severity": "medium",
+      "date": "2026-11-18T00:00:00+09:00",
+      "hatena_count": 1
     },
     {
       "id": "qiita-c2a965d741",
