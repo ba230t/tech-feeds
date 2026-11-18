@@ -21,13 +21,13 @@
       "sub_source": "Zenn",
       "title": "おい、 Mutation Test をやれ。テスト品質を、測るために",
       "url": "https://zenn.dev/mizchi/articles/mutation-test-quality",
-      "score": 372,
+      "score": 373,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 17 Nov 2026 09:53:47 GMT",
-      "hatena_count": 372
+      "hatena_count": 373
     },
     {
       "id": "zenn-07aa176070",
@@ -49,13 +49,13 @@
       "sub_source": "Zenn",
       "title": "GitHub IssueにArtifactとしてHTMLとMarkdownを添付できるようになった",
       "url": "https://zenn.dev/kesin11/articles/20261114_github_issue_artifact",
-      "score": 94,
+      "score": 95,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sun, 15 Nov 2026 23:00:07 GMT",
-      "hatena_count": 94
+      "hatena_count": 95
     },
     {
       "id": "zenn-bea85b5ab6",
@@ -106,13 +106,13 @@
       "sub_source": "Zenn",
       "title": "最近、コードを真面目に読まなくなった",
       "url": "https://zenn.dev/hiromoo/articles/reading-less-preparing-more",
-      "score": 27,
+      "score": 28,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 16 Nov 2026 15:24:23 GMT",
-      "hatena_count": 27
+      "hatena_count": 28
     },
     {
       "id": "ipa-3630a63272",
@@ -159,18 +159,32 @@
       "hatena_count": 21
     },
     {
+      "id": "zenn-61a940e7c3",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "ローカルLLM入門",
+      "url": "https://zenn.dev/port_inc/articles/ff974c7456f4db",
+      "score": 18,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 17 Nov 2026 07:17:24 GMT",
+      "hatena_count": 18
+    },
+    {
       "id": "zenn-b225a7e395",
       "source": "sns",
       "sub_source": "Zenn",
       "title": "tsrs を導入したら oxlint の type-aware linting と typecheck が爆速になった話",
       "url": "https://zenn.dev/dress_code/articles/6c179ae5129131",
-      "score": 16,
+      "score": 17,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 18 Nov 2026 07:00:06 GMT",
-      "hatena_count": 16
+      "hatena_count": 17
     },
     {
       "id": "zenn-5b1d35f664",
@@ -185,20 +199,6 @@
       ],
       "date": "Mon, 16 Nov 2026 08:00:05 GMT",
       "hatena_count": 15
-    },
-    {
-      "id": "zenn-61a940e7c3",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "ローカルLLM入門",
-      "url": "https://zenn.dev/port_inc/articles/ff974c7456f4db",
-      "score": 13,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 17 Nov 2026 07:17:24 GMT",
-      "hatena_count": 13
     },
     {
       "id": "zenn-3483494854",
