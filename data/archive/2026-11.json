@@ -21,13 +21,13 @@
       "sub_source": "Zenn",
       "title": "おい、 Mutation Test をやれ。テスト品質を、測るために",
       "url": "https://zenn.dev/mizchi/articles/mutation-test-quality",
-      "score": 361,
+      "score": 363,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 17 Nov 2026 09:53:47 GMT",
-      "hatena_count": 361
+      "hatena_count": 363
     },
     {
       "id": "zenn-07aa176070",
@@ -35,13 +35,13 @@
       "sub_source": "Zenn",
       "title": "毎月6,000 AI Agentsを捌くためにキーボードを捨てた話",
       "url": "https://zenn.dev/andoshin11/articles/ba68b39ef9a8ce",
-      "score": 113,
+      "score": 115,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 17 Nov 2026 03:13:36 GMT",
-      "hatena_count": 113
+      "hatena_count": 115
     },
     {
       "id": "zenn-20d00e30b0",
@@ -275,6 +275,21 @@
       "hatena_count": 2
     },
     {
+      "id": "ipa-3630a63272",
+      "source": "ipa",
+      "title": "Oracle Java の脆弱性対策について(2026年11月)",
+      "url": "https://www.ipa.go.jp/security/security-alert/2026/1118-jre.html",
+      "score": 1,
+      "author": "IPA",
+      "tags": [
+        "IPA",
+        "セキュリティ"
+      ],
+      "severity": "medium",
+      "date": "2026-11-18T00:00:00+09:00",
+      "hatena_count": 1
+    },
+    {
       "id": "qiita-c2a965d741",
       "source": "sns",
       "sub_source": "Qiita",
@@ -286,21 +301,6 @@
         "Qiita"
       ],
       "date": "2026-11-17T09:58:19+09:00",
-      "hatena_count": 1
-    },
-    {
-      "id": "qiita-f141bfba0d",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "今週中に対応すべき脆弱性 6 つ。Outlook・Chrome・Edge・VPN 機器は悪用あり、iPhone・Mac・SonicWall は今週が期限（11/16〜11/22）",
-      "url": "https://qiita.com/songchong/items/75bf50a67ca5370ec6bf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 1,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-16T03:58:36+09:00",
-      "severity": "high",
       "hatena_count": 1
     }
   ],
