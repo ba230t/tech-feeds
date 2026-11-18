@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T03:33:14.319449+00:00",
+  "updated_at": "2026-11-18T04:06:13.952979+00:00",
   "count": 500,
   "items": [
     {
@@ -522,13 +522,13 @@
       "sub_source": "Qiita",
       "title": "部下がClaudeっぽいスライドしか出してこなくてウンザリしてる上司はこれを使わせなさい",
       "url": "https://qiita.com/nuco_d/items/b279477cbcdbe5921abd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
+      "score": 1,
       "author": "Qiita",
       "tags": [
         "Qiita"
       ],
       "date": "2026-11-17T09:58:19+09:00",
-      "hatena_count": 0
+      "hatena_count": 1
     },
     {
       "id": "qiita-523608d802",
@@ -6695,13 +6695,13 @@
       "sub_source": "Zenn",
       "title": "おい、 Mutation Test をやれ。テスト品質を、測るために",
       "url": "https://zenn.dev/mizchi/articles/mutation-test-quality",
-      "score": 349,
+      "score": 353,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 17 Nov 2026 09:53:47 GMT",
-      "hatena_count": 349
+      "hatena_count": 353
     },
     {
       "id": "zenn-f4c7185665",
@@ -6723,13 +6723,13 @@
       "sub_source": "Zenn",
       "title": "ローカルLLM入門",
       "url": "https://zenn.dev/port_inc/articles/ff974c7456f4db",
-      "score": 1,
+      "score": 3,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 17 Nov 2026 07:17:24 GMT",
-      "hatena_count": 1
+      "hatena_count": 3
     },
     {
       "id": "zenn-848b5868f3",
@@ -6765,13 +6765,13 @@
       "sub_source": "Zenn",
       "title": "毎月6,000 AI Agentsを捌くためにキーボードを捨てた話",
       "url": "https://zenn.dev/andoshin11/articles/ba68b39ef9a8ce",
-      "score": 106,
+      "score": 111,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 17 Nov 2026 03:13:36 GMT",
-      "hatena_count": 106
+      "hatena_count": 111
     },
     {
       "id": "zenn-ec11bcb3f0",
@@ -6835,13 +6835,13 @@
       "sub_source": "Zenn",
       "title": "フロントエンドの logic と UI は、エージェントの責任範囲で分けられるのか",
       "url": "https://zenn.dev/xtm_blog/articles/20261116-fd1702b0ba06cd",
-      "score": 25,
+      "score": 30,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 16 Nov 2026 23:00:05 GMT",
-      "hatena_count": 25
+      "hatena_count": 30
     },
     {
       "id": "zenn-794a5d4566",
@@ -6877,13 +6877,13 @@
       "sub_source": "Zenn",
       "title": "物理世界とAIをつなぐ：可視化で学ぶカメラ・座標系・運動制御入門",
       "url": "https://zenn.dev/turing_motors/articles/cea9e3c85611b2",
-      "score": 14,
+      "score": 15,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 16 Nov 2026 08:00:05 GMT",
-      "hatena_count": 14
+      "hatena_count": 15
     },
     {
       "id": "zenn-9a1c1249f1",
@@ -6947,13 +6947,13 @@
       "sub_source": "Zenn",
       "title": "【pstack】AIに敵対的レビューをさせるな。トークンは検証に使え",
       "url": "https://zenn.dev/karamage/articles/5c3f8370b2b370",
-      "score": 126,
+      "score": 127,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 13 Nov 2026 02:48:24 GMT",
-      "hatena_count": 126
+      "hatena_count": 127
     },
     {
       "id": "techracho-7d9e7aecae",
