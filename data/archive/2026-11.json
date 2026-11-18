@@ -120,13 +120,13 @@
       "sub_source": "Zenn",
       "title": "ローカルLLM入門",
       "url": "https://zenn.dev/port_inc/articles/ff974c7456f4db",
-      "score": 28,
+      "score": 29,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 17 Nov 2026 07:17:24 GMT",
-      "hatena_count": 28
+      "hatena_count": 29
     },
     {
       "id": "zenn-ec11bcb3f0",
@@ -147,7 +147,7 @@
       "source": "ipa",
       "title": "Oracle Java の脆弱性対策について(2026年11月)",
       "url": "https://www.ipa.go.jp/security/security-alert/2026/1118-jre.html",
-      "score": 25,
+      "score": 26,
       "author": "IPA",
       "tags": [
         "IPA",
@@ -155,7 +155,7 @@
       ],
       "severity": "medium",
       "date": "2026-11-18T00:00:00+09:00",
-      "hatena_count": 25
+      "hatena_count": 26
     },
     {
       "id": "ipa-ee45d6bd49",
