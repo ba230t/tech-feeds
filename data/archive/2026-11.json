@@ -21,13 +21,13 @@
       "sub_source": "Zenn",
       "title": "おい、 Mutation Test をやれ。テスト品質を、測るために",
       "url": "https://zenn.dev/mizchi/articles/mutation-test-quality",
-      "score": 374,
+      "score": 375,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 17 Nov 2026 09:53:47 GMT",
-      "hatena_count": 374
+      "hatena_count": 375
     },
     {
       "id": "zenn-07aa176070",
@@ -35,13 +35,13 @@
       "sub_source": "Zenn",
       "title": "毎月6,000 AI Agentsを捌くためにキーボードを捨てた話",
       "url": "https://zenn.dev/andoshin11/articles/ba68b39ef9a8ce",
-      "score": 119,
+      "score": 120,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 17 Nov 2026 03:13:36 GMT",
-      "hatena_count": 119
+      "hatena_count": 120
     },
     {
       "id": "zenn-20d00e30b0",
@@ -77,13 +77,13 @@
       "sub_source": "Zenn",
       "title": "最近、コードを真面目に読まなくなった",
       "url": "https://zenn.dev/hiromoo/articles/reading-less-preparing-more",
-      "score": 47,
+      "score": 54,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 16 Nov 2026 15:24:23 GMT",
-      "hatena_count": 47
+      "hatena_count": 54
     },
     {
       "id": "zenn-a7e023f6dd",
@@ -91,13 +91,13 @@
       "sub_source": "Zenn",
       "title": "フロントエンドの logic と UI は、エージェントの責任範囲で分けられるのか",
       "url": "https://zenn.dev/xtm_blog/articles/20261116-fd1702b0ba06cd",
-      "score": 33,
+      "score": 34,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 16 Nov 2026 23:00:05 GMT",
-      "hatena_count": 33
+      "hatena_count": 34
     },
     {
       "id": "techracho-4b67c39e4f",
@@ -120,13 +120,13 @@
       "sub_source": "Zenn",
       "title": "ローカルLLM入門",
       "url": "https://zenn.dev/port_inc/articles/ff974c7456f4db",
-      "score": 27,
+      "score": 28,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 17 Nov 2026 07:17:24 GMT",
-      "hatena_count": 27
+      "hatena_count": 28
     },
     {
       "id": "zenn-ec11bcb3f0",
@@ -178,13 +178,13 @@
       "sub_source": "Zenn",
       "title": "tsrs を導入したら oxlint の type-aware linting と typecheck が爆速になった話",
       "url": "https://zenn.dev/dress_code/articles/6c179ae5129131",
-      "score": 20,
+      "score": 21,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 18 Nov 2026 07:00:06 GMT",
-      "hatena_count": 20
+      "hatena_count": 21
     },
     {
       "id": "zenn-5b1d35f664",
