@@ -1,9 +1,9 @@
 {
   "month": "2026-11",
-  "total_articles": 424,
+  "total_articles": 430,
   "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (1件)**\n\n1. Oracle Java の脆弱性対策について(2026年11月)\n\n**AI・機械学習動向 (4件)**\n\n1. 毎月6,000 AI Agentsを捌くためにキーボードを捨てた話\n\n2. QA生産性を爆上げさせるためのQA AIプラットフォーム構築\n\n3. Rails: DHHがRails World 2026キーノートで「語らなかった」部分とは（翻訳）\n\n4. ローカルLLM入門\n\n**技術トレンド (5件)**\n\n1. おい、 Mutation Test をやれ。テスト品質を、測るために\n\n2. GitHub IssueにArtifactとしてHTMLとMarkdownを添付できるようになった\n\n3. 最近、コードを真面目に読まなくなった\n\n4. フロントエンドの logic と UI は、エージェントの責任範囲で分けられるのか\n\n5. mise + gh skill で、dotfiles から Agent Skills を管理する",
   "source_counts": {
-    "sns": 357,
+    "sns": 363,
     "jpcert": 54,
     "ipa": 3,
     "techracho": 10
@@ -49,13 +49,13 @@
       "sub_source": "Zenn",
       "title": "GitHub IssueにArtifactとしてHTMLとMarkdownを添付できるようになった",
       "url": "https://zenn.dev/kesin11/articles/20261114_github_issue_artifact",
-      "score": 95,
+      "score": 96,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sun, 15 Nov 2026 23:00:07 GMT",
-      "hatena_count": 95
+      "hatena_count": 96
     },
     {
       "id": "zenn-bea85b5ab6",
@@ -77,13 +77,13 @@
       "sub_source": "Zenn",
       "title": "最近、コードを真面目に読まなくなった",
       "url": "https://zenn.dev/hiromoo/articles/reading-less-preparing-more",
-      "score": 58,
+      "score": 59,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 16 Nov 2026 15:24:23 GMT",
-      "hatena_count": 58
+      "hatena_count": 59
     },
     {
       "id": "zenn-a7e023f6dd",
@@ -91,13 +91,13 @@
       "sub_source": "Zenn",
       "title": "フロントエンドの logic と UI は、エージェントの責任範囲で分けられるのか",
       "url": "https://zenn.dev/xtm_blog/articles/20261116-fd1702b0ba06cd",
-      "score": 34,
+      "score": 35,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 16 Nov 2026 23:00:05 GMT",
-      "hatena_count": 34
+      "hatena_count": 35
     },
     {
       "id": "techracho-4b67c39e4f",

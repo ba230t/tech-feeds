@@ -1,7 +1,35 @@
 {
-  "updated_at": "2026-11-18T20:05:57.902848+00:00",
+  "updated_at": "2026-11-18T20:33:33.506765+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "qiita-2f4a7defd4",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "AWS JumpStart2026参加レポート",
+      "url": "https://qiita.com/inorin__62/items/68fcb017ab4b6bfd9c08?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-18T23:12:33+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-a573a3b8e0",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "GPT-6.2 Astra vs Fable 5.2で3Dモデル生成対決！",
+      "url": "https://qiita.com/7mpy/items/6a9ce87b576063f68d71?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-18T21:11:09+09:00",
+      "hatena_count": 0
+    },
     {
       "id": "qiita-38f07a8eca",
       "source": "sns",
@@ -14,6 +42,20 @@
         "Qiita"
       ],
       "date": "2026-11-18T15:51:25+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-de43b61454",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "人間がボトルネックになった時代のAIエージェント設計",
+      "url": "https://qiita.com/Syoitu/items/5bb47c01a8513e52d1b5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-18T14:37:05+09:00",
       "hatena_count": 0
     },
     {
@@ -475,6 +517,20 @@
       "hatena_count": 0
     },
     {
+      "id": "qiita-eb595281a9",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "RAGの「分からない」と参照元を自動検証するPython評価スクリプトの作り方",
+      "url": "https://qiita.com/takumi_engineer/items/8287c5fb775d834086a4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-18T09:00:10+09:00",
+      "hatena_count": 0
+    },
+    {
       "id": "qiita-16748cf30a",
       "source": "sns",
       "sub_source": "Qiita",
@@ -672,6 +728,20 @@
       "hatena_count": 0
     },
     {
+      "id": "qiita-dd31697c3d",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "【ポエム】コミュニティ参加が本業に活かされなくても、他者と比べず気にせず気長に構えよう",
+      "url": "https://qiita.com/sadabon444/items/1d64e5260d31e4644601?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-17T13:21:13+09:00",
+      "hatena_count": 0
+    },
+    {
       "id": "qiita-22ffacc800",
       "source": "sns",
       "sub_source": "Qiita",
@@ -725,6 +795,20 @@
         "Qiita"
       ],
       "date": "2026-11-17T11:34:02+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-9f5331fe37",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "マルチテナントRAGの検索で他社文書が混ざらないかをpytestで自動検査する",
+      "url": "https://qiita.com/takumi_engineer/items/461472ef70735d1196be?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-17T11:14:23+09:00",
       "hatena_count": 0
     },
     {
@@ -6259,92 +6343,6 @@
       "hatena_count": 0
     },
     {
-      "id": "qiita-52603f0628",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "WordPressの脆弱性「wp2shell」を狙った攻撃の観測",
-      "url": "https://qiita.com/melkihara/items/8bb5e61321066be53d83?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-30T14:00:30+09:00",
-      "severity": "high",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-b6c4c9fd3f",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "Codex のいいところだけを、Claude Code や Muse から使う",
-      "url": "https://qiita.com/tatsuya582/items/4d79021c9f78f4015992?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-30T12:58:43+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-d3efbf443d",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "−20の恐怖が+100の利益を消す ― 損失回避と機関のインセンティブ : システム設計視点の行動経済学 (52)",
-      "url": "https://qiita.com/maskot1977/items/910811e6837af1db8165?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-30T12:45:16+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-d2a17e9ada",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "0から学ぶセキュリティの基礎　~XSS編~",
-      "url": "https://qiita.com/Pigeon_gate/items/3ce4e1c1a39db64c5c32?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-30T11:24:34+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-12b8fc5a75",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "PostgreSQLで子テーブルへのINSERT後にFOR UPDATEすると、外部キーのロックでデッドロックする理由",
-      "url": "https://qiita.com/shusaku009/items/eb96123c2a0a9008c431?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-30T10:50:28+09:00",
-      "severity": "medium",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-05e9ca3a2d",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "耳で聞く！Python で学ぶ マクロ経済学 入門 38",
-      "url": "https://qiita.com/maskot1977/items/0d1584080ce9733c48b1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-30T09:45:17+09:00",
-      "hatena_count": 0
-    },
-    {
       "id": "jpcert-30cd0d7475",
       "source": "jpcert",
       "title": "注意喚起: PHPにおける複数の脆弱性（CVE-2026-109618、CVE-2026-109619）に関する注意喚起  (更新)",
@@ -6862,13 +6860,13 @@
       "sub_source": "Zenn",
       "title": "フロントエンドの logic と UI は、エージェントの責任範囲で分けられるのか",
       "url": "https://zenn.dev/xtm_blog/articles/20261116-fd1702b0ba06cd",
-      "score": 34,
+      "score": 35,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 16 Nov 2026 23:00:05 GMT",
-      "hatena_count": 34
+      "hatena_count": 35
     },
     {
       "id": "zenn-0ad39bac5f",
@@ -6876,13 +6874,13 @@
       "sub_source": "Zenn",
       "title": "最近、コードを真面目に読まなくなった",
       "url": "https://zenn.dev/hiromoo/articles/reading-less-preparing-more",
-      "score": 58,
+      "score": 59,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 16 Nov 2026 15:24:23 GMT",
-      "hatena_count": 58
+      "hatena_count": 59
     },
     {
       "id": "zenn-794a5d4566",
@@ -6946,13 +6944,13 @@
       "sub_source": "Zenn",
       "title": "GitHub IssueにArtifactとしてHTMLとMarkdownを添付できるようになった",
       "url": "https://zenn.dev/kesin11/articles/20261114_github_issue_artifact",
-      "score": 95,
+      "score": 96,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sun, 15 Nov 2026 23:00:07 GMT",
-      "hatena_count": 95
+      "hatena_count": 96
     },
     {
       "id": "techracho-7d9e7aecae",
