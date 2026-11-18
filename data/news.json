@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T06:08:51.190874+00:00",
+  "updated_at": "2026-11-18T06:39:17.507442+00:00",
   "count": 500,
   "items": [
     {
@@ -6676,6 +6676,34 @@
       "hatena_count": 0
     },
     {
+      "id": "zenn-aafa5150b4",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Kaggle 膝コンペ振り返り & 上位解法まとめ | RSNA Knee Abnormality Detection",
+      "url": "https://zenn.dev/ca_kagglers/articles/kaggle-rsna-knee",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 17 Nov 2026 14:09:17 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-5260732c47",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "決済という機能を実装するのは容易だが、思っていたより考えることが多かった",
+      "url": "https://zenn.dev/chot/articles/1297582ee96341",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 17 Nov 2026 11:22:51 GMT",
+      "hatena_count": 0
+    },
+    {
       "id": "zenn-f0a46c9c13",
       "source": "sns",
       "sub_source": "Zenn",
@@ -6730,6 +6758,34 @@
       ],
       "date": "Tue, 17 Nov 2026 07:17:24 GMT",
       "hatena_count": 3
+    },
+    {
+      "id": "zenn-8f7415f842",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "AI時代の生産性を考える",
+      "url": "https://zenn.dev/mediaforce/articles/b7075a9e04e871",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 17 Nov 2026 07:12:18 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-777d2696fe",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "エージェントの自律性を上げると、何が得られて何を失うか —— 助言・承認付き実行・自律実行を実測する",
+      "url": "https://zenn.dev/enterprise_ai/articles/1b1f34af88fb8f",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 17 Nov 2026 06:51:14 GMT",
+      "hatena_count": 0
     },
     {
       "id": "zenn-848b5868f3",
@@ -6788,62 +6844,6 @@
       "hatena_count": 24
     },
     {
-      "id": "zenn-d090aef4c0",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "OpenTelemetry×Cloudflareで組織のClaude Code利用ログを収集する",
-      "url": "https://zenn.dev/gemcook/articles/claude-code-otel-cloudflare",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 17 Nov 2026 02:35:22 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-cb0a34be62",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "お問い合わせの8割を、AIボットが解決するようになった話",
-      "url": "https://zenn.dev/rimo/articles/701d18b7764669",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 17 Nov 2026 01:05:13 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-022387e7aa",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "スマホ内蔵のセンサーを使って周辺光取得を試す",
-      "url": "https://zenn.dev/aldagram_tech/articles/f7b57935e31070",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 17 Nov 2026 00:37:04 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-a7e023f6dd",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "フロントエンドの logic と UI は、エージェントの責任範囲で分けられるのか",
-      "url": "https://zenn.dev/xtm_blog/articles/20261116-fd1702b0ba06cd",
-      "score": 31,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 16 Nov 2026 23:00:05 GMT",
-      "hatena_count": 31
-    },
-    {
       "id": "zenn-794a5d4566",
       "source": "sns",
       "sub_source": "Zenn",
@@ -6884,6 +6884,20 @@
       ],
       "date": "Mon, 16 Nov 2026 08:00:05 GMT",
       "hatena_count": 15
+    },
+    {
+      "id": "zenn-ffcb738412",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "CSS では書きにくいアニメーションを Web Animations API で書く",
+      "url": "https://zenn.dev/omu_tryangle/articles/b5817393592229",
+      "score": 2,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 16 Nov 2026 06:35:01 GMT",
+      "hatena_count": 2
     },
     {
       "id": "zenn-9a1c1249f1",
@@ -6940,20 +6954,6 @@
       ],
       "date": "Sat, 14 Nov 2026 07:12:52 GMT",
       "hatena_count": 3
-    },
-    {
-      "id": "zenn-4773a6c123",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "【pstack】AIに敵対的レビューをさせるな。トークンは検証に使え",
-      "url": "https://zenn.dev/karamage/articles/5c3f8370b2b370",
-      "score": 127,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 13 Nov 2026 02:48:24 GMT",
-      "hatena_count": 127
     },
     {
       "id": "techracho-7d9e7aecae",
