@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T09:33:44.887285+00:00",
+  "updated_at": "2026-11-18T10:05:38.123537+00:00",
   "count": 500,
   "items": [
     {
@@ -521,7 +521,7 @@
       "source": "ipa",
       "title": "Oracle Java の脆弱性対策について(2026年11月)",
       "url": "https://www.ipa.go.jp/security/security-alert/2026/1118-jre.html",
-      "score": 4,
+      "score": 9,
       "author": "IPA",
       "tags": [
         "IPA",
@@ -529,7 +529,7 @@
       ],
       "severity": "medium",
       "date": "2026-11-18T00:00:00+09:00",
-      "hatena_count": 4
+      "hatena_count": 9
     },
     {
       "id": "qiita-f4c5c8e0a1",
@@ -6778,13 +6778,13 @@
       "sub_source": "Zenn",
       "title": "エージェントの自律性を上げると、何が得られて何を失うか —— 助言・承認付き実行・自律実行を実測する",
       "url": "https://zenn.dev/enterprise_ai/articles/1b1f34af88fb8f",
-      "score": 0,
+      "score": 1,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 17 Nov 2026 06:51:14 GMT",
-      "hatena_count": 0
+      "hatena_count": 1
     },
     {
       "id": "zenn-848b5868f3",
@@ -6890,13 +6890,13 @@
       "sub_source": "Zenn",
       "title": "CSS では書きにくいアニメーションを Web Animations API で書く",
       "url": "https://zenn.dev/omu_tryangle/articles/b5817393592229",
-      "score": 2,
+      "score": 4,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 16 Nov 2026 06:35:01 GMT",
-      "hatena_count": 2
+      "hatena_count": 4
     },
     {
       "id": "zenn-9a1c1249f1",
