@@ -1,7 +1,367 @@
 {
-  "updated_at": "2026-11-18T00:13:20.678817+00:00",
+  "updated_at": "2026-11-18T00:47:15.285241+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "jpcert-c46b4e920c",
+      "source": "jpcert",
+      "title": "Weekly Report: N-able N-centralに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#1",
+      "score": 0,
+      "author": "JPCERT/CC",
+      "tags": [
+        "JPCERT",
+        "セキュリティ"
+      ],
+      "severity": "info",
+      "date": "2026-11-18T09:15+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "jpcert-b6c58bf59b",
+      "source": "jpcert",
+      "title": "Weekly Report: ImageMagickを利用したアプリケーションに任意のファイルの読み書きなどにつながる脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#2",
+      "score": 0,
+      "author": "JPCERT/CC",
+      "tags": [
+        "JPCERT",
+        "セキュリティ"
+      ],
+      "severity": "info",
+      "date": "2026-11-18T09:15+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "jpcert-a940170082",
+      "source": "jpcert",
+      "title": "Weekly Report: Synology DiskStation Managerに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#3",
+      "score": 0,
+      "author": "JPCERT/CC",
+      "tags": [
+        "JPCERT",
+        "セキュリティ"
+      ],
+      "severity": "info",
+      "date": "2026-11-18T09:15+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "jpcert-720188f4c5",
+      "source": "jpcert",
+      "title": "Weekly Report: 複数のApple製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#4",
+      "score": 0,
+      "author": "JPCERT/CC",
+      "tags": [
+        "JPCERT",
+        "セキュリティ"
+      ],
+      "severity": "info",
+      "date": "2026-11-18T09:15+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "jpcert-b3cb60ee6b",
+      "source": "jpcert",
+      "title": "Weekly Report: PostgreSQLに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#5",
+      "score": 0,
+      "author": "JPCERT/CC",
+      "tags": [
+        "JPCERT",
+        "セキュリティ"
+      ],
+      "severity": "info",
+      "date": "2026-11-18T09:15+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "jpcert-af833bc90e",
+      "source": "jpcert",
+      "title": "Weekly Report: Apache HTTP Server 2.4に複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#6",
+      "score": 0,
+      "author": "JPCERT/CC",
+      "tags": [
+        "JPCERT",
+        "セキュリティ"
+      ],
+      "severity": "info",
+      "date": "2026-11-18T09:15+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "jpcert-fdc02be6de",
+      "source": "jpcert",
+      "title": "Weekly Report: 複数のIntel製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#7",
+      "score": 0,
+      "author": "JPCERT/CC",
+      "tags": [
+        "JPCERT",
+        "セキュリティ"
+      ],
+      "severity": "info",
+      "date": "2026-11-18T09:15+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "jpcert-b1e57e8af1",
+      "source": "jpcert",
+      "title": "Weekly Report: Movable Typeにコードインジェクションの脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#8",
+      "score": 0,
+      "author": "JPCERT/CC",
+      "tags": [
+        "JPCERT",
+        "セキュリティ"
+      ],
+      "severity": "info",
+      "date": "2026-11-18T09:15+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "jpcert-38ad3fd7c5",
+      "source": "jpcert",
+      "title": "Weekly Report: OpenSSLに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#9",
+      "score": 0,
+      "author": "JPCERT/CC",
+      "tags": [
+        "JPCERT",
+        "セキュリティ"
+      ],
+      "severity": "info",
+      "date": "2026-11-18T09:15+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "jpcert-f3f9df2fdf",
+      "source": "jpcert",
+      "title": "Weekly Report: React Server Componentsに任意のコード実行につながる脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#10",
+      "score": 0,
+      "author": "JPCERT/CC",
+      "tags": [
+        "JPCERT",
+        "セキュリティ"
+      ],
+      "severity": "info",
+      "date": "2026-11-18T09:15+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "jpcert-d27713d478",
+      "source": "jpcert",
+      "title": "Weekly Report: Node.jsに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#11",
+      "score": 0,
+      "author": "JPCERT/CC",
+      "tags": [
+        "JPCERT",
+        "セキュリティ"
+      ],
+      "severity": "info",
+      "date": "2026-11-18T09:15+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "jpcert-b175067b45",
+      "source": "jpcert",
+      "title": "Weekly Report: MongoDBに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#12",
+      "score": 0,
+      "author": "JPCERT/CC",
+      "tags": [
+        "JPCERT",
+        "セキュリティ"
+      ],
+      "severity": "info",
+      "date": "2026-11-18T09:15+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "jpcert-28161cba50",
+      "source": "jpcert",
+      "title": "Weekly Report: 複数のPalo Alto Networks製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#13",
+      "score": 0,
+      "author": "JPCERT/CC",
+      "tags": [
+        "JPCERT",
+        "セキュリティ"
+      ],
+      "severity": "info",
+      "date": "2026-11-18T09:15+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "jpcert-6786e10b39",
+      "source": "jpcert",
+      "title": "Weekly Report: Atlassian Confluence Data Centerに任意のコード実行の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#14",
+      "score": 0,
+      "author": "JPCERT/CC",
+      "tags": [
+        "JPCERT",
+        "セキュリティ"
+      ],
+      "severity": "info",
+      "date": "2026-11-18T09:15+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "jpcert-26d5c52d4b",
+      "source": "jpcert",
+      "title": "Weekly Report: Gitに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#15",
+      "score": 0,
+      "author": "JPCERT/CC",
+      "tags": [
+        "JPCERT",
+        "セキュリティ"
+      ],
+      "severity": "info",
+      "date": "2026-11-18T09:15+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "jpcert-3d2b1c6904",
+      "source": "jpcert",
+      "title": "Weekly Report: 複数のAdobe製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#16",
+      "score": 0,
+      "author": "JPCERT/CC",
+      "tags": [
+        "JPCERT",
+        "セキュリティ"
+      ],
+      "severity": "info",
+      "date": "2026-11-18T09:15+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "jpcert-f8ab01062d",
+      "source": "jpcert",
+      "title": "Weekly Report: 複数のIvanti製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#17",
+      "score": 0,
+      "author": "JPCERT/CC",
+      "tags": [
+        "JPCERT",
+        "セキュリティ"
+      ],
+      "severity": "info",
+      "date": "2026-11-18T09:15+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "jpcert-36f4033d9d",
+      "source": "jpcert",
+      "title": "Weekly Report: 複数のMozilla製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#18",
+      "score": 0,
+      "author": "JPCERT/CC",
+      "tags": [
+        "JPCERT",
+        "セキュリティ"
+      ],
+      "severity": "info",
+      "date": "2026-11-18T09:15+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "jpcert-f579d165ae",
+      "source": "jpcert",
+      "title": "Weekly Report: 複数のFortinet製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#19",
+      "score": 0,
+      "author": "JPCERT/CC",
+      "tags": [
+        "JPCERT",
+        "セキュリティ"
+      ],
+      "severity": "info",
+      "date": "2026-11-18T09:15+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "jpcert-ffb8a36cc4",
+      "source": "jpcert",
+      "title": "Weekly Report: Google Chromeに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#20",
+      "score": 0,
+      "author": "JPCERT/CC",
+      "tags": [
+        "JPCERT",
+        "セキュリティ"
+      ],
+      "severity": "info",
+      "date": "2026-11-18T09:15+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "jpcert-5fa5b2fba4",
+      "source": "jpcert",
+      "title": "Weekly Report: SS1／SS1クラウドおよびそのODM製品rocoeyesにおける複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#21",
+      "score": 0,
+      "author": "JPCERT/CC",
+      "tags": [
+        "JPCERT",
+        "セキュリティ"
+      ],
+      "severity": "info",
+      "date": "2026-11-18T09:15+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "jpcert-9c88186a91",
+      "source": "jpcert",
+      "title": "Weekly Report: WebSAM WinShareにおける複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#22",
+      "score": 0,
+      "author": "JPCERT/CC",
+      "tags": [
+        "JPCERT",
+        "セキュリティ"
+      ],
+      "severity": "info",
+      "date": "2026-11-18T09:15+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "jpcert-1df7bffaac",
+      "source": "jpcert",
+      "title": "Weekly Report: KUSANAGIにおけるHTTPヘッダーインジェクションの脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#23",
+      "score": 0,
+      "author": "JPCERT/CC",
+      "tags": [
+        "JPCERT",
+        "セキュリティ"
+      ],
+      "severity": "info",
+      "date": "2026-11-18T09:15+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "jpcert-6cb1e1641e",
+      "source": "jpcert",
+      "title": "Weekly Report: JPCERT/CCが「インシデント調査報告書チェックリスト」を公開",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#24",
+      "score": 0,
+      "author": "JPCERT/CC",
+      "tags": [
+        "JPCERT",
+        "セキュリティ"
+      ],
+      "severity": "info",
+      "date": "2026-11-18T09:15+09:00",
+      "hatena_count": 0
+    },
     {
       "id": "qiita-f4c5c8e0a1",
       "source": "sns",
@@ -5986,342 +6346,6 @@
       "hatena_count": 0
     },
     {
-      "id": "qiita-0dfae82e00",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "Orchestrator型 vs 自己組織化型 ― Microsoft Research の OSS「Agensh」から考える、Agentic Workflow の行き先",
-      "url": "https://qiita.com/shahin0809/items/145266dc899e8b490e59?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-29T11:47:47+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-f91339ef24",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "Oracle AI World 2026、結局何が発表された？ 忙しい人のためのAI・データ・基盤ざっくり整理",
-      "url": "https://qiita.com/mo__mo/items/1476a4dc4d668c164818?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-29T11:37:58+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-02fb4b2cd9",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "パスキーはなぜ偽サイトに強い？登録とログインの流れを図で追う",
-      "url": "https://qiita.com/kuma_3838/items/1781531150821e2f0491?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-29T09:59:26+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-2d772e41c6",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "AIと結合テスト自動化で進める、具体と抽象の反復開発",
-      "url": "https://qiita.com/sc-sato/items/f92bcb49308a70633c59?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-29T09:42:04+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-5079847344",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "eMudhra の証明書の鍵流出、Windows の curl は止めたが、古い Git for Windows の git はまだ通していた",
-      "url": "https://qiita.com/suwa_nobu/items/f4ace5aa4354ce36cd98?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-29T08:40:07+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-08396957f0",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "Jev にゲームをプレイさせてみたい！",
-      "url": "https://qiita.com/yu-Matsu/items/5c0915a70cc3afba4552?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-29T08:05:00+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-d53a34aeac",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "【Oracle】OAW2026 アプリケーションのセキュリティは、アプリケーションコードを書かずAPEXlangで守る",
-      "url": "https://qiita.com/nisshii0/items/d68f789f6c9f9b6307a7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-29T07:15:00+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-75d6386bfa",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "『オントロジー入門」基礎理論から、Databricks OntoBricksによる構築・AI連携までを解説",
-      "url": "https://qiita.com/mellowlaunch/items/11d13241abce58e9f65a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-29T07:10:49+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-895af0823c",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "沈黙させられた問いを起動する ― 多文化共生の強制という設計バグ : システム設計視点の行動経済学 (51)",
-      "url": "https://qiita.com/maskot1977/items/493e792d3af3d66314b6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-29T07:06:13+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-a2301a7c1f",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "崖っぷちから這い上がる",
-      "url": "https://qiita.com/yukmaru/items/3f9f6124a64b5101cee5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-29T01:28:23+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-565ffe262e",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "「AIっぽいデザイン」はなぜ消えないのか ── Impeccableを読み解いて、同じ依頼で4通り作って比べてみた",
-      "url": "https://qiita.com/jinxin4869/items/0e72c0b925b75f1c28c9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-28T23:53:27+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-8e73bc7bfb",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "GA4 のイベントが「gtag.js の読み込み前」に静かに消えていた：Next.js の2サイトで見つけた3つの壊れ方と直し方",
-      "url": "https://qiita.com/yamadagenki/items/d35d769e9771997de3be?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-28T21:08:10+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-811eeef001",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "【Delphi】タスクバーボタンにジャンプリストを表示する",
-      "url": "https://qiita.com/ht_deko/items/3d660c9c78d87e6c5b9c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-28T18:28:17+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-3e554a8904",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "AIに任せる前に、情報の置き方を変える｜10/29のQiitaトレンド20本をポッドキャストで",
-      "url": "https://qiita.com/ennagara128/items/7b149acc0ae4e43471cf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-28T17:45:15+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-766a949fad",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "Devinに「超大作プロンプト」を一発で投げてはいけない──初月でACUを溶かして学んだ、AIエージェントとの正しい向き合い方",
-      "url": "https://qiita.com/saematsu/items/caaf0ea803b71ff1ef42?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-28T16:57:36+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-4279418e1a",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "デスクトップに置いて、AIからも操作できるタスク管理アプリを作った",
-      "url": "https://qiita.com/GpAraki/items/6aa0ff0c287486e82960?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-28T16:10:22+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-82b368fac6",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "1,000ファイルの言語移行をAIとASTトランスパイラで完遂した話：LLMの「評価の抜け道」とどう戦ったか",
-      "url": "https://qiita.com/dev-hasegawa/items/79f612c5a4e6c874eaa9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-28T15:04:47+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-f1a92e434e",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "Azure VM サイズ変換～SCSI から NVMe 必須の v6 シリーズへ移行する際の前提と手順～",
-      "url": "https://qiita.com/MasakiKakimoto/items/9356d8820157c32ad955?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-28T12:35:01+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-08fcedeb69",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "AIエージェントをEnterprise Readyへ：IBM TechXchange 2026 Atlanta ジェネラルセッションまとめ",
-      "url": "https://qiita.com/mizuk1013/items/9d206626286addba08ff?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-28T12:30:05+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-dbf40478ac",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "New Relic アップデート(2026年9月)",
-      "url": "https://qiita.com/nr-mito/items/c659893ddfd2f268b71a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-28T12:09:01+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-0e107b0035",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "異種RDBの論理統合環境を実現するOracle Live AI Hub",
-      "url": "https://qiita.com/ksonoda/items/3604f18af47dd66ab652?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-28T12:02:36+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-bb23407872",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "【脱VSCode】大学鯖が悲鳴を上げているので、Zedへ完全移行する手順をまとめた",
-      "url": "https://qiita.com/ToraMutton/items/6353f1835ab66b1e517f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-28T12:00:01+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-5365106211",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "研修中の僕がSlackに海外のIT情報を運ぶbotを作ったら、だいたい何が起きたか",
-      "url": "https://qiita.com/EricYu/items/147bf8e5fdb1b04f6d54?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-28T11:44:24+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-326075a967",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "Oracle IntegrationのMCP Gatewayで専用ゲートウェイ認可を使ってみた",
-      "url": "https://qiita.com/nakasato310/items/3f484a09a4e1ce454eb8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-28T11:37:57+09:00",
-      "hatena_count": 0
-    },
-    {
       "id": "jpcert-382a807b6d",
       "source": "jpcert",
       "title": "注意喚起: BrotliのC言語実装における境界外書き込みの脆弱性（CVE-2026-111497）に関する注意喚起  (公開)",
@@ -6671,13 +6695,13 @@
       "sub_source": "Zenn",
       "title": "おい、 Mutation Test をやれ。テスト品質を、測るために",
       "url": "https://zenn.dev/mizchi/articles/mutation-test-quality",
-      "score": 313,
+      "score": 327,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 17 Nov 2026 09:53:47 GMT",
-      "hatena_count": 313
+      "hatena_count": 327
     },
     {
       "id": "zenn-f4c7185665",
@@ -6741,13 +6765,13 @@
       "sub_source": "Zenn",
       "title": "毎月6,000 AI Agentsを捌くためにキーボードを捨てた話",
       "url": "https://zenn.dev/andoshin11/articles/ba68b39ef9a8ce",
-      "score": 95,
+      "score": 98,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 17 Nov 2026 03:13:36 GMT",
-      "hatena_count": 95
+      "hatena_count": 98
     },
     {
       "id": "zenn-ec11bcb3f0",
@@ -6811,13 +6835,13 @@
       "sub_source": "Zenn",
       "title": "フロントエンドの logic と UI は、エージェントの責任範囲で分けられるのか",
       "url": "https://zenn.dev/xtm_blog/articles/20261116-fd1702b0ba06cd",
-      "score": 15,
+      "score": 19,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 16 Nov 2026 23:00:05 GMT",
-      "hatena_count": 15
+      "hatena_count": 19
     },
     {
       "id": "zenn-bea85b5ab6",
@@ -6839,13 +6863,13 @@
       "sub_source": "Zenn",
       "title": "物理世界とAIをつなぐ：可視化で学ぶカメラ・座標系・運動制御入門",
       "url": "https://zenn.dev/turing_motors/articles/cea9e3c85611b2",
-      "score": 13,
+      "score": 14,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 16 Nov 2026 08:00:05 GMT",
-      "hatena_count": 13
+      "hatena_count": 14
     },
     {
       "id": "zenn-9a1c1249f1",
