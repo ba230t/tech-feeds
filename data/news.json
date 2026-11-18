@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T15:33:51.996815+00:00",
+  "updated_at": "2026-11-18T16:05:53.372548+00:00",
   "count": 500,
   "items": [
     {
@@ -6680,13 +6680,13 @@
       "sub_source": "Zenn",
       "title": "tsrs を導入したら oxlint の type-aware linting と typecheck が爆速になった話",
       "url": "https://zenn.dev/dress_code/articles/6c179ae5129131",
-      "score": 20,
+      "score": 21,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 18 Nov 2026 07:00:06 GMT",
-      "hatena_count": 20
+      "hatena_count": 21
     },
     {
       "id": "zenn-5ab9908de4",
@@ -6876,13 +6876,13 @@
       "sub_source": "Zenn",
       "title": "最近、コードを真面目に読まなくなった",
       "url": "https://zenn.dev/hiromoo/articles/reading-less-preparing-more",
-      "score": 47,
+      "score": 48,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 16 Nov 2026 15:24:23 GMT",
-      "hatena_count": 47
+      "hatena_count": 48
     },
     {
       "id": "zenn-794a5d4566",
