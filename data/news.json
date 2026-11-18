@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T06:39:17.507442+00:00",
+  "updated_at": "2026-11-18T07:06:06.386273+00:00",
   "count": 500,
   "items": [
     {
@@ -360,6 +360,21 @@
       ],
       "severity": "info",
       "date": "2026-11-18T09:15+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "ipa-3630a63272",
+      "source": "ipa",
+      "title": "Oracle Java の脆弱性対策について(2026年11月)",
+      "url": "https://www.ipa.go.jp/security/security-alert/2026/1118-jre.html",
+      "score": 0,
+      "author": "IPA",
+      "tags": [
+        "IPA",
+        "セキュリティ"
+      ],
+      "severity": "medium",
+      "date": "2026-11-18T00:00:00+09:00",
       "hatena_count": 0
     },
     {
@@ -6650,21 +6665,6 @@
       "source": "ipa",
       "title": "「GUARDIANWALL MailSuite」におけるスタックベースのバッファオーバーフローの脆弱性について（JVN#35567473）",
       "url": "https://www.ipa.go.jp/security/security-alert/2026/20260513-jvn.html",
-      "score": 0,
-      "author": "IPA",
-      "tags": [
-        "IPA",
-        "セキュリティ"
-      ],
-      "severity": "medium",
-      "date": "2026-05-13T00:00:00+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "ipa-c0a35c6308",
-      "source": "ipa",
-      "title": "Microsoft 製品の脆弱性対策について(2026年5月)",
-      "url": "https://www.ipa.go.jp/security/security-alert/2026/0513-ms.html",
       "score": 0,
       "author": "IPA",
       "tags": [
