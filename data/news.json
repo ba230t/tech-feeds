@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T14:05:50.806159+00:00",
+  "updated_at": "2026-11-18T14:33:24.751968+00:00",
   "count": 500,
   "items": [
     {
@@ -521,7 +521,7 @@
       "source": "ipa",
       "title": "Oracle Java の脆弱性対策について(2026年11月)",
       "url": "https://www.ipa.go.jp/security/security-alert/2026/1118-jre.html",
-      "score": 24,
+      "score": 25,
       "author": "IPA",
       "tags": [
         "IPA",
@@ -529,7 +529,7 @@
       ],
       "severity": "medium",
       "date": "2026-11-18T00:00:00+09:00",
-      "hatena_count": 24
+      "hatena_count": 25
     },
     {
       "id": "qiita-f4c5c8e0a1",
@@ -6680,13 +6680,13 @@
       "sub_source": "Zenn",
       "title": "tsrs を導入したら oxlint の type-aware linting と typecheck が爆速になった話",
       "url": "https://zenn.dev/dress_code/articles/6c179ae5129131",
-      "score": 17,
+      "score": 18,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 18 Nov 2026 07:00:06 GMT",
-      "hatena_count": 17
+      "hatena_count": 18
     },
     {
       "id": "zenn-5ab9908de4",
@@ -6806,13 +6806,13 @@
       "sub_source": "Zenn",
       "title": "ローカルLLM入門",
       "url": "https://zenn.dev/port_inc/articles/ff974c7456f4db",
-      "score": 18,
+      "score": 22,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 17 Nov 2026 07:17:24 GMT",
-      "hatena_count": 18
+      "hatena_count": 22
     },
     {
       "id": "zenn-3483494854",
@@ -6848,13 +6848,13 @@
       "sub_source": "Zenn",
       "title": "mise + gh skill で、dotfiles から Agent Skills を管理する",
       "url": "https://zenn.dev/dress_code/articles/30bd78e1a67f87",
-      "score": 24,
+      "score": 25,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 17 Nov 2026 03:00:08 GMT",
-      "hatena_count": 24
+      "hatena_count": 25
     },
     {
       "id": "zenn-a7e023f6dd",
@@ -6876,13 +6876,13 @@
       "sub_source": "Zenn",
       "title": "最近、コードを真面目に読まなくなった",
       "url": "https://zenn.dev/hiromoo/articles/reading-less-preparing-more",
-      "score": 28,
+      "score": 38,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 16 Nov 2026 15:24:23 GMT",
-      "hatena_count": 28
+      "hatena_count": 38
     },
     {
       "id": "zenn-794a5d4566",
