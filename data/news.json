@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T11:05:11.394552+00:00",
+  "updated_at": "2026-11-18T11:33:40.228185+00:00",
   "count": 500,
   "items": [
     {
@@ -521,7 +521,7 @@
       "source": "ipa",
       "title": "Oracle Java の脆弱性対策について(2026年11月)",
       "url": "https://www.ipa.go.jp/security/security-alert/2026/1118-jre.html",
-      "score": 17,
+      "score": 19,
       "author": "IPA",
       "tags": [
         "IPA",
@@ -529,7 +529,7 @@
       ],
       "severity": "medium",
       "date": "2026-11-18T00:00:00+09:00",
-      "hatena_count": 17
+      "hatena_count": 19
     },
     {
       "id": "qiita-f4c5c8e0a1",
@@ -6876,13 +6876,13 @@
       "sub_source": "Zenn",
       "title": "最近、コードを真面目に読まなくなった",
       "url": "https://zenn.dev/hiromoo/articles/reading-less-preparing-more",
-      "score": 6,
+      "score": 9,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 16 Nov 2026 15:24:23 GMT",
-      "hatena_count": 6
+      "hatena_count": 9
     },
     {
       "id": "zenn-794a5d4566",
