@@ -63,13 +63,13 @@
       "sub_source": "Zenn",
       "title": "最近、コードを真面目に読まなくなった",
       "url": "https://zenn.dev/hiromoo/articles/reading-less-preparing-more",
-      "score": 86,
+      "score": 87,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 16 Nov 2026 15:24:23 GMT",
-      "hatena_count": 86
+      "hatena_count": 87
     },
     {
       "id": "zenn-61a940e7c3",
@@ -178,13 +178,42 @@
       "sub_source": "Zenn",
       "title": "Claude Desktop 開発のすゝめ",
       "url": "https://zenn.dev/peoplex_blog/articles/vscode-to-claude-desktop",
-      "score": 16,
+      "score": 17,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 17 Nov 2026 03:41:36 GMT",
-      "hatena_count": 16
+      "hatena_count": 17
+    },
+    {
+      "id": "zenn-5b1d35f664",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "物理世界とAIをつなぐ：可視化で学ぶカメラ・座標系・運動制御入門",
+      "url": "https://zenn.dev/turing_motors/articles/cea9e3c85611b2",
+      "score": 15,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 16 Nov 2026 08:00:05 GMT",
+      "hatena_count": 15
+    },
+    {
+      "id": "ipa-7afa9de38c",
+      "source": "ipa",
+      "title": "NGINXの複数の脆弱性対策について（CVE-2026-123007、CVE-2026-123633等）",
+      "url": "https://www.ipa.go.jp/security/security-alert/2026/alert20261119.html",
+      "score": 10,
+      "author": "IPA",
+      "tags": [
+        "IPA",
+        "セキュリティ"
+      ],
+      "severity": "medium",
+      "date": "2026-11-19T00:00:00+09:00",
+      "hatena_count": 10
     },
     {
       "id": "zenn-70c565a25b",
@@ -192,13 +221,13 @@
       "sub_source": "Zenn",
       "title": "vue-tscの壁を越える：vizeとtsrsでVueの型検査を高速化した",
       "url": "https://zenn.dev/studio/articles/vue-typecheck-vize-tsrs",
-      "score": 8,
+      "score": 9,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 18 Nov 2026 14:26:28 GMT",
-      "hatena_count": 8
+      "hatena_count": 9
     },
     {
       "id": "zenn-5ab9908de4",
@@ -260,21 +289,6 @@
       "hatena_count": 3
     },
     {
-      "id": "ipa-7afa9de38c",
-      "source": "ipa",
-      "title": "NGINXの複数の脆弱性対策について（CVE-2026-123007、CVE-2026-123633等）",
-      "url": "https://www.ipa.go.jp/security/security-alert/2026/alert20261119.html",
-      "score": 2,
-      "author": "IPA",
-      "tags": [
-        "IPA",
-        "セキュリティ"
-      ],
-      "severity": "medium",
-      "date": "2026-11-19T00:00:00+09:00",
-      "hatena_count": 2
-    },
-    {
       "id": "zenn-657be75576",
       "source": "sns",
       "sub_source": "Zenn",
@@ -286,20 +300,6 @@
         "Zenn"
       ],
       "date": "Thu, 19 Nov 2026 01:52:32 GMT",
-      "hatena_count": 2
-    },
-    {
-      "id": "zenn-7e5c84817c",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "正しいUIデザインと、意図のあるUIデザイン",
-      "url": "https://zenn.dev/praha/articles/08568310684aa3",
-      "score": 2,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 18 Nov 2026 05:55:40 GMT",
       "hatena_count": 2
     }
   ],

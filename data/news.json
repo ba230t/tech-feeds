@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T10:33:29.056351+00:00",
+  "updated_at": "2026-11-19T11:05:36.290477+00:00",
   "count": 500,
   "items": [
     {
@@ -91,7 +91,7 @@
       "source": "ipa",
       "title": "【事前準備のお願い】PHPのセキュリティリリース公開予定について（11月）",
       "url": "https://www.ipa.go.jp/security/security-alert/2026/pre-alert20261119.html",
-      "score": 0,
+      "score": 1,
       "author": "IPA",
       "tags": [
         "IPA",
@@ -99,14 +99,14 @@
       ],
       "severity": "medium",
       "date": "2026-11-19T00:00:00+09:00",
-      "hatena_count": 0
+      "hatena_count": 1
     },
     {
       "id": "ipa-7afa9de38c",
       "source": "ipa",
       "title": "NGINXの複数の脆弱性対策について（CVE-2026-123007、CVE-2026-123633等）",
       "url": "https://www.ipa.go.jp/security/security-alert/2026/alert20261119.html",
-      "score": 2,
+      "score": 10,
       "author": "IPA",
       "tags": [
         "IPA",
@@ -114,7 +114,7 @@
       ],
       "severity": "medium",
       "date": "2026-11-19T00:00:00+09:00",
-      "hatena_count": 2
+      "hatena_count": 10
     },
     {
       "id": "qiita-2f4a7defd4",
@@ -6673,48 +6673,6 @@
       "hatena_count": 2
     },
     {
-      "id": "zenn-1e6b48599b",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス",
-      "url": "https://zenn.dev/nttdata_tech/articles/9562962cc181a1",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 19 Nov 2026 07:28:27 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-5dd1fd747f",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "新機能、ElastiCache の distributed KV caching を GPU 2 台の vLLM で試す",
-      "url": "https://zenn.dev/aws_japan/articles/elasticache-distributed-kv-cache-bench",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 19 Nov 2026 06:55:05 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-1f94ba949c",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Microsoft-Decision-1.1公開！Microsoft-Decision-1との差はどれくらい？",
-      "url": "https://zenn.dev/microsoft/articles/ms-decision-1-1",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 19 Nov 2026 03:41:58 GMT",
-      "hatena_count": 0
-    },
-    {
       "id": "zenn-657be75576",
       "source": "sns",
       "sub_source": "Zenn",
@@ -6734,41 +6692,13 @@
       "sub_source": "Zenn",
       "title": "vue-tscの壁を越える：vizeとtsrsでVueの型検査を高速化した",
       "url": "https://zenn.dev/studio/articles/vue-typecheck-vize-tsrs",
-      "score": 8,
+      "score": 9,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 18 Nov 2026 14:26:28 GMT",
-      "hatena_count": 8
-    },
-    {
-      "id": "zenn-aa9fe03f78",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "AEの式もWGSLシェーダーも動く動画編集ソフトを作っていたら、Claude Codeを旧モデルに戻すことになった",
-      "url": "https://zenn.dev/oshikaidesu/articles/8bce9bc005b3e7",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 18 Nov 2026 14:06:19 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-4717aa04ac",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "KotlinFest 2026のアーカイブ動画即日公開を支えた技術",
-      "url": "https://zenn.dev/hiro_pon/articles/0fc7f0c9ed88a2",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 18 Nov 2026 13:48:53 GMT",
-      "hatena_count": 0
+      "hatena_count": 9
     },
     {
       "id": "zenn-b225a7e395",
@@ -6783,6 +6713,20 @@
       ],
       "date": "Wed, 18 Nov 2026 07:00:06 GMT",
       "hatena_count": 28
+    },
+    {
+      "id": "zenn-2ff5c6536d",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "QA効率化におけるAI活用事例",
+      "url": "https://zenn.dev/applibot_tech/articles/6b8ec8d196634b",
+      "score": 1,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 18 Nov 2026 06:33:59 GMT",
+      "hatena_count": 1
     },
     {
       "id": "zenn-7e5c84817c",
@@ -6813,6 +6757,20 @@
       "hatena_count": 5
     },
     {
+      "id": "zenn-efecf85899",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "CocoaPods Trunkの更新停止で、React Native・Expoアプリはどうなる？SwiftPM移行に備える",
+      "url": "https://zenn.dev/tellernovel_inc/articles/react-native-cocoapods-to-spm",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 18 Nov 2026 05:42:56 GMT",
+      "hatena_count": 0
+    },
+    {
       "id": "zenn-5260732c47",
       "source": "sns",
       "sub_source": "Zenn",
@@ -6841,6 +6799,20 @@
       "hatena_count": 386
     },
     {
+      "id": "zenn-f4c7185665",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Go Conference 2026実行委員を終えて",
+      "url": "https://zenn.dev/mire0726/articles/1f3f118662a0f5",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 17 Nov 2026 07:21:52 GMT",
+      "hatena_count": 0
+    },
+    {
       "id": "zenn-61a940e7c3",
       "source": "sns",
       "sub_source": "Zenn",
@@ -6860,13 +6832,13 @@
       "sub_source": "Zenn",
       "title": "Claude Desktop 開発のすゝめ",
       "url": "https://zenn.dev/peoplex_blog/articles/vscode-to-claude-desktop",
-      "score": 16,
+      "score": 17,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 17 Nov 2026 03:41:36 GMT",
-      "hatena_count": 16
+      "hatena_count": 17
     },
     {
       "id": "zenn-07aa176070",
@@ -6902,13 +6874,13 @@
       "sub_source": "Zenn",
       "title": "最近、コードを真面目に読まなくなった",
       "url": "https://zenn.dev/hiromoo/articles/reading-less-preparing-more",
-      "score": 86,
+      "score": 87,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 16 Nov 2026 15:24:23 GMT",
-      "hatena_count": 86
+      "hatena_count": 87
     },
     {
       "id": "zenn-794a5d4566",
@@ -6939,6 +6911,20 @@
       "hatena_count": 91
     },
     {
+      "id": "zenn-5b1d35f664",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "物理世界とAIをつなぐ：可視化で学ぶカメラ・座標系・運動制御入門",
+      "url": "https://zenn.dev/turing_motors/articles/cea9e3c85611b2",
+      "score": 15,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 16 Nov 2026 08:00:05 GMT",
+      "hatena_count": 15
+    },
+    {
       "id": "zenn-ffcb738412",
       "source": "sns",
       "sub_source": "Zenn",
@@ -6951,6 +6937,20 @@
       ],
       "date": "Mon, 16 Nov 2026 06:35:01 GMT",
       "hatena_count": 22
+    },
+    {
+      "id": "zenn-9a1c1249f1",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Claude Codeが書いたコードを読む代わりにやっていること",
+      "url": "https://zenn.dev/linkedge/articles/claude-code-instead-of-reading-code",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 16 Nov 2026 05:04:44 GMT",
+      "hatena_count": 0
     },
     {
       "id": "techracho-6ad2ba5da6",
