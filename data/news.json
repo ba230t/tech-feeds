@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T22:33:10.070860+00:00",
+  "updated_at": "2026-11-19T23:04:31.278998+00:00",
   "count": 500,
   "items": [
     {
@@ -203,7 +203,7 @@
       "source": "ipa",
       "title": "【事前準備のお願い】PHPのセキュリティリリース公開予定について（11月）",
       "url": "https://www.ipa.go.jp/security/security-alert/2026/pre-alert20261119.html",
-      "score": 4,
+      "score": 6,
       "author": "IPA",
       "tags": [
         "IPA",
@@ -211,7 +211,7 @@
       ],
       "severity": "medium",
       "date": "2026-11-19T00:00:00+09:00",
-      "hatena_count": 4
+      "hatena_count": 6
     },
     {
       "id": "ipa-7afa9de38c",
@@ -6720,13 +6720,13 @@
       "sub_source": "Zenn",
       "title": "pstack 完全ガイド ─AIエージェントに雑なコード     を書かせない技術─",
       "url": "https://zenn.dev/karamage/books/50c18e52e7d19e",
-      "score": 23,
+      "score": 27,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 19 Nov 2026 01:52:32 GMT",
-      "hatena_count": 23
+      "hatena_count": 27
     },
     {
       "id": "zenn-70c565a25b",
@@ -6902,13 +6902,13 @@
       "sub_source": "Zenn",
       "title": "最近、コードを真面目に読まなくなった",
       "url": "https://zenn.dev/hiromoo/articles/reading-less-preparing-more",
-      "score": 88,
+      "score": 89,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 16 Nov 2026 15:24:23 GMT",
-      "hatena_count": 88
+      "hatena_count": 89
     },
     {
       "id": "zenn-794a5d4566",

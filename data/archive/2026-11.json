@@ -63,13 +63,13 @@
       "sub_source": "Zenn",
       "title": "最近、コードを真面目に読まなくなった",
       "url": "https://zenn.dev/hiromoo/articles/reading-less-preparing-more",
-      "score": 88,
+      "score": 89,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 16 Nov 2026 15:24:23 GMT",
-      "hatena_count": 88
+      "hatena_count": 89
     },
     {
       "id": "zenn-61a940e7c3",
@@ -164,13 +164,13 @@
       "sub_source": "Zenn",
       "title": "pstack 完全ガイド ─AIエージェントに雑なコード     を書かせない技術─",
       "url": "https://zenn.dev/karamage/books/50c18e52e7d19e",
-      "score": 23,
+      "score": 27,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 19 Nov 2026 01:52:32 GMT",
-      "hatena_count": 23
+      "hatena_count": 27
     },
     {
       "id": "zenn-ffcb738412",
@@ -230,6 +230,21 @@
       "hatena_count": 9
     },
     {
+      "id": "ipa-155c365440",
+      "source": "ipa",
+      "title": "【事前準備のお願い】PHPのセキュリティリリース公開予定について（11月）",
+      "url": "https://www.ipa.go.jp/security/security-alert/2026/pre-alert20261119.html",
+      "score": 6,
+      "author": "IPA",
+      "tags": [
+        "IPA",
+        "セキュリティ"
+      ],
+      "severity": "medium",
+      "date": "2026-11-19T00:00:00+09:00",
+      "hatena_count": 6
+    },
+    {
       "id": "zenn-5ab9908de4",
       "source": "sns",
       "sub_source": "Zenn",
@@ -242,21 +257,6 @@
       ],
       "date": "Wed, 18 Nov 2026 05:53:00 GMT",
       "hatena_count": 5
-    },
-    {
-      "id": "ipa-155c365440",
-      "source": "ipa",
-      "title": "【事前準備のお願い】PHPのセキュリティリリース公開予定について（11月）",
-      "url": "https://www.ipa.go.jp/security/security-alert/2026/pre-alert20261119.html",
-      "score": 4,
-      "author": "IPA",
-      "tags": [
-        "IPA",
-        "セキュリティ"
-      ],
-      "severity": "medium",
-      "date": "2026-11-19T00:00:00+09:00",
-      "hatena_count": 4
     },
     {
       "id": "techracho-511973acbf",
