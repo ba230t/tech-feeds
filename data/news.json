@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T23:04:31.278998+00:00",
+  "updated_at": "2026-11-19T23:33:46.592767+00:00",
   "count": 500,
   "items": [
     {
@@ -203,7 +203,7 @@
       "source": "ipa",
       "title": "【事前準備のお願い】PHPのセキュリティリリース公開予定について（11月）",
       "url": "https://www.ipa.go.jp/security/security-alert/2026/pre-alert20261119.html",
-      "score": 6,
+      "score": 9,
       "author": "IPA",
       "tags": [
         "IPA",
@@ -211,14 +211,14 @@
       ],
       "severity": "medium",
       "date": "2026-11-19T00:00:00+09:00",
-      "hatena_count": 6
+      "hatena_count": 9
     },
     {
       "id": "ipa-7afa9de38c",
       "source": "ipa",
       "title": "NGINXの複数の脆弱性対策について（CVE-2026-123007、CVE-2026-123633等）",
       "url": "https://www.ipa.go.jp/security/security-alert/2026/alert20261119.html",
-      "score": 49,
+      "score": 52,
       "author": "IPA",
       "tags": [
         "IPA",
@@ -226,7 +226,7 @@
       ],
       "severity": "medium",
       "date": "2026-11-19T00:00:00+09:00",
-      "hatena_count": 49
+      "hatena_count": 52
     },
     {
       "id": "qiita-2f4a7defd4",
@@ -6687,17 +6687,31 @@
       "hatena_count": 0
     },
     {
-      "id": "zenn-5dd1fd747f",
+      "id": "zenn-9e10601457",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "新機能、ElastiCache の distributed KV caching を GPU 2 台の vLLM で試す",
-      "url": "https://zenn.dev/aws_japan/articles/elasticache-distributed-kv-cache-bench",
+      "title": "AIが爆速で開発する時代の、自動テストとの向き合い方",
+      "url": "https://zenn.dev/daiaoki/articles/webterm-ai-era-testing",
+      "score": 1,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 19 Nov 2026 07:11:24 GMT",
+      "hatena_count": 1
+    },
+    {
+      "id": "zenn-e68865e1f0",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Gemini Decision 1でスパム退治！",
+      "url": "https://zenn.dev/satoshi_yoneda/articles/decision-1-anti-spam",
       "score": 0,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Thu, 19 Nov 2026 06:55:05 GMT",
+      "date": "Thu, 19 Nov 2026 06:20:46 GMT",
       "hatena_count": 0
     },
     {
@@ -6715,60 +6729,61 @@
       "hatena_count": 0
     },
     {
+      "id": "zenn-79952aa41b",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "TypeScript 7.1 の Content Mapper で型の生成コマンドをなくす",
+      "url": "https://zenn.dev/toiroakr/articles/typescript-content-mapper-codegen",
+      "score": 1,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 19 Nov 2026 02:10:13 GMT",
+      "hatena_count": 1
+    },
+    {
       "id": "zenn-657be75576",
       "source": "sns",
       "sub_source": "Zenn",
       "title": "pstack 完全ガイド ─AIエージェントに雑なコード     を書かせない技術─",
       "url": "https://zenn.dev/karamage/books/50c18e52e7d19e",
-      "score": 27,
+      "score": 29,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 19 Nov 2026 01:52:32 GMT",
-      "hatena_count": 27
+      "hatena_count": 29
     },
     {
-      "id": "zenn-70c565a25b",
+      "id": "zenn-06b280eb58",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "vue-tscの壁を越える：vizeとtsrsでVueの型検査を高速化した",
-      "url": "https://zenn.dev/studio/articles/vue-typecheck-vize-tsrs",
-      "score": 9,
+      "title": "相次ぐOSSの脆弱性に、とりあえずクラウドWAF入れるだけでだいぶ違う話+Rootlessコンテナもいいぞ",
+      "url": "https://zenn.dev/kusuke/articles/98e178e6824cac",
+      "score": 138,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Wed, 18 Nov 2026 14:26:28 GMT",
-      "hatena_count": 9
+      "date": "Thu, 19 Nov 2026 01:34:24 GMT",
+      "severity": "high",
+      "hatena_count": 138
     },
     {
-      "id": "zenn-aa9fe03f78",
+      "id": "zenn-4ef8e13c45",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "AEの式もWGSLシェーダーも動く動画編集ソフトを作っていたら、Claude Codeを旧モデルに戻すことになっていた件",
-      "url": "https://zenn.dev/oshikaidesu/articles/8bce9bc005b3e7",
-      "score": 0,
+      "title": "ログの種別を整理して、何をどこまで残すか決めた話",
+      "url": "https://zenn.dev/dress_code/articles/a3bf34274af03f",
+      "score": 1,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Wed, 18 Nov 2026 14:06:19 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-4717aa04ac",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "KotlinFest 2026のアーカイブ動画即日公開を支えた技術",
-      "url": "https://zenn.dev/hiro_pon/articles/0fc7f0c9ed88a2",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 18 Nov 2026 13:48:53 GMT",
-      "hatena_count": 0
+      "date": "Thu, 19 Nov 2026 00:00:11 GMT",
+      "hatena_count": 1
     },
     {
       "id": "zenn-b225a7e395",
@@ -6799,32 +6814,18 @@
       "hatena_count": 2
     },
     {
-      "id": "zenn-5ab9908de4",
+      "id": "zenn-64ab151ad7",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "Odin に賭けたい人向けの Odin 言語入門ガイド",
-      "url": "https://zenn.dev/mizchi/articles/odin-introduction-guide",
-      "score": 5,
+      "title": "ESLint から oxlint へ。lint が 50 倍速くなるまでの移行の記録",
+      "url": "https://zenn.dev/rimo/articles/12d6a7b1c58fcd",
+      "score": 35,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Wed, 18 Nov 2026 05:53:00 GMT",
-      "hatena_count": 5
-    },
-    {
-      "id": "zenn-5260732c47",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "決済という機能を実装するのは容易だが、思っていたより考えることが多かった",
-      "url": "https://zenn.dev/chot/articles/1297582ee96341",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 17 Nov 2026 11:22:51 GMT",
-      "hatena_count": 0
+      "date": "Wed, 18 Nov 2026 00:51:16 GMT",
+      "hatena_count": 35
     },
     {
       "id": "zenn-ac0340dfae",
@@ -6902,27 +6903,13 @@
       "sub_source": "Zenn",
       "title": "最近、コードを真面目に読まなくなった",
       "url": "https://zenn.dev/hiromoo/articles/reading-less-preparing-more",
-      "score": 89,
+      "score": 90,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 16 Nov 2026 15:24:23 GMT",
-      "hatena_count": 89
-    },
-    {
-      "id": "zenn-794a5d4566",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "最適化プロダクトにおけるUX",
-      "url": "https://zenn.dev/ctenopoma/books/optimization_ux",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 16 Nov 2026 12:47:52 GMT",
-      "hatena_count": 0
+      "hatena_count": 90
     },
     {
       "id": "zenn-bea85b5ab6",
@@ -6951,6 +6938,20 @@
       ],
       "date": "Mon, 16 Nov 2026 06:35:01 GMT",
       "hatena_count": 23
+    },
+    {
+      "id": "zenn-52eec506e8",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "mizchi/mutator を入れてみた",
+      "url": "https://zenn.dev/polyco/articles/e05cb28c569801",
+      "score": 4,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 16 Nov 2026 03:49:18 GMT",
+      "hatena_count": 4
     },
     {
       "id": "techracho-6ad2ba5da6",
