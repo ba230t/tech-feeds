@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T14:06:00.670758+00:00",
+  "updated_at": "2026-11-19T14:33:27.855690+00:00",
   "count": 500,
   "items": [
     {
@@ -91,7 +91,7 @@
       "source": "ipa",
       "title": "【事前準備のお願い】PHPのセキュリティリリース公開予定について（11月）",
       "url": "https://www.ipa.go.jp/security/security-alert/2026/pre-alert20261119.html",
-      "score": 1,
+      "score": 2,
       "author": "IPA",
       "tags": [
         "IPA",
@@ -99,14 +99,14 @@
       ],
       "severity": "medium",
       "date": "2026-11-19T00:00:00+09:00",
-      "hatena_count": 1
+      "hatena_count": 2
     },
     {
       "id": "ipa-7afa9de38c",
       "source": "ipa",
       "title": "NGINXの複数の脆弱性対策について（CVE-2026-123007、CVE-2026-123633等）",
       "url": "https://www.ipa.go.jp/security/security-alert/2026/alert20261119.html",
-      "score": 28,
+      "score": 32,
       "author": "IPA",
       "tags": [
         "IPA",
@@ -114,7 +114,7 @@
       ],
       "severity": "medium",
       "date": "2026-11-19T00:00:00+09:00",
-      "hatena_count": 28
+      "hatena_count": 32
     },
     {
       "id": "qiita-2f4a7defd4",
@@ -6720,13 +6720,13 @@
       "sub_source": "Zenn",
       "title": "pstack 完全ガイド ─AIエージェントに雑なコード     を書かせない技術─",
       "url": "https://zenn.dev/karamage/books/50c18e52e7d19e",
-      "score": 7,
+      "score": 12,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 19 Nov 2026 01:52:32 GMT",
-      "hatena_count": 7
+      "hatena_count": 12
     },
     {
       "id": "zenn-70c565a25b",
@@ -6746,7 +6746,7 @@
       "id": "zenn-aa9fe03f78",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "AEの式もWGSLシェーダーも動く動画編集ソフトを作っていたら、Claude Codeを旧モデルに戻すことになった",
+      "title": "AEの式もWGSLシェーダーも動く動画編集ソフトを作っていたら、Claude Codeを旧モデルに戻すことになっていた件",
       "url": "https://zenn.dev/oshikaidesu/articles/8bce9bc005b3e7",
       "score": 0,
       "author": "Zenn",

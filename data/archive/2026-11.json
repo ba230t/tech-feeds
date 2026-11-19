@@ -1,7 +1,7 @@
 {
   "month": "2026-11",
   "total_articles": 442,
-  "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (2件)**\n\n1. Oracle Java の脆弱性対策について(2026年11月)\n\n2. NGINXの複数の脆弱性対策について（CVE-2026-123007、CVE-2026-123633等）\n\n**AI・機械学習動向 (4件)**\n\n1. 毎月6,000 AI Agentsを捌くためにキーボードを捨てた話\n\n2. QA生産性を爆上げさせるためのQA AIプラットフォーム構築\n\n3. ローカルLLM入門\n\n4. Rails: DHHがRails World 2026キーノートで「語らなかった」部分とは（翻訳）\n\n**技術トレンド (4件)**\n\n1. おい、 Mutation Test をやれ。テスト品質を、測るために\n\n2. 最近、コードを真面目に読まなくなった\n\n3. tsrs を導入したら oxlint の type-aware linting と typecheck が爆速になった話\n\n4. mise + gh skill で、dotfiles から Agent Skills を管理する",
+  "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (2件)**\n\n1. NGINXの複数の脆弱性対策について（CVE-2026-123007、CVE-2026-123633等）\n\n2. Oracle Java の脆弱性対策について(2026年11月)\n\n**AI・機械学習動向 (4件)**\n\n1. 毎月6,000 AI Agentsを捌くためにキーボードを捨てた話\n\n2. QA生産性を爆上げさせるためのQA AIプラットフォーム構築\n\n3. ローカルLLM入門\n\n4. Rails: DHHがRails World 2026キーノートで「語らなかった」部分とは（翻訳）\n\n**技術トレンド (4件)**\n\n1. おい、 Mutation Test をやれ。テスト品質を、測るために\n\n2. 最近、コードを真面目に読まなくなった\n\n3. tsrs を導入したら oxlint の type-aware linting と typecheck が爆速になった話\n\n4. mise + gh skill で、dotfiles から Agent Skills を管理する",
   "source_counts": {
     "sns": 373,
     "ipa": 5,
@@ -101,6 +101,21 @@
       "hatena_count": 33
     },
     {
+      "id": "ipa-7afa9de38c",
+      "source": "ipa",
+      "title": "NGINXの複数の脆弱性対策について（CVE-2026-123007、CVE-2026-123633等）",
+      "url": "https://www.ipa.go.jp/security/security-alert/2026/alert20261119.html",
+      "score": 32,
+      "author": "IPA",
+      "tags": [
+        "IPA",
+        "セキュリティ"
+      ],
+      "severity": "medium",
+      "date": "2026-11-19T00:00:00+09:00",
+      "hatena_count": 32
+    },
+    {
       "id": "ipa-3630a63272",
       "source": "ipa",
       "title": "Oracle Java の脆弱性対策について(2026年11月)",
@@ -114,21 +129,6 @@
       "severity": "medium",
       "date": "2026-11-18T00:00:00+09:00",
       "hatena_count": 30
-    },
-    {
-      "id": "ipa-7afa9de38c",
-      "source": "ipa",
-      "title": "NGINXの複数の脆弱性対策について（CVE-2026-123007、CVE-2026-123633等）",
-      "url": "https://www.ipa.go.jp/security/security-alert/2026/alert20261119.html",
-      "score": 28,
-      "author": "IPA",
-      "tags": [
-        "IPA",
-        "セキュリティ"
-      ],
-      "severity": "medium",
-      "date": "2026-11-19T00:00:00+09:00",
-      "hatena_count": 28
     },
     {
       "id": "zenn-b225a7e395",
@@ -202,6 +202,20 @@
       "hatena_count": 20
     },
     {
+      "id": "zenn-657be75576",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "pstack 完全ガイド ─AIエージェントに雑なコード     を書かせない技術─",
+      "url": "https://zenn.dev/karamage/books/50c18e52e7d19e",
+      "score": 12,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 19 Nov 2026 01:52:32 GMT",
+      "hatena_count": 12
+    },
+    {
       "id": "zenn-70c565a25b",
       "source": "sns",
       "sub_source": "Zenn",
@@ -214,20 +228,6 @@
       ],
       "date": "Wed, 18 Nov 2026 14:26:28 GMT",
       "hatena_count": 9
-    },
-    {
-      "id": "zenn-657be75576",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "pstack 完全ガイド ─AIエージェントに雑なコード     を書かせない技術─",
-      "url": "https://zenn.dev/karamage/books/50c18e52e7d19e",
-      "score": 7,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 19 Nov 2026 01:52:32 GMT",
-      "hatena_count": 7
     },
     {
       "id": "zenn-5ab9908de4",
@@ -289,17 +289,18 @@
       "hatena_count": 3
     },
     {
-      "id": "zenn-7e5c84817c",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "正しいUIデザインと、意図のあるUIデザイン",
-      "url": "https://zenn.dev/praha/articles/08568310684aa3",
+      "id": "ipa-155c365440",
+      "source": "ipa",
+      "title": "【事前準備のお願い】PHPのセキュリティリリース公開予定について（11月）",
+      "url": "https://www.ipa.go.jp/security/security-alert/2026/pre-alert20261119.html",
       "score": 2,
-      "author": "Zenn",
+      "author": "IPA",
       "tags": [
-        "Zenn"
+        "IPA",
+        "セキュリティ"
       ],
-      "date": "Wed, 18 Nov 2026 05:55:40 GMT",
+      "severity": "medium",
+      "date": "2026-11-19T00:00:00+09:00",
       "hatena_count": 2
     }
   ],
