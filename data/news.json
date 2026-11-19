@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T21:05:00.219992+00:00",
+  "updated_at": "2026-11-19T21:33:47.621592+00:00",
   "count": 500,
   "items": [
     {
@@ -203,7 +203,7 @@
       "source": "ipa",
       "title": "【事前準備のお願い】PHPのセキュリティリリース公開予定について（11月）",
       "url": "https://www.ipa.go.jp/security/security-alert/2026/pre-alert20261119.html",
-      "score": 3,
+      "score": 4,
       "author": "IPA",
       "tags": [
         "IPA",
@@ -211,14 +211,14 @@
       ],
       "severity": "medium",
       "date": "2026-11-19T00:00:00+09:00",
-      "hatena_count": 3
+      "hatena_count": 4
     },
     {
       "id": "ipa-7afa9de38c",
       "source": "ipa",
       "title": "NGINXの複数の脆弱性対策について（CVE-2026-123007、CVE-2026-123633等）",
       "url": "https://www.ipa.go.jp/security/security-alert/2026/alert20261119.html",
-      "score": 42,
+      "score": 47,
       "author": "IPA",
       "tags": [
         "IPA",
@@ -226,7 +226,7 @@
       ],
       "severity": "medium",
       "date": "2026-11-19T00:00:00+09:00",
-      "hatena_count": 42
+      "hatena_count": 47
     },
     {
       "id": "qiita-2f4a7defd4",
