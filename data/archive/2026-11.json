@@ -90,7 +90,7 @@
       "source": "ipa",
       "title": "NGINXの複数の脆弱性対策について（CVE-2026-123007、CVE-2026-123633等）",
       "url": "https://www.ipa.go.jp/security/security-alert/2026/alert20261119.html",
-      "score": 37,
+      "score": 38,
       "author": "IPA",
       "tags": [
         "IPA",
@@ -98,7 +98,7 @@
       ],
       "severity": "medium",
       "date": "2026-11-19T00:00:00+09:00",
-      "hatena_count": 37
+      "hatena_count": 38
     },
     {
       "id": "techracho-4b67c39e4f",
@@ -244,6 +244,21 @@
       "hatena_count": 5
     },
     {
+      "id": "ipa-155c365440",
+      "source": "ipa",
+      "title": "【事前準備のお願い】PHPのセキュリティリリース公開予定について（11月）",
+      "url": "https://www.ipa.go.jp/security/security-alert/2026/pre-alert20261119.html",
+      "score": 3,
+      "author": "IPA",
+      "tags": [
+        "IPA",
+        "セキュリティ"
+      ],
+      "severity": "medium",
+      "date": "2026-11-19T00:00:00+09:00",
+      "hatena_count": 3
+    },
+    {
       "id": "techracho-511973acbf",
       "source": "techracho",
       "title": "RubyistがGoに挑む: ポケモンAPIクライアントを書いてみた（翻訳）",
@@ -287,21 +302,6 @@
       ],
       "date": "Thu, 05 Nov 2026 08:30:46 +0000",
       "hatena_count": 3
-    },
-    {
-      "id": "ipa-155c365440",
-      "source": "ipa",
-      "title": "【事前準備のお願い】PHPのセキュリティリリース公開予定について（11月）",
-      "url": "https://www.ipa.go.jp/security/security-alert/2026/pre-alert20261119.html",
-      "score": 2,
-      "author": "IPA",
-      "tags": [
-        "IPA",
-        "セキュリティ"
-      ],
-      "severity": "medium",
-      "date": "2026-11-19T00:00:00+09:00",
-      "hatena_count": 2
     }
   ],
   "security_highlights": [
