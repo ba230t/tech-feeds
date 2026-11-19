@@ -21,13 +21,13 @@
       "sub_source": "Zenn",
       "title": "おい、 Mutation Test をやれ。テスト品質を、測るために",
       "url": "https://zenn.dev/mizchi/articles/mutation-test-quality",
-      "score": 386,
+      "score": 387,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 17 Nov 2026 09:53:47 GMT",
-      "hatena_count": 386
+      "hatena_count": 387
     },
     {
       "id": "zenn-07aa176070",
@@ -178,27 +178,13 @@
       "sub_source": "Zenn",
       "title": "Claude Desktop 開発のすゝめ",
       "url": "https://zenn.dev/peoplex_blog/articles/vscode-to-claude-desktop",
-      "score": 18,
+      "score": 20,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 17 Nov 2026 03:41:36 GMT",
-      "hatena_count": 18
-    },
-    {
-      "id": "zenn-5b1d35f664",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "物理世界とAIをつなぐ：可視化で学ぶカメラ・座標系・運動制御入門",
-      "url": "https://zenn.dev/turing_motors/articles/cea9e3c85611b2",
-      "score": 15,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 16 Nov 2026 08:00:05 GMT",
-      "hatena_count": 15
+      "hatena_count": 20
     },
     {
       "id": "ipa-7afa9de38c",
@@ -242,6 +228,20 @@
       ],
       "date": "Wed, 18 Nov 2026 05:53:00 GMT",
       "hatena_count": 5
+    },
+    {
+      "id": "zenn-657be75576",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "pstack 完全ガイド ─AIエージェントに雑なコード     を書かせない技術─",
+      "url": "https://zenn.dev/karamage/books/50c18e52e7d19e",
+      "score": 3,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 19 Nov 2026 01:52:32 GMT",
+      "hatena_count": 3
     },
     {
       "id": "techracho-511973acbf",
@@ -289,17 +289,17 @@
       "hatena_count": 3
     },
     {
-      "id": "zenn-657be75576",
+      "id": "zenn-7e5c84817c",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "pstack 完全ガイド ─AIエージェントに雑なコード     を書かせない技術─",
-      "url": "https://zenn.dev/karamage/books/50c18e52e7d19e",
+      "title": "正しいUIデザインと、意図のあるUIデザイン",
+      "url": "https://zenn.dev/praha/articles/08568310684aa3",
       "score": 2,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Thu, 19 Nov 2026 01:52:32 GMT",
+      "date": "Wed, 18 Nov 2026 05:55:40 GMT",
       "hatena_count": 2
     }
   ],
