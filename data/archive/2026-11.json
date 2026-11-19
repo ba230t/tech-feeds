@@ -90,7 +90,7 @@
       "source": "ipa",
       "title": "NGINXの複数の脆弱性対策について（CVE-2026-123007、CVE-2026-123633等）",
       "url": "https://www.ipa.go.jp/security/security-alert/2026/alert20261119.html",
-      "score": 41,
+      "score": 42,
       "author": "IPA",
       "tags": [
         "IPA",
@@ -98,7 +98,7 @@
       ],
       "severity": "medium",
       "date": "2026-11-19T00:00:00+09:00",
-      "hatena_count": 41
+      "hatena_count": 42
     },
     {
       "id": "techracho-4b67c39e4f",
@@ -207,13 +207,13 @@
       "sub_source": "Zenn",
       "title": "pstack 完全ガイド ─AIエージェントに雑なコード     を書かせない技術─",
       "url": "https://zenn.dev/karamage/books/50c18e52e7d19e",
-      "score": 18,
+      "score": 19,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 19 Nov 2026 01:52:32 GMT",
-      "hatena_count": 18
+      "hatena_count": 19
     },
     {
       "id": "zenn-70c565a25b",
