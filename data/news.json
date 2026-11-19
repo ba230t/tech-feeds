@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T05:05:37.459881+00:00",
+  "updated_at": "2026-11-19T05:33:47.813405+00:00",
   "count": 500,
   "items": [
     {
@@ -6678,13 +6678,13 @@
       "sub_source": "Zenn",
       "title": "tsrs を導入したら oxlint の type-aware linting と typecheck が爆速になった話",
       "url": "https://zenn.dev/dress_code/articles/6c179ae5129131",
-      "score": 26,
+      "score": 27,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 18 Nov 2026 07:00:06 GMT",
-      "hatena_count": 26
+      "hatena_count": 27
     },
     {
       "id": "zenn-2ff5c6536d",
@@ -6748,13 +6748,13 @@
       "sub_source": "Zenn",
       "title": "おい、 Mutation Test をやれ。テスト品質を、測るために",
       "url": "https://zenn.dev/mizchi/articles/mutation-test-quality",
-      "score": 382,
+      "score": 383,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 17 Nov 2026 09:53:47 GMT",
-      "hatena_count": 382
+      "hatena_count": 383
     },
     {
       "id": "zenn-f4c7185665",
@@ -6790,13 +6790,13 @@
       "sub_source": "Zenn",
       "title": "Claude Desktop 開発のすゝめ",
       "url": "https://zenn.dev/peoplex_blog/articles/vscode-to-claude-desktop",
-      "score": 6,
+      "score": 8,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 17 Nov 2026 03:41:36 GMT",
-      "hatena_count": 6
+      "hatena_count": 8
     },
     {
       "id": "zenn-07aa176070",
@@ -6944,13 +6944,13 @@
       "sub_source": "Zenn",
       "title": "GitHub IssueにArtifactとしてHTMLとMarkdownを添付できるようになった",
       "url": "https://zenn.dev/kesin11/articles/20261114_github_issue_artifact",
-      "score": 98,
+      "score": 99,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sun, 15 Nov 2026 23:00:07 GMT",
-      "hatena_count": 98
+      "hatena_count": 99
     },
     {
       "id": "techracho-6ad2ba5da6",
