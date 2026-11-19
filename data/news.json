@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T03:33:31.299706+00:00",
+  "updated_at": "2026-11-19T04:06:08.703312+00:00",
   "count": 500,
   "items": [
     {
@@ -6776,13 +6776,13 @@
       "sub_source": "Zenn",
       "title": "ローカルLLM入門",
       "url": "https://zenn.dev/port_inc/articles/ff974c7456f4db",
-      "score": 51,
+      "score": 52,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 17 Nov 2026 07:17:24 GMT",
-      "hatena_count": 51
+      "hatena_count": 52
     },
     {
       "id": "zenn-3483494854",
@@ -6790,13 +6790,13 @@
       "sub_source": "Zenn",
       "title": "Claude Desktop 開発のすゝめ",
       "url": "https://zenn.dev/peoplex_blog/articles/vscode-to-claude-desktop",
-      "score": 5,
+      "score": 6,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 17 Nov 2026 03:41:36 GMT",
-      "hatena_count": 5
+      "hatena_count": 6
     },
     {
       "id": "zenn-07aa176070",
@@ -6846,13 +6846,13 @@
       "sub_source": "Zenn",
       "title": "最近、コードを真面目に読まなくなった",
       "url": "https://zenn.dev/hiromoo/articles/reading-less-preparing-more",
-      "score": 81,
+      "score": 83,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 16 Nov 2026 15:24:23 GMT",
-      "hatena_count": 81
+      "hatena_count": 83
     },
     {
       "id": "zenn-794a5d4566",
