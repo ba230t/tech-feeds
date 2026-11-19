@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T08:34:00.677910+00:00",
+  "updated_at": "2026-11-19T09:06:05.343538+00:00",
   "count": 500,
   "items": [
     {
@@ -87,11 +87,11 @@
       "hatena_count": 0
     },
     {
-      "id": "ipa-7afa9de38c",
+      "id": "ipa-155c365440",
       "source": "ipa",
-      "title": "NGINXの複数の脆弱性対策について（CVE-2026-123007、CVE-2026-123633等）",
-      "url": "https://www.ipa.go.jp/security/security-alert/2026/alert20261119.html",
-      "score": 1,
+      "title": "【事前準備のお願い】PHPのセキュリティリリース公開予定について（11月）",
+      "url": "https://www.ipa.go.jp/security/security-alert/2026/pre-alert20261119.html",
+      "score": 0,
       "author": "IPA",
       "tags": [
         "IPA",
@@ -99,7 +99,22 @@
       ],
       "severity": "medium",
       "date": "2026-11-19T00:00:00+09:00",
-      "hatena_count": 1
+      "hatena_count": 0
+    },
+    {
+      "id": "ipa-7afa9de38c",
+      "source": "ipa",
+      "title": "NGINXの複数の脆弱性対策について（CVE-2026-123007、CVE-2026-123633等）",
+      "url": "https://www.ipa.go.jp/security/security-alert/2026/alert20261119.html",
+      "score": 2,
+      "author": "IPA",
+      "tags": [
+        "IPA",
+        "セキュリティ"
+      ],
+      "severity": "medium",
+      "date": "2026-11-19T00:00:00+09:00",
+      "hatena_count": 2
     },
     {
       "id": "qiita-2f4a7defd4",
@@ -6658,21 +6673,6 @@
       "hatena_count": 2
     },
     {
-      "id": "ipa-27c739b7cb",
-      "source": "ipa",
-      "title": "Adobe Acrobat および Reader の脆弱性対策について(2026年6月)",
-      "url": "https://www.ipa.go.jp/security/security-alert/2026/0610-adobereader.html",
-      "score": 0,
-      "author": "IPA",
-      "tags": [
-        "IPA",
-        "セキュリティ"
-      ],
-      "severity": "medium",
-      "date": "2026-06-10T00:00:00+09:00",
-      "hatena_count": 0
-    },
-    {
       "id": "zenn-657be75576",
       "source": "sns",
       "sub_source": "Zenn",
@@ -6706,13 +6706,13 @@
       "sub_source": "Zenn",
       "title": "tsrs を導入したら oxlint の type-aware linting と typecheck が爆速になった話",
       "url": "https://zenn.dev/dress_code/articles/6c179ae5129131",
-      "score": 27,
+      "score": 28,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 18 Nov 2026 07:00:06 GMT",
-      "hatena_count": 27
+      "hatena_count": 28
     },
     {
       "id": "zenn-2ff5c6536d",
@@ -6790,13 +6790,13 @@
       "sub_source": "Zenn",
       "title": "おい、 Mutation Test をやれ。テスト品質を、測るために",
       "url": "https://zenn.dev/mizchi/articles/mutation-test-quality",
-      "score": 385,
+      "score": 386,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 17 Nov 2026 09:53:47 GMT",
-      "hatena_count": 385
+      "hatena_count": 386
     },
     {
       "id": "zenn-f4c7185665",
@@ -6832,13 +6832,13 @@
       "sub_source": "Zenn",
       "title": "Claude Desktop 開発のすゝめ",
       "url": "https://zenn.dev/peoplex_blog/articles/vscode-to-claude-desktop",
-      "score": 13,
+      "score": 16,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 17 Nov 2026 03:41:36 GMT",
-      "hatena_count": 13
+      "hatena_count": 16
     },
     {
       "id": "zenn-07aa176070",

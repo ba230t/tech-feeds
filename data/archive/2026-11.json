@@ -1,15 +1,15 @@
 {
   "month": "2026-11",
-  "total_articles": 441,
-  "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (1件)**\n\n1. Oracle Java の脆弱性対策について(2026年11月)\n\n**AI・機械学習動向 (4件)**\n\n1. 毎月6,000 AI Agentsを捌くためにキーボードを捨てた話\n\n2. QA生産性を爆上げさせるためのQA AIプラットフォーム構築\n\n3. ローカルLLM入門\n\n4. Rails: DHHがRails World 2026キーノートで「語らなかった」部分とは（翻訳）\n\n**技術トレンド (5件)**\n\n1. おい、 Mutation Test をやれ。テスト品質を、測るために\n\n2. 最近、コードを真面目に読まなくなった\n\n3. mise + gh skill で、dotfiles から Agent Skills を管理する\n\n4. tsrs を導入したら oxlint の type-aware linting と typecheck が爆速になった話\n\n5. CSS では書きにくいアニメーションを Web Animations API で書く",
+  "total_articles": 442,
+  "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (1件)**\n\n1. Oracle Java の脆弱性対策について(2026年11月)\n\n**AI・機械学習動向 (4件)**\n\n1. 毎月6,000 AI Agentsを捌くためにキーボードを捨てた話\n\n2. QA生産性を爆上げさせるためのQA AIプラットフォーム構築\n\n3. ローカルLLM入門\n\n4. Rails: DHHがRails World 2026キーノートで「語らなかった」部分とは（翻訳）\n\n**技術トレンド (5件)**\n\n1. おい、 Mutation Test をやれ。テスト品質を、測るために\n\n2. 最近、コードを真面目に読まなくなった\n\n3. tsrs を導入したら oxlint の type-aware linting と typecheck が爆速になった話\n\n4. mise + gh skill で、dotfiles から Agent Skills を管理する\n\n5. CSS では書きにくいアニメーションを Web Animations API で書く",
   "source_counts": {
     "sns": 373,
-    "ipa": 4,
+    "ipa": 5,
     "jpcert": 54,
     "techracho": 10
   },
   "severity_counts": {
-    "medium": 4,
+    "medium": 5,
     "info": 52,
     "high": 10,
     "critical": 1
@@ -21,13 +21,13 @@
       "sub_source": "Zenn",
       "title": "おい、 Mutation Test をやれ。テスト品質を、測るために",
       "url": "https://zenn.dev/mizchi/articles/mutation-test-quality",
-      "score": 385,
+      "score": 386,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 17 Nov 2026 09:53:47 GMT",
-      "hatena_count": 385
+      "hatena_count": 386
     },
     {
       "id": "zenn-07aa176070",
@@ -116,6 +116,20 @@
       "hatena_count": 28
     },
     {
+      "id": "zenn-b225a7e395",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "tsrs を導入したら oxlint の type-aware linting と typecheck が爆速になった話",
+      "url": "https://zenn.dev/dress_code/articles/6c179ae5129131",
+      "score": 28,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 18 Nov 2026 07:00:06 GMT",
+      "hatena_count": 28
+    },
+    {
       "id": "zenn-ec11bcb3f0",
       "source": "sns",
       "sub_source": "Zenn",
@@ -128,20 +142,6 @@
       ],
       "date": "Tue, 17 Nov 2026 03:00:08 GMT",
       "hatena_count": 28
-    },
-    {
-      "id": "zenn-b225a7e395",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "tsrs を導入したら oxlint の type-aware linting と typecheck が爆速になった話",
-      "url": "https://zenn.dev/dress_code/articles/6c179ae5129131",
-      "score": 27,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 18 Nov 2026 07:00:06 GMT",
-      "hatena_count": 27
     },
     {
       "id": "zenn-ffcb738412",
@@ -173,6 +173,20 @@
       "hatena_count": 21
     },
     {
+      "id": "zenn-3483494854",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Claude Desktop 開発のすゝめ",
+      "url": "https://zenn.dev/peoplex_blog/articles/vscode-to-claude-desktop",
+      "score": 16,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 17 Nov 2026 03:41:36 GMT",
+      "hatena_count": 16
+    },
+    {
       "id": "zenn-5b1d35f664",
       "source": "sns",
       "sub_source": "Zenn",
@@ -185,20 +199,6 @@
       ],
       "date": "Mon, 16 Nov 2026 08:00:05 GMT",
       "hatena_count": 15
-    },
-    {
-      "id": "zenn-3483494854",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Claude Desktop 開発のすゝめ",
-      "url": "https://zenn.dev/peoplex_blog/articles/vscode-to-claude-desktop",
-      "score": 13,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 17 Nov 2026 03:41:36 GMT",
-      "hatena_count": 13
     },
     {
       "id": "zenn-70c565a25b",
@@ -274,6 +274,21 @@
       "hatena_count": 3
     },
     {
+      "id": "ipa-7afa9de38c",
+      "source": "ipa",
+      "title": "NGINXの複数の脆弱性対策について（CVE-2026-123007、CVE-2026-123633等）",
+      "url": "https://www.ipa.go.jp/security/security-alert/2026/alert20261119.html",
+      "score": 2,
+      "author": "IPA",
+      "tags": [
+        "IPA",
+        "セキュリティ"
+      ],
+      "severity": "medium",
+      "date": "2026-11-19T00:00:00+09:00",
+      "hatena_count": 2
+    },
+    {
       "id": "zenn-657be75576",
       "source": "sns",
       "sub_source": "Zenn",
@@ -285,20 +300,6 @@
         "Zenn"
       ],
       "date": "Thu, 19 Nov 2026 01:52:32 GMT",
-      "hatena_count": 2
-    },
-    {
-      "id": "zenn-7e5c84817c",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "正しいUIデザインと、意図のあるUIデザイン",
-      "url": "https://zenn.dev/praha/articles/08568310684aa3",
-      "score": 2,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 18 Nov 2026 05:55:40 GMT",
       "hatena_count": 2
     }
   ],
