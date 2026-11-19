@@ -178,13 +178,13 @@
       "sub_source": "Zenn",
       "title": "Claude Desktop 開発のすゝめ",
       "url": "https://zenn.dev/peoplex_blog/articles/vscode-to-claude-desktop",
-      "score": 17,
+      "score": 18,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 17 Nov 2026 03:41:36 GMT",
-      "hatena_count": 17
+      "hatena_count": 18
     },
     {
       "id": "zenn-5b1d35f664",
@@ -205,7 +205,7 @@
       "source": "ipa",
       "title": "NGINXの複数の脆弱性対策について（CVE-2026-123007、CVE-2026-123633等）",
       "url": "https://www.ipa.go.jp/security/security-alert/2026/alert20261119.html",
-      "score": 10,
+      "score": 12,
       "author": "IPA",
       "tags": [
         "IPA",
@@ -213,7 +213,7 @@
       ],
       "severity": "medium",
       "date": "2026-11-19T00:00:00+09:00",
-      "hatena_count": 10
+      "hatena_count": 12
     },
     {
       "id": "zenn-70c565a25b",
