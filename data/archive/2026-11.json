@@ -1,10 +1,10 @@
 {
   "month": "2026-11",
-  "total_articles": 431,
+  "total_articles": 441,
   "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (1件)**\n\n1. Oracle Java の脆弱性対策について(2026年11月)\n\n**AI・機械学習動向 (4件)**\n\n1. 毎月6,000 AI Agentsを捌くためにキーボードを捨てた話\n\n2. QA生産性を爆上げさせるためのQA AIプラットフォーム構築\n\n3. ローカルLLM入門\n\n4. Rails: DHHがRails World 2026キーノートで「語らなかった」部分とは（翻訳）\n\n**技術トレンド (5件)**\n\n1. おい、 Mutation Test をやれ。テスト品質を、測るために\n\n2. 最近、コードを真面目に読まなくなった\n\n3. mise + gh skill で、dotfiles から Agent Skills を管理する\n\n4. tsrs を導入したら oxlint の type-aware linting と typecheck が爆速になった話\n\n5. CSS では書きにくいアニメーションを Web Animations API で書く",
   "source_counts": {
+    "sns": 373,
     "ipa": 4,
-    "sns": 363,
     "jpcert": 54,
     "techracho": 10
   },
@@ -21,13 +21,13 @@
       "sub_source": "Zenn",
       "title": "おい、 Mutation Test をやれ。テスト品質を、測るために",
       "url": "https://zenn.dev/mizchi/articles/mutation-test-quality",
-      "score": 384,
+      "score": 385,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 17 Nov 2026 09:53:47 GMT",
-      "hatena_count": 384
+      "hatena_count": 385
     },
     {
       "id": "zenn-07aa176070",
@@ -192,13 +192,13 @@
       "sub_source": "Zenn",
       "title": "Claude Desktop 開発のすゝめ",
       "url": "https://zenn.dev/peoplex_blog/articles/vscode-to-claude-desktop",
-      "score": 12,
+      "score": 13,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 17 Nov 2026 03:41:36 GMT",
-      "hatena_count": 12
+      "hatena_count": 13
     },
     {
       "id": "zenn-70c565a25b",
@@ -220,13 +220,13 @@
       "sub_source": "Zenn",
       "title": "Odin に賭けたい人向けの Odin 言語入門ガイド",
       "url": "https://zenn.dev/mizchi/articles/odin-introduction-guide",
-      "score": 4,
+      "score": 5,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 18 Nov 2026 05:53:00 GMT",
-      "hatena_count": 4
+      "hatena_count": 5
     },
     {
       "id": "techracho-511973acbf",
