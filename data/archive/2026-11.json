@@ -35,13 +35,13 @@
       "sub_source": "Zenn",
       "title": "毎月6,000 AI Agentsを捌くためにキーボードを捨てた話",
       "url": "https://zenn.dev/andoshin11/articles/ba68b39ef9a8ce",
-      "score": 123,
+      "score": 124,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 17 Nov 2026 03:13:36 GMT",
-      "hatena_count": 123
+      "hatena_count": 124
     },
     {
       "id": "zenn-bea85b5ab6",
@@ -63,13 +63,13 @@
       "sub_source": "Zenn",
       "title": "最近、コードを真面目に読まなくなった",
       "url": "https://zenn.dev/hiromoo/articles/reading-less-preparing-more",
-      "score": 85,
+      "score": 86,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 16 Nov 2026 15:24:23 GMT",
-      "hatena_count": 85
+      "hatena_count": 86
     },
     {
       "id": "zenn-61a940e7c3",
@@ -77,13 +77,13 @@
       "sub_source": "Zenn",
       "title": "ローカルLLM入門",
       "url": "https://zenn.dev/port_inc/articles/ff974c7456f4db",
-      "score": 53,
+      "score": 54,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 17 Nov 2026 07:17:24 GMT",
-      "hatena_count": 53
+      "hatena_count": 54
     },
     {
       "id": "techracho-4b67c39e4f",
@@ -187,20 +187,6 @@
       "hatena_count": 16
     },
     {
-      "id": "zenn-5b1d35f664",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "物理世界とAIをつなぐ：可視化で学ぶカメラ・座標系・運動制御入門",
-      "url": "https://zenn.dev/turing_motors/articles/cea9e3c85611b2",
-      "score": 15,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 16 Nov 2026 08:00:05 GMT",
-      "hatena_count": 15
-    },
-    {
       "id": "zenn-70c565a25b",
       "source": "sns",
       "sub_source": "Zenn",
@@ -300,6 +286,20 @@
         "Zenn"
       ],
       "date": "Thu, 19 Nov 2026 01:52:32 GMT",
+      "hatena_count": 2
+    },
+    {
+      "id": "zenn-7e5c84817c",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "正しいUIデザインと、意図のあるUIデザイン",
+      "url": "https://zenn.dev/praha/articles/08568310684aa3",
+      "score": 2,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 18 Nov 2026 05:55:40 GMT",
       "hatena_count": 2
     }
   ],
