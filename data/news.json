@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T02:33:03.303863+00:00",
+  "updated_at": "2026-11-19T03:06:22.219715+00:00",
   "count": 500,
   "items": [
     {
@@ -6776,13 +6776,13 @@
       "sub_source": "Zenn",
       "title": "ローカルLLM入門",
       "url": "https://zenn.dev/port_inc/articles/ff974c7456f4db",
-      "score": 47,
+      "score": 49,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 17 Nov 2026 07:17:24 GMT",
-      "hatena_count": 47
+      "hatena_count": 49
     },
     {
       "id": "zenn-3483494854",
@@ -6804,13 +6804,13 @@
       "sub_source": "Zenn",
       "title": "毎月6,000 AI Agentsを捌くためにキーボードを捨てた話",
       "url": "https://zenn.dev/andoshin11/articles/ba68b39ef9a8ce",
-      "score": 120,
+      "score": 121,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 17 Nov 2026 03:13:36 GMT",
-      "hatena_count": 120
+      "hatena_count": 121
     },
     {
       "id": "zenn-ec11bcb3f0",
@@ -6832,13 +6832,13 @@
       "sub_source": "Zenn",
       "title": "フロントエンドの logic と UI は、エージェントの責任範囲で分けられるのか",
       "url": "https://zenn.dev/xtm_blog/articles/20261116-fd1702b0ba06cd",
-      "score": 37,
+      "score": 38,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 16 Nov 2026 23:00:05 GMT",
-      "hatena_count": 37
+      "hatena_count": 38
     },
     {
       "id": "zenn-0ad39bac5f",
@@ -6846,13 +6846,13 @@
       "sub_source": "Zenn",
       "title": "最近、コードを真面目に読まなくなった",
       "url": "https://zenn.dev/hiromoo/articles/reading-less-preparing-more",
-      "score": 79,
+      "score": 81,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 16 Nov 2026 15:24:23 GMT",
-      "hatena_count": 79
+      "hatena_count": 81
     },
     {
       "id": "zenn-794a5d4566",
