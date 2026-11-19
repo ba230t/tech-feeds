@@ -21,13 +21,13 @@
       "sub_source": "Zenn",
       "title": "おい、 Mutation Test をやれ。テスト品質を、測るために",
       "url": "https://zenn.dev/mizchi/articles/mutation-test-quality",
-      "score": 381,
+      "score": 382,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 17 Nov 2026 09:53:47 GMT",
-      "hatena_count": 381
+      "hatena_count": 382
     },
     {
       "id": "zenn-07aa176070",
@@ -77,13 +77,13 @@
       "sub_source": "Zenn",
       "title": "最近、コードを真面目に読まなくなった",
       "url": "https://zenn.dev/hiromoo/articles/reading-less-preparing-more",
-      "score": 83,
+      "score": 84,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 16 Nov 2026 15:24:23 GMT",
-      "hatena_count": 83
+      "hatena_count": 84
     },
     {
       "id": "zenn-61a940e7c3",
@@ -257,6 +257,20 @@
       "hatena_count": 4
     },
     {
+      "id": "zenn-64ab151ad7",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "ESLint から oxlint へ。lint が 50 倍速くなるまでの移行の記録",
+      "url": "https://zenn.dev/rimo/articles/12d6a7b1c58fcd",
+      "score": 3,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 18 Nov 2026 00:51:16 GMT",
+      "hatena_count": 3
+    },
+    {
       "id": "techracho-511973acbf",
       "source": "techracho",
       "title": "RubyistがGoに挑む: ポケモンAPIクライアントを書いてみた（翻訳）",
@@ -284,21 +298,6 @@
         "日本語"
       ],
       "date": "Mon, 09 Nov 2026 08:30:25 +0000",
-      "hatena_count": 3
-    },
-    {
-      "id": "techracho-3ff1a08033",
-      "source": "techracho",
-      "title": "Shopifyの Rubydex linter でRubyプロジェクトに構造的lintを導入しよう（翻訳）",
-      "url": "https://techracho.bpsinc.jp/hachi8833/2026_11_05/160032",
-      "score": 3,
-      "author": "Techracho",
-      "tags": [
-        "Ruby",
-        "Rails",
-        "日本語"
-      ],
-      "date": "Thu, 05 Nov 2026 08:30:46 +0000",
       "hatena_count": 3
     }
   ],
