@@ -77,13 +77,13 @@
       "sub_source": "Zenn",
       "title": "ローカルLLM入門",
       "url": "https://zenn.dev/port_inc/articles/ff974c7456f4db",
-      "score": 54,
+      "score": 55,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 17 Nov 2026 07:17:24 GMT",
-      "hatena_count": 54
+      "hatena_count": 55
     },
     {
       "id": "techracho-4b67c39e4f",
@@ -105,7 +105,7 @@
       "source": "ipa",
       "title": "Oracle Java の脆弱性対策について(2026年11月)",
       "url": "https://www.ipa.go.jp/security/security-alert/2026/1118-jre.html",
-      "score": 28,
+      "score": 30,
       "author": "IPA",
       "tags": [
         "IPA",
@@ -113,7 +113,7 @@
       ],
       "severity": "medium",
       "date": "2026-11-18T00:00:00+09:00",
-      "hatena_count": 28
+      "hatena_count": 30
     },
     {
       "id": "zenn-b225a7e395",
@@ -191,7 +191,7 @@
       "source": "ipa",
       "title": "NGINXの複数の脆弱性対策について（CVE-2026-123007、CVE-2026-123633等）",
       "url": "https://www.ipa.go.jp/security/security-alert/2026/alert20261119.html",
-      "score": 12,
+      "score": 18,
       "author": "IPA",
       "tags": [
         "IPA",
@@ -199,7 +199,7 @@
       ],
       "severity": "medium",
       "date": "2026-11-19T00:00:00+09:00",
-      "hatena_count": 12
+      "hatena_count": 18
     },
     {
       "id": "zenn-70c565a25b",
@@ -235,13 +235,13 @@
       "sub_source": "Zenn",
       "title": "pstack 完全ガイド ─AIエージェントに雑なコード     を書かせない技術─",
       "url": "https://zenn.dev/karamage/books/50c18e52e7d19e",
-      "score": 3,
+      "score": 4,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 19 Nov 2026 01:52:32 GMT",
-      "hatena_count": 3
+      "hatena_count": 4
     },
     {
       "id": "techracho-511973acbf",
