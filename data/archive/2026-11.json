@@ -77,13 +77,13 @@
       "sub_source": "Zenn",
       "title": "ローカルLLM入門",
       "url": "https://zenn.dev/port_inc/articles/ff974c7456f4db",
-      "score": 52,
+      "score": 53,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 17 Nov 2026 07:17:24 GMT",
-      "hatena_count": 52
+      "hatena_count": 53
     },
     {
       "id": "techracho-4b67c39e4f",
@@ -192,13 +192,13 @@
       "sub_source": "Zenn",
       "title": "Claude Desktop 開発のすゝめ",
       "url": "https://zenn.dev/peoplex_blog/articles/vscode-to-claude-desktop",
-      "score": 11,
+      "score": 12,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 17 Nov 2026 03:41:36 GMT",
-      "hatena_count": 11
+      "hatena_count": 12
     },
     {
       "id": "zenn-70c565a25b",
@@ -288,18 +288,17 @@
       "hatena_count": 2
     },
     {
-      "id": "techracho-b23695913c",
-      "source": "techracho",
-      "title": "Ruby: C拡張をRuby 4のVM APIに合わせて効率化するためのtips集（翻訳）",
-      "url": "https://techracho.bpsinc.jp/hachi8833/2026_11_02/160896",
+      "id": "zenn-7e5c84817c",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "正しいUIデザインと、意図のあるUIデザイン",
+      "url": "https://zenn.dev/praha/articles/08568310684aa3",
       "score": 2,
-      "author": "Techracho",
+      "author": "Zenn",
       "tags": [
-        "Ruby",
-        "Rails",
-        "日本語"
+        "Zenn"
       ],
-      "date": "Mon, 02 Nov 2026 08:30:18 +0000",
+      "date": "Wed, 18 Nov 2026 05:55:40 GMT",
       "hatena_count": 2
     }
   ],

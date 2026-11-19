@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T07:33:41.653038+00:00",
+  "updated_at": "2026-11-19T08:06:55.587199+00:00",
   "count": 500,
   "items": [
     {
@@ -6734,13 +6734,13 @@
       "sub_source": "Zenn",
       "title": "正しいUIデザインと、意図のあるUIデザイン",
       "url": "https://zenn.dev/praha/articles/08568310684aa3",
-      "score": 1,
+      "score": 2,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 18 Nov 2026 05:55:40 GMT",
-      "hatena_count": 1
+      "hatena_count": 2
     },
     {
       "id": "zenn-5ab9908de4",
@@ -6818,13 +6818,13 @@
       "sub_source": "Zenn",
       "title": "ローカルLLM入門",
       "url": "https://zenn.dev/port_inc/articles/ff974c7456f4db",
-      "score": 52,
+      "score": 53,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 17 Nov 2026 07:17:24 GMT",
-      "hatena_count": 52
+      "hatena_count": 53
     },
     {
       "id": "zenn-3483494854",
@@ -6832,13 +6832,13 @@
       "sub_source": "Zenn",
       "title": "Claude Desktop 開発のすゝめ",
       "url": "https://zenn.dev/peoplex_blog/articles/vscode-to-claude-desktop",
-      "score": 11,
+      "score": 12,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 17 Nov 2026 03:41:36 GMT",
-      "hatena_count": 11
+      "hatena_count": 12
     },
     {
       "id": "zenn-07aa176070",
