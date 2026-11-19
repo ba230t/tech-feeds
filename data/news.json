@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T01:04:49.484884+00:00",
+  "updated_at": "2026-11-19T01:34:28.037603+00:00",
   "count": 500,
   "items": [
     {
@@ -6706,13 +6706,13 @@
       "sub_source": "Zenn",
       "title": "Odin に賭けたい人向けの Odin 言語入門ガイド",
       "url": "https://zenn.dev/mizchi/articles/odin-introduction-guide",
-      "score": 3,
+      "score": 4,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 18 Nov 2026 05:53:00 GMT",
-      "hatena_count": 3
+      "hatena_count": 4
     },
     {
       "id": "zenn-07c4850847",
@@ -6776,13 +6776,13 @@
       "sub_source": "Zenn",
       "title": "ローカルLLM入門",
       "url": "https://zenn.dev/port_inc/articles/ff974c7456f4db",
-      "score": 44,
+      "score": 46,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 17 Nov 2026 07:17:24 GMT",
-      "hatena_count": 44
+      "hatena_count": 46
     },
     {
       "id": "zenn-3483494854",
@@ -6790,13 +6790,13 @@
       "sub_source": "Zenn",
       "title": "Claude Desktop 開発のすゝめ",
       "url": "https://zenn.dev/peoplex_blog/articles/vscode-to-claude-desktop",
-      "score": 4,
+      "score": 5,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 17 Nov 2026 03:41:36 GMT",
-      "hatena_count": 4
+      "hatena_count": 5
     },
     {
       "id": "zenn-07aa176070",
@@ -6846,13 +6846,13 @@
       "sub_source": "Zenn",
       "title": "最近、コードを真面目に読まなくなった",
       "url": "https://zenn.dev/hiromoo/articles/reading-less-preparing-more",
-      "score": 75,
+      "score": 76,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 16 Nov 2026 15:24:23 GMT",
-      "hatena_count": 75
+      "hatena_count": 76
     },
     {
       "id": "zenn-794a5d4566",
@@ -6951,6 +6951,21 @@
       ],
       "date": "Sun, 15 Nov 2026 23:00:07 GMT",
       "hatena_count": 98
+    },
+    {
+      "id": "techracho-6ad2ba5da6",
+      "source": "techracho",
+      "title": "Ruby 4.0.10/3.4.13/3.3.14セキュリティ修正がリリースされました",
+      "url": "https://techracho.bpsinc.jp/hachi8833/2026_11_19/161442",
+      "score": 1,
+      "author": "Techracho",
+      "tags": [
+        "Ruby",
+        "Rails",
+        "日本語"
+      ],
+      "date": "Thu, 19 Nov 2026 01:18:15 +0000",
+      "hatena_count": 1
     },
     {
       "id": "techracho-7d9e7aecae",
@@ -7086,21 +7101,6 @@
       ],
       "date": "Mon, 02 Nov 2026 08:30:18 +0000",
       "hatena_count": 2
-    },
-    {
-      "id": "techracho-9300f8dd2f",
-      "source": "techracho",
-      "title": "RailsのコードをRactorセーフにするリファクタリングパターン集（翻訳）",
-      "url": "https://techracho.bpsinc.jp/hachi8833/2026_10_29/160778",
-      "score": 4,
-      "author": "Techracho",
-      "tags": [
-        "Ruby",
-        "Rails",
-        "日本語"
-      ],
-      "date": "Thu, 29 Oct 2026 08:30:36 +0000",
-      "hatena_count": 4
     }
   ]
 }
