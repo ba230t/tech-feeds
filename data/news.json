@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T21:33:47.621592+00:00",
+  "updated_at": "2026-11-19T22:05:25.628802+00:00",
   "count": 500,
   "items": [
     {
@@ -218,7 +218,7 @@
       "source": "ipa",
       "title": "NGINXの複数の脆弱性対策について（CVE-2026-123007、CVE-2026-123633等）",
       "url": "https://www.ipa.go.jp/security/security-alert/2026/alert20261119.html",
-      "score": 47,
+      "score": 49,
       "author": "IPA",
       "tags": [
         "IPA",
@@ -226,7 +226,7 @@
       ],
       "severity": "medium",
       "date": "2026-11-19T00:00:00+09:00",
-      "hatena_count": 47
+      "hatena_count": 49
     },
     {
       "id": "qiita-2f4a7defd4",
@@ -318,13 +318,13 @@
       "sub_source": "Qiita",
       "title": "今話題のMuseってなに？どんなことができる？※この記事はMuseが書いて自動で投稿しています",
       "url": "https://qiita.com/inoyu-qiita/items/05f9c10adc1a398d6ff5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
+      "score": 1,
       "author": "Qiita",
       "tags": [
         "Qiita"
       ],
       "date": "2026-11-18T17:13:37+09:00",
-      "hatena_count": 0
+      "hatena_count": 1
     },
     {
       "id": "qiita-38f07a8eca",
@@ -6720,13 +6720,13 @@
       "sub_source": "Zenn",
       "title": "pstack 完全ガイド ─AIエージェントに雑なコード     を書かせない技術─",
       "url": "https://zenn.dev/karamage/books/50c18e52e7d19e",
-      "score": 22,
+      "score": 23,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 19 Nov 2026 01:52:32 GMT",
-      "hatena_count": 22
+      "hatena_count": 23
     },
     {
       "id": "zenn-70c565a25b",
@@ -6776,13 +6776,13 @@
       "sub_source": "Zenn",
       "title": "tsrs を導入したら oxlint の type-aware linting と typecheck が爆速になった話",
       "url": "https://zenn.dev/dress_code/articles/6c179ae5129131",
-      "score": 28,
+      "score": 29,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 18 Nov 2026 07:00:06 GMT",
-      "hatena_count": 28
+      "hatena_count": 29
     },
     {
       "id": "zenn-7e5c84817c",
@@ -6832,13 +6832,13 @@
       "sub_source": "Zenn",
       "title": "おい、 Mutation Test をやれ。テスト品質を、測るために",
       "url": "https://zenn.dev/mizchi/articles/mutation-test-quality",
-      "score": 388,
+      "score": 387,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 17 Nov 2026 09:53:47 GMT",
-      "hatena_count": 388
+      "hatena_count": 387
     },
     {
       "id": "zenn-61a940e7c3",
@@ -6944,13 +6944,13 @@
       "sub_source": "Zenn",
       "title": "CSS では書きにくいアニメーションを Web Animations API で書く",
       "url": "https://zenn.dev/omu_tryangle/articles/b5817393592229",
-      "score": 22,
+      "score": 23,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 16 Nov 2026 06:35:01 GMT",
-      "hatena_count": 22
+      "hatena_count": 23
     },
     {
       "id": "techracho-6ad2ba5da6",
