@@ -30,6 +30,20 @@
       "hatena_count": 392
     },
     {
+      "id": "zenn-1e6b48599b",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス",
+      "url": "https://zenn.dev/nttdata_tech/articles/9562962cc181a1",
+      "score": 197,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 19 Nov 2026 07:28:27 GMT",
+      "hatena_count": 197
+    },
+    {
       "id": "zenn-06b280eb58",
       "source": "sns",
       "sub_source": "Zenn",
@@ -43,20 +57,6 @@
       "date": "Thu, 19 Nov 2026 01:34:24 GMT",
       "severity": "high",
       "hatena_count": 189
-    },
-    {
-      "id": "zenn-1e6b48599b",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス",
-      "url": "https://zenn.dev/nttdata_tech/articles/9562962cc181a1",
-      "score": 186,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 19 Nov 2026 07:28:27 GMT",
-      "hatena_count": 186
     },
     {
       "id": "zenn-07aa176070",
