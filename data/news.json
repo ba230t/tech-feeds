@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T02:07:19.371533+00:00",
+  "updated_at": "2026-11-20T02:33:13.837753+00:00",
   "count": 500,
   "items": [
     {
@@ -6678,13 +6678,13 @@
       "sub_source": "Zenn",
       "title": "自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス",
       "url": "https://zenn.dev/nttdata_tech/articles/9562962cc181a1",
-      "score": 2,
+      "score": 3,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 19 Nov 2026 07:28:27 GMT",
-      "hatena_count": 2
+      "hatena_count": 3
     },
     {
       "id": "zenn-9e10601457",
@@ -6748,13 +6748,13 @@
       "sub_source": "Zenn",
       "title": "pstack 完全ガイド ─AIエージェントに雑なコード     を書かせない技術─",
       "url": "https://zenn.dev/karamage/books/50c18e52e7d19e",
-      "score": 40,
+      "score": 41,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 19 Nov 2026 01:52:32 GMT",
-      "hatena_count": 40
+      "hatena_count": 41
     },
     {
       "id": "zenn-06b280eb58",
@@ -6762,14 +6762,14 @@
       "sub_source": "Zenn",
       "title": "相次ぐOSSの脆弱性に、とりあえずクラウドWAF入れるだけでだいぶ違う話+Rootlessコンテナもいいぞ",
       "url": "https://zenn.dev/kusuke/articles/98e178e6824cac",
-      "score": 165,
+      "score": 166,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 19 Nov 2026 01:34:24 GMT",
       "severity": "high",
-      "hatena_count": 165
+      "hatena_count": 166
     },
     {
       "id": "zenn-4ef8e13c45",
@@ -6833,13 +6833,13 @@
       "sub_source": "Zenn",
       "title": "おい、 Mutation Test をやれ。テスト品質を、測るために",
       "url": "https://zenn.dev/mizchi/articles/mutation-test-quality",
-      "score": 387,
+      "score": 388,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 17 Nov 2026 09:53:47 GMT",
-      "hatena_count": 387
+      "hatena_count": 388
     },
     {
       "id": "zenn-61a940e7c3",
@@ -6931,13 +6931,13 @@
       "sub_source": "Zenn",
       "title": "CSS では書きにくいアニメーションを Web Animations API で書く",
       "url": "https://zenn.dev/omu_tryangle/articles/b5817393592229",
-      "score": 23,
+      "score": 24,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 16 Nov 2026 06:35:01 GMT",
-      "hatena_count": 23
+      "hatena_count": 24
     },
     {
       "id": "zenn-52eec506e8",

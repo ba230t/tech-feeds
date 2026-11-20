@@ -21,13 +21,13 @@
       "sub_source": "Zenn",
       "title": "おい、 Mutation Test をやれ。テスト品質を、測るために",
       "url": "https://zenn.dev/mizchi/articles/mutation-test-quality",
-      "score": 387,
+      "score": 388,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 17 Nov 2026 09:53:47 GMT",
-      "hatena_count": 387
+      "hatena_count": 388
     },
     {
       "id": "zenn-06b280eb58",
@@ -35,14 +35,14 @@
       "sub_source": "Zenn",
       "title": "相次ぐOSSの脆弱性に、とりあえずクラウドWAF入れるだけでだいぶ違う話+Rootlessコンテナもいいぞ",
       "url": "https://zenn.dev/kusuke/articles/98e178e6824cac",
-      "score": 165,
+      "score": 166,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 19 Nov 2026 01:34:24 GMT",
       "severity": "high",
-      "hatena_count": 165
+      "hatena_count": 166
     },
     {
       "id": "zenn-07aa176070",
@@ -121,13 +121,13 @@
       "sub_source": "Zenn",
       "title": "pstack 完全ガイド ─AIエージェントに雑なコード     を書かせない技術─",
       "url": "https://zenn.dev/karamage/books/50c18e52e7d19e",
-      "score": 40,
+      "score": 41,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 19 Nov 2026 01:52:32 GMT",
-      "hatena_count": 40
+      "hatena_count": 41
     },
     {
       "id": "zenn-64ab151ad7",
@@ -207,13 +207,13 @@
       "sub_source": "Zenn",
       "title": "CSS では書きにくいアニメーションを Web Animations API で書く",
       "url": "https://zenn.dev/omu_tryangle/articles/b5817393592229",
-      "score": 23,
+      "score": 24,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 16 Nov 2026 06:35:01 GMT",
-      "hatena_count": 23
+      "hatena_count": 24
     },
     {
       "id": "ipa-ee45d6bd49",
@@ -274,6 +274,20 @@
       "hatena_count": 4
     },
     {
+      "id": "zenn-1e6b48599b",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス",
+      "url": "https://zenn.dev/nttdata_tech/articles/9562962cc181a1",
+      "score": 3,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 19 Nov 2026 07:28:27 GMT",
+      "hatena_count": 3
+    },
+    {
       "id": "techracho-511973acbf",
       "source": "techracho",
       "title": "RubyistがGoに挑む: ポケモンAPIクライアントを書いてみた（翻訳）",
@@ -287,21 +301,6 @@
       ],
       "date": "Tue, 10 Nov 2026 08:30:16 +0000",
       "hatena_count": 3
-    },
-    {
-      "id": "techracho-f68eade31b",
-      "source": "techracho",
-      "title": "「RailsはJITコンパイラだ！」（翻訳）",
-      "url": "https://techracho.bpsinc.jp/hachi8833/2026_11_09/160947",
-      "score": 3,
-      "author": "Techracho",
-      "tags": [
-        "Ruby",
-        "Rails",
-        "日本語"
-      ],
-      "date": "Mon, 09 Nov 2026 08:30:25 +0000",
-      "hatena_count": 3
     }
   ],
   "security_highlights": [
@@ -311,14 +310,14 @@
       "sub_source": "Zenn",
       "title": "相次ぐOSSの脆弱性に、とりあえずクラウドWAF入れるだけでだいぶ違う話+Rootlessコンテナもいいぞ",
       "url": "https://zenn.dev/kusuke/articles/98e178e6824cac",
-      "score": 165,
+      "score": 166,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 19 Nov 2026 01:34:24 GMT",
       "severity": "high",
-      "hatena_count": 165
+      "hatena_count": 166
     },
     {
       "id": "qiita-f141bfba0d",
