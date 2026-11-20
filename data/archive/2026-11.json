@@ -35,14 +35,14 @@
       "sub_source": "Zenn",
       "title": "相次ぐOSSの脆弱性に、とりあえずクラウドWAF入れるだけでだいぶ違う話+Rootlessコンテナもいいぞ",
       "url": "https://zenn.dev/kusuke/articles/98e178e6824cac",
-      "score": 157,
+      "score": 165,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 19 Nov 2026 01:34:24 GMT",
       "severity": "high",
-      "hatena_count": 157
+      "hatena_count": 165
     },
     {
       "id": "zenn-07aa176070",
@@ -59,6 +59,20 @@
       "hatena_count": 124
     },
     {
+      "id": "zenn-0ad39bac5f",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "最近、コードを真面目に読まなくなった",
+      "url": "https://zenn.dev/hiromoo/articles/reading-less-preparing-more",
+      "score": 91,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 16 Nov 2026 15:24:23 GMT",
+      "hatena_count": 91
+    },
+    {
       "id": "zenn-bea85b5ab6",
       "source": "sns",
       "sub_source": "Zenn",
@@ -71,20 +85,6 @@
       ],
       "date": "Mon, 16 Nov 2026 09:12:44 GMT",
       "hatena_count": 91
-    },
-    {
-      "id": "zenn-0ad39bac5f",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "最近、コードを真面目に読まなくなった",
-      "url": "https://zenn.dev/hiromoo/articles/reading-less-preparing-more",
-      "score": 90,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 16 Nov 2026 15:24:23 GMT",
-      "hatena_count": 90
     },
     {
       "id": "zenn-61a940e7c3",
@@ -121,13 +121,13 @@
       "sub_source": "Zenn",
       "title": "pstack 完全ガイド ─AIエージェントに雑なコード     を書かせない技術─",
       "url": "https://zenn.dev/karamage/books/50c18e52e7d19e",
-      "score": 36,
+      "score": 40,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 19 Nov 2026 01:52:32 GMT",
-      "hatena_count": 36
+      "hatena_count": 40
     },
     {
       "id": "zenn-64ab151ad7",
@@ -135,13 +135,13 @@
       "sub_source": "Zenn",
       "title": "ESLint から oxlint へ。lint が 50 倍速くなるまでの移行の記録",
       "url": "https://zenn.dev/rimo/articles/12d6a7b1c58fcd",
-      "score": 35,
+      "score": 36,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 18 Nov 2026 00:51:16 GMT",
-      "hatena_count": 35
+      "hatena_count": 36
     },
     {
       "id": "techracho-4b67c39e4f",
@@ -179,13 +179,13 @@
       "sub_source": "Zenn",
       "title": "tsrs を導入したら oxlint の type-aware linting と typecheck が爆速になった話",
       "url": "https://zenn.dev/dress_code/articles/6c179ae5129131",
-      "score": 29,
+      "score": 30,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 18 Nov 2026 07:00:06 GMT",
-      "hatena_count": 29
+      "hatena_count": 30
     },
     {
       "id": "zenn-ec11bcb3f0",
@@ -249,7 +249,7 @@
       "source": "ipa",
       "title": "【事前準備のお願い】PHPのセキュリティリリース公開予定について（11月）",
       "url": "https://www.ipa.go.jp/security/security-alert/2026/pre-alert20261119.html",
-      "score": 10,
+      "score": 11,
       "author": "IPA",
       "tags": [
         "IPA",
@@ -257,7 +257,7 @@
       ],
       "severity": "medium",
       "date": "2026-11-19T00:00:00+09:00",
-      "hatena_count": 10
+      "hatena_count": 11
     },
     {
       "id": "zenn-52eec506e8",
@@ -311,14 +311,14 @@
       "sub_source": "Zenn",
       "title": "相次ぐOSSの脆弱性に、とりあえずクラウドWAF入れるだけでだいぶ違う話+Rootlessコンテナもいいぞ",
       "url": "https://zenn.dev/kusuke/articles/98e178e6824cac",
-      "score": 157,
+      "score": 165,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 19 Nov 2026 01:34:24 GMT",
       "severity": "high",
-      "hatena_count": 157
+      "hatena_count": 165
     },
     {
       "id": "qiita-f141bfba0d",
