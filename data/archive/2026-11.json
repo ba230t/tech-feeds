@@ -35,13 +35,13 @@
       "sub_source": "Zenn",
       "title": "自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス",
       "url": "https://zenn.dev/nttdata_tech/articles/9562962cc181a1",
-      "score": 261,
+      "score": 269,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 19 Nov 2026 07:28:27 GMT",
-      "hatena_count": 261
+      "hatena_count": 269
     },
     {
       "id": "zenn-06b280eb58",
@@ -121,13 +121,13 @@
       "sub_source": "Zenn",
       "title": "pstack 完全ガイド ─AIエージェントに雑なコード     を書かせない技術─",
       "url": "https://zenn.dev/karamage/books/50c18e52e7d19e",
-      "score": 46,
+      "score": 47,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 19 Nov 2026 01:52:32 GMT",
-      "hatena_count": 46
+      "hatena_count": 47
     },
     {
       "id": "techracho-4b67c39e4f",
@@ -149,7 +149,7 @@
       "source": "ipa",
       "title": "Oracle Java の脆弱性対策について(2026年11月)",
       "url": "https://www.ipa.go.jp/security/security-alert/2026/1118-jre.html",
-      "score": 30,
+      "score": 31,
       "author": "IPA",
       "tags": [
         "IPA",
@@ -157,7 +157,7 @@
       ],
       "severity": "medium",
       "date": "2026-11-18T00:00:00+09:00",
-      "hatena_count": 30
+      "hatena_count": 31
     },
     {
       "id": "zenn-b225a7e395",
