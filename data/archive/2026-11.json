@@ -1,15 +1,15 @@
 {
   "month": "2026-11",
-  "total_articles": 454,
+  "total_articles": 467,
   "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (2件)**\n\n1. 相次ぐOSSの脆弱性に、とりあえずクラウドWAF入れるだけでだいぶ違う話+Rootlessコンテナもいいぞ\n\n2. NGINXの複数の脆弱性対策について（CVE-2026-123007、CVE-2026-123633等）\n\n**AI・機械学習動向 (6件)**\n\n1. 毎月6,000 AI Agentsを捌くためにキーボードを捨てた話\n\n2. 自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス\n\n3. QA生産性を爆上げさせるためのQA AIプラットフォーム構築\n\n4. ローカルLLM入門\n\n5. pstack 完全ガイド ─AIエージェントに雑なコード     を書かせない技術─\n\n6. Rails: DHHがRails World 2026キーノートで「語らなかった」部分とは（翻訳）\n\n**技術トレンド (2件)**\n\n1. おい、 Mutation Test をやれ。テスト品質を、測るために\n\n2. 最近、コードを真面目に読まなくなった",
   "source_counts": {
+    "sns": 396,
     "jpcert": 55,
     "ipa": 6,
-    "sns": 383,
     "techracho": 10
   },
   "severity_counts": {
-    "high": 12,
+    "high": 13,
     "medium": 6,
     "info": 52,
     "critical": 1
@@ -35,14 +35,14 @@
       "sub_source": "Zenn",
       "title": "相次ぐOSSの脆弱性に、とりあえずクラウドWAF入れるだけでだいぶ違う話+Rootlessコンテナもいいぞ",
       "url": "https://zenn.dev/kusuke/articles/98e178e6824cac",
-      "score": 185,
+      "score": 186,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 19 Nov 2026 01:34:24 GMT",
       "severity": "high",
-      "hatena_count": 185
+      "hatena_count": 186
     },
     {
       "id": "zenn-07aa176070",
@@ -64,13 +64,13 @@
       "sub_source": "Zenn",
       "title": "自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス",
       "url": "https://zenn.dev/nttdata_tech/articles/9562962cc181a1",
-      "score": 95,
+      "score": 99,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 19 Nov 2026 07:28:27 GMT",
-      "hatena_count": 95
+      "hatena_count": 99
     },
     {
       "id": "zenn-0ad39bac5f",
@@ -310,14 +310,14 @@
       "sub_source": "Zenn",
       "title": "相次ぐOSSの脆弱性に、とりあえずクラウドWAF入れるだけでだいぶ違う話+Rootlessコンテナもいいぞ",
       "url": "https://zenn.dev/kusuke/articles/98e178e6824cac",
-      "score": 185,
+      "score": 186,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 19 Nov 2026 01:34:24 GMT",
       "severity": "high",
-      "hatena_count": 185
+      "hatena_count": 186
     },
     {
       "id": "jpcert-30cd0d7475",
@@ -333,6 +333,21 @@
       "severity": "high",
       "date": "2026-11-20T13:40+09:00",
       "hatena_count": 12
+    },
+    {
+      "id": "qiita-9b64da4059",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "【自動修復AI】脆弱性を自動検知・修正する「CodeMender」とAIエージェント時代のセキュリティ基盤",
+      "url": "https://qiita.com/tomokoro/items/64a762de9e5bdf3e8f00?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-19T10:43:56+09:00",
+      "severity": "high",
+      "hatena_count": 0
     },
     {
       "id": "qiita-f141bfba0d",

@@ -1,7 +1,49 @@
 {
-  "updated_at": "2026-11-20T08:06:53.718180+00:00",
+  "updated_at": "2026-11-20T08:33:32.516113+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "qiita-e8318b0bca",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "AIコーディングで本格的なプロダクト開発をするために知っておきたいこと",
+      "url": "https://qiita.com/ditchcrimson/items/0b312db230db8d0bb566?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-20T15:41:20+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-e518a74369",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "AI に作らせた Skill を「期待値」で評価する",
+      "url": "https://qiita.com/rioriver/items/17308685b10b3a413427?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-20T15:03:48+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-3b02dc1d7f",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "【紫のうさぎ ホラーゲーム】終電後の「新宿駅B1F＆地下街全域（180m×116m）」を外部画像ゼロ・プロシージャルPBRで超精密再現した3Dサバイバルホラーを作ってGitHub Pagesに公開した",
+      "url": "https://qiita.com/yangon/items/0f4a8fce9954e472e70d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-20T13:44:59+09:00",
+      "hatena_count": 0
+    },
     {
       "id": "jpcert-30cd0d7475",
       "source": "jpcert",
@@ -16,6 +58,76 @@
       "severity": "high",
       "date": "2026-11-20T13:40+09:00",
       "hatena_count": 12
+    },
+    {
+      "id": "qiita-90822535e9",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "New Relic Change TrackingでBlue/Greenの変更履歴を整理してみた",
+      "url": "https://qiita.com/seamoooooo/items/38b03472b8d1c3d501c9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-20T11:09:33+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-1972e2de75",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "PHPの11月19日セキュリティリリース：RHEL互換ディストリビューション・Amazon Linux・Remiリポジトリの修正公開状況（2026年11月20日 17:00 JST時点）",
+      "url": "https://qiita.com/k2_naka/items/0449fe452339950649e4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-20T07:23:43+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-f9a9a2d94e",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "【随時更新】Microsoft Ignite 2026 現地参加レポート（技術情報少なめ・画像多め）",
+      "url": "https://qiita.com/katohiro_fi/items/0f03ceb4cf0aa4ecbc03?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-20T06:38:12+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-370527b6dc",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "【TypeScript】型定義をimportしたらエラーが出た",
+      "url": "https://qiita.com/ryu0947/items/00eaf72afe4fe734ba2f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-20T01:32:25+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-547d554c14",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "【初投稿】家庭用の LLM Wiki を職場に持ち込んだ話",
+      "url": "https://qiita.com/ekrsw/items/2b57d7826619cc1f30a5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-20T00:18:38+09:00",
+      "hatena_count": 0
     },
     {
       "id": "ipa-f9b4febdfb",
@@ -44,6 +156,20 @@
         "Qiita"
       ],
       "date": "2026-11-19T23:14:59+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-823cbb2b7d",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "Linuxのバックポートという仕組みでnginxを最新版にしなくても安全にできるらしい",
+      "url": "https://qiita.com/ikuosaito1989/items/01edecc9eb66abeba5d7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-19T22:48:54+09:00",
       "hatena_count": 0
     },
     {
@@ -86,6 +212,34 @@
         "Qiita"
       ],
       "date": "2026-11-19T19:37:22+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-b9b60ab653",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "CAD図面のPDFをAIに読ませる前に確認したい2つのこと：文字が線になっていないか、縮小で潰れないか",
+      "url": "https://qiita.com/sionic_issa/items/345570e589cb1e562ea9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-19T18:08:28+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-e25b97b7e3",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "エンジニアのAIとの付き合い方 #1 はじめに 〜今、何が起きているのか〜",
+      "url": "https://qiita.com/jun-trick/items/efafd8eec3102a7b3754?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-19T13:52:06+09:00",
       "hatena_count": 0
     },
     {
@@ -156,6 +310,21 @@
         "Qiita"
       ],
       "date": "2026-11-19T11:47:30+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-9b64da4059",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "【自動修復AI】脆弱性を自動検知・修正する「CodeMender」とAIエージェント時代のセキュリティ基盤",
+      "url": "https://qiita.com/tomokoro/items/64a762de9e5bdf3e8f00?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-19T10:43:56+09:00",
+      "severity": "high",
       "hatena_count": 0
     },
     {
@@ -340,6 +509,20 @@
         "Qiita"
       ],
       "date": "2026-11-18T17:28:42+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-2fc7bbd04b",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "pypdfでPDFのプルダウンに値を入れたのにAcrobatだけ空欄になる：原因は/Iだった",
+      "url": "https://qiita.com/sionic_issa/items/adf42ca26f22e238793e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-18T17:23:46+09:00",
       "hatena_count": 0
     },
     {
@@ -6220,189 +6403,6 @@
       "hatena_count": 0
     },
     {
-      "id": "qiita-ba0acee5c2",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "自宅ラズパイの脆弱性チェックをしたらHIGH以上が2000件見つかった",
-      "url": "https://qiita.com/yugulab/items/5cdb6f191ef5171adc79?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-31T17:52:53+09:00",
-      "severity": "high",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-759463c769",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "PHPを使わずにPHPを使ったwebサーバーを立てる",
-      "url": "https://qiita.com/plotter/items/af837f20deba162b2955?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-31T17:33:48+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-8b308cb47c",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "AIにありがちな「イマイチなコードコメント」9パターン",
-      "url": "https://qiita.com/jnchito/items/636c519c0b1d347c79b7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-31T16:17:19+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-6d4b5037ed",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "【テスト入門】Vitestの導入とテストを行う",
-      "url": "https://qiita.com/ryu0947/items/0c96cb3a529feb18e33a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-31T15:42:07+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-df3b6a914a",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "SORACOM の白ボタンを押すと ServiceNow にインシデントが起票される仕組みを作った（SORACOM UG Explorer 2026）",
-      "url": "https://qiita.com/takagiko/items/0cb14cdf2de9fea1a6c0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-31T15:29:02+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-d6fa80e323",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "ADRを書いて、AIに \"Why\" を理解させよう【Architecture Decision Record】",
-      "url": "https://qiita.com/tetsuro731/items/65590daa94499e705850?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-31T14:31:15+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-509a8f8e6a",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "【自己紹介】初Qiita",
-      "url": "https://qiita.com/skotm/items/5fcde0f752be5b97ccd3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-31T14:11:50+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-80dc8eb059",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "1案件4セッション - 統合リポのClaude Codeにサブリポを横断レビューさせる",
-      "url": "https://qiita.com/zucky-quest/items/74ed4d7fd676dd5f5556?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-31T11:00:50+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-fe2b568ab9",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "Jetpack AppState TransformとStateStore",
-      "url": "https://qiita.com/Nabe1216/items/cf6dec7247169b4a881b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-31T10:20:38+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-84d37de3bd",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "Vitestでdata-testidで取得した要素の文字列だけを期待したい",
-      "url": "https://qiita.com/J-T_ky2g/items/e6df6e90c887421efeb1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-31T09:48:15+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-cf609d424f",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "C++とも競えるプログラミング言語 Fix が yukicoder で使えるようになりました（性能比較あり）",
-      "url": "https://qiita.com/tttmmmyyyy/items/6c3ca62c1c9c2b419e7c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-31T09:42:37+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-64700da286",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "【Docker入門】Ubuntu 24.04コンテナ環境構築",
-      "url": "https://qiita.com/NoguchiHikaru/items/dccd98d85a31c0cec279?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-31T09:07:52+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-115549866b",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "OpenHandsのDockerポート公開、全インターフェースに出る症状と1.52.0対応",
-      "url": "https://qiita.com/orca-forge/items/145909fc7dff845b19ca?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-31T08:21:47+09:00",
-      "hatena_count": 0
-    },
-    {
       "id": "jpcert-382a807b6d",
       "source": "jpcert",
       "title": "注意喚起: BrotliのC言語実装における境界外書き込みの脆弱性（CVE-2026-111497）に関する注意喚起  (公開)",
@@ -6734,13 +6734,13 @@
       "sub_source": "Zenn",
       "title": "自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス",
       "url": "https://zenn.dev/nttdata_tech/articles/9562962cc181a1",
-      "score": 95,
+      "score": 99,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 19 Nov 2026 07:28:27 GMT",
-      "hatena_count": 95
+      "hatena_count": 99
     },
     {
       "id": "zenn-9e10601457",
@@ -6790,14 +6790,14 @@
       "sub_source": "Zenn",
       "title": "相次ぐOSSの脆弱性に、とりあえずクラウドWAF入れるだけでだいぶ違う話+Rootlessコンテナもいいぞ",
       "url": "https://zenn.dev/kusuke/articles/98e178e6824cac",
-      "score": 185,
+      "score": 186,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 19 Nov 2026 01:34:24 GMT",
       "severity": "high",
-      "hatena_count": 185
+      "hatena_count": 186
     },
     {
       "id": "zenn-70c565a25b",
