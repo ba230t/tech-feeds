@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T10:05:29.908292+00:00",
+  "updated_at": "2026-11-20T10:33:29.287573+00:00",
   "count": 500,
   "items": [
     {
@@ -6673,31 +6673,45 @@
       "hatena_count": 1
     },
     {
-      "id": "zenn-3c9b9dc807",
+      "id": "zenn-426f3b9549",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "Decision ModelはFAQの回答の確認と問い合わせの振り分けに使えるか",
-      "url": "https://zenn.dev/genax_corp/articles/20261109-judge-models-faq-check",
+      "title": "RTKの走行データ収集でAndroidの記録アプリを外から監視する",
+      "url": "https://zenn.dev/nauh_blog/articles/b60cd6973c8a3f",
       "score": 0,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Fri, 20 Nov 2026 03:00:05 GMT",
+      "date": "Fri, 20 Nov 2026 09:00:06 GMT",
       "hatena_count": 0
     },
     {
-      "id": "zenn-87fbb046d2",
+      "id": "zenn-b9afa88b6c",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "Dockerfileでイメージを作成後、レイヤーとキャッシュの確認",
-      "url": "https://zenn.dev/mutsu_zenn/articles/75498c3f4e693b",
+      "title": "日本のレシートを自宅PCでOCRする：15構成を実レシート11枚で比べた",
+      "url": "https://zenn.dev/chaki/articles/4545be3475fdb4",
       "score": 0,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Thu, 19 Nov 2026 22:00:05 GMT",
+      "date": "Fri, 20 Nov 2026 04:33:15 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-14fae7edcb",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "CDKからTerraformへ：所有権移譲による本番インフラ無停止のIaC移行",
+      "url": "https://zenn.dev/levtech/articles/14befd8e727f32",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 20 Nov 2026 01:26:30 GMT",
       "hatena_count": 0
     },
     {
@@ -6729,18 +6743,32 @@
       "hatena_count": 0
     },
     {
+      "id": "zenn-1e1af17dec",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "dbt v1 でメトリクスを一元管理する未来 〜Apache Ossie と Lightdash で試す〜",
+      "url": "https://zenn.dev/kyami/articles/dbt-snowflake-apache-ossie",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 19 Nov 2026 13:48:35 GMT",
+      "hatena_count": 0
+    },
+    {
       "id": "zenn-1e6b48599b",
       "source": "sns",
       "sub_source": "Zenn",
       "title": "自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス",
       "url": "https://zenn.dev/nttdata_tech/articles/9562962cc181a1",
-      "score": 149,
+      "score": 161,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 19 Nov 2026 07:28:27 GMT",
-      "hatena_count": 149
+      "hatena_count": 161
     },
     {
       "id": "zenn-9e10601457",
@@ -6757,18 +6785,18 @@
       "hatena_count": 1
     },
     {
-      "id": "zenn-e68865e1f0",
+      "id": "zenn-79952aa41b",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "Gemini Decision 1でスパム退治！",
-      "url": "https://zenn.dev/satoshi_yoneda/articles/decision-1-anti-spam",
-      "score": 0,
+      "title": "TypeScript 7.1 の Content Mapper で型の生成コマンドをなくす",
+      "url": "https://zenn.dev/toiroakr/articles/typescript-content-mapper-codegen",
+      "score": 1,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Thu, 19 Nov 2026 06:20:46 GMT",
-      "hatena_count": 0
+      "date": "Thu, 19 Nov 2026 02:10:13 GMT",
+      "hatena_count": 1
     },
     {
       "id": "zenn-657be75576",
@@ -6790,28 +6818,14 @@
       "sub_source": "Zenn",
       "title": "相次ぐOSSの脆弱性に、とりあえずクラウドWAF入れるだけでだいぶ違う話+Rootlessコンテナもいいぞ",
       "url": "https://zenn.dev/kusuke/articles/98e178e6824cac",
-      "score": 188,
+      "score": 189,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 19 Nov 2026 01:34:24 GMT",
       "severity": "high",
-      "hatena_count": 188
-    },
-    {
-      "id": "zenn-70c565a25b",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "vue-tscの壁を越える：vizeとtsrsでVueの型検査を高速化した",
-      "url": "https://zenn.dev/studio/articles/vue-typecheck-vize-tsrs",
-      "score": 9,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 18 Nov 2026 14:26:28 GMT",
-      "hatena_count": 9
+      "hatena_count": 189
     },
     {
       "id": "zenn-b225a7e395",
@@ -6910,20 +6924,6 @@
       ],
       "date": "Mon, 16 Nov 2026 15:24:23 GMT",
       "hatena_count": 93
-    },
-    {
-      "id": "zenn-bea85b5ab6",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "QA生産性を爆上げさせるためのQA AIプラットフォーム構築",
-      "url": "https://zenn.dev/gatechnologies/articles/8bdea59269eb10",
-      "score": 91,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 16 Nov 2026 09:12:44 GMT",
-      "hatena_count": 91
     },
     {
       "id": "zenn-ffcb738412",
