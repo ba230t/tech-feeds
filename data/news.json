@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T15:05:26.974932+00:00",
+  "updated_at": "2026-11-20T15:33:45.099965+00:00",
   "count": 500,
   "items": [
     {
@@ -77,7 +77,7 @@
       "id": "qiita-1972e2de75",
       "source": "sns",
       "sub_source": "Qiita",
-      "title": "PHPの11月19日セキュリティリリース：RHEL互換ディストリビューション・Amazon Linux・Remiリポジトリの修正公開状況（2026年11月20日 17:00 JST時点）",
+      "title": "PHPの11月19日セキュリティリリース：RHEL互換ディストリビューション・Amazon Linux・Remiリポジトリの修正公開状況（2026年11月21日 00:00 JST時点）",
       "url": "https://qiita.com/k2_naka/items/0449fe452339950649e4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
       "score": 0,
       "author": "Qiita",
@@ -402,7 +402,7 @@
       "source": "ipa",
       "title": "【事前準備のお願い】PHPのセキュリティリリース公開予定について（11月）",
       "url": "https://www.ipa.go.jp/security/security-alert/2026/pre-alert20261119.html",
-      "score": 14,
+      "score": 15,
       "author": "IPA",
       "tags": [
         "IPA",
@@ -410,7 +410,7 @@
       ],
       "severity": "medium",
       "date": "2026-11-19T00:00:00+09:00",
-      "hatena_count": 14
+      "hatena_count": 15
     },
     {
       "id": "ipa-7afa9de38c",
@@ -6762,13 +6762,13 @@
       "sub_source": "Zenn",
       "title": "自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス",
       "url": "https://zenn.dev/nttdata_tech/articles/9562962cc181a1",
-      "score": 231,
+      "score": 249,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 19 Nov 2026 07:28:27 GMT",
-      "hatena_count": 231
+      "hatena_count": 249
     },
     {
       "id": "zenn-9e10601457",
