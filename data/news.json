@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T07:33:40.999079+00:00",
+  "updated_at": "2026-11-20T08:06:53.718180+00:00",
   "count": 500,
   "items": [
     {
@@ -248,7 +248,7 @@
       "source": "ipa",
       "title": "NGINXの複数の脆弱性対策について（CVE-2026-123007、CVE-2026-123633等）",
       "url": "https://www.ipa.go.jp/security/security-alert/2026/alert20261119.html",
-      "score": 55,
+      "score": 56,
       "author": "IPA",
       "tags": [
         "IPA",
@@ -256,7 +256,7 @@
       ],
       "severity": "medium",
       "date": "2026-11-19T00:00:00+09:00",
-      "hatena_count": 55
+      "hatena_count": 56
     },
     {
       "id": "qiita-2f4a7defd4",
@@ -6734,13 +6734,13 @@
       "sub_source": "Zenn",
       "title": "自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス",
       "url": "https://zenn.dev/nttdata_tech/articles/9562962cc181a1",
-      "score": 60,
+      "score": 95,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 19 Nov 2026 07:28:27 GMT",
-      "hatena_count": 60
+      "hatena_count": 95
     },
     {
       "id": "zenn-9e10601457",
@@ -6776,13 +6776,13 @@
       "sub_source": "Zenn",
       "title": "pstack 完全ガイド ─AIエージェントに雑なコード     を書かせない技術─",
       "url": "https://zenn.dev/karamage/books/50c18e52e7d19e",
-      "score": 44,
+      "score": 45,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 19 Nov 2026 01:52:32 GMT",
-      "hatena_count": 44
+      "hatena_count": 45
     },
     {
       "id": "zenn-06b280eb58",
@@ -6790,14 +6790,14 @@
       "sub_source": "Zenn",
       "title": "相次ぐOSSの脆弱性に、とりあえずクラウドWAF入れるだけでだいぶ違う話+Rootlessコンテナもいいぞ",
       "url": "https://zenn.dev/kusuke/articles/98e178e6824cac",
-      "score": 179,
+      "score": 185,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 19 Nov 2026 01:34:24 GMT",
       "severity": "high",
-      "hatena_count": 179
+      "hatena_count": 185
     },
     {
       "id": "zenn-70c565a25b",
@@ -6903,13 +6903,13 @@
       "sub_source": "Zenn",
       "title": "最近、コードを真面目に読まなくなった",
       "url": "https://zenn.dev/hiromoo/articles/reading-less-preparing-more",
-      "score": 92,
+      "score": 93,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 16 Nov 2026 15:24:23 GMT",
-      "hatena_count": 92
+      "hatena_count": 93
     },
     {
       "id": "zenn-bea85b5ab6",
