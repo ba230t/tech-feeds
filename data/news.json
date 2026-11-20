@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T23:33:46.592767+00:00",
+  "updated_at": "2026-11-20T00:12:02.940278+00:00",
   "count": 500,
   "items": [
     {
@@ -203,7 +203,7 @@
       "source": "ipa",
       "title": "【事前準備のお願い】PHPのセキュリティリリース公開予定について（11月）",
       "url": "https://www.ipa.go.jp/security/security-alert/2026/pre-alert20261119.html",
-      "score": 9,
+      "score": 10,
       "author": "IPA",
       "tags": [
         "IPA",
@@ -211,7 +211,7 @@
       ],
       "severity": "medium",
       "date": "2026-11-19T00:00:00+09:00",
-      "hatena_count": 9
+      "hatena_count": 10
     },
     {
       "id": "ipa-7afa9de38c",
@@ -6678,13 +6678,13 @@
       "sub_source": "Zenn",
       "title": "自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス",
       "url": "https://zenn.dev/nttdata_tech/articles/9562962cc181a1",
-      "score": 0,
+      "score": 1,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 19 Nov 2026 07:28:27 GMT",
-      "hatena_count": 0
+      "hatena_count": 1
     },
     {
       "id": "zenn-9e10601457",
@@ -6748,13 +6748,13 @@
       "sub_source": "Zenn",
       "title": "pstack 完全ガイド ─AIエージェントに雑なコード     を書かせない技術─",
       "url": "https://zenn.dev/karamage/books/50c18e52e7d19e",
-      "score": 29,
+      "score": 36,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 19 Nov 2026 01:52:32 GMT",
-      "hatena_count": 29
+      "hatena_count": 36
     },
     {
       "id": "zenn-06b280eb58",
@@ -6762,14 +6762,14 @@
       "sub_source": "Zenn",
       "title": "相次ぐOSSの脆弱性に、とりあえずクラウドWAF入れるだけでだいぶ違う話+Rootlessコンテナもいいぞ",
       "url": "https://zenn.dev/kusuke/articles/98e178e6824cac",
-      "score": 138,
+      "score": 150,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 19 Nov 2026 01:34:24 GMT",
       "severity": "high",
-      "hatena_count": 138
+      "hatena_count": 150
     },
     {
       "id": "zenn-4ef8e13c45",
