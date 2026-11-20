@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T05:05:43.061963+00:00",
+  "updated_at": "2026-11-20T05:33:38.206727+00:00",
   "count": 500,
   "items": [
     {
@@ -6673,74 +6673,18 @@
       "hatena_count": 1
     },
     {
-      "id": "zenn-c389919efb",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "CLAUDE.md や SKILL.md のルールを Turtle で書き、ルールの書き間違いや矛盾を lint で検査してみた話",
-      "url": "https://zenn.dev/hma2moto/articles/turtle-agent-rules-pros-cons",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 19 Nov 2026 14:13:57 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-1e1af17dec",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "dbt v1 でメトリクスを一元管理する未来 〜Apache Ossie と Lightdash で試す〜",
-      "url": "https://zenn.dev/kyami/articles/dbt-snowflake-apache-ossie",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 19 Nov 2026 13:48:35 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-a911626b05",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Protobufチームは Implicit Presence を作ったことを後悔しているらしい",
-      "url": "https://zenn.dev/nagatsukey/articles/1782a56f61a45e",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 19 Nov 2026 11:10:27 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-c3b93dd893",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "OpenAI-API呼び出しにおけるプロンプトキャッシュの学び",
-      "url": "https://zenn.dev/91works/articles/76132a32606efb",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 19 Nov 2026 08:25:36 GMT",
-      "hatena_count": 0
-    },
-    {
       "id": "zenn-1e6b48599b",
       "source": "sns",
       "sub_source": "Zenn",
       "title": "自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス",
       "url": "https://zenn.dev/nttdata_tech/articles/9562962cc181a1",
-      "score": 27,
+      "score": 36,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 19 Nov 2026 07:28:27 GMT",
-      "hatena_count": 27
+      "hatena_count": 36
     },
     {
       "id": "zenn-9e10601457",
@@ -6771,6 +6715,34 @@
       "hatena_count": 0
     },
     {
+      "id": "zenn-1f94ba949c",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Microsoft-Decision-1.1公開！Microsoft-Decision-1との差はどれくらい？",
+      "url": "https://zenn.dev/microsoft/articles/ms-decision-1-1",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 19 Nov 2026 03:41:58 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-79952aa41b",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "TypeScript 7.1 の Content Mapper で型の生成コマンドをなくす",
+      "url": "https://zenn.dev/toiroakr/articles/typescript-content-mapper-codegen",
+      "score": 1,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 19 Nov 2026 02:10:13 GMT",
+      "hatena_count": 1
+    },
+    {
       "id": "zenn-657be75576",
       "source": "sns",
       "sub_source": "Zenn",
@@ -6790,14 +6762,28 @@
       "sub_source": "Zenn",
       "title": "相次ぐOSSの脆弱性に、とりあえずクラウドWAF入れるだけでだいぶ違う話+Rootlessコンテナもいいぞ",
       "url": "https://zenn.dev/kusuke/articles/98e178e6824cac",
-      "score": 177,
+      "score": 179,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 19 Nov 2026 01:34:24 GMT",
       "severity": "high",
-      "hatena_count": 177
+      "hatena_count": 179
+    },
+    {
+      "id": "zenn-4ef8e13c45",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "ログの種別を整理して、何をどこまで残すか決めた話",
+      "url": "https://zenn.dev/dress_code/articles/a3bf34274af03f",
+      "score": 2,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 19 Nov 2026 00:00:11 GMT",
+      "hatena_count": 2
     },
     {
       "id": "zenn-b225a7e395",
@@ -6826,6 +6812,20 @@
       ],
       "date": "Wed, 18 Nov 2026 05:55:40 GMT",
       "hatena_count": 2
+    },
+    {
+      "id": "zenn-64ab151ad7",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "ESLint から oxlint へ。lint が 50 倍速くなるまでの移行の記録",
+      "url": "https://zenn.dev/rimo/articles/12d6a7b1c58fcd",
+      "score": 36,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 18 Nov 2026 00:51:16 GMT",
+      "hatena_count": 36
     },
     {
       "id": "zenn-ac0340dfae",
