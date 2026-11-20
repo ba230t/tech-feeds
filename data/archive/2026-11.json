@@ -35,13 +35,13 @@
       "sub_source": "Zenn",
       "title": "自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス",
       "url": "https://zenn.dev/nttdata_tech/articles/9562962cc181a1",
-      "score": 222,
+      "score": 231,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 19 Nov 2026 07:28:27 GMT",
-      "hatena_count": 222
+      "hatena_count": 231
     },
     {
       "id": "zenn-06b280eb58",
@@ -221,7 +221,7 @@
       "source": "ipa",
       "title": "【事前準備のお願い】PHPのセキュリティリリース公開予定について（11月）",
       "url": "https://www.ipa.go.jp/security/security-alert/2026/pre-alert20261119.html",
-      "score": 13,
+      "score": 14,
       "author": "IPA",
       "tags": [
         "IPA",
@@ -229,7 +229,7 @@
       ],
       "severity": "medium",
       "date": "2026-11-19T00:00:00+09:00",
-      "hatena_count": 13
+      "hatena_count": 14
     },
     {
       "id": "jpcert-30cd0d7475",
