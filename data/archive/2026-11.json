@@ -1,7 +1,7 @@
 {
   "month": "2026-11",
   "total_articles": 467,
-  "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (2件)**\n\n1. 相次ぐOSSの脆弱性に、とりあえずクラウドWAF入れるだけでだいぶ違う話+Rootlessコンテナもいいぞ\n\n2. NGINXの複数の脆弱性対策について（CVE-2026-123007、CVE-2026-123633等）\n\n**AI・機械学習動向 (6件)**\n\n1. 毎月6,000 AI Agentsを捌くためにキーボードを捨てた話\n\n2. 自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス\n\n3. QA生産性を爆上げさせるためのQA AIプラットフォーム構築\n\n4. ローカルLLM入門\n\n5. pstack 完全ガイド ─AIエージェントに雑なコード     を書かせない技術─\n\n6. Rails: DHHがRails World 2026キーノートで「語らなかった」部分とは（翻訳）\n\n**技術トレンド (2件)**\n\n1. おい、 Mutation Test をやれ。テスト品質を、測るために\n\n2. 最近、コードを真面目に読まなくなった",
+  "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (2件)**\n\n1. 相次ぐOSSの脆弱性に、とりあえずクラウドWAF入れるだけでだいぶ違う話+Rootlessコンテナもいいぞ\n\n2. NGINXの複数の脆弱性対策について（CVE-2026-123007、CVE-2026-123633等）\n\n**AI・機械学習動向 (6件)**\n\n1. 自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス\n\n2. 毎月6,000 AI Agentsを捌くためにキーボードを捨てた話\n\n3. QA生産性を爆上げさせるためのQA AIプラットフォーム構築\n\n4. ローカルLLM入門\n\n5. pstack 完全ガイド ─AIエージェントに雑なコード     を書かせない技術─\n\n6. Rails: DHHがRails World 2026キーノートで「語らなかった」部分とは（翻訳）\n\n**技術トレンド (2件)**\n\n1. おい、 Mutation Test をやれ。テスト品質を、測るために\n\n2. 最近、コードを真面目に読まなくなった",
   "source_counts": {
     "sns": 396,
     "jpcert": 55,
@@ -21,13 +21,13 @@
       "sub_source": "Zenn",
       "title": "おい、 Mutation Test をやれ。テスト品質を、測るために",
       "url": "https://zenn.dev/mizchi/articles/mutation-test-quality",
-      "score": 389,
+      "score": 392,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 17 Nov 2026 09:53:47 GMT",
-      "hatena_count": 389
+      "hatena_count": 392
     },
     {
       "id": "zenn-06b280eb58",
@@ -35,14 +35,28 @@
       "sub_source": "Zenn",
       "title": "相次ぐOSSの脆弱性に、とりあえずクラウドWAF入れるだけでだいぶ違う話+Rootlessコンテナもいいぞ",
       "url": "https://zenn.dev/kusuke/articles/98e178e6824cac",
-      "score": 186,
+      "score": 188,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 19 Nov 2026 01:34:24 GMT",
       "severity": "high",
-      "hatena_count": 186
+      "hatena_count": 188
+    },
+    {
+      "id": "zenn-1e6b48599b",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス",
+      "url": "https://zenn.dev/nttdata_tech/articles/9562962cc181a1",
+      "score": 149,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 19 Nov 2026 07:28:27 GMT",
+      "hatena_count": 149
     },
     {
       "id": "zenn-07aa176070",
@@ -57,20 +71,6 @@
       ],
       "date": "Tue, 17 Nov 2026 03:13:36 GMT",
       "hatena_count": 124
-    },
-    {
-      "id": "zenn-1e6b48599b",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス",
-      "url": "https://zenn.dev/nttdata_tech/articles/9562962cc181a1",
-      "score": 99,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 19 Nov 2026 07:28:27 GMT",
-      "hatena_count": 99
     },
     {
       "id": "zenn-0ad39bac5f",
@@ -105,7 +105,7 @@
       "source": "ipa",
       "title": "NGINXの複数の脆弱性対策について（CVE-2026-123007、CVE-2026-123633等）",
       "url": "https://www.ipa.go.jp/security/security-alert/2026/alert20261119.html",
-      "score": 56,
+      "score": 57,
       "author": "IPA",
       "tags": [
         "IPA",
@@ -113,7 +113,7 @@
       ],
       "severity": "medium",
       "date": "2026-11-19T00:00:00+09:00",
-      "hatena_count": 56
+      "hatena_count": 57
     },
     {
       "id": "zenn-61a940e7c3",
@@ -121,13 +121,13 @@
       "sub_source": "Zenn",
       "title": "ローカルLLM入門",
       "url": "https://zenn.dev/port_inc/articles/ff974c7456f4db",
-      "score": 55,
+      "score": 56,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 17 Nov 2026 07:17:24 GMT",
-      "hatena_count": 55
+      "hatena_count": 56
     },
     {
       "id": "zenn-657be75576",
@@ -135,13 +135,13 @@
       "sub_source": "Zenn",
       "title": "pstack 完全ガイド ─AIエージェントに雑なコード     を書かせない技術─",
       "url": "https://zenn.dev/karamage/books/50c18e52e7d19e",
-      "score": 45,
+      "score": 46,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 19 Nov 2026 01:52:32 GMT",
-      "hatena_count": 45
+      "hatena_count": 46
     },
     {
       "id": "techracho-4b67c39e4f",
@@ -231,6 +231,21 @@
       "hatena_count": 21
     },
     {
+      "id": "ipa-155c365440",
+      "source": "ipa",
+      "title": "【事前準備のお願い】PHPのセキュリティリリース公開予定について（11月）",
+      "url": "https://www.ipa.go.jp/security/security-alert/2026/pre-alert20261119.html",
+      "score": 13,
+      "author": "IPA",
+      "tags": [
+        "IPA",
+        "セキュリティ"
+      ],
+      "severity": "medium",
+      "date": "2026-11-19T00:00:00+09:00",
+      "hatena_count": 13
+    },
+    {
       "id": "jpcert-30cd0d7475",
       "source": "jpcert",
       "title": "注意喚起: PHPにおける複数の脆弱性（CVE-2026-109618、CVE-2026-109619）に関する注意喚起  (更新)",
@@ -243,21 +258,6 @@
       ],
       "severity": "high",
       "date": "2026-11-20T13:40+09:00",
-      "hatena_count": 12
-    },
-    {
-      "id": "ipa-155c365440",
-      "source": "ipa",
-      "title": "【事前準備のお願い】PHPのセキュリティリリース公開予定について（11月）",
-      "url": "https://www.ipa.go.jp/security/security-alert/2026/pre-alert20261119.html",
-      "score": 12,
-      "author": "IPA",
-      "tags": [
-        "IPA",
-        "セキュリティ"
-      ],
-      "severity": "medium",
-      "date": "2026-11-19T00:00:00+09:00",
       "hatena_count": 12
     },
     {
@@ -310,14 +310,14 @@
       "sub_source": "Zenn",
       "title": "相次ぐOSSの脆弱性に、とりあえずクラウドWAF入れるだけでだいぶ違う話+Rootlessコンテナもいいぞ",
       "url": "https://zenn.dev/kusuke/articles/98e178e6824cac",
-      "score": 186,
+      "score": 188,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 19 Nov 2026 01:34:24 GMT",
       "severity": "high",
-      "hatena_count": 186
+      "hatena_count": 188
     },
     {
       "id": "jpcert-30cd0d7475",
