@@ -1,7 +1,7 @@
 {
   "month": "2026-11",
   "total_articles": 474,
-  "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (3件)**\n\n1. 相次ぐOSSの脆弱性に、とりあえずクラウドWAF入れるだけでだいぶ違う話+Rootlessコンテナもいいぞ\n\n2. NGINXの複数の脆弱性対策について（CVE-2026-123007、CVE-2026-123633等）\n\n3. Oracle Java の脆弱性対策について(2026年11月)\n\n**AI・機械学習動向 (5件)**\n\n1. 自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス\n\n2. 毎月6,000 AI Agentsを捌くためにキーボードを捨てた話\n\n3. ローカルLLM入門\n\n4. pstack 完全ガイド ─AIエージェントに雑なコード     を書かせない技術─\n\n5. Rails: DHHがRails World 2026キーノートで「語らなかった」部分とは（翻訳）\n\n**技術トレンド (2件)**\n\n1. おい、 Mutation Test をやれ。テスト品質を、測るために\n\n2. 最近、コードを真面目に読まなくなった",
+  "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (2件)**\n\n1. 相次ぐOSSの脆弱性に、とりあえずクラウドWAF入れるだけでだいぶ違う話+Rootlessコンテナもいいぞ\n\n2. NGINXの複数の脆弱性対策について（CVE-2026-123007、CVE-2026-123633等）\n\n**AI・機械学習動向 (6件)**\n\n1. 自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス\n\n2. 毎月6,000 AI Agentsを捌くためにキーボードを捨てた話\n\n3. QA生産性を爆上げさせるためのQA AIプラットフォーム構築\n\n4. ローカルLLM入門\n\n5. pstack 完全ガイド ─AIエージェントに雑なコード     を書かせない技術─\n\n6. Rails: DHHがRails World 2026キーノートで「語らなかった」部分とは（翻訳）\n\n**技術トレンド (2件)**\n\n1. おい、 Mutation Test をやれ。テスト品質を、測るために\n\n2. 最近、コードを真面目に読まなくなった",
   "source_counts": {
     "sns": 403,
     "jpcert": 55,
@@ -21,13 +21,13 @@
       "sub_source": "Zenn",
       "title": "おい、 Mutation Test をやれ。テスト品質を、測るために",
       "url": "https://zenn.dev/mizchi/articles/mutation-test-quality",
-      "score": 394,
+      "score": 395,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 17 Nov 2026 09:53:47 GMT",
-      "hatena_count": 394
+      "hatena_count": 395
     },
     {
       "id": "zenn-1e6b48599b",
@@ -35,13 +35,13 @@
       "sub_source": "Zenn",
       "title": "自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス",
       "url": "https://zenn.dev/nttdata_tech/articles/9562962cc181a1",
-      "score": 297,
+      "score": 299,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 19 Nov 2026 07:28:27 GMT",
-      "hatena_count": 297
+      "hatena_count": 299
     },
     {
       "id": "zenn-06b280eb58",
@@ -85,6 +85,20 @@
       ],
       "date": "Mon, 16 Nov 2026 15:24:23 GMT",
       "hatena_count": 94
+    },
+    {
+      "id": "zenn-bea85b5ab6",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "QA生産性を爆上げさせるためのQA AIプラットフォーム構築",
+      "url": "https://zenn.dev/gatechnologies/articles/8bdea59269eb10",
+      "score": 91,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 16 Nov 2026 09:12:44 GMT",
+      "hatena_count": 91
     },
     {
       "id": "ipa-7afa9de38c",
@@ -232,6 +246,20 @@
       "hatena_count": 15
     },
     {
+      "id": "zenn-5b1d35f664",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "物理世界とAIをつなぐ：可視化で学ぶカメラ・座標系・運動制御入門",
+      "url": "https://zenn.dev/turing_motors/articles/cea9e3c85611b2",
+      "score": 15,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 16 Nov 2026 08:00:05 GMT",
+      "hatena_count": 15
+    },
+    {
       "id": "jpcert-30cd0d7475",
       "source": "jpcert",
       "title": "注意喚起: PHPにおける複数の脆弱性（CVE-2026-109618、CVE-2026-109619）に関する注意喚起  (更新)",
@@ -252,13 +280,13 @@
       "sub_source": "Zenn",
       "title": "正しいUIデザインと、意図のあるUIデザイン",
       "url": "https://zenn.dev/praha/articles/08568310684aa3",
-      "score": 8,
+      "score": 12,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 18 Nov 2026 05:55:40 GMT",
-      "hatena_count": 8
+      "hatena_count": 12
     },
     {
       "id": "zenn-52eec506e8",
@@ -273,36 +301,6 @@
       ],
       "date": "Mon, 16 Nov 2026 03:49:18 GMT",
       "hatena_count": 4
-    },
-    {
-      "id": "techracho-511973acbf",
-      "source": "techracho",
-      "title": "RubyistがGoに挑む: ポケモンAPIクライアントを書いてみた（翻訳）",
-      "url": "https://techracho.bpsinc.jp/hachi8833/2026_11_10/159573",
-      "score": 3,
-      "author": "Techracho",
-      "tags": [
-        "Ruby",
-        "Rails",
-        "日本語"
-      ],
-      "date": "Tue, 10 Nov 2026 08:30:16 +0000",
-      "hatena_count": 3
-    },
-    {
-      "id": "techracho-f68eade31b",
-      "source": "techracho",
-      "title": "「RailsはJITコンパイラだ！」（翻訳）",
-      "url": "https://techracho.bpsinc.jp/hachi8833/2026_11_09/160947",
-      "score": 3,
-      "author": "Techracho",
-      "tags": [
-        "Ruby",
-        "Rails",
-        "日本語"
-      ],
-      "date": "Mon, 09 Nov 2026 08:30:25 +0000",
-      "hatena_count": 3
     }
   ],
   "security_highlights": [

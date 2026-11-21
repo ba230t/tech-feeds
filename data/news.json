@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T05:05:40.885581+00:00",
+  "updated_at": "2026-11-21T05:33:35.905300+00:00",
   "count": 500,
   "items": [
     {
@@ -6674,17 +6674,45 @@
       "hatena_count": 1
     },
     {
-      "id": "zenn-426f3b9549",
+      "id": "zenn-5fd2d296dd",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "RTKの走行データ収集でAndroidの記録アプリを外から監視する",
-      "url": "https://zenn.dev/nauh_blog/articles/b60cd6973c8a3f",
+      "title": "DOTweenを使わずにイージングを自作する！Robert Pennerのイージング関数をC#で実装して検証してみた",
+      "url": "https://zenn.dev/sorane/articles/e1ed930dea9b1d",
       "score": 0,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Fri, 20 Nov 2026 09:00:06 GMT",
+      "date": "Fri, 20 Nov 2026 16:03:46 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-c7eb8f191e",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "作れるエンジニアから、価値を届けるエンジニアへ",
+      "url": "https://zenn.dev/kubell/articles/3c3490a3592bb1",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 20 Nov 2026 15:50:41 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-7343e58591",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "自宅サーバー上のアプリケーションを Cloudflare Tunnel + Access で安全に公開する",
+      "url": "https://zenn.dev/bisque/articles/home-server-cloudflare-tunnel-access",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 20 Nov 2026 07:14:41 GMT",
       "hatena_count": 0
     },
     {
@@ -6702,59 +6730,17 @@
       "hatena_count": 0
     },
     {
-      "id": "zenn-14fae7edcb",
+      "id": "zenn-28af52a034",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "CDKからTerraformへ：所有権移譲による本番インフラ無停止のIaC移行",
-      "url": "https://zenn.dev/levtech/articles/14befd8e727f32",
+      "title": "100MBで喋るAI「phonon」を使ってみた",
+      "url": "https://zenn.dev/aiforall/articles/96465259cc2167",
       "score": 0,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Fri, 20 Nov 2026 01:26:30 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-d925ef03e4",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "MetaのMuseを使ってみた: 内部構造とセキュリティの調査",
-      "url": "https://zenn.dev/shoyataguchi/articles/b1bc6a96d4b963",
-      "score": 2,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 19 Nov 2026 15:55:36 GMT",
-      "hatena_count": 2
-    },
-    {
-      "id": "zenn-c389919efb",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "CLAUDE.md や SKILL.md のルールを Turtle で書き、ルールの書き間違いや矛盾を lint で検査してみた話",
-      "url": "https://zenn.dev/hma2moto/articles/turtle-agent-rules-pros-cons",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 19 Nov 2026 14:13:57 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-1e1af17dec",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "dbt v1 でメトリクスを一元管理する未来 〜Apache Ossie と Lightdash で試す〜",
-      "url": "https://zenn.dev/kyami/articles/dbt-snowflake-apache-ossie",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 19 Nov 2026 13:48:35 GMT",
+      "date": "Fri, 20 Nov 2026 04:22:23 GMT",
       "hatena_count": 0
     },
     {
@@ -6763,13 +6749,13 @@
       "sub_source": "Zenn",
       "title": "自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス",
       "url": "https://zenn.dev/nttdata_tech/articles/9562962cc181a1",
-      "score": 297,
+      "score": 299,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 19 Nov 2026 07:28:27 GMT",
-      "hatena_count": 297
+      "hatena_count": 299
     },
     {
       "id": "zenn-9e10601457",
@@ -6783,20 +6769,6 @@
         "Zenn"
       ],
       "date": "Thu, 19 Nov 2026 07:11:24 GMT",
-      "hatena_count": 1
-    },
-    {
-      "id": "zenn-79952aa41b",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "TypeScript 7.1 の Content Mapper で型の生成コマンドをなくす",
-      "url": "https://zenn.dev/toiroakr/articles/typescript-content-mapper-codegen",
-      "score": 1,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 19 Nov 2026 02:10:13 GMT",
       "hatena_count": 1
     },
     {
@@ -6848,13 +6820,13 @@
       "sub_source": "Zenn",
       "title": "正しいUIデザインと、意図のあるUIデザイン",
       "url": "https://zenn.dev/praha/articles/08568310684aa3",
-      "score": 8,
+      "score": 12,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 18 Nov 2026 05:55:40 GMT",
-      "hatena_count": 8
+      "hatena_count": 12
     },
     {
       "id": "zenn-ac0340dfae",
@@ -6862,13 +6834,13 @@
       "sub_source": "Zenn",
       "title": "おい、 Mutation Test をやれ。テスト品質を、測るために",
       "url": "https://zenn.dev/mizchi/articles/mutation-test-quality",
-      "score": 394,
+      "score": 395,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 17 Nov 2026 09:53:47 GMT",
-      "hatena_count": 394
+      "hatena_count": 395
     },
     {
       "id": "zenn-61a940e7c3",
@@ -6925,6 +6897,34 @@
       ],
       "date": "Mon, 16 Nov 2026 15:24:23 GMT",
       "hatena_count": 94
+    },
+    {
+      "id": "zenn-bea85b5ab6",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "QA生産性を爆上げさせるためのQA AIプラットフォーム構築",
+      "url": "https://zenn.dev/gatechnologies/articles/8bdea59269eb10",
+      "score": 91,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 16 Nov 2026 09:12:44 GMT",
+      "hatena_count": 91
+    },
+    {
+      "id": "zenn-5b1d35f664",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "物理世界とAIをつなぐ：可視化で学ぶカメラ・座標系・運動制御入門",
+      "url": "https://zenn.dev/turing_motors/articles/cea9e3c85611b2",
+      "score": 15,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 16 Nov 2026 08:00:05 GMT",
+      "hatena_count": 15
     },
     {
       "id": "zenn-ffcb738412",
