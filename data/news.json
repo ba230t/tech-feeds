@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T14:33:11.935789+00:00",
+  "updated_at": "2026-11-21T15:04:20.893966+00:00",
   "count": 500,
   "items": [
     {
@@ -6762,13 +6762,13 @@
       "sub_source": "Zenn",
       "title": "日本のレシートを自宅PCでOCRする：15構成を実レシート11枚で比べた",
       "url": "https://zenn.dev/chaki/articles/4545be3475fdb4",
-      "score": 0,
+      "score": 1,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 20 Nov 2026 04:33:15 GMT",
-      "hatena_count": 0
+      "hatena_count": 1
     },
     {
       "id": "zenn-c389919efb",
@@ -6790,13 +6790,13 @@
       "sub_source": "Zenn",
       "title": "自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス",
       "url": "https://zenn.dev/nttdata_tech/articles/9562962cc181a1",
-      "score": 305,
+      "score": 306,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 19 Nov 2026 07:28:27 GMT",
-      "hatena_count": 305
+      "hatena_count": 306
     },
     {
       "id": "zenn-9e10601457",
@@ -6832,14 +6832,14 @@
       "sub_source": "Zenn",
       "title": "相次ぐOSSの脆弱性に、とりあえずクラウドWAF入れるだけでだいぶ違う話+Rootlessコンテナもいいぞ",
       "url": "https://zenn.dev/kusuke/articles/98e178e6824cac",
-      "score": 193,
+      "score": 194,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 19 Nov 2026 01:34:24 GMT",
       "severity": "high",
-      "hatena_count": 193
+      "hatena_count": 194
     },
     {
       "id": "zenn-b225a7e395",
@@ -6861,13 +6861,13 @@
       "sub_source": "Zenn",
       "title": "おい、 Mutation Test をやれ。テスト品質を、測るために",
       "url": "https://zenn.dev/mizchi/articles/mutation-test-quality",
-      "score": 396,
+      "score": 397,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 17 Nov 2026 09:53:47 GMT",
-      "hatena_count": 396
+      "hatena_count": 397
     },
     {
       "id": "zenn-61a940e7c3",
