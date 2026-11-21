@@ -1,14 +1,13 @@
 {
   "month": "2026-10",
-  "total_articles": 17,
+  "total_articles": 9,
   "summary": "# 2026-10の技術動向レポート\n\n**セキュリティ動向 (5件)**\n\n1. 【事前準備のお願い】PHPのセキュリティリリース公開予定について\n\n2. Oracle Java の脆弱性対策について(2026年10月)\n\n3. 注意喚起: BrotliのC言語実装における境界外書き込みの脆弱性（CVE-2026-111497）に関する注意喚起  (公開)\n\n4. 注意喚起: SiteGuard Server EditionにおけるOSコマンドインジェクションの脆弱性（CVE-2026-106931）に関する注意喚起  (公開)\n\n5. 「Movable Type」における複数の脆弱性について（JVN#91153973）\n\n**技術トレンド (2件)**\n\n1. 注意喚起: 直近で相次いでいる国内組織における不正アクセスに関する注意喚起  (更新)\n\n2. 不正アクセスによる漏えい等の事案を踏まえ、速やかに実施すべき対策等について",
   "source_counts": {
-    "sns": 8,
     "jpcert": 4,
     "ipa": 5
   },
   "severity_counts": {
-    "high": 5,
+    "high": 4,
     "medium": 5
   },
   "top_articles": [
@@ -118,119 +117,6 @@
       "hatena_count": 1
     },
     {
-      "id": "qiita-bd8dc8c4fd",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "「画面でデプロイしてください」と AI に言わせない ── GAS をブラウザゼロ・1秒台で直しきる『秀GASマネージャー』ができるまで",
-      "url": "https://qiita.com/shu15511551/items/228dfa134c76e15ab1a8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-01T08:24:19+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-334d381771",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "ローカル LLM の監視強化（前編）：Qwen の「外への送信」報道を受けて、AI エージェントを OS とネットワークで止める",
-      "url": "https://qiita.com/nabe2030/items/0b89543adbf2ba60bf25?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-01T08:07:08+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-a315a0e212",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "受験生用鉄緑風プリント作成プロンプト",
-      "url": "https://qiita.com/KKTeX/items/c2612d68b2882afd620a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-01T07:55:06+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-3013fe5eb9",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "脆弱性情報を開発チームで見逃さないようにSlackにRSSフィードを設定してみた",
-      "url": "https://qiita.com/yukmaru/items/a3f358cc3e58e435df61?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-01T03:52:30+09:00",
-      "severity": "high",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-884bed9736",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "JavaScriptのdocumentをインスタンス化せずに使える理由とDOMの実体を調べてみた",
-      "url": "https://qiita.com/yukmaru/items/7ef2bebeb3e227baa8d4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-01T02:41:28+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-96aff116ad",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "PicoRubyKaigi 2026 に行ってきた",
-      "url": "https://qiita.com/tomoasleep/items/80b624b64d17eeb14d74?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-31T23:12:08+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-f76f235cd3",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "Claudeくん！これ作って！~コスト可視化~",
-      "url": "https://qiita.com/hotate_2235/items/b72c85b001fcf6b575da?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-31T23:09:12+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-dc7b62403c",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "APEXlangでVibe Coding：画面デザイン集",
-      "url": "https://qiita.com/araidon/items/d38d616dce3b3e3109c0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-10-31T22:58:17+09:00",
-      "hatena_count": 0
-    },
-    {
       "id": "jpcert-027b004008",
       "source": "jpcert",
       "title": "注意喚起: 2026年10月マイクロソフトセキュリティ更新プログラムに関する注意喚起  (公開)",
@@ -262,21 +148,6 @@
     }
   ],
   "security_highlights": [
-    {
-      "id": "qiita-3013fe5eb9",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "脆弱性情報を開発チームで見逃さないようにSlackにRSSフィードを設定してみた",
-      "url": "https://qiita.com/yukmaru/items/a3f358cc3e58e435df61?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-01T03:52:30+09:00",
-      "severity": "high",
-      "hatena_count": 0
-    },
     {
       "id": "jpcert-382a807b6d",
       "source": "jpcert",

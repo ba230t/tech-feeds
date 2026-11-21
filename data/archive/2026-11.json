@@ -1,9 +1,9 @@
 {
   "month": "2026-11",
-  "total_articles": 474,
+  "total_articles": 482,
   "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (2件)**\n\n1. 相次ぐOSSの脆弱性に、とりあえずクラウドWAF入れるだけでだいぶ違う話+Rootlessコンテナもいいぞ\n\n2. NGINXの複数の脆弱性対策について（CVE-2026-123007、CVE-2026-123633等）\n\n**AI・機械学習動向 (6件)**\n\n1. 自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス\n\n2. 毎月6,000 AI Agentsを捌くためにキーボードを捨てた話\n\n3. QA生産性を爆上げさせるためのQA AIプラットフォーム構築\n\n4. ローカルLLM入門\n\n5. pstack 完全ガイド ─AIエージェントに雑なコード     を書かせない技術─\n\n6. Rails: DHHがRails World 2026キーノートで「語らなかった」部分とは（翻訳）\n\n**技術トレンド (2件)**\n\n1. おい、 Mutation Test をやれ。テスト品質を、測るために\n\n2. 最近、コードを真面目に読まなくなった",
   "source_counts": {
-    "sns": 403,
+    "sns": 411,
     "jpcert": 55,
     "ipa": 6,
     "techracho": 10
@@ -21,13 +21,13 @@
       "sub_source": "Zenn",
       "title": "おい、 Mutation Test をやれ。テスト品質を、測るために",
       "url": "https://zenn.dev/mizchi/articles/mutation-test-quality",
-      "score": 395,
+      "score": 396,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 17 Nov 2026 09:53:47 GMT",
-      "hatena_count": 395
+      "hatena_count": 396
     },
     {
       "id": "zenn-1e6b48599b",
@@ -78,13 +78,13 @@
       "sub_source": "Zenn",
       "title": "最近、コードを真面目に読まなくなった",
       "url": "https://zenn.dev/hiromoo/articles/reading-less-preparing-more",
-      "score": 94,
+      "score": 95,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 16 Nov 2026 15:24:23 GMT",
-      "hatena_count": 94
+      "hatena_count": 95
     },
     {
       "id": "zenn-bea85b5ab6",
