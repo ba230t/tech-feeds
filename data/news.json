@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T22:04:35.737777+00:00",
+  "updated_at": "2026-11-21T22:33:26.198280+00:00",
   "count": 500,
   "items": [
     {
@@ -6673,48 +6673,6 @@
       "hatena_count": 1
     },
     {
-      "id": "zenn-f37382ff6f",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "AIエージェントに堅牢なテストを書かせるには？",
-      "url": "https://zenn.dev/yasuakiomokawa/articles/3ac970c3a3a1c7",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 21 Nov 2026 09:09:12 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-3e7c0d19c3",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "初心者がAIとMAXのAPKを解析してみた【後編】",
-      "url": "https://zenn.dev/aki0804/articles/ac6690df48a1ae",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 21 Nov 2026 08:44:02 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-b7647052e7",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "JVM がコードを実行する仕組みを理解したい",
-      "url": "https://zenn.dev/rea9r/articles/jvm-code-execution",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 21 Nov 2026 08:06:49 GMT",
-      "hatena_count": 0
-    },
-    {
       "id": "zenn-97c7090c40",
       "source": "sns",
       "sub_source": "Zenn",
@@ -6729,31 +6687,17 @@
       "hatena_count": 0
     },
     {
-      "id": "zenn-5fd2d296dd",
+      "id": "zenn-7343e58591",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "DOTweenを使わずにイージングを自作する！Robert Pennerのイージング関数をC#で実装して検証してみた",
-      "url": "https://zenn.dev/sorane/articles/e1ed930dea9b1d",
+      "title": "自宅サーバー上のアプリケーションを Cloudflare Tunnel + Access で安全に公開する",
+      "url": "https://zenn.dev/bisque/articles/home-server-cloudflare-tunnel-access",
       "score": 0,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Fri, 20 Nov 2026 16:03:46 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-c7eb8f191e",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "作れるエンジニアから、価値を届けるエンジニアへ",
-      "url": "https://zenn.dev/kubell/articles/3c3490a3592bb1",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 20 Nov 2026 15:50:41 GMT",
+      "date": "Fri, 20 Nov 2026 07:14:41 GMT",
       "hatena_count": 0
     },
     {
@@ -6769,6 +6713,20 @@
       ],
       "date": "Fri, 20 Nov 2026 04:33:15 GMT",
       "hatena_count": 1
+    },
+    {
+      "id": "zenn-14fae7edcb",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "CDKからTerraformへ：所有権移譲による本番インフラ無停止のIaC移行",
+      "url": "https://zenn.dev/levtech/articles/14befd8e727f32",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 20 Nov 2026 01:26:30 GMT",
+      "hatena_count": 0
     },
     {
       "id": "zenn-c389919efb",
@@ -6856,6 +6814,20 @@
       "hatena_count": 30
     },
     {
+      "id": "zenn-7e5c84817c",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "正しいUIデザインと、意図のあるUIデザイン",
+      "url": "https://zenn.dev/praha/articles/08568310684aa3",
+      "score": 24,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 18 Nov 2026 05:55:40 GMT",
+      "hatena_count": 24
+    },
+    {
       "id": "zenn-ac0340dfae",
       "source": "sns",
       "sub_source": "Zenn",
@@ -6924,6 +6896,34 @@
       ],
       "date": "Mon, 16 Nov 2026 15:24:23 GMT",
       "hatena_count": 95
+    },
+    {
+      "id": "zenn-bea85b5ab6",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "QA生産性を爆上げさせるためのQA AIプラットフォーム構築",
+      "url": "https://zenn.dev/gatechnologies/articles/8bdea59269eb10",
+      "score": 91,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 16 Nov 2026 09:12:44 GMT",
+      "hatena_count": 91
+    },
+    {
+      "id": "zenn-5b1d35f664",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "物理世界とAIをつなぐ：可視化で学ぶカメラ・座標系・運動制御入門",
+      "url": "https://zenn.dev/turing_motors/articles/cea9e3c85611b2",
+      "score": 15,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 16 Nov 2026 08:00:05 GMT",
+      "hatena_count": 15
     },
     {
       "id": "zenn-ffcb738412",
