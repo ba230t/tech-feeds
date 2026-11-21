@@ -21,13 +21,13 @@
       "sub_source": "Zenn",
       "title": "おい、 Mutation Test をやれ。テスト品質を、測るために",
       "url": "https://zenn.dev/mizchi/articles/mutation-test-quality",
-      "score": 393,
+      "score": 394,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 17 Nov 2026 09:53:47 GMT",
-      "hatena_count": 393
+      "hatena_count": 394
     },
     {
       "id": "zenn-1e6b48599b",
@@ -35,13 +35,13 @@
       "sub_source": "Zenn",
       "title": "自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス",
       "url": "https://zenn.dev/nttdata_tech/articles/9562962cc181a1",
-      "score": 292,
+      "score": 297,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 19 Nov 2026 07:28:27 GMT",
-      "hatena_count": 292
+      "hatena_count": 297
     },
     {
       "id": "zenn-06b280eb58",
@@ -247,6 +247,20 @@
       "hatena_count": 12
     },
     {
+      "id": "zenn-7e5c84817c",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "正しいUIデザインと、意図のあるUIデザイン",
+      "url": "https://zenn.dev/praha/articles/08568310684aa3",
+      "score": 6,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 18 Nov 2026 05:55:40 GMT",
+      "hatena_count": 6
+    },
+    {
       "id": "zenn-52eec506e8",
       "source": "sns",
       "sub_source": "Zenn",
@@ -259,20 +273,6 @@
       ],
       "date": "Mon, 16 Nov 2026 03:49:18 GMT",
       "hatena_count": 4
-    },
-    {
-      "id": "zenn-7e5c84817c",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "正しいUIデザインと、意図のあるUIデザイン",
-      "url": "https://zenn.dev/praha/articles/08568310684aa3",
-      "score": 3,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 18 Nov 2026 05:55:40 GMT",
-      "hatena_count": 3
     },
     {
       "id": "techracho-511973acbf",
