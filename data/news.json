@@ -1,7 +1,49 @@
 {
-  "updated_at": "2026-11-21T20:04:57.216052+00:00",
+  "updated_at": "2026-11-21T20:33:02.341823+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "qiita-4338bca95d",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "pgvectorのHNSWでテナント絞り込みすると検索が0件になる問題と対策",
+      "url": "https://qiita.com/takumi_engineer/items/142ca7088f13f006da82?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-21T18:51:37+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-9560620c8e",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "社会人ドクターの経験から得られたこと，苦労したこと，そこから現在の活動につながっていること（後編）",
+      "url": "https://qiita.com/mshdtksk/items/440dbb0fce5828637411?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-21T18:40:15+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-24f6f6a47f",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "Geminiに「Cargry言語とはなんですか」と聞いたら、LLMの弊害を感じた",
+      "url": "https://qiita.com/compalog/items/a538b606b3aa1d138108?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-21T13:58:17+09:00",
+      "hatena_count": 0
+    },
     {
       "id": "qiita-ff162228d0",
       "source": "sns",
@@ -101,6 +143,20 @@
       "hatena_count": 0
     },
     {
+      "id": "qiita-86624a5d9a",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "適度にバズりつつ読みやすい記事の書き方",
+      "url": "https://qiita.com/EndOfData/items/8cf8f3eb8a1d2c3a9465?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-21T01:10:04+09:00",
+      "hatena_count": 0
+    },
+    {
       "id": "qiita-f68348e49f",
       "source": "sns",
       "sub_source": "Qiita",
@@ -129,6 +185,20 @@
       "hatena_count": 0
     },
     {
+      "id": "qiita-f808ffe7df",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "第8回 自分のトレードルールを「言葉」で書き出してAIに渡すコツ",
+      "url": "https://qiita.com/oanda2/items/9726cd47ac45a905e63a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-20T18:40:37+09:00",
+      "hatena_count": 0
+    },
+    {
       "id": "qiita-4849ff4923",
       "source": "sns",
       "sub_source": "Qiita",
@@ -140,6 +210,20 @@
         "Qiita"
       ],
       "date": "2026-11-20T17:41:58+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-ba002bcf67",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "Claude Code が調べずに「ありません」「できません」と答えるのを Stop フックで差し戻す(道具を1回も呼んでいない返事だけを止める)",
+      "url": "https://qiita.com/takamatt_ai/items/043da9bb50a9136d38b5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-20T17:39:14+09:00",
       "hatena_count": 0
     },
     {
@@ -185,6 +269,20 @@
       "hatena_count": 0
     },
     {
+      "id": "qiita-a497493a68",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "家のPull型世代バックアップをランサム想定で攻撃シミュレーションして、1行直した",
+      "url": "https://qiita.com/Yu-muimi/items/9ed058ed915564e670df?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-20T16:20:42+09:00",
+      "hatena_count": 0
+    },
+    {
       "id": "qiita-e8318b0bca",
       "source": "sns",
       "sub_source": "Qiita",
@@ -196,6 +294,20 @@
         "Qiita"
       ],
       "date": "2026-11-20T15:41:20+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-ab77dc6f99",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "日本の法律をGitで管理してみた。法改正を `git diff` で追跡できる「houritsu」を作った",
+      "url": "https://qiita.com/bactay511/items/bc2958e730df68c49643?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-20T15:21:48+09:00",
       "hatena_count": 0
     },
     {
@@ -479,6 +591,20 @@
         "Qiita"
       ],
       "date": "2026-11-19T18:08:28+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-6de65c002b",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "Agent Harnessを理解するために、150行ほどのPythonで自作してみた",
+      "url": "https://qiita.com/yamamoto_a_genee/items/76562c5c80032ad9e962?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-19T17:28:17+09:00",
       "hatena_count": 0
     },
     {
@@ -6262,90 +6388,6 @@
       "hatena_count": 0
     },
     {
-      "id": "qiita-e5805887b7",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "ClaudeCodeで自律的に調査させてみたら大失敗した",
-      "url": "https://qiita.com/sai029/items/57b38881f03f7ff0638c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-02T09:18:14+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-2bee75e539",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "Cursor で Claude Code 拡張 2.1.312・2.1.313 が改ざんされていた件、Windows で自分の PC を確かめた",
-      "url": "https://qiita.com/suwa_nobu/items/3cd02fa0f1cec7ea979c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-02T09:09:57+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-7573fcbf44",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "生成 AI が進化する今こそ、「人材育成」が経営の重要課題ではないか",
-      "url": "https://qiita.com/Takashi_Masumori/items/3c3091a6142d3e05385b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-02T08:53:15+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-26a81b312a",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "【AWS】Step Functionsをエージェントのツールにしてみた：ピン・IAM・トークンの効き方を検証【AgentCore】",
-      "url": "https://qiita.com/Nana_777/items/4df8731bd53a6ab7a31f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-02T07:39:42+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-ef4ea4d6a2",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "compact の使い方、間違えるとトークン代 2.75 倍？ Claude Code で測ってわかった 5 つの結論【2026年版】",
-      "url": "https://qiita.com/songchong/items/ac9779bb8e8838b546b9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-02T04:05:20+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-311caeec3d",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "Amazon Bedrock ガードレールでマイナンバーをどこまで検出できるか試してみた",
-      "url": "https://qiita.com/takeda_h/items/1819f00de8f2b93034c0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-02T03:31:05+09:00",
-      "hatena_count": 0
-    },
-    {
       "id": "ipa-ee45d6bd49",
       "source": "ipa",
       "title": "更新：PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell)",
@@ -6359,48 +6401,6 @@
       "severity": "medium",
       "date": "2026-11-02T00:00:00+09:00",
       "hatena_count": 21
-    },
-    {
-      "id": "qiita-80280adecb",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "【みのるん式】Claude Code仕事術を読んだら、自分のモノレポの答え合わせになりました！",
-      "url": "https://qiita.com/yosuke-suzuki/items/94a3794c8c6bb5e10079?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-01T23:59:28+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-401639cb6d",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "新しいRAG「Decision RAG」は速い！安い！上手い！🍜",
-      "url": "https://qiita.com/kikuziro/items/cc82e6e4e4c215eac99f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-01T23:05:25+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-335be4700d",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "【未来を解説】AIでエンジニア格差を生み出す質とスピードの考え方",
-      "url": "https://qiita.com/Sicut_study/items/b9e38c0584d4aa720d31?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 1,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-01T17:41:55+09:00",
-      "hatena_count": 1
     },
     {
       "id": "jpcert-382a807b6d",
