@@ -21,13 +21,13 @@
       "sub_source": "Zenn",
       "title": "寝てる間に自動で動くAIエージェントを誰でも作れる：10分でわかる pstack 実践ガイド",
       "url": "https://zenn.dev/canly/articles/ca6875cd79539f",
-      "score": 534,
+      "score": 536,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 20 Nov 2026 09:04:40 GMT",
-      "hatena_count": 534
+      "hatena_count": 536
     },
     {
       "id": "zenn-ac0340dfae",
@@ -87,6 +87,20 @@
       "hatena_count": 124
     },
     {
+      "id": "zenn-97c7090c40",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "【TLA+】AIにテストケースを書かせるな。ルールを書け",
+      "url": "https://zenn.dev/karamage/articles/73027ee36796dc",
+      "score": 98,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 21 Nov 2026 02:12:39 GMT",
+      "hatena_count": 98
+    },
+    {
       "id": "zenn-0ad39bac5f",
       "source": "sns",
       "sub_source": "Zenn",
@@ -99,20 +113,6 @@
       ],
       "date": "Mon, 16 Nov 2026 15:24:23 GMT",
       "hatena_count": 96
-    },
-    {
-      "id": "zenn-97c7090c40",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "【TLA+】AIにテストケースを書かせるな。ルールを書け",
-      "url": "https://zenn.dev/karamage/articles/73027ee36796dc",
-      "score": 93,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 21 Nov 2026 02:12:39 GMT",
-      "hatena_count": 93
     },
     {
       "id": "zenn-bea85b5ab6",
@@ -163,13 +163,13 @@
       "sub_source": "Zenn",
       "title": "pstack 完全ガイド ─AIエージェントに雑なコード     を書かせない技術─",
       "url": "https://zenn.dev/karamage/books/50c18e52e7d19e",
-      "score": 47,
+      "score": 48,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 19 Nov 2026 01:52:32 GMT",
-      "hatena_count": 47
+      "hatena_count": 48
     },
     {
       "id": "zenn-7e5c84817c",
