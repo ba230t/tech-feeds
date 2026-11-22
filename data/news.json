@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T22:04:56.402620+00:00",
+  "updated_at": "2026-11-22T22:33:21.679197+00:00",
   "count": 500,
   "items": [
     {
@@ -6705,13 +6705,13 @@
       "sub_source": "Zenn",
       "title": "【TLA+】AIにテストケースを書かせるな。ルールを書け",
       "url": "https://zenn.dev/karamage/articles/73027ee36796dc",
-      "score": 139,
+      "score": 141,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sat, 21 Nov 2026 02:12:39 GMT",
-      "hatena_count": 139
+      "hatena_count": 141
     },
     {
       "id": "zenn-c7eb8f191e",
