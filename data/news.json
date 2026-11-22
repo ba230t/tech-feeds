@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T10:04:47.039582+00:00",
+  "updated_at": "2026-11-22T10:33:47.547711+00:00",
   "count": 500,
   "items": [
     {
@@ -6673,6 +6673,20 @@
       "hatena_count": 1
     },
     {
+      "id": "zenn-9efe8592b5",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Next.jsのストリーミングはLambda Web Functionsで動くか",
+      "url": "https://zenn.dev/ryota_09/articles/nextjs-suspense-streaming-lambda-web-functions",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 22 Nov 2026 02:30:19 GMT",
+      "hatena_count": 0
+    },
+    {
       "id": "zenn-3ee1c2d061",
       "source": "sns",
       "sub_source": "Zenn",
@@ -6687,32 +6701,32 @@
       "hatena_count": 2
     },
     {
-      "id": "zenn-f37382ff6f",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "堅牢な受け入れテストを書くには？",
-      "url": "https://zenn.dev/yasuakiomokawa/articles/3ac970c3a3a1c7",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 21 Nov 2026 09:09:12 GMT",
-      "hatena_count": 0
-    },
-    {
       "id": "zenn-97c7090c40",
       "source": "sns",
       "sub_source": "Zenn",
       "title": "【TLA+】AIにテストケースを書かせるな。ルールを書け",
       "url": "https://zenn.dev/karamage/articles/73027ee36796dc",
-      "score": 44,
+      "score": 49,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sat, 21 Nov 2026 02:12:39 GMT",
-      "hatena_count": 44
+      "hatena_count": 49
+    },
+    {
+      "id": "zenn-c7eb8f191e",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "作れるエンジニアから、価値を届けるエンジニアへ",
+      "url": "https://zenn.dev/kubell/articles/3c3490a3592bb1",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 20 Nov 2026 15:50:41 GMT",
+      "hatena_count": 0
     },
     {
       "id": "zenn-a0ddabc90e",
@@ -6720,27 +6734,13 @@
       "sub_source": "Zenn",
       "title": "寝てる間に自動で動くAIエージェントを誰でも作れる：10分でわかる pstack 実践ガイド",
       "url": "https://zenn.dev/canly/articles/ca6875cd79539f",
-      "score": 489,
+      "score": 493,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 20 Nov 2026 09:04:40 GMT",
-      "hatena_count": 489
-    },
-    {
-      "id": "zenn-b9afa88b6c",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "日本のレシートを自宅PCでOCRする：15構成を実レシート11枚で比べた",
-      "url": "https://zenn.dev/chaki/articles/4545be3475fdb4",
-      "score": 1,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 20 Nov 2026 04:33:15 GMT",
-      "hatena_count": 1
+      "hatena_count": 493
     },
     {
       "id": "zenn-1e6b48599b",
@@ -6748,13 +6748,13 @@
       "sub_source": "Zenn",
       "title": "自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス",
       "url": "https://zenn.dev/nttdata_tech/articles/9562962cc181a1",
-      "score": 313,
+      "score": 314,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 19 Nov 2026 07:28:27 GMT",
-      "hatena_count": 313
+      "hatena_count": 314
     },
     {
       "id": "zenn-9e10601457",
@@ -6790,14 +6790,14 @@
       "sub_source": "Zenn",
       "title": "相次ぐOSSの脆弱性に、とりあえずクラウドWAF入れるだけでだいぶ違う話+Rootlessコンテナもいいぞ",
       "url": "https://zenn.dev/kusuke/articles/98e178e6824cac",
-      "score": 198,
+      "score": 199,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 19 Nov 2026 01:34:24 GMT",
       "severity": "high",
-      "hatena_count": 198
+      "hatena_count": 199
     },
     {
       "id": "zenn-b225a7e395",
@@ -6819,13 +6819,13 @@
       "sub_source": "Zenn",
       "title": "正しいUIデザインと、意図のあるUIデザイン",
       "url": "https://zenn.dev/praha/articles/08568310684aa3",
-      "score": 31,
+      "score": 33,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 18 Nov 2026 05:55:40 GMT",
-      "hatena_count": 31
+      "hatena_count": 33
     },
     {
       "id": "zenn-ac0340dfae",

@@ -1,7 +1,7 @@
 {
   "month": "2026-11",
   "total_articles": 482,
-  "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (2件)**\n\n1. 相次ぐOSSの脆弱性に、とりあえずクラウドWAF入れるだけでだいぶ違う話+Rootlessコンテナもいいぞ\n\n2. NGINXの複数の脆弱性対策について（CVE-2026-123007、CVE-2026-123633等）\n\n**AI・機械学習動向 (6件)**\n\n1. 寝てる間に自動で動くAIエージェントを誰でも作れる：10分でわかる pstack 実践ガイド\n\n2. 自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス\n\n3. 毎月6,000 AI Agentsを捌くためにキーボードを捨てた話\n\n4. QA生産性を爆上げさせるためのQA AIプラットフォーム構築\n\n5. ローカルLLM入門\n\n6. pstack 完全ガイド ─AIエージェントに雑なコード     を書かせない技術─\n\n**技術トレンド (2件)**\n\n1. おい、 Mutation Test をやれ。テスト品質を、測るために\n\n2. 最近、コードを真面目に読まなくなった",
+  "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (2件)**\n\n1. 相次ぐOSSの脆弱性に、とりあえずクラウドWAF入れるだけでだいぶ違う話+Rootlessコンテナもいいぞ\n\n2. NGINXの複数の脆弱性対策について（CVE-2026-123007、CVE-2026-123633等）\n\n**AI・機械学習動向 (6件)**\n\n1. 寝てる間に自動で動くAIエージェントを誰でも作れる：10分でわかる pstack 実践ガイド\n\n2. 自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス\n\n3. 毎月6,000 AI Agentsを捌くためにキーボードを捨てた話\n\n4. QA生産性を爆上げさせるためのQA AIプラットフォーム構築\n\n5. ローカルLLM入門\n\n6. 【TLA+】AIにテストケースを書かせるな。ルールを書け\n\n**技術トレンド (2件)**\n\n1. おい、 Mutation Test をやれ。テスト品質を、測るために\n\n2. 最近、コードを真面目に読まなくなった",
   "source_counts": {
     "sns": 411,
     "jpcert": 55,
@@ -21,13 +21,13 @@
       "sub_source": "Zenn",
       "title": "寝てる間に自動で動くAIエージェントを誰でも作れる：10分でわかる pstack 実践ガイド",
       "url": "https://zenn.dev/canly/articles/ca6875cd79539f",
-      "score": 489,
+      "score": 493,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 20 Nov 2026 09:04:40 GMT",
-      "hatena_count": 489
+      "hatena_count": 493
     },
     {
       "id": "zenn-ac0340dfae",
@@ -49,13 +49,13 @@
       "sub_source": "Zenn",
       "title": "自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス",
       "url": "https://zenn.dev/nttdata_tech/articles/9562962cc181a1",
-      "score": 313,
+      "score": 314,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 19 Nov 2026 07:28:27 GMT",
-      "hatena_count": 313
+      "hatena_count": 314
     },
     {
       "id": "zenn-06b280eb58",
@@ -63,14 +63,14 @@
       "sub_source": "Zenn",
       "title": "相次ぐOSSの脆弱性に、とりあえずクラウドWAF入れるだけでだいぶ違う話+Rootlessコンテナもいいぞ",
       "url": "https://zenn.dev/kusuke/articles/98e178e6824cac",
-      "score": 198,
+      "score": 199,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 19 Nov 2026 01:34:24 GMT",
       "severity": "high",
-      "hatena_count": 198
+      "hatena_count": 199
     },
     {
       "id": "zenn-07aa176070",
@@ -144,6 +144,20 @@
       "hatena_count": 56
     },
     {
+      "id": "zenn-97c7090c40",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "【TLA+】AIにテストケースを書かせるな。ルールを書け",
+      "url": "https://zenn.dev/karamage/articles/73027ee36796dc",
+      "score": 49,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 21 Nov 2026 02:12:39 GMT",
+      "hatena_count": 49
+    },
+    {
       "id": "zenn-657be75576",
       "source": "sns",
       "sub_source": "Zenn",
@@ -158,18 +172,18 @@
       "hatena_count": 47
     },
     {
-      "id": "zenn-97c7090c40",
+      "id": "zenn-7e5c84817c",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "【TLA+】AIにテストケースを書かせるな。ルールを書け",
-      "url": "https://zenn.dev/karamage/articles/73027ee36796dc",
-      "score": 44,
+      "title": "正しいUIデザインと、意図のあるUIデザイン",
+      "url": "https://zenn.dev/praha/articles/08568310684aa3",
+      "score": 33,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Sat, 21 Nov 2026 02:12:39 GMT",
-      "hatena_count": 44
+      "date": "Wed, 18 Nov 2026 05:55:40 GMT",
+      "hatena_count": 33
     },
     {
       "id": "techracho-4b67c39e4f",
@@ -199,20 +213,6 @@
       ],
       "severity": "medium",
       "date": "2026-11-18T00:00:00+09:00",
-      "hatena_count": 31
-    },
-    {
-      "id": "zenn-7e5c84817c",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "正しいUIデザインと、意図のあるUIデザイン",
-      "url": "https://zenn.dev/praha/articles/08568310684aa3",
-      "score": 31,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 18 Nov 2026 05:55:40 GMT",
       "hatena_count": 31
     },
     {
@@ -309,14 +309,14 @@
       "sub_source": "Zenn",
       "title": "相次ぐOSSの脆弱性に、とりあえずクラウドWAF入れるだけでだいぶ違う話+Rootlessコンテナもいいぞ",
       "url": "https://zenn.dev/kusuke/articles/98e178e6824cac",
-      "score": 198,
+      "score": 199,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 19 Nov 2026 01:34:24 GMT",
       "severity": "high",
-      "hatena_count": 198
+      "hatena_count": 199
     },
     {
       "id": "jpcert-30cd0d7475",
