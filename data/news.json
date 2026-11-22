@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T01:34:19.352083+00:00",
+  "updated_at": "2026-11-22T02:07:37.993706+00:00",
   "count": 500,
   "items": [
     {
@@ -6748,13 +6748,13 @@
       "sub_source": "Zenn",
       "title": "自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス",
       "url": "https://zenn.dev/nttdata_tech/articles/9562962cc181a1",
-      "score": 311,
+      "score": 312,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 19 Nov 2026 07:28:27 GMT",
-      "hatena_count": 311
+      "hatena_count": 312
     },
     {
       "id": "zenn-9e10601457",
@@ -6790,14 +6790,14 @@
       "sub_source": "Zenn",
       "title": "相次ぐOSSの脆弱性に、とりあえずクラウドWAF入れるだけでだいぶ違う話+Rootlessコンテナもいいぞ",
       "url": "https://zenn.dev/kusuke/articles/98e178e6824cac",
-      "score": 195,
+      "score": 196,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 19 Nov 2026 01:34:24 GMT",
       "severity": "high",
-      "hatena_count": 195
+      "hatena_count": 196
     },
     {
       "id": "zenn-b225a7e395",
@@ -6819,13 +6819,13 @@
       "sub_source": "Zenn",
       "title": "正しいUIデザインと、意図のあるUIデザイン",
       "url": "https://zenn.dev/praha/articles/08568310684aa3",
-      "score": 26,
+      "score": 29,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 18 Nov 2026 05:55:40 GMT",
-      "hatena_count": 26
+      "hatena_count": 29
     },
     {
       "id": "zenn-ac0340dfae",
@@ -6833,13 +6833,13 @@
       "sub_source": "Zenn",
       "title": "おい、 Mutation Test をやれ。テスト品質を、測るために",
       "url": "https://zenn.dev/mizchi/articles/mutation-test-quality",
-      "score": 397,
+      "score": 398,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 17 Nov 2026 09:53:47 GMT",
-      "hatena_count": 397
+      "hatena_count": 398
     },
     {
       "id": "zenn-61a940e7c3",
@@ -6861,13 +6861,13 @@
       "sub_source": "Zenn",
       "title": "Claude Desktop 開発のすゝめ",
       "url": "https://zenn.dev/peoplex_blog/articles/vscode-to-claude-desktop",
-      "score": 22,
+      "score": 23,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 17 Nov 2026 03:41:36 GMT",
-      "hatena_count": 22
+      "hatena_count": 23
     },
     {
       "id": "zenn-07aa176070",
