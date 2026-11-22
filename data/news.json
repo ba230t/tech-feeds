@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T05:05:21.339441+00:00",
+  "updated_at": "2026-11-22T05:33:44.316350+00:00",
   "count": 500,
   "items": [
     {
@@ -6673,34 +6673,6 @@
       "hatena_count": 1
     },
     {
-      "id": "zenn-3ee1c2d061",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Orca Botsが良さそう、何ができるのか",
-      "url": "https://zenn.dev/kg_motors_mibot/articles/orca-bot-intro",
-      "score": 1,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 21 Nov 2026 15:14:13 GMT",
-      "hatena_count": 1
-    },
-    {
-      "id": "zenn-f37382ff6f",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "堅牢な受け入れテストを書くには？",
-      "url": "https://zenn.dev/yasuakiomokawa/articles/3ac970c3a3a1c7",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 21 Nov 2026 09:09:12 GMT",
-      "hatena_count": 0
-    },
-    {
       "id": "zenn-97c7090c40",
       "source": "sns",
       "sub_source": "Zenn",
@@ -6715,18 +6687,18 @@
       "hatena_count": 2
     },
     {
-      "id": "zenn-a0ddabc90e",
+      "id": "zenn-7343e58591",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "寝てる間に自動で動くAIエージェントを誰でも作れる：10分でわかる pstack 実践ガイド",
-      "url": "https://zenn.dev/canly/articles/ca6875cd79539f",
-      "score": 341,
+      "title": "自宅サーバー上のアプリケーションを Cloudflare Tunnel + Access で安全に公開する",
+      "url": "https://zenn.dev/bisque/articles/home-server-cloudflare-tunnel-access",
+      "score": 0,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Fri, 20 Nov 2026 09:04:40 GMT",
-      "hatena_count": 341
+      "date": "Fri, 20 Nov 2026 07:14:41 GMT",
+      "hatena_count": 0
     },
     {
       "id": "zenn-b9afa88b6c",
@@ -6741,6 +6713,34 @@
       ],
       "date": "Fri, 20 Nov 2026 04:33:15 GMT",
       "hatena_count": 1
+    },
+    {
+      "id": "zenn-14fae7edcb",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "CDKからTerraformへ：所有権移譲による本番インフラ無停止のIaC移行",
+      "url": "https://zenn.dev/levtech/articles/14befd8e727f32",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 20 Nov 2026 01:26:30 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-c389919efb",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "CLAUDE.md や SKILL.md のルールを Turtle で書き、ルールの書き間違いや矛盾を lint で検査してみた話",
+      "url": "https://zenn.dev/hma2moto/articles/turtle-agent-rules-pros-cons",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 19 Nov 2026 14:13:57 GMT",
+      "hatena_count": 0
     },
     {
       "id": "zenn-1e6b48599b",
