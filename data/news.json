@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T22:33:21.679197+00:00",
+  "updated_at": "2026-11-22T23:04:56.672044+00:00",
   "count": 500,
   "items": [
     {
@@ -6672,6 +6672,20 @@
       "hatena_count": 1
     },
     {
+      "id": "zenn-38bbcfdd83",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "SideLoadをしよう！〜SideStoreをiPhone単体で入れる〜(SideInstaller編)",
+      "url": "https://zenn.dev/l_port8000/articles/7550549e6e9970",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 22 Nov 2026 03:46:17 GMT",
+      "hatena_count": 0
+    },
+    {
       "id": "zenn-9efe8592b5",
       "source": "sns",
       "sub_source": "Zenn",
@@ -6705,27 +6719,13 @@
       "sub_source": "Zenn",
       "title": "【TLA+】AIにテストケースを書かせるな。ルールを書け",
       "url": "https://zenn.dev/karamage/articles/73027ee36796dc",
-      "score": 141,
+      "score": 143,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sat, 21 Nov 2026 02:12:39 GMT",
-      "hatena_count": 141
-    },
-    {
-      "id": "zenn-c7eb8f191e",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "作れるエンジニアから、価値を届けるエンジニアへ",
-      "url": "https://zenn.dev/kubell/articles/3c3490a3592bb1",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 20 Nov 2026 15:50:41 GMT",
-      "hatena_count": 0
+      "hatena_count": 143
     },
     {
       "id": "zenn-a0ddabc90e",
@@ -6733,13 +6733,13 @@
       "sub_source": "Zenn",
       "title": "寝てる間に自動で動くAIエージェントを誰でも作れる：10分でわかる pstack 実践ガイド",
       "url": "https://zenn.dev/canly/articles/ca6875cd79539f",
-      "score": 551,
+      "score": 552,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 20 Nov 2026 09:04:40 GMT",
-      "hatena_count": 551
+      "hatena_count": 552
     },
     {
       "id": "zenn-1e6b48599b",
