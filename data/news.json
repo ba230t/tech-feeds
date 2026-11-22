@@ -1,7 +1,148 @@
 {
-  "updated_at": "2026-11-22T20:05:13.127719+00:00",
+  "updated_at": "2026-11-22T20:33:33.758782+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "qiita-1fcb29a232",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "手書きをやめた途端、ブログが全部AI臭くなったあなたへ！ マシにする方法教えます",
+      "url": "https://qiita.com/minorun365/items/faa50b7662b86e1df29c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-22T20:56:55+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-5262583fb9",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "うわっ…私の記事、スロップすぎ…？（見出しだけ本気出すプロンプト7選）",
+      "url": "https://qiita.com/kikuziro/items/0c54614c1db8afa5abb1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-22T20:34:22+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-ce338fe866",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "【React個人開発-JISOU課題1】学習記録アプリを作る過程で詰まったところと解決策",
+      "url": "https://qiita.com/polymetisoutis/items/be7eb3814ad8006be3aa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-22T19:40:17+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-b067bd9d18",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "Jevって高速らしい。じゃあ、一文字ずつ文章を書かせてもLLMより速いのけ？",
+      "url": "https://qiita.com/ryosuke_ohori/items/532719a37f9a1965b1c8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-22T18:14:05+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-3f8926af43",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "ドキュメントにない答えを残す：オープンソースのサポートツール「answerLoops」",
+      "url": "https://qiita.com/pitaspot/items/ee92f922136762ca1985?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-22T18:05:12+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-a7506c14ca",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "【登壇レポート】「Business-JAWS #0 キックオフ！」でAIBの練習問題をAIに作らせて感じた気づきを話してきました！",
+      "url": "https://qiita.com/yosuke-suzuki/items/668b75e7f1ae9be15d99?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-22T17:29:25+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-1ba91dd513",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "【個人開発】推し祭壇を投稿するアプリを作ってみた【React / TypeScript / Supabase】",
+      "url": "https://qiita.com/ko1_tktn/items/75fdcc2a4b7c824f2a6f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-22T17:01:43+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-99948b16b5",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "AIと実機デバッグで挑む、MSX1〜V9990・V9968（Geo3D）対応ゲーム開発のリアル",
+      "url": "https://qiita.com/Kan0n/items/98b2c561c967ed207860?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-22T16:49:47+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-92cb189df4",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "Amazon Bedrock AgentCoreの1年をたどると、クラウドの十数年と同じ道だった ― re:Invent 2026を\"勝手に\"予測する",
+      "url": "https://qiita.com/somasun_aws/items/6d10711b34636a4a2f30?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-22T14:55:31+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-8aa140650d",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "脆弱性の「CVSS 9.8」って結局なに？CVSSの読み方をちゃんと理解する",
+      "url": "https://qiita.com/heki-dm/items/77ecaacd592d1c4459df?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-22T12:42:52+09:00",
+      "severity": "high",
+      "hatena_count": 0
+    },
     {
       "id": "qiita-b0867af151",
       "source": "sns",
@@ -28,6 +169,34 @@
         "Qiita"
       ],
       "date": "2026-11-22T10:31:41+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-e8a9b808db",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "coturnのTURN認証情報を期限付きで都度発行し、固定値より漏えい時の被害を抑える",
+      "url": "https://qiita.com/takumi_engineer/items/50c27c11ccf08db3165a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-22T09:00:12+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-38a6464912",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "Claude Code を安全に「自走」させるなら、もう Docker Sandboxes 一択でよくない？と思った話。",
+      "url": "https://qiita.com/yamac_tech/items/2f1d598288990c381f2d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-22T08:38:45+09:00",
       "hatena_count": 0
     },
     {
@@ -70,6 +239,20 @@
         "Qiita"
       ],
       "date": "2026-11-22T04:59:01+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-5ae40d25a8",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "AIで開発を速くするだけでは、会社の生産性は上がらない？",
+      "url": "https://qiita.com/kskwtnk/items/99eccfba0ae76ce6f87a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-22T02:35:02+09:00",
       "hatena_count": 0
     },
     {
@@ -6204,190 +6387,6 @@
       "hatena_count": 0
     },
     {
-      "id": "qiita-2bba187901",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "【AWS】GitHubのトラフィックを定期的に集計するダッシュボードを作ってみた",
-      "url": "https://qiita.com/yakumo_09/items/e3a3235210220486621d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-03T15:00:39+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-152e76fc99",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "営業こそコミュニティでは「No sell」でいよう",
-      "url": "https://qiita.com/sadabon444/items/83535ce9f3dd7d56600e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-03T13:13:45+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-9b6b718ccb",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "ナレッジグラフを自動生成!?Oracle AI Database 26aiの23.26.4で追加されたGraphRAG機能を試してみた",
-      "url": "https://qiita.com/ssfujita/items/62b9502167c97f898b90?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-03T12:31:46+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-0d2a3c57af",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "Claude CodeとArduino CLIは相性バツグン！時代はバイブIoTだー",
-      "url": "https://qiita.com/moritalous/items/744f13ec61892e9c520b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-03T11:14:37+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-fffc46ecd2",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "Strataを使ってMac mini（32GB）でQwen3.8-Flash-Next（125B）を動かす",
-      "url": "https://qiita.com/eiji-noguchi/items/174b7557ffcdb932ca40?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-03T06:47:01+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-d8a8c91758",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "キャラに合う2D背景が見つからないので、Claude Codeにプロンプトを書かせてChatGPTで一から作った",
-      "url": "https://qiita.com/yasuharusmooth/items/450fe98c52ea6fc8b5a8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-03T04:46:26+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-0f91c0a069",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "Vitest, RTL導入メモ",
-      "url": "https://qiita.com/J-T_ky2g/items/711a6059a17a549edde0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-03T00:53:33+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-a4da8714ba",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "watsonx.aiのLLMで作ったAIヘルプデスクRAGをフロンティアモデルで評価・改善する",
-      "url": "https://qiita.com/mizuk1013/items/e09acc41e1445b9fa7ac?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-02T22:29:44+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-c2ee290858",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "AI から答えを取り上げた上長が、今度は評価から「コード」を取り上げることにした",
-      "url": "https://qiita.com/jksoft/items/e09426e5fbf291dcf146?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-02T21:54:50+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-289831eab1",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "【Curl】致命傷じゃないセキュリティ脆弱性はフルオープンにするわ",
-      "url": "https://qiita.com/rana_kualu/items/dd8e9a8e7d3759adf943?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-02T21:28:21+09:00",
-      "severity": "high",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-8dc8e9508d",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "インフラの開発環境構築を3ヶ月→1ヶ月にしたClaude Codeの使い方（AWS / ECS 9サービス）",
-      "url": "https://qiita.com/shainfra07/items/c149c06162ab1f3b136a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-02T21:25:03+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-9e1ea27bba",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "【Rails初学者向け】Railsサーバーのログが読めないので分解して読み解いてみた",
-      "url": "https://qiita.com/Iriei/items/4523d2034b01aaa7f8b0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-02T20:31:44+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-b6fcc93790",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "PHPの脆弱性「php2shell」が来たので、Amazonの公式パッケージを待たずにPHPを自分でビルドして本番に入れた話",
-      "url": "https://qiita.com/Tukirukiki/items/beec6fedd37f63e1c231?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-02T20:05:13+09:00",
-      "severity": "high",
-      "hatena_count": 0
-    },
-    {
       "id": "ipa-ee45d6bd49",
       "source": "ipa",
       "title": "更新：PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell)",
@@ -6706,13 +6705,13 @@
       "sub_source": "Zenn",
       "title": "【TLA+】AIにテストケースを書かせるな。ルールを書け",
       "url": "https://zenn.dev/karamage/articles/73027ee36796dc",
-      "score": 133,
+      "score": 135,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sat, 21 Nov 2026 02:12:39 GMT",
-      "hatena_count": 133
+      "hatena_count": 135
     },
     {
       "id": "zenn-c7eb8f191e",
@@ -6734,13 +6733,13 @@
       "sub_source": "Zenn",
       "title": "寝てる間に自動で動くAIエージェントを誰でも作れる：10分でわかる pstack 実践ガイド",
       "url": "https://zenn.dev/canly/articles/ca6875cd79539f",
-      "score": 549,
+      "score": 550,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 20 Nov 2026 09:04:40 GMT",
-      "hatena_count": 549
+      "hatena_count": 550
     },
     {
       "id": "zenn-1e6b48599b",

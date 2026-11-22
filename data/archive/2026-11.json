@@ -9,7 +9,7 @@
     "techracho": 10
   },
   "severity_counts": {
-    "high": 14,
+    "high": 13,
     "medium": 6,
     "info": 52,
     "critical": 1
@@ -21,13 +21,13 @@
       "sub_source": "Zenn",
       "title": "寝てる間に自動で動くAIエージェントを誰でも作れる：10分でわかる pstack 実践ガイド",
       "url": "https://zenn.dev/canly/articles/ca6875cd79539f",
-      "score": 549,
+      "score": 550,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 20 Nov 2026 09:04:40 GMT",
-      "hatena_count": 549
+      "hatena_count": 550
     },
     {
       "id": "zenn-ac0340dfae",
@@ -78,13 +78,13 @@
       "sub_source": "Zenn",
       "title": "【TLA+】AIにテストケースを書かせるな。ルールを書け",
       "url": "https://zenn.dev/karamage/articles/73027ee36796dc",
-      "score": 133,
+      "score": 135,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sat, 21 Nov 2026 02:12:39 GMT",
-      "hatena_count": 133
+      "hatena_count": 135
     },
     {
       "id": "zenn-07aa176070",
@@ -319,6 +319,21 @@
       "hatena_count": 200
     },
     {
+      "id": "qiita-8aa140650d",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "脆弱性の「CVSS 9.8」って結局なに？CVSSの読み方をちゃんと理解する",
+      "url": "https://qiita.com/heki-dm/items/77ecaacd592d1c4459df?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-22T12:42:52+09:00",
+      "severity": "high",
+      "hatena_count": 0
+    },
+    {
       "id": "jpcert-30cd0d7475",
       "source": "jpcert",
       "title": "注意喚起: PHPにおける複数の脆弱性（CVE-2026-109618、CVE-2026-109619）に関する注意喚起  (更新)",
@@ -496,36 +511,6 @@
       ],
       "severity": "high",
       "date": "2026-11-05T09:52+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-289831eab1",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "【Curl】致命傷じゃないセキュリティ脆弱性はフルオープンにするわ",
-      "url": "https://qiita.com/rana_kualu/items/dd8e9a8e7d3759adf943?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-02T21:28:21+09:00",
-      "severity": "high",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-b6fcc93790",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "PHPの脆弱性「php2shell」が来たので、Amazonの公式パッケージを待たずにPHPを自分でビルドして本番に入れた話",
-      "url": "https://qiita.com/Tukirukiki/items/beec6fedd37f63e1c231?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-02T20:05:13+09:00",
-      "severity": "high",
       "hatena_count": 0
     }
   ]
