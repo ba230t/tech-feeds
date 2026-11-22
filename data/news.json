@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T16:05:33.134246+00:00",
+  "updated_at": "2026-11-22T16:33:11.534898+00:00",
   "count": 500,
   "items": [
     {
@@ -6706,13 +6706,13 @@
       "sub_source": "Zenn",
       "title": "【TLA+】AIにテストケースを書かせるな。ルールを書け",
       "url": "https://zenn.dev/karamage/articles/73027ee36796dc",
-      "score": 119,
+      "score": 116,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sat, 21 Nov 2026 02:12:39 GMT",
-      "hatena_count": 119
+      "hatena_count": 116
     },
     {
       "id": "zenn-c7eb8f191e",
@@ -6734,13 +6734,13 @@
       "sub_source": "Zenn",
       "title": "寝てる間に自動で動くAIエージェントを誰でも作れる：10分でわかる pstack 実践ガイド",
       "url": "https://zenn.dev/canly/articles/ca6875cd79539f",
-      "score": 544,
+      "score": 542,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 20 Nov 2026 09:04:40 GMT",
-      "hatena_count": 544
+      "hatena_count": 542
     },
     {
       "id": "zenn-1e6b48599b",
@@ -6748,13 +6748,13 @@
       "sub_source": "Zenn",
       "title": "自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス",
       "url": "https://zenn.dev/nttdata_tech/articles/9562962cc181a1",
-      "score": 318,
+      "score": 316,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 19 Nov 2026 07:28:27 GMT",
-      "hatena_count": 318
+      "hatena_count": 316
     },
     {
       "id": "zenn-9e10601457",
@@ -6776,13 +6776,13 @@
       "sub_source": "Zenn",
       "title": "pstack 完全ガイド ─AIエージェントに雑なコード     を書かせない技術─",
       "url": "https://zenn.dev/karamage/books/50c18e52e7d19e",
-      "score": 49,
+      "score": 48,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 19 Nov 2026 01:52:32 GMT",
-      "hatena_count": 49
+      "hatena_count": 48
     },
     {
       "id": "zenn-06b280eb58",
@@ -6790,14 +6790,14 @@
       "sub_source": "Zenn",
       "title": "相次ぐOSSの脆弱性に、とりあえずクラウドWAF入れるだけでだいぶ違う話+Rootlessコンテナもいいぞ",
       "url": "https://zenn.dev/kusuke/articles/98e178e6824cac",
-      "score": 200,
+      "score": 199,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 19 Nov 2026 01:34:24 GMT",
       "severity": "high",
-      "hatena_count": 200
+      "hatena_count": 199
     },
     {
       "id": "zenn-b225a7e395",
@@ -6847,13 +6847,13 @@
       "sub_source": "Zenn",
       "title": "ローカルLLM入門",
       "url": "https://zenn.dev/port_inc/articles/ff974c7456f4db",
-      "score": 57,
+      "score": 56,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 17 Nov 2026 07:17:24 GMT",
-      "hatena_count": 57
+      "hatena_count": 56
     },
     {
       "id": "zenn-3483494854",
