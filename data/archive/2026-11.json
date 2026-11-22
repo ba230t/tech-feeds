@@ -1,7 +1,7 @@
 {
   "month": "2026-11",
   "total_articles": 482,
-  "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (2件)**\n\n1. 相次ぐOSSの脆弱性に、とりあえずクラウドWAF入れるだけでだいぶ違う話+Rootlessコンテナもいいぞ\n\n2. NGINXの複数の脆弱性対策について（CVE-2026-123007、CVE-2026-123633等）\n\n**AI・機械学習動向 (6件)**\n\n1. 自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス\n\n2. 毎月6,000 AI Agentsを捌くためにキーボードを捨てた話\n\n3. QA生産性を爆上げさせるためのQA AIプラットフォーム構築\n\n4. ローカルLLM入門\n\n5. pstack 完全ガイド ─AIエージェントに雑なコード     を書かせない技術─\n\n6. Rails: DHHがRails World 2026キーノートで「語らなかった」部分とは（翻訳）\n\n**技術トレンド (2件)**\n\n1. おい、 Mutation Test をやれ。テスト品質を、測るために\n\n2. 最近、コードを真面目に読まなくなった",
+  "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (2件)**\n\n1. 相次ぐOSSの脆弱性に、とりあえずクラウドWAF入れるだけでだいぶ違う話+Rootlessコンテナもいいぞ\n\n2. NGINXの複数の脆弱性対策について（CVE-2026-123007、CVE-2026-123633等）\n\n**AI・機械学習動向 (6件)**\n\n1. 寝てる間に自動で動くAIエージェントを誰でも作れる：10分でわかる pstack 実践ガイド\n\n2. 自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス\n\n3. 毎月6,000 AI Agentsを捌くためにキーボードを捨てた話\n\n4. QA生産性を爆上げさせるためのQA AIプラットフォーム構築\n\n5. ローカルLLM入門\n\n6. pstack 完全ガイド ─AIエージェントに雑なコード     を書かせない技術─\n\n**技術トレンド (2件)**\n\n1. おい、 Mutation Test をやれ。テスト品質を、測るために\n\n2. 最近、コードを真面目に読まなくなった",
   "source_counts": {
     "sns": 411,
     "jpcert": 55,
@@ -28,6 +28,20 @@
       ],
       "date": "Tue, 17 Nov 2026 09:53:47 GMT",
       "hatena_count": 398
+    },
+    {
+      "id": "zenn-a0ddabc90e",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "寝てる間に自動で動くAIエージェントを誰でも作れる：10分でわかる pstack 実践ガイド",
+      "url": "https://zenn.dev/canly/articles/ca6875cd79539f",
+      "score": 341,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 20 Nov 2026 09:04:40 GMT",
+      "hatena_count": 341
     },
     {
       "id": "zenn-1e6b48599b",
@@ -287,20 +301,6 @@
       "severity": "high",
       "date": "2026-11-20T13:40+09:00",
       "hatena_count": 12
-    },
-    {
-      "id": "zenn-52eec506e8",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "mizchi/mutator を入れてみた",
-      "url": "https://zenn.dev/polyco/articles/e05cb28c569801",
-      "score": 4,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 16 Nov 2026 03:49:18 GMT",
-      "hatena_count": 4
     }
   ],
   "security_highlights": [
