@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T07:33:12.167051+00:00",
+  "updated_at": "2026-11-22T08:06:21.881769+00:00",
   "count": 500,
   "items": [
     {
@@ -6706,13 +6706,13 @@
       "sub_source": "Zenn",
       "title": "【TLA+】AIにテストケースを書かせるな。ルールを書け",
       "url": "https://zenn.dev/karamage/articles/73027ee36796dc",
-      "score": 5,
+      "score": 15,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sat, 21 Nov 2026 02:12:39 GMT",
-      "hatena_count": 5
+      "hatena_count": 15
     },
     {
       "id": "zenn-a0ddabc90e",
@@ -6720,13 +6720,13 @@
       "sub_source": "Zenn",
       "title": "寝てる間に自動で動くAIエージェントを誰でも作れる：10分でわかる pstack 実践ガイド",
       "url": "https://zenn.dev/canly/articles/ca6875cd79539f",
-      "score": 425,
+      "score": 441,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 20 Nov 2026 09:04:40 GMT",
-      "hatena_count": 425
+      "hatena_count": 441
     },
     {
       "id": "zenn-b9afa88b6c",
