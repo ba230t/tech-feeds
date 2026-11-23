@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T19:04:03.321812+00:00",
+  "updated_at": "2026-11-23T19:33:48.409338+00:00",
   "count": 500,
   "items": [
     {
@@ -6692,13 +6692,13 @@
       "sub_source": "Zenn",
       "title": "著名なRust製OSSをLean 4で形式検証してみたら、めちゃめちゃバグが見つかった話",
       "url": "https://zenn.dev/koukyosyumei/articles/31c8fcf4da45b7",
-      "score": 99,
+      "score": 107,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 23 Nov 2026 05:17:05 GMT",
-      "hatena_count": 99
+      "hatena_count": 107
     },
     {
       "id": "zenn-5072e4e485",
@@ -6861,13 +6861,13 @@
       "sub_source": "Zenn",
       "title": "なぜ今形式検証なのか",
       "url": "https://zenn.dev/ncdc/articles/dcec80b0c067b0",
-      "score": 108,
+      "score": 111,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 18 Nov 2026 23:00:05 GMT",
-      "hatena_count": 108
+      "hatena_count": 111
     },
     {
       "id": "zenn-b225a7e395",
