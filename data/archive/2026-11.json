@@ -9,7 +9,7 @@
     "techracho": 10
   },
   "severity_counts": {
-    "high": 13,
+    "high": 14,
     "medium": 6,
     "info": 52,
     "critical": 1
@@ -78,13 +78,13 @@
       "sub_source": "Zenn",
       "title": "【TLA+】AIにテストケースを書かせるな。ルールを書け",
       "url": "https://zenn.dev/karamage/articles/73027ee36796dc",
-      "score": 156,
+      "score": 155,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sat, 21 Nov 2026 02:12:39 GMT",
-      "hatena_count": 156
+      "hatena_count": 155
     },
     {
       "id": "zenn-07aa176070",
@@ -317,6 +317,21 @@
       "date": "Thu, 19 Nov 2026 01:34:24 GMT",
       "severity": "high",
       "hatena_count": 200
+    },
+    {
+      "id": "qiita-8e09826e13",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "セキュリティ情報 406 件を「脆弱性-手口-被害-対策」の1枚の分類図にまとめてから読めたこと",
+      "url": "https://qiita.com/songchong/items/4ad36f1857ba2b4ee4f1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-23T07:01:05+09:00",
+      "severity": "high",
+      "hatena_count": 0
     },
     {
       "id": "qiita-8aa140650d",
