@@ -1,7 +1,7 @@
 {
   "month": "2026-11",
   "total_articles": 482,
-  "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (2件)**\n\n1. 相次ぐOSSの脆弱性に、とりあえずクラウドWAF入れるだけでだいぶ違う話+Rootlessコンテナもいいぞ\n\n2. NGINXの複数の脆弱性対策について（CVE-2026-123007、CVE-2026-123633等）\n\n**AI・機械学習動向 (5件)**\n\n1. 寝てる間に自動で動くAIエージェントを誰でも作れる：10分でわかる pstack 実践ガイド\n\n2. 自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス\n\n3. 【TLA+】AIにテストケースを書かせるな。ルールを書け\n\n4. 毎月6,000 AI Agentsを捌くためにキーボードを捨てた話\n\n5. ローカルLLM入門\n\n**技術トレンド (3件)**\n\n1. おい、 Mutation Test をやれ。テスト品質を、測るために\n\n2. なぜ今形式検証なのか\n\n3. 著名な製OSSをLean 4で形式検証してみたら、めちゃめちゃバグが見つかった話",
+  "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (2件)**\n\n1. 相次ぐOSSの脆弱性に、とりあえずクラウドWAF入れるだけでだいぶ違う話+Rootlessコンテナもいいぞ\n\n2. NGINXの複数の脆弱性対策について（CVE-2026-123007、CVE-2026-123633等）\n\n**AI・機械学習動向 (6件)**\n\n1. 寝てる間に自動で動くAIエージェントを誰でも作れる：10分でわかる pstack 実践ガイド\n\n2. 自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス\n\n3. 【TLA+】AIにテストケースを書かせるな。ルールを書け\n\n4. 毎月6,000 AI Agentsを捌くためにキーボードを捨てた話\n\n5. ローカルLLM入門\n\n6. pstack 完全ガイド ─AIエージェントに雑なコード     を書かせない技術─\n\n**技術トレンド (2件)**\n\n1. おい、 Mutation Test をやれ。テスト品質を、測るために\n\n2. なぜ今形式検証なのか",
   "source_counts": {
     "sns": 411,
     "jpcert": 55,
@@ -49,13 +49,13 @@
       "sub_source": "Zenn",
       "title": "自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス",
       "url": "https://zenn.dev/nttdata_tech/articles/9562962cc181a1",
-      "score": 321,
+      "score": 320,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 19 Nov 2026 07:28:27 GMT",
-      "hatena_count": 321
+      "hatena_count": 320
     },
     {
       "id": "zenn-06b280eb58",
@@ -106,13 +106,13 @@
       "sub_source": "Zenn",
       "title": "なぜ今形式検証なのか",
       "url": "https://zenn.dev/ncdc/articles/dcec80b0c067b0",
-      "score": 89,
+      "score": 85,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 18 Nov 2026 23:00:05 GMT",
-      "hatena_count": 89
+      "hatena_count": 85
     },
     {
       "id": "zenn-61a940e7c3",
@@ -144,20 +144,6 @@
       "hatena_count": 56
     },
     {
-      "id": "zenn-5ee0680a16",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "著名な製OSSをLean 4で形式検証してみたら、めちゃめちゃバグが見つかった話",
-      "url": "https://zenn.dev/koukyosyumei/articles/31c8fcf4da45b7",
-      "score": 54,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 23 Nov 2026 05:17:05 GMT",
-      "hatena_count": 54
-    },
-    {
       "id": "zenn-657be75576",
       "source": "sns",
       "sub_source": "Zenn",
@@ -170,6 +156,20 @@
       ],
       "date": "Thu, 19 Nov 2026 01:52:32 GMT",
       "hatena_count": 50
+    },
+    {
+      "id": "zenn-5ee0680a16",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "著名なRust製OSSをLean 4で形式検証してみたら、めちゃめちゃバグが見つかった話",
+      "url": "https://zenn.dev/koukyosyumei/articles/31c8fcf4da45b7",
+      "score": 43,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 23 Nov 2026 05:17:05 GMT",
+      "hatena_count": 43
     },
     {
       "id": "zenn-7e5c84817c",

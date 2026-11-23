@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T14:33:10.938807+00:00",
+  "updated_at": "2026-11-23T15:05:59.249699+00:00",
   "count": 500,
   "items": [
     {
@@ -6690,15 +6690,15 @@
       "id": "zenn-5ee0680a16",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "著名な製OSSをLean 4で形式検証してみたら、めちゃめちゃバグが見つかった話",
+      "title": "著名なRust製OSSをLean 4で形式検証してみたら、めちゃめちゃバグが見つかった話",
       "url": "https://zenn.dev/koukyosyumei/articles/31c8fcf4da45b7",
-      "score": 54,
+      "score": 43,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 23 Nov 2026 05:17:05 GMT",
-      "hatena_count": 54
+      "hatena_count": 43
     },
     {
       "id": "zenn-5072e4e485",
@@ -6818,13 +6818,13 @@
       "sub_source": "Zenn",
       "title": "自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス",
       "url": "https://zenn.dev/nttdata_tech/articles/9562962cc181a1",
-      "score": 321,
+      "score": 320,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 19 Nov 2026 07:28:27 GMT",
-      "hatena_count": 321
+      "hatena_count": 320
     },
     {
       "id": "zenn-657be75576",
@@ -6861,13 +6861,13 @@
       "sub_source": "Zenn",
       "title": "なぜ今形式検証なのか",
       "url": "https://zenn.dev/ncdc/articles/dcec80b0c067b0",
-      "score": 89,
+      "score": 85,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 18 Nov 2026 23:00:05 GMT",
-      "hatena_count": 89
+      "hatena_count": 85
     },
     {
       "id": "zenn-b225a7e395",
