@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T11:04:49.816049+00:00",
+  "updated_at": "2026-11-23T11:33:49.447410+00:00",
   "count": 500,
   "items": [
     {
@@ -6673,6 +6673,48 @@
       "hatena_count": 1
     },
     {
+      "id": "zenn-8c80d51c70",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Googleが実践するSTAMP/STPAとは何か？ 私たちのSREにも使えるのか",
+      "url": "https://zenn.dev/maruloop/articles/7ff108e29741b5",
+      "score": 1,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 23 Nov 2026 06:56:43 GMT",
+      "hatena_count": 1
+    },
+    {
+      "id": "zenn-5ee0680a16",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "著名な製OSSをLean 4で形式検証してみたら、めちゃめちゃバグが見つかった話",
+      "url": "https://zenn.dev/koukyosyumei/articles/31c8fcf4da45b7",
+      "score": 2,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 23 Nov 2026 05:17:05 GMT",
+      "hatena_count": 2
+    },
+    {
+      "id": "zenn-5072e4e485",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "WolvCTF2026 - writeup",
+      "url": "https://zenn.dev/gattoartz/articles/3f302189a1741a",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 23 Nov 2026 02:53:40 GMT",
+      "hatena_count": 0
+    },
+    {
       "id": "zenn-f398c9789f",
       "source": "sns",
       "sub_source": "Zenn",
@@ -6701,17 +6743,17 @@
       "hatena_count": 0
     },
     {
-      "id": "zenn-38bbcfdd83",
+      "id": "zenn-be9d527f3b",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "SideLoadをしよう！〜SideStoreをiPhone単体で入れる〜(SideInstaller編)",
-      "url": "https://zenn.dev/l_port8000/articles/7550549e6e9970",
+      "title": "AIに実装を任せても、理解と判断は手放さない：基準・証拠・説明をGoのAPIで試した記録",
+      "url": "https://zenn.dev/kinuuu/articles/ai-coding-criteria-evidence-explanation",
       "score": 0,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Sun, 22 Nov 2026 03:46:17 GMT",
+      "date": "Sun, 22 Nov 2026 14:21:37 GMT",
       "hatena_count": 0
     },
     {
@@ -6743,6 +6785,20 @@
       "hatena_count": 156
     },
     {
+      "id": "zenn-c7eb8f191e",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "作れるエンジニアから、価値を届けるエンジニアへ",
+      "url": "https://zenn.dev/kubell/articles/3c3490a3592bb1",
+      "score": 1,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 20 Nov 2026 15:50:41 GMT",
+      "hatena_count": 1
+    },
+    {
       "id": "zenn-a0ddabc90e",
       "source": "sns",
       "sub_source": "Zenn",
@@ -6769,20 +6825,6 @@
       ],
       "date": "Thu, 19 Nov 2026 07:28:27 GMT",
       "hatena_count": 320
-    },
-    {
-      "id": "zenn-9e10601457",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "AIが爆速で開発する時代の、自動テストとの向き合い方",
-      "url": "https://zenn.dev/daiaoki/articles/webterm-ai-era-testing",
-      "score": 3,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 19 Nov 2026 07:11:24 GMT",
-      "hatena_count": 3
     },
     {
       "id": "zenn-657be75576",
@@ -6812,6 +6854,20 @@
       "date": "Thu, 19 Nov 2026 01:34:24 GMT",
       "severity": "high",
       "hatena_count": 200
+    },
+    {
+      "id": "zenn-15458fc334",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "なぜ今形式検証なのか",
+      "url": "https://zenn.dev/ncdc/articles/dcec80b0c067b0",
+      "score": 52,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 18 Nov 2026 23:00:05 GMT",
+      "hatena_count": 52
     },
     {
       "id": "zenn-b225a7e395",
@@ -6896,62 +6952,6 @@
       ],
       "date": "Tue, 17 Nov 2026 03:13:36 GMT",
       "hatena_count": 124
-    },
-    {
-      "id": "zenn-0ad39bac5f",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "最近、コードを真面目に読まなくなった",
-      "url": "https://zenn.dev/hiromoo/articles/reading-less-preparing-more",
-      "score": 97,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 16 Nov 2026 15:24:23 GMT",
-      "hatena_count": 97
-    },
-    {
-      "id": "zenn-bea85b5ab6",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "QA生産性を爆上げさせるためのQA AIプラットフォーム構築",
-      "url": "https://zenn.dev/gatechnologies/articles/8bdea59269eb10",
-      "score": 91,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 16 Nov 2026 09:12:44 GMT",
-      "hatena_count": 91
-    },
-    {
-      "id": "zenn-5b1d35f664",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "物理世界とAIをつなぐ：可視化で学ぶカメラ・座標系・運動制御入門",
-      "url": "https://zenn.dev/turing_motors/articles/cea9e3c85611b2",
-      "score": 15,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 16 Nov 2026 08:00:05 GMT",
-      "hatena_count": 15
-    },
-    {
-      "id": "zenn-ffcb738412",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "CSS では書きにくいアニメーションを Web Animations API で書く",
-      "url": "https://zenn.dev/omu_tryangle/articles/b5817393592229",
-      "score": 25,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 16 Nov 2026 06:35:01 GMT",
-      "hatena_count": 25
     },
     {
       "id": "techracho-6ad2ba5da6",
