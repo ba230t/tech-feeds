@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T06:12:36.655385+00:00",
+  "updated_at": "2026-11-23T06:48:45.005809+00:00",
   "count": 500,
   "items": [
     {
@@ -6672,6 +6672,34 @@
       "hatena_count": 1
     },
     {
+      "id": "zenn-f398c9789f",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "ゲーム理論×シミュレーション: 囚人のジレンマにおける戦略と Rust による実装",
+      "url": "https://zenn.dev/akitenkrad/articles/1zqjjioamhlyg2",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 22 Nov 2026 23:00:05 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-308da6302d",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "PHP(Laravel向け)のdistrolessイメージを作ろうとしてみる",
+      "url": "https://zenn.dev/fagai/articles/58b7dcf826b5ec",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 22 Nov 2026 14:35:24 GMT",
+      "hatena_count": 0
+    },
+    {
       "id": "zenn-38bbcfdd83",
       "source": "sns",
       "sub_source": "Zenn",
@@ -6683,20 +6711,6 @@
         "Zenn"
       ],
       "date": "Sun, 22 Nov 2026 03:46:17 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-9efe8592b5",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Next.jsのストリーミングはLambda Web Functionsで動くか",
-      "url": "https://zenn.dev/ryota_09/articles/nextjs-suspense-streaming-lambda-web-functions",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 22 Nov 2026 02:30:19 GMT",
       "hatena_count": 0
     },
     {
@@ -6719,13 +6733,13 @@
       "sub_source": "Zenn",
       "title": "【TLA+】AIにテストケースを書かせるな。ルールを書け",
       "url": "https://zenn.dev/karamage/articles/73027ee36796dc",
-      "score": 153,
+      "score": 154,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sat, 21 Nov 2026 02:12:39 GMT",
-      "hatena_count": 153
+      "hatena_count": 154
     },
     {
       "id": "zenn-a0ddabc90e",
@@ -6747,13 +6761,13 @@
       "sub_source": "Zenn",
       "title": "自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス",
       "url": "https://zenn.dev/nttdata_tech/articles/9562962cc181a1",
-      "score": 319,
+      "score": 320,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 19 Nov 2026 07:28:27 GMT",
-      "hatena_count": 319
+      "hatena_count": 320
     },
     {
       "id": "zenn-9e10601457",
@@ -6937,20 +6951,6 @@
       ],
       "date": "Mon, 16 Nov 2026 06:35:01 GMT",
       "hatena_count": 25
-    },
-    {
-      "id": "zenn-52eec506e8",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "mizchi/mutator を入れてみた",
-      "url": "https://zenn.dev/polyco/articles/e05cb28c569801",
-      "score": 4,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 16 Nov 2026 03:49:18 GMT",
-      "hatena_count": 4
     },
     {
       "id": "techracho-6ad2ba5da6",
