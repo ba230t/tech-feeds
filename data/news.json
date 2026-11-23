@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T05:06:31.961769+00:00",
+  "updated_at": "2026-11-23T05:33:35.925016+00:00",
   "count": 500,
   "items": [
     {
@@ -6686,6 +6686,20 @@
       "hatena_count": 0
     },
     {
+      "id": "zenn-9efe8592b5",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Next.jsのストリーミングはLambda Web Functionsで動くか",
+      "url": "https://zenn.dev/ryota_09/articles/nextjs-suspense-streaming-lambda-web-functions",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 22 Nov 2026 02:30:19 GMT",
+      "hatena_count": 0
+    },
+    {
       "id": "zenn-3ee1c2d061",
       "source": "sns",
       "sub_source": "Zenn",
@@ -6705,13 +6719,13 @@
       "sub_source": "Zenn",
       "title": "【TLA+】AIにテストケースを書かせるな。ルールを書け",
       "url": "https://zenn.dev/karamage/articles/73027ee36796dc",
-      "score": 152,
+      "score": 153,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sat, 21 Nov 2026 02:12:39 GMT",
-      "hatena_count": 152
+      "hatena_count": 153
     },
     {
       "id": "zenn-a0ddabc90e",
@@ -6733,13 +6747,13 @@
       "sub_source": "Zenn",
       "title": "自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス",
       "url": "https://zenn.dev/nttdata_tech/articles/9562962cc181a1",
-      "score": 318,
+      "score": 319,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 19 Nov 2026 07:28:27 GMT",
-      "hatena_count": 318
+      "hatena_count": 319
     },
     {
       "id": "zenn-9e10601457",
@@ -6754,20 +6768,6 @@
       ],
       "date": "Thu, 19 Nov 2026 07:11:24 GMT",
       "hatena_count": 3
-    },
-    {
-      "id": "zenn-79952aa41b",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "TypeScript 7.1 の Content Mapper で型の生成コマンドをなくす",
-      "url": "https://zenn.dev/toiroakr/articles/typescript-content-mapper-codegen",
-      "score": 2,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 19 Nov 2026 02:10:13 GMT",
-      "hatena_count": 2
     },
     {
       "id": "zenn-657be75576",
