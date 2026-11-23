@@ -21,13 +21,13 @@
       "sub_source": "Zenn",
       "title": "寝てる間に自動で動くAIエージェントを誰でも作れる：10分でわかる pstack 実践ガイド",
       "url": "https://zenn.dev/canly/articles/ca6875cd79539f",
-      "score": 564,
+      "score": 565,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 20 Nov 2026 09:04:40 GMT",
-      "hatena_count": 564
+      "hatena_count": 565
     },
     {
       "id": "zenn-ac0340dfae",
@@ -101,6 +101,20 @@
       "hatena_count": 124
     },
     {
+      "id": "zenn-15458fc334",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "なぜ今形式検証なのか",
+      "url": "https://zenn.dev/ncdc/articles/dcec80b0c067b0",
+      "score": 59,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 18 Nov 2026 23:00:05 GMT",
+      "hatena_count": 59
+    },
+    {
       "id": "zenn-61a940e7c3",
       "source": "sns",
       "sub_source": "Zenn",
@@ -128,20 +142,6 @@
       "severity": "medium",
       "date": "2026-11-19T00:00:00+09:00",
       "hatena_count": 56
-    },
-    {
-      "id": "zenn-15458fc334",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "なぜ今形式検証なのか",
-      "url": "https://zenn.dev/ncdc/articles/dcec80b0c067b0",
-      "score": 52,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 18 Nov 2026 23:00:05 GMT",
-      "hatena_count": 52
     },
     {
       "id": "zenn-657be75576",

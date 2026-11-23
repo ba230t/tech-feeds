@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T11:33:49.447410+00:00",
+  "updated_at": "2026-11-23T12:08:17.173399+00:00",
   "count": 500,
   "items": [
     {
@@ -6804,13 +6804,13 @@
       "sub_source": "Zenn",
       "title": "寝てる間に自動で動くAIエージェントを誰でも作れる：10分でわかる pstack 実践ガイド",
       "url": "https://zenn.dev/canly/articles/ca6875cd79539f",
-      "score": 564,
+      "score": 565,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 20 Nov 2026 09:04:40 GMT",
-      "hatena_count": 564
+      "hatena_count": 565
     },
     {
       "id": "zenn-1e6b48599b",
@@ -6861,13 +6861,13 @@
       "sub_source": "Zenn",
       "title": "なぜ今形式検証なのか",
       "url": "https://zenn.dev/ncdc/articles/dcec80b0c067b0",
-      "score": 52,
+      "score": 59,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 18 Nov 2026 23:00:05 GMT",
-      "hatena_count": 52
+      "hatena_count": 59
     },
     {
       "id": "zenn-b225a7e395",
