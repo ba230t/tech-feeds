@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T22:33:22.052790+00:00",
+  "updated_at": "2026-11-23T23:05:44.558915+00:00",
   "count": 500,
   "items": [
     {
@@ -6679,13 +6679,13 @@
       "sub_source": "Zenn",
       "title": "Googleが実践するSTAMP/STPAとは何か？ 私たちのSREにも使えるのか",
       "url": "https://zenn.dev/maruloop/articles/7ff108e29741b5",
-      "score": 1,
+      "score": 2,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 23 Nov 2026 06:56:43 GMT",
-      "hatena_count": 1
+      "hatena_count": 2
     },
     {
       "id": "zenn-5ee0680a16",
@@ -6693,13 +6693,13 @@
       "sub_source": "Zenn",
       "title": "著名なRust製OSSをLean 4で形式検証してみたら、めちゃめちゃバグが見つかった話",
       "url": "https://zenn.dev/koukyosyumei/articles/31c8fcf4da45b7",
-      "score": 127,
+      "score": 159,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 23 Nov 2026 05:17:05 GMT",
-      "hatena_count": 127
+      "hatena_count": 159
     },
     {
       "id": "zenn-5072e4e485",
@@ -6777,13 +6777,13 @@
       "sub_source": "Zenn",
       "title": "【TLA+】AIにテストケースを書かせるな。ルールを書け",
       "url": "https://zenn.dev/karamage/articles/73027ee36796dc",
-      "score": 158,
+      "score": 159,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sat, 21 Nov 2026 02:12:39 GMT",
-      "hatena_count": 158
+      "hatena_count": 159
     },
     {
       "id": "zenn-c7eb8f191e",
@@ -6805,13 +6805,13 @@
       "sub_source": "Zenn",
       "title": "寝てる間に自動で動くAIエージェントを誰でも作れる：10分でわかる pstack 実践ガイド",
       "url": "https://zenn.dev/canly/articles/ca6875cd79539f",
-      "score": 569,
+      "score": 570,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 20 Nov 2026 09:04:40 GMT",
-      "hatena_count": 569
+      "hatena_count": 570
     },
     {
       "id": "zenn-1e6b48599b",
@@ -6862,13 +6862,13 @@
       "sub_source": "Zenn",
       "title": "なぜ今形式検証なのか",
       "url": "https://zenn.dev/ncdc/articles/dcec80b0c067b0",
-      "score": 113,
+      "score": 119,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 18 Nov 2026 23:00:05 GMT",
-      "hatena_count": 113
+      "hatena_count": 119
     },
     {
       "id": "zenn-b225a7e395",
