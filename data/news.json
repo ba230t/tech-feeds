@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T15:05:59.249699+00:00",
+  "updated_at": "2026-11-23T15:33:52.507623+00:00",
   "count": 500,
   "items": [
     {
@@ -6692,13 +6692,13 @@
       "sub_source": "Zenn",
       "title": "著名なRust製OSSをLean 4で形式検証してみたら、めちゃめちゃバグが見つかった話",
       "url": "https://zenn.dev/koukyosyumei/articles/31c8fcf4da45b7",
-      "score": 43,
+      "score": 67,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 23 Nov 2026 05:17:05 GMT",
-      "hatena_count": 43
+      "hatena_count": 67
     },
     {
       "id": "zenn-5072e4e485",
@@ -6818,13 +6818,13 @@
       "sub_source": "Zenn",
       "title": "自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス",
       "url": "https://zenn.dev/nttdata_tech/articles/9562962cc181a1",
-      "score": 320,
+      "score": 321,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 19 Nov 2026 07:28:27 GMT",
-      "hatena_count": 320
+      "hatena_count": 321
     },
     {
       "id": "zenn-657be75576",
@@ -6861,13 +6861,13 @@
       "sub_source": "Zenn",
       "title": "なぜ今形式検証なのか",
       "url": "https://zenn.dev/ncdc/articles/dcec80b0c067b0",
-      "score": 85,
+      "score": 96,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 18 Nov 2026 23:00:05 GMT",
-      "hatena_count": 85
+      "hatena_count": 96
     },
     {
       "id": "zenn-b225a7e395",
@@ -6931,13 +6931,13 @@
       "sub_source": "Zenn",
       "title": "Claude Desktop 開発のすゝめ",
       "url": "https://zenn.dev/peoplex_blog/articles/vscode-to-claude-desktop",
-      "score": 23,
+      "score": 24,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 17 Nov 2026 03:41:36 GMT",
-      "hatena_count": 23
+      "hatena_count": 24
     },
     {
       "id": "zenn-07aa176070",
