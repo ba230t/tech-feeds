@@ -21,13 +21,13 @@
       "sub_source": "Zenn",
       "title": "寝てる間に自動で動くAIエージェントを誰でも作れる：10分でわかる pstack 実践ガイド",
       "url": "https://zenn.dev/canly/articles/ca6875cd79539f",
-      "score": 567,
+      "score": 568,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 20 Nov 2026 09:04:40 GMT",
-      "hatena_count": 567
+      "hatena_count": 568
     },
     {
       "id": "zenn-ac0340dfae",
@@ -63,14 +63,14 @@
       "sub_source": "Zenn",
       "title": "相次ぐOSSの脆弱性に、とりあえずクラウドWAF入れるだけでだいぶ違う話+Rootlessコンテナもいいぞ",
       "url": "https://zenn.dev/kusuke/articles/98e178e6824cac",
-      "score": 200,
+      "score": 201,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 19 Nov 2026 01:34:24 GMT",
       "severity": "high",
-      "hatena_count": 200
+      "hatena_count": 201
     },
     {
       "id": "zenn-97c7090c40",
@@ -106,13 +106,13 @@
       "sub_source": "Zenn",
       "title": "なぜ今形式検証なのか",
       "url": "https://zenn.dev/ncdc/articles/dcec80b0c067b0",
-      "score": 96,
+      "score": 102,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 18 Nov 2026 23:00:05 GMT",
-      "hatena_count": 96
+      "hatena_count": 102
     },
     {
       "id": "zenn-5ee0680a16",
@@ -120,13 +120,13 @@
       "sub_source": "Zenn",
       "title": "著名なRust製OSSをLean 4で形式検証してみたら、めちゃめちゃバグが見つかった話",
       "url": "https://zenn.dev/koukyosyumei/articles/31c8fcf4da45b7",
-      "score": 67,
+      "score": 79,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 23 Nov 2026 05:17:05 GMT",
-      "hatena_count": 67
+      "hatena_count": 79
     },
     {
       "id": "zenn-61a940e7c3",
@@ -310,14 +310,14 @@
       "sub_source": "Zenn",
       "title": "相次ぐOSSの脆弱性に、とりあえずクラウドWAF入れるだけでだいぶ違う話+Rootlessコンテナもいいぞ",
       "url": "https://zenn.dev/kusuke/articles/98e178e6824cac",
-      "score": 200,
+      "score": 201,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 19 Nov 2026 01:34:24 GMT",
       "severity": "high",
-      "hatena_count": 200
+      "hatena_count": 201
     },
     {
       "id": "qiita-8e09826e13",
