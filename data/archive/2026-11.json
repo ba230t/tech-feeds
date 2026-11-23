@@ -106,13 +106,13 @@
       "sub_source": "Zenn",
       "title": "なぜ今形式検証なのか",
       "url": "https://zenn.dev/ncdc/articles/dcec80b0c067b0",
-      "score": 59,
+      "score": 63,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 18 Nov 2026 23:00:05 GMT",
-      "hatena_count": 59
+      "hatena_count": 63
     },
     {
       "id": "zenn-61a940e7c3",
@@ -275,6 +275,20 @@
       "hatena_count": 12
     },
     {
+      "id": "zenn-5ee0680a16",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "著名な製OSSをLean 4で形式検証してみたら、めちゃめちゃバグが見つかった話",
+      "url": "https://zenn.dev/koukyosyumei/articles/31c8fcf4da45b7",
+      "score": 6,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 23 Nov 2026 05:17:05 GMT",
+      "hatena_count": 6
+    },
+    {
       "id": "zenn-3ee1c2d061",
       "source": "sns",
       "sub_source": "Zenn",
@@ -286,21 +300,6 @@
         "Zenn"
       ],
       "date": "Sat, 21 Nov 2026 15:14:13 GMT",
-      "hatena_count": 3
-    },
-    {
-      "id": "techracho-511973acbf",
-      "source": "techracho",
-      "title": "RubyistがGoに挑む: ポケモンAPIクライアントを書いてみた（翻訳）",
-      "url": "https://techracho.bpsinc.jp/hachi8833/2026_11_10/159573",
-      "score": 3,
-      "author": "Techracho",
-      "tags": [
-        "Ruby",
-        "Rails",
-        "日本語"
-      ],
-      "date": "Tue, 10 Nov 2026 08:30:16 +0000",
       "hatena_count": 3
     }
   ],
