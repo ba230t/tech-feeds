@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T09:35:09.012947+00:00",
+  "updated_at": "2026-11-23T10:06:17.365288+00:00",
   "count": 500,
   "items": [
     {
@@ -6673,6 +6673,156 @@
       "hatena_count": 1
     },
     {
+      "id": "techracho-6ad2ba5da6",
+      "source": "techracho",
+      "title": "Ruby 4.0.10/3.4.13/3.3.14セキュリティ修正がリリースされました",
+      "url": "https://techracho.bpsinc.jp/hachi8833/2026_11_19/161442",
+      "score": 1,
+      "author": "Techracho",
+      "tags": [
+        "Ruby",
+        "Rails",
+        "日本語"
+      ],
+      "date": "Thu, 19 Nov 2026 01:18:15 +0000",
+      "hatena_count": 1
+    },
+    {
+      "id": "techracho-7d9e7aecae",
+      "source": "techracho",
+      "title": "Ruby: stackprof はプロファイラのしくみを学ぶのに最適（Euruko 2025講演）（翻訳）",
+      "url": "https://techracho.bpsinc.jp/hachi8833/2026_11_17/160871",
+      "score": 1,
+      "author": "Techracho",
+      "tags": [
+        "Ruby",
+        "Rails",
+        "日本語"
+      ],
+      "date": "Tue, 17 Nov 2026 08:30:11 +0000",
+      "hatena_count": 1
+    },
+    {
+      "id": "techracho-a0dbaebccc",
+      "source": "techracho",
+      "title": "速報: RubyGems 4.1.0と Bundler 4.1.0がリリースされました",
+      "url": "https://techracho.bpsinc.jp/hachi8833/2026_11_16/161390",
+      "score": 1,
+      "author": "Techracho",
+      "tags": [
+        "Ruby",
+        "Rails",
+        "日本語"
+      ],
+      "date": "Mon, 16 Nov 2026 08:00:09 +0000",
+      "hatena_count": 1
+    },
+    {
+      "id": "techracho-4b67c39e4f",
+      "source": "techracho",
+      "title": "Rails: DHHがRails World 2026キーノートで「語らなかった」部分とは（翻訳）",
+      "url": "https://techracho.bpsinc.jp/hachi8833/2026_11_12/161307",
+      "score": 33,
+      "author": "Techracho",
+      "tags": [
+        "Ruby",
+        "Rails",
+        "日本語"
+      ],
+      "date": "Thu, 12 Nov 2026 08:30:57 +0000",
+      "hatena_count": 33
+    },
+    {
+      "id": "techracho-4616a03635",
+      "source": "techracho",
+      "title": "Ruby サーバーのゼロダウンタイムデプロイを Docker なしで実現する（翻訳）",
+      "url": "https://techracho.bpsinc.jp/hachi8833/2026_11_11/159612",
+      "score": 1,
+      "author": "Techracho",
+      "tags": [
+        "Ruby",
+        "Rails",
+        "日本語"
+      ],
+      "date": "Wed, 11 Nov 2026 08:30:35 +0000",
+      "hatena_count": 1
+    },
+    {
+      "id": "techracho-511973acbf",
+      "source": "techracho",
+      "title": "RubyistがGoに挑む: ポケモンAPIクライアントを書いてみた（翻訳）",
+      "url": "https://techracho.bpsinc.jp/hachi8833/2026_11_10/159573",
+      "score": 3,
+      "author": "Techracho",
+      "tags": [
+        "Ruby",
+        "Rails",
+        "日本語"
+      ],
+      "date": "Tue, 10 Nov 2026 08:30:16 +0000",
+      "hatena_count": 3
+    },
+    {
+      "id": "techracho-f68eade31b",
+      "source": "techracho",
+      "title": "「RailsはJITコンパイラだ！」（翻訳）",
+      "url": "https://techracho.bpsinc.jp/hachi8833/2026_11_09/160947",
+      "score": 3,
+      "author": "Techracho",
+      "tags": [
+        "Ruby",
+        "Rails",
+        "日本語"
+      ],
+      "date": "Mon, 09 Nov 2026 08:30:25 +0000",
+      "hatena_count": 3
+    },
+    {
+      "id": "techracho-3ff1a08033",
+      "source": "techracho",
+      "title": "Shopifyの Rubydex linter でRubyプロジェクトに構造的lintを導入しよう（翻訳）",
+      "url": "https://techracho.bpsinc.jp/hachi8833/2026_11_05/160032",
+      "score": 3,
+      "author": "Techracho",
+      "tags": [
+        "Ruby",
+        "Rails",
+        "日本語"
+      ],
+      "date": "Thu, 05 Nov 2026 08:30:46 +0000",
+      "hatena_count": 3
+    },
+    {
+      "id": "techracho-a0c760eafa",
+      "source": "techracho",
+      "title": "Rails セキュリティ修正8.1.4.1と8.0.5.2がリリースされました",
+      "url": "https://techracho.bpsinc.jp/hachi8833/2026_11_04/161214",
+      "score": 1,
+      "author": "Techracho",
+      "tags": [
+        "Ruby",
+        "Rails",
+        "日本語"
+      ],
+      "date": "Wed, 04 Nov 2026 05:00:56 +0000",
+      "hatena_count": 1
+    },
+    {
+      "id": "techracho-b23695913c",
+      "source": "techracho",
+      "title": "Ruby: C拡張をRuby 4のVM APIに合わせて効率化するためのtips集（翻訳）",
+      "url": "https://techracho.bpsinc.jp/hachi8833/2026_11_02/160896",
+      "score": 2,
+      "author": "Techracho",
+      "tags": [
+        "Ruby",
+        "Rails",
+        "日本語"
+      ],
+      "date": "Mon, 02 Nov 2026 08:30:18 +0000",
+      "hatena_count": 2
+    },
+    {
       "id": "zenn-f398c9789f",
       "source": "sns",
       "sub_source": "Zenn",
@@ -6754,7 +6904,7 @@
         "Zenn"
       ],
       "date": "Fri, 20 Nov 2026 09:04:40 GMT",
-      "hatena_count": 563
+      "hatena_count": 564
     },
     {
       "id": "zenn-1e6b48599b",
@@ -6952,156 +7102,6 @@
       ],
       "date": "Mon, 16 Nov 2026 06:35:01 GMT",
       "hatena_count": 25
-    },
-    {
-      "id": "techracho-6ad2ba5da6",
-      "source": "techracho",
-      "title": "Ruby 4.0.10/3.4.13/3.3.14セキュリティ修正がリリースされました",
-      "url": "https://techracho.bpsinc.jp/hachi8833/2026_11_19/161442",
-      "score": 1,
-      "author": "Techracho",
-      "tags": [
-        "Ruby",
-        "Rails",
-        "日本語"
-      ],
-      "date": "Thu, 19 Nov 2026 01:18:15 +0000",
-      "hatena_count": 1
-    },
-    {
-      "id": "techracho-7d9e7aecae",
-      "source": "techracho",
-      "title": "Ruby: stackprof はプロファイラのしくみを学ぶのに最適（Euruko 2025講演）（翻訳）",
-      "url": "https://techracho.bpsinc.jp/hachi8833/2026_11_17/160871",
-      "score": 1,
-      "author": "Techracho",
-      "tags": [
-        "Ruby",
-        "Rails",
-        "日本語"
-      ],
-      "date": "Tue, 17 Nov 2026 08:30:11 +0000",
-      "hatena_count": 1
-    },
-    {
-      "id": "techracho-a0dbaebccc",
-      "source": "techracho",
-      "title": "速報: RubyGems 4.1.0と Bundler 4.1.0がリリースされました",
-      "url": "https://techracho.bpsinc.jp/hachi8833/2026_11_16/161390",
-      "score": 1,
-      "author": "Techracho",
-      "tags": [
-        "Ruby",
-        "Rails",
-        "日本語"
-      ],
-      "date": "Mon, 16 Nov 2026 08:00:09 +0000",
-      "hatena_count": 1
-    },
-    {
-      "id": "techracho-4b67c39e4f",
-      "source": "techracho",
-      "title": "Rails: DHHがRails World 2026キーノートで「語らなかった」部分とは（翻訳）",
-      "url": "https://techracho.bpsinc.jp/hachi8833/2026_11_12/161307",
-      "score": 33,
-      "author": "Techracho",
-      "tags": [
-        "Ruby",
-        "Rails",
-        "日本語"
-      ],
-      "date": "Thu, 12 Nov 2026 08:30:57 +0000",
-      "hatena_count": 33
-    },
-    {
-      "id": "techracho-4616a03635",
-      "source": "techracho",
-      "title": "Ruby サーバーのゼロダウンタイムデプロイを Docker なしで実現する（翻訳）",
-      "url": "https://techracho.bpsinc.jp/hachi8833/2026_11_11/159612",
-      "score": 1,
-      "author": "Techracho",
-      "tags": [
-        "Ruby",
-        "Rails",
-        "日本語"
-      ],
-      "date": "Wed, 11 Nov 2026 08:30:35 +0000",
-      "hatena_count": 1
-    },
-    {
-      "id": "techracho-511973acbf",
-      "source": "techracho",
-      "title": "RubyistがGoに挑む: ポケモンAPIクライアントを書いてみた（翻訳）",
-      "url": "https://techracho.bpsinc.jp/hachi8833/2026_11_10/159573",
-      "score": 3,
-      "author": "Techracho",
-      "tags": [
-        "Ruby",
-        "Rails",
-        "日本語"
-      ],
-      "date": "Tue, 10 Nov 2026 08:30:16 +0000",
-      "hatena_count": 3
-    },
-    {
-      "id": "techracho-f68eade31b",
-      "source": "techracho",
-      "title": "「RailsはJITコンパイラだ！」（翻訳）",
-      "url": "https://techracho.bpsinc.jp/hachi8833/2026_11_09/160947",
-      "score": 3,
-      "author": "Techracho",
-      "tags": [
-        "Ruby",
-        "Rails",
-        "日本語"
-      ],
-      "date": "Mon, 09 Nov 2026 08:30:25 +0000",
-      "hatena_count": 3
-    },
-    {
-      "id": "techracho-3ff1a08033",
-      "source": "techracho",
-      "title": "Shopifyの Rubydex linter でRubyプロジェクトに構造的lintを導入しよう（翻訳）",
-      "url": "https://techracho.bpsinc.jp/hachi8833/2026_11_05/160032",
-      "score": 3,
-      "author": "Techracho",
-      "tags": [
-        "Ruby",
-        "Rails",
-        "日本語"
-      ],
-      "date": "Thu, 05 Nov 2026 08:30:46 +0000",
-      "hatena_count": 3
-    },
-    {
-      "id": "techracho-a0c760eafa",
-      "source": "techracho",
-      "title": "Rails セキュリティ修正8.1.4.1と8.0.5.2がリリースされました",
-      "url": "https://techracho.bpsinc.jp/hachi8833/2026_11_04/161214",
-      "score": 1,
-      "author": "Techracho",
-      "tags": [
-        "Ruby",
-        "Rails",
-        "日本語"
-      ],
-      "date": "Wed, 04 Nov 2026 05:00:56 +0000",
-      "hatena_count": 1
-    },
-    {
-      "id": "techracho-b23695913c",
-      "source": "techracho",
-      "title": "Ruby: C拡張をRuby 4のVM APIに合わせて効率化するためのtips集（翻訳）",
-      "url": "https://techracho.bpsinc.jp/hachi8833/2026_11_02/160896",
-      "score": 2,
-      "author": "Techracho",
-      "tags": [
-        "Ruby",
-        "Rails",
-        "日本語"
-      ],
-      "date": "Mon, 02 Nov 2026 08:30:18 +0000",
-      "hatena_count": 2
     }
   ]
 }
