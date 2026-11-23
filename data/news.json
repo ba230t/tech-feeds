@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T06:48:45.005809+00:00",
+  "updated_at": "2026-11-23T07:06:21.565394+00:00",
   "count": 500,
   "items": [
     {
@@ -6672,34 +6672,6 @@
       "hatena_count": 1
     },
     {
-      "id": "zenn-f398c9789f",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "ゲーム理論×シミュレーション: 囚人のジレンマにおける戦略と Rust による実装",
-      "url": "https://zenn.dev/akitenkrad/articles/1zqjjioamhlyg2",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 22 Nov 2026 23:00:05 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-308da6302d",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "PHP(Laravel向け)のdistrolessイメージを作ろうとしてみる",
-      "url": "https://zenn.dev/fagai/articles/58b7dcf826b5ec",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 22 Nov 2026 14:35:24 GMT",
-      "hatena_count": 0
-    },
-    {
       "id": "zenn-38bbcfdd83",
       "source": "sns",
       "sub_source": "Zenn",
@@ -6733,13 +6705,13 @@
       "sub_source": "Zenn",
       "title": "【TLA+】AIにテストケースを書かせるな。ルールを書け",
       "url": "https://zenn.dev/karamage/articles/73027ee36796dc",
-      "score": 154,
+      "score": 155,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sat, 21 Nov 2026 02:12:39 GMT",
-      "hatena_count": 154
+      "hatena_count": 155
     },
     {
       "id": "zenn-a0ddabc90e",
@@ -6782,6 +6754,20 @@
       ],
       "date": "Thu, 19 Nov 2026 07:11:24 GMT",
       "hatena_count": 3
+    },
+    {
+      "id": "zenn-79952aa41b",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "TypeScript 7.1 の Content Mapper で型の生成コマンドをなくす",
+      "url": "https://zenn.dev/toiroakr/articles/typescript-content-mapper-codegen",
+      "score": 2,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 19 Nov 2026 02:10:13 GMT",
+      "hatena_count": 2
     },
     {
       "id": "zenn-657be75576",
@@ -6846,13 +6832,13 @@
       "sub_source": "Zenn",
       "title": "おい、 Mutation Test をやれ。テスト品質を、測るために",
       "url": "https://zenn.dev/mizchi/articles/mutation-test-quality",
-      "score": 400,
+      "score": 399,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 17 Nov 2026 09:53:47 GMT",
-      "hatena_count": 400
+      "hatena_count": 399
     },
     {
       "id": "zenn-61a940e7c3",
@@ -6951,6 +6937,20 @@
       ],
       "date": "Mon, 16 Nov 2026 06:35:01 GMT",
       "hatena_count": 25
+    },
+    {
+      "id": "zenn-52eec506e8",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "mizchi/mutator を入れてみた",
+      "url": "https://zenn.dev/polyco/articles/e05cb28c569801",
+      "score": 4,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 16 Nov 2026 03:49:18 GMT",
+      "hatena_count": 4
     },
     {
       "id": "techracho-6ad2ba5da6",
