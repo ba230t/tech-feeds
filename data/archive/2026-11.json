@@ -27,7 +27,7 @@
         "Zenn"
       ],
       "date": "Fri, 20 Nov 2026 09:04:40 GMT",
-      "hatena_count": 564
+      "hatena_count": 563
     },
     {
       "id": "zenn-ac0340dfae",
@@ -172,6 +172,20 @@
       "hatena_count": 50
     },
     {
+      "id": "zenn-7e5c84817c",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "正しいUIデザインと、意図のあるUIデザイン",
+      "url": "https://zenn.dev/praha/articles/08568310684aa3",
+      "score": 33,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 18 Nov 2026 05:55:40 GMT",
+      "hatena_count": 33
+    },
+    {
       "id": "techracho-4b67c39e4f",
       "source": "techracho",
       "title": "Rails: DHHがRails World 2026キーノートで「語らなかった」部分とは（翻訳）",
@@ -184,20 +198,6 @@
         "日本語"
       ],
       "date": "Thu, 12 Nov 2026 08:30:57 +0000",
-      "hatena_count": 33
-    },
-    {
-      "id": "zenn-7e5c84817c",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "正しいUIデザインと、意図のあるUIデザイン",
-      "url": "https://zenn.dev/praha/articles/08568310684aa3",
-      "score": 33,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 18 Nov 2026 05:55:40 GMT",
       "hatena_count": 33
     },
     {
