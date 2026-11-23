@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T12:37:52.365507+00:00",
+  "updated_at": "2026-11-23T13:06:02.340340+00:00",
   "count": 500,
   "items": [
     {
@@ -6512,7 +6512,7 @@
       "source": "ipa",
       "title": "不正アクセスによる漏えい等の事案を踏まえ、速やかに実施すべき対策等について",
       "url": "https://www.ipa.go.jp/security/security-alert/2026/alert20261009.html",
-      "score": 516,
+      "score": 515,
       "author": "IPA",
       "tags": [
         "IPA",
@@ -6520,7 +6520,7 @@
       ],
       "severity": "medium",
       "date": "2026-10-09T00:00:00+09:00",
-      "hatena_count": 516
+      "hatena_count": 515
     },
     {
       "id": "ipa-285b7532c9",
@@ -6692,13 +6692,13 @@
       "sub_source": "Zenn",
       "title": "著名な製OSSをLean 4で形式検証してみたら、めちゃめちゃバグが見つかった話",
       "url": "https://zenn.dev/koukyosyumei/articles/31c8fcf4da45b7",
-      "score": 6,
+      "score": 19,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 23 Nov 2026 05:17:05 GMT",
-      "hatena_count": 6
+      "hatena_count": 19
     },
     {
       "id": "zenn-5072e4e485",
@@ -6776,13 +6776,13 @@
       "sub_source": "Zenn",
       "title": "【TLA+】AIにテストケースを書かせるな。ルールを書け",
       "url": "https://zenn.dev/karamage/articles/73027ee36796dc",
-      "score": 156,
+      "score": 157,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sat, 21 Nov 2026 02:12:39 GMT",
-      "hatena_count": 156
+      "hatena_count": 157
     },
     {
       "id": "zenn-c7eb8f191e",
@@ -6861,13 +6861,13 @@
       "sub_source": "Zenn",
       "title": "なぜ今形式検証なのか",
       "url": "https://zenn.dev/ncdc/articles/dcec80b0c067b0",
-      "score": 63,
+      "score": 71,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 18 Nov 2026 23:00:05 GMT",
-      "hatena_count": 63
+      "hatena_count": 71
     },
     {
       "id": "zenn-b225a7e395",
