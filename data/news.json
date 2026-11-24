@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T06:40:20.287934+00:00",
+  "updated_at": "2026-11-24T07:05:45.244623+00:00",
   "count": 500,
   "items": [
     {
@@ -6735,13 +6735,13 @@
       "sub_source": "Zenn",
       "title": "【技術書典21】17人の開発者と作った合同誌『AI キャラクター開発 十人十色』、会場50部が完売しました！！！",
       "url": "https://zenn.dev/mei999/articles/33f2965b3c021c",
-      "score": 0,
+      "score": 1,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 23 Nov 2026 12:52:08 GMT",
-      "hatena_count": 0
+      "hatena_count": 1
     },
     {
       "id": "zenn-1826245ce7",
@@ -6749,13 +6749,13 @@
       "sub_source": "Zenn",
       "title": "AIが作りAIが決める時代に、人は何を「判断」するのか？",
       "url": "https://zenn.dev/ncdc/articles/a522c2c50022d2",
-      "score": 0,
+      "score": 1,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 23 Nov 2026 08:30:05 GMT",
-      "hatena_count": 0
+      "hatena_count": 1
     },
     {
       "id": "zenn-8103dd0a67",
@@ -6791,13 +6791,13 @@
       "sub_source": "Zenn",
       "title": "JSConf JP 2026 公開資料・Xアカウントリンクまとめ",
       "url": "https://zenn.dev/h_yoshikawa0724/articles/2026-11-23-jsconf-jp-2026",
-      "score": 5,
+      "score": 7,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 23 Nov 2026 05:38:39 GMT",
-      "hatena_count": 5
+      "hatena_count": 7
     },
     {
       "id": "zenn-5ee0680a16",
@@ -6847,13 +6847,13 @@
       "sub_source": "Zenn",
       "title": "【TLA+】AIにテストケースを書かせるな。ルールを書け",
       "url": "https://zenn.dev/karamage/articles/73027ee36796dc",
-      "score": 160,
+      "score": 161,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sat, 21 Nov 2026 02:12:39 GMT",
-      "hatena_count": 160
+      "hatena_count": 161
     },
     {
       "id": "zenn-a0ddabc90e",
@@ -6861,13 +6861,13 @@
       "sub_source": "Zenn",
       "title": "寝てる間に自動で動くAIエージェントを誰でも作れる：10分でわかる pstack 実践ガイド",
       "url": "https://zenn.dev/canly/articles/ca6875cd79539f",
-      "score": 574,
+      "score": 575,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 20 Nov 2026 09:04:40 GMT",
-      "hatena_count": 574
+      "hatena_count": 575
     },
     {
       "id": "zenn-b9afa88b6c",
