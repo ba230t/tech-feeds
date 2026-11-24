@@ -49,13 +49,13 @@
       "sub_source": "Zenn",
       "title": "著名なRust製OSSをLean 4で形式検証してみたら、めちゃめちゃバグが見つかった話",
       "url": "https://zenn.dev/koukyosyumei/articles/31c8fcf4da45b7",
-      "score": 240,
+      "score": 241,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 23 Nov 2026 05:17:05 GMT",
-      "hatena_count": 240
+      "hatena_count": 241
     },
     {
       "id": "zenn-06b280eb58",
@@ -264,6 +264,20 @@
       "hatena_count": 3
     },
     {
+      "id": "zenn-3afbce3141",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "コーディングエージェントが変えたOSS開発のプロセスと喜び",
+      "url": "https://zenn.dev/cybergarage/articles/5ee7ac6b3b0565",
+      "score": 2,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 23 Nov 2026 17:37:18 GMT",
+      "hatena_count": 2
+    },
+    {
       "id": "ipa-af5a912847",
       "source": "ipa",
       "title": "VMware製品の脆弱性対策について(CVE-2026-123890)",
@@ -291,21 +305,6 @@
       ],
       "severity": "medium",
       "date": "2026-11-20T00:00:00+09:00",
-      "hatena_count": 1
-    },
-    {
-      "id": "qiita-9b64da4059",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "【自動修復AI】脆弱性を自動検知・修正する「CodeMender」とAIエージェント時代のセキュリティ基盤",
-      "url": "https://qiita.com/tomokoro/items/64a762de9e5bdf3e8f00?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 1,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-19T10:43:56+09:00",
-      "severity": "high",
       "hatena_count": 1
     }
   ],
