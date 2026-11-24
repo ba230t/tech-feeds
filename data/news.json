@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T17:33:14.875892+00:00",
+  "updated_at": "2026-11-24T18:06:17.992291+00:00",
   "count": 500,
   "items": [
     {
@@ -6707,13 +6707,13 @@
       "sub_source": "Zenn",
       "title": "Claude Code を5〜8個並べても迷わないように、自分用のダッシュボードをバイブコーディングで作った",
       "url": "https://zenn.dev/nexta_/articles/a3ff76a9f98f1c",
-      "score": 0,
+      "score": 1,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 24 Nov 2026 02:30:05 GMT",
-      "hatena_count": 0
+      "hatena_count": 1
     },
     {
       "id": "zenn-52ca7d08b7",
@@ -6847,13 +6847,13 @@
       "sub_source": "Zenn",
       "title": "著名なRust製OSSをLean 4で形式検証してみたら、めちゃめちゃバグが見つかった話",
       "url": "https://zenn.dev/koukyosyumei/articles/31c8fcf4da45b7",
-      "score": 247,
+      "score": 248,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 23 Nov 2026 05:17:05 GMT",
-      "hatena_count": 247
+      "hatena_count": 248
     },
     {
       "id": "zenn-537a0ffdf3",
