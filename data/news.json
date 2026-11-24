@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T20:33:41.729772+00:00",
+  "updated_at": "2026-11-24T21:05:11.499328+00:00",
   "count": 500,
   "items": [
     {
@@ -6956,7 +6956,7 @@
       "source": "techracho",
       "title": "Rails: 37signalsのコード品質を支える独自のエンジニアリング戦略（翻訳）",
       "url": "https://techracho.bpsinc.jp/hachi8833/2026_11_24/161424",
-      "score": 5,
+      "score": 6,
       "author": "Techracho",
       "tags": [
         "Ruby",
@@ -6964,7 +6964,7 @@
         "日本語"
       ],
       "date": "Tue, 24 Nov 2026 08:30:04 +0000",
-      "hatena_count": 5
+      "hatena_count": 6
     },
     {
       "id": "techracho-6ad2ba5da6",
