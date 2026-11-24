@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T17:05:27.195945+00:00",
+  "updated_at": "2026-11-24T17:33:14.875892+00:00",
   "count": 500,
   "items": [
     {
@@ -6833,13 +6833,13 @@
       "sub_source": "Zenn",
       "title": "JSConf JP 2026 公開資料・Xアカウントリンクまとめ",
       "url": "https://zenn.dev/h_yoshikawa0724/articles/2026-11-23-jsconf-jp-2026",
-      "score": 11,
+      "score": 12,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 23 Nov 2026 05:38:39 GMT",
-      "hatena_count": 11
+      "hatena_count": 12
     },
     {
       "id": "zenn-5ee0680a16",
@@ -6847,13 +6847,13 @@
       "sub_source": "Zenn",
       "title": "著名なRust製OSSをLean 4で形式検証してみたら、めちゃめちゃバグが見つかった話",
       "url": "https://zenn.dev/koukyosyumei/articles/31c8fcf4da45b7",
-      "score": 246,
+      "score": 247,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 23 Nov 2026 05:17:05 GMT",
-      "hatena_count": 246
+      "hatena_count": 247
     },
     {
       "id": "zenn-537a0ffdf3",
@@ -6917,13 +6917,13 @@
       "sub_source": "Zenn",
       "title": "自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス",
       "url": "https://zenn.dev/nttdata_tech/articles/9562962cc181a1",
-      "score": 325,
+      "score": 326,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 19 Nov 2026 07:28:27 GMT",
-      "hatena_count": 325
+      "hatena_count": 326
     },
     {
       "id": "zenn-06b280eb58",
@@ -6946,13 +6946,13 @@
       "sub_source": "Zenn",
       "title": "なぜ今形式検証なのか",
       "url": "https://zenn.dev/ncdc/articles/dcec80b0c067b0",
-      "score": 142,
+      "score": 143,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 18 Nov 2026 23:00:05 GMT",
-      "hatena_count": 142
+      "hatena_count": 143
     },
     {
       "id": "techracho-10e1220cbf",
