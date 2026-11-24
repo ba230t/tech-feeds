@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T01:05:57.259820+00:00",
+  "updated_at": "2026-11-24T01:34:40.466828+00:00",
   "count": 500,
   "items": [
     {
@@ -6777,13 +6777,13 @@
       "sub_source": "Zenn",
       "title": "著名なRust製OSSをLean 4で形式検証してみたら、めちゃめちゃバグが見つかった話",
       "url": "https://zenn.dev/koukyosyumei/articles/31c8fcf4da45b7",
-      "score": 199,
+      "score": 210,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 23 Nov 2026 05:17:05 GMT",
-      "hatena_count": 199
+      "hatena_count": 210
     },
     {
       "id": "zenn-5072e4e485",
@@ -6875,13 +6875,13 @@
       "sub_source": "Zenn",
       "title": "【TLA+】AIにテストケースを書かせるな。ルールを書け",
       "url": "https://zenn.dev/karamage/articles/73027ee36796dc",
-      "score": 159,
+      "score": 160,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sat, 21 Nov 2026 02:12:39 GMT",
-      "hatena_count": 159
+      "hatena_count": 160
     },
     {
       "id": "zenn-a0ddabc90e",
@@ -6946,13 +6946,13 @@
       "sub_source": "Zenn",
       "title": "なぜ今形式検証なのか",
       "url": "https://zenn.dev/ncdc/articles/dcec80b0c067b0",
-      "score": 126,
+      "score": 128,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 18 Nov 2026 23:00:05 GMT",
-      "hatena_count": 126
+      "hatena_count": 128
     },
     {
       "id": "techracho-6ad2ba5da6",
