@@ -1,12 +1,12 @@
 {
   "month": "2026-06",
-  "total_articles": 2,
-  "summary": "# 2026-06の技術動向レポート\n\n**セキュリティ動向 (1件)**\n\n1. Check Point Software Technologies製品の脆弱性対策について(CVE-2026-50751)\n\n**技術トレンド (1件)**\n\n1. 更新：Windows 10のサポート終了に伴う注意喚起",
+  "total_articles": 1,
+  "summary": "# 2026-06の技術動向レポート\n\n**技術トレンド (1件)**\n\n1. 更新：Windows 10のサポート終了に伴う注意喚起",
   "source_counts": {
-    "ipa": 2
+    "ipa": 1
   },
   "severity_counts": {
-    "medium": 2
+    "medium": 1
   },
   "top_articles": [
     {
@@ -23,21 +23,6 @@
       "severity": "medium",
       "date": "2026-06-26T00:00:00+09:00",
       "hatena_count": 38
-    },
-    {
-      "id": "ipa-2d9ab9e342",
-      "source": "ipa",
-      "title": "Check Point Software Technologies製品の脆弱性対策について(CVE-2026-50751)",
-      "url": "https://www.ipa.go.jp/security/security-alert/2026/alert20260610.html",
-      "score": 1,
-      "author": "IPA",
-      "tags": [
-        "IPA",
-        "セキュリティ"
-      ],
-      "severity": "medium",
-      "date": "2026-06-10T00:00:00+09:00",
-      "hatena_count": 1
     }
   ],
   "security_highlights": []
