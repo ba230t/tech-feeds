@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T13:05:52.232459+00:00",
+  "updated_at": "2026-11-24T13:33:37.217541+00:00",
   "count": 500,
   "items": [
     {
@@ -6674,48 +6674,6 @@
       "hatena_count": 38
     },
     {
-      "id": "zenn-aa865468e1",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Gemini 4 Neon を API で叩いて Claude Code・Codex CLI と比べた：65万トークンの超長文、費用、失敗",
-      "url": "https://zenn.dev/canly/articles/40e773759da8f8",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 24 Nov 2026 08:51:41 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-45778b8a56",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Microsoft Foundry で AI エージェントを設計するときに決める5つのこと",
-      "url": "https://zenn.dev/microsoft/articles/daedf42c8463b8",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 24 Nov 2026 02:59:05 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-89c61f23bd",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Claude Code を5〜8個並べても迷わないように、自分用のダッシュボードをバイブコーディングで作った",
-      "url": "https://zenn.dev/nexta_/articles/a3ff76a9f98f1c",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 24 Nov 2026 02:30:05 GMT",
-      "hatena_count": 0
-    },
-    {
       "id": "zenn-52ca7d08b7",
       "source": "sns",
       "sub_source": "Zenn",
@@ -6727,20 +6685,6 @@
         "Zenn"
       ],
       "date": "Mon, 23 Nov 2026 23:07:40 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-97a10088a5",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "「コードを書く」から「迷わず判断する」へ——AIエージェント時代の開発ワークフローを自作ツールで再設計した話",
-      "url": "https://zenn.dev/syarihu/articles/ba25f243ca79ed",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 23 Nov 2026 23:00:05 GMT",
       "hatena_count": 0
     },
     {
@@ -6772,20 +6716,6 @@
       "hatena_count": 2
     },
     {
-      "id": "zenn-15ea3706fa",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "S3 Vectors は RAG のベクトルストアに使えるか（40問で検証＋ハイブリッド検索に関する追記）",
-      "url": "https://zenn.dev/shino_i/articles/faeef70f08124c",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 23 Nov 2026 15:57:58 GMT",
-      "hatena_count": 0
-    },
-    {
       "id": "zenn-1637feae6f",
       "source": "sns",
       "sub_source": "Zenn",
@@ -6797,20 +6727,6 @@
         "Zenn"
       ],
       "date": "Mon, 23 Nov 2026 15:08:26 GMT",
-      "hatena_count": 1
-    },
-    {
-      "id": "zenn-cb596d4ea3",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "iOSエンジニアのための OAuth 2.0 + PKCE 入門 ― 仕組みを理解してから、Swiftで実装する",
-      "url": "https://zenn.dev/mobile_app_tec/articles/ios-oauth2-pkce-native-app",
-      "score": 1,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 23 Nov 2026 13:56:35 GMT",
       "hatena_count": 1
     },
     {
@@ -6826,6 +6742,48 @@
       ],
       "date": "Mon, 23 Nov 2026 12:52:08 GMT",
       "hatena_count": 1
+    },
+    {
+      "id": "zenn-1826245ce7",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "AIが作りAIが決める時代に、人は何を「判断」するのか？",
+      "url": "https://zenn.dev/ncdc/articles/a522c2c50022d2",
+      "score": 1,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 23 Nov 2026 08:30:05 GMT",
+      "hatena_count": 1
+    },
+    {
+      "id": "zenn-8103dd0a67",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "WSL ContainersでClaude Codeを隔離する",
+      "url": "https://zenn.dev/kent_code/articles/bef81d6a0b817c",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 23 Nov 2026 07:33:06 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-8c80d51c70",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Googleが実践するSTAMP/STPAとは何か？ 私たちのSREにも使えるのか",
+      "url": "https://zenn.dev/maruloop/articles/7ff108e29741b5",
+      "score": 3,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 23 Nov 2026 06:56:43 GMT",
+      "hatena_count": 3
     },
     {
       "id": "zenn-19d0b5888e",
@@ -6847,13 +6805,13 @@
       "sub_source": "Zenn",
       "title": "著名なRust製OSSをLean 4で形式検証してみたら、めちゃめちゃバグが見つかった話",
       "url": "https://zenn.dev/koukyosyumei/articles/31c8fcf4da45b7",
-      "score": 241,
+      "score": 242,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 23 Nov 2026 05:17:05 GMT",
-      "hatena_count": 241
+      "hatena_count": 242
     },
     {
       "id": "zenn-537a0ffdf3",
@@ -6912,6 +6870,20 @@
       "hatena_count": 575
     },
     {
+      "id": "zenn-b9afa88b6c",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "日本のレシートを自宅PCでOCRする：15構成を実レシート11枚で比べた",
+      "url": "https://zenn.dev/chaki/articles/4545be3475fdb4",
+      "score": 1,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 20 Nov 2026 04:33:15 GMT",
+      "hatena_count": 1
+    },
+    {
       "id": "zenn-1e6b48599b",
       "source": "sns",
       "sub_source": "Zenn",
@@ -6946,13 +6918,41 @@
       "sub_source": "Zenn",
       "title": "なぜ今形式検証なのか",
       "url": "https://zenn.dev/ncdc/articles/dcec80b0c067b0",
-      "score": 138,
+      "score": 139,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 18 Nov 2026 23:00:05 GMT",
-      "hatena_count": 138
+      "hatena_count": 139
+    },
+    {
+      "id": "zenn-b225a7e395",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "tsrs を導入したら oxlint の type-aware linting と typecheck が爆速になった話",
+      "url": "https://zenn.dev/dress_code/articles/6c179ae5129131",
+      "score": 30,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 18 Nov 2026 07:00:06 GMT",
+      "hatena_count": 30
+    },
+    {
+      "id": "zenn-61a940e7c3",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "ローカルLLM入門",
+      "url": "https://zenn.dev/port_inc/articles/ff974c7456f4db",
+      "score": 57,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 17 Nov 2026 07:17:24 GMT",
+      "hatena_count": 57
     },
     {
       "id": "techracho-10e1220cbf",
