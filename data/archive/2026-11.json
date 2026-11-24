@@ -1,7 +1,7 @@
 {
   "month": "2026-11",
   "total_articles": 483,
-  "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (3件)**\n\n1. 相次ぐOSSの脆弱性に、とりあえずクラウドWAF入れるだけでだいぶ違う話+Rootlessコンテナもいいぞ\n\n2. NGINXの複数の脆弱性対策について（CVE-2026-123007、CVE-2026-123633等）\n\n3. Oracle Java の脆弱性対策について(2026年11月)\n\n**AI・機械学習動向 (5件)**\n\n1. 寝てる間に自動で動くAIエージェントを誰でも作れる：10分でわかる pstack 実践ガイド\n\n2. 自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス\n\n3. 【TLA+】AIにテストケースを書かせるな。ルールを書け\n\n4. pstack 完全ガイド ─AIエージェントに雑なコード     を書かせない技術─\n\n5. Rails: DHHがRails World 2026キーノートで「語らなかった」部分とは（翻訳）\n\n**技術トレンド (2件)**\n\n1. 著名なRust製OSSをLean 4で形式検証してみたら、めちゃめちゃバグが見つかった話\n\n2. なぜ今形式検証なのか",
+  "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (3件)**\n\n1. 相次ぐOSSの脆弱性に、とりあえずクラウドWAF入れるだけでだいぶ違う話+Rootlessコンテナもいいぞ\n\n2. NGINXの複数の脆弱性対策について（CVE-2026-123007、CVE-2026-123633等）\n\n3. Oracle Java の脆弱性対策について(2026年11月)\n\n**AI・機械学習動向 (5件)**\n\n1. 寝てる間に自動で動くAIエージェントを誰でも作れる：10分でわかる pstack 実践ガイド\n\n2. 自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス\n\n3. 【TLA+】AIにテストケースを書かせるな。ルールを書け\n\n4. ローカルLLM入門\n\n5. Rails: DHHがRails World 2026キーノートで「語らなかった」部分とは（翻訳）\n\n**技術トレンド (2件)**\n\n1. 著名なRust製OSSをLean 4で形式検証してみたら、めちゃめちゃバグが見つかった話\n\n2. なぜ今形式検証なのか",
   "source_counts": {
     "sns": 411,
     "ipa": 7,
@@ -49,13 +49,13 @@
       "sub_source": "Zenn",
       "title": "著名なRust製OSSをLean 4で形式検証してみたら、めちゃめちゃバグが見つかった話",
       "url": "https://zenn.dev/koukyosyumei/articles/31c8fcf4da45b7",
-      "score": 229,
+      "score": 230,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 23 Nov 2026 05:17:05 GMT",
-      "hatena_count": 229
+      "hatena_count": 230
     },
     {
       "id": "zenn-06b280eb58",
@@ -101,6 +101,20 @@
       "hatena_count": 133
     },
     {
+      "id": "zenn-61a940e7c3",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "ローカルLLM入門",
+      "url": "https://zenn.dev/port_inc/articles/ff974c7456f4db",
+      "score": 57,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 17 Nov 2026 07:17:24 GMT",
+      "hatena_count": 57
+    },
+    {
       "id": "ipa-7afa9de38c",
       "source": "ipa",
       "title": "NGINXの複数の脆弱性対策について（CVE-2026-123007、CVE-2026-123633等）",
@@ -114,20 +128,6 @@
       "severity": "medium",
       "date": "2026-11-19T00:00:00+09:00",
       "hatena_count": 56
-    },
-    {
-      "id": "zenn-657be75576",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "pstack 完全ガイド ─AIエージェントに雑なコード     を書かせない技術─",
-      "url": "https://zenn.dev/karamage/books/50c18e52e7d19e",
-      "score": 50,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 19 Nov 2026 01:52:32 GMT",
-      "hatena_count": 50
     },
     {
       "id": "techracho-4b67c39e4f",
@@ -158,6 +158,20 @@
       "severity": "medium",
       "date": "2026-11-18T00:00:00+09:00",
       "hatena_count": 31
+    },
+    {
+      "id": "zenn-b225a7e395",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "tsrs を導入したら oxlint の type-aware linting と typecheck が爆速になった話",
+      "url": "https://zenn.dev/dress_code/articles/6c179ae5129131",
+      "score": 30,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 18 Nov 2026 07:00:06 GMT",
+      "hatena_count": 30
     },
     {
       "id": "ipa-ee45d6bd49",
@@ -290,21 +304,6 @@
       ],
       "date": "Thu, 05 Nov 2026 08:30:46 +0000",
       "hatena_count": 3
-    },
-    {
-      "id": "techracho-b23695913c",
-      "source": "techracho",
-      "title": "Ruby: C拡張をRuby 4のVM APIに合わせて効率化するためのtips集（翻訳）",
-      "url": "https://techracho.bpsinc.jp/hachi8833/2026_11_02/160896",
-      "score": 2,
-      "author": "Techracho",
-      "tags": [
-        "Ruby",
-        "Rails",
-        "日本語"
-      ],
-      "date": "Mon, 02 Nov 2026 08:30:18 +0000",
-      "hatena_count": 2
     }
   ],
   "security_highlights": [
