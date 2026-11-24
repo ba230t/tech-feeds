@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T02:34:35.006057+00:00",
+  "updated_at": "2026-11-24T03:06:26.347728+00:00",
   "count": 500,
   "items": [
     {
@@ -6777,13 +6777,13 @@
       "sub_source": "Zenn",
       "title": "著名なRust製OSSをLean 4で形式検証してみたら、めちゃめちゃバグが見つかった話",
       "url": "https://zenn.dev/koukyosyumei/articles/31c8fcf4da45b7",
-      "score": 210,
+      "score": 220,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 23 Nov 2026 05:17:05 GMT",
-      "hatena_count": 210
+      "hatena_count": 220
     },
     {
       "id": "zenn-5072e4e485",
@@ -6889,13 +6889,13 @@
       "sub_source": "Zenn",
       "title": "寝てる間に自動で動くAIエージェントを誰でも作れる：10分でわかる pstack 実践ガイド",
       "url": "https://zenn.dev/canly/articles/ca6875cd79539f",
-      "score": 572,
+      "score": 574,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 20 Nov 2026 09:04:40 GMT",
-      "hatena_count": 572
+      "hatena_count": 574
     },
     {
       "id": "zenn-1e6b48599b",
@@ -6910,20 +6910,6 @@
       ],
       "date": "Thu, 19 Nov 2026 07:28:27 GMT",
       "hatena_count": 322
-    },
-    {
-      "id": "zenn-657be75576",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "pstack 完全ガイド ─AIエージェントに雑なコード     を書かせない技術─",
-      "url": "https://zenn.dev/karamage/books/50c18e52e7d19e",
-      "score": 50,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 19 Nov 2026 01:52:32 GMT",
-      "hatena_count": 50
     },
     {
       "id": "zenn-06b280eb58",
@@ -6946,13 +6932,27 @@
       "sub_source": "Zenn",
       "title": "なぜ今形式検証なのか",
       "url": "https://zenn.dev/ncdc/articles/dcec80b0c067b0",
-      "score": 128,
+      "score": 132,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 18 Nov 2026 23:00:05 GMT",
-      "hatena_count": 128
+      "hatena_count": 132
+    },
+    {
+      "id": "zenn-61a940e7c3",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "ローカルLLM入門",
+      "url": "https://zenn.dev/port_inc/articles/ff974c7456f4db",
+      "score": 57,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 17 Nov 2026 07:17:24 GMT",
+      "hatena_count": 57
     },
     {
       "id": "techracho-6ad2ba5da6",
