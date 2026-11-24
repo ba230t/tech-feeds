@@ -21,13 +21,13 @@
       "sub_source": "Zenn",
       "title": "寝てる間に自動で動くAIエージェントを誰でも作れる：10分でわかる pstack 実践ガイド",
       "url": "https://zenn.dev/canly/articles/ca6875cd79539f",
-      "score": 575,
+      "score": 576,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 20 Nov 2026 09:04:40 GMT",
-      "hatena_count": 575
+      "hatena_count": 576
     },
     {
       "id": "zenn-1e6b48599b",
@@ -92,13 +92,13 @@
       "sub_source": "Zenn",
       "title": "なぜ今形式検証なのか",
       "url": "https://zenn.dev/ncdc/articles/dcec80b0c067b0",
-      "score": 139,
+      "score": 140,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 18 Nov 2026 23:00:05 GMT",
-      "hatena_count": 139
+      "hatena_count": 140
     },
     {
       "id": "ipa-7afa9de38c",
@@ -196,13 +196,13 @@
       "sub_source": "Zenn",
       "title": "JSConf JP 2026 公開資料・Xアカウントリンクまとめ",
       "url": "https://zenn.dev/h_yoshikawa0724/articles/2026-11-23-jsconf-jp-2026",
-      "score": 10,
+      "score": 11,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 23 Nov 2026 05:38:39 GMT",
-      "hatena_count": 10
+      "hatena_count": 11
     },
     {
       "id": "zenn-3ee1c2d061",
@@ -278,6 +278,21 @@
       "hatena_count": 2
     },
     {
+      "id": "techracho-10e1220cbf",
+      "source": "techracho",
+      "title": "Rails: 37signalsのコード品質を支える独自のエンジニアリング戦略（翻訳）",
+      "url": "https://techracho.bpsinc.jp/hachi8833/2026_11_24/161424",
+      "score": 2,
+      "author": "Techracho",
+      "tags": [
+        "Ruby",
+        "Rails",
+        "日本語"
+      ],
+      "date": "Tue, 24 Nov 2026 08:30:04 +0000",
+      "hatena_count": 2
+    },
+    {
       "id": "ipa-af5a912847",
       "source": "ipa",
       "title": "VMware製品の脆弱性対策について(CVE-2026-123890)",
@@ -290,21 +305,6 @@
       ],
       "severity": "medium",
       "date": "2026-11-24T00:00:00+09:00",
-      "hatena_count": 1
-    },
-    {
-      "id": "ipa-f9b4febdfb",
-      "source": "ipa",
-      "title": "PHPの脆弱性対策について（2026年11月）",
-      "url": "https://www.ipa.go.jp/security/security-alert/2026/alert20261120.html",
-      "score": 1,
-      "author": "IPA",
-      "tags": [
-        "IPA",
-        "セキュリティ"
-      ],
-      "severity": "medium",
-      "date": "2026-11-20T00:00:00+09:00",
       "hatena_count": 1
     }
   ],
