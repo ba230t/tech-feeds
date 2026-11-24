@@ -176,6 +176,20 @@
       "hatena_count": 14
     },
     {
+      "id": "zenn-19d0b5888e",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "JSConf JP 2026 公開資料・Xアカウントリンクまとめ",
+      "url": "https://zenn.dev/h_yoshikawa0724/articles/2026-11-23-jsconf-jp-2026",
+      "score": 13,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 23 Nov 2026 05:38:39 GMT",
+      "hatena_count": 13
+    },
+    {
       "id": "jpcert-30cd0d7475",
       "source": "jpcert",
       "title": "注意喚起: PHPにおける複数の脆弱性（CVE-2026-109618、CVE-2026-109619）に関する注意喚起  (更新)",
@@ -191,20 +205,6 @@
       "hatena_count": 12
     },
     {
-      "id": "zenn-19d0b5888e",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "JSConf JP 2026 公開資料・Xアカウントリンクまとめ",
-      "url": "https://zenn.dev/h_yoshikawa0724/articles/2026-11-23-jsconf-jp-2026",
-      "score": 12,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 23 Nov 2026 05:38:39 GMT",
-      "hatena_count": 12
-    },
-    {
       "id": "zenn-3ee1c2d061",
       "source": "sns",
       "sub_source": "Zenn",
@@ -217,6 +217,21 @@
       ],
       "date": "Sat, 21 Nov 2026 15:14:13 GMT",
       "hatena_count": 4
+    },
+    {
+      "id": "techracho-10e1220cbf",
+      "source": "techracho",
+      "title": "Rails: 37signalsのコード品質を支える独自のエンジニアリング戦略（翻訳）",
+      "url": "https://techracho.bpsinc.jp/hachi8833/2026_11_24/161424",
+      "score": 3,
+      "author": "Techracho",
+      "tags": [
+        "Ruby",
+        "Rails",
+        "日本語"
+      ],
+      "date": "Tue, 24 Nov 2026 08:30:04 +0000",
+      "hatena_count": 3
     },
     {
       "id": "techracho-511973acbf",
@@ -275,21 +290,6 @@
         "Zenn"
       ],
       "date": "Mon, 23 Nov 2026 17:37:18 GMT",
-      "hatena_count": 2
-    },
-    {
-      "id": "techracho-10e1220cbf",
-      "source": "techracho",
-      "title": "Rails: 37signalsのコード品質を支える独自のエンジニアリング戦略（翻訳）",
-      "url": "https://techracho.bpsinc.jp/hachi8833/2026_11_24/161424",
-      "score": 2,
-      "author": "Techracho",
-      "tags": [
-        "Ruby",
-        "Rails",
-        "日本語"
-      ],
-      "date": "Tue, 24 Nov 2026 08:30:04 +0000",
       "hatena_count": 2
     },
     {
