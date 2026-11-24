@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T23:04:21.875895+00:00",
+  "updated_at": "2026-11-24T23:32:58.184293+00:00",
   "count": 500,
   "items": [
     {
@@ -6671,6 +6671,48 @@
       "hatena_count": 38
     },
     {
+      "id": "zenn-f0ee1cb473",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "MCPの記録ツールを追記だけで作ると、訂正のたびに重複が残る。AIは「消せない」と正直に言うが、集計は間違える",
+      "url": "https://zenn.dev/kentaro_tak/articles/mcp-logger-append-only-corrections",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 24 Nov 2026 14:04:27 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-0ea4aa436e",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Copilot Studioのエージェント開発をClaude Codeにどこまで任せられるか試した",
+      "url": "https://zenn.dev/upgradetech/articles/a9a1637d3071c1",
+      "score": 1,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 24 Nov 2026 09:24:58 GMT",
+      "hatena_count": 1
+    },
+    {
+      "id": "zenn-264e7a6cd2",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "JSConf JP 2026 参加ログ",
+      "url": "https://zenn.dev/aishift/articles/b6dbe1c0acc505",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 24 Nov 2026 08:53:31 GMT",
+      "hatena_count": 0
+    },
+    {
       "id": "zenn-aa865468e1",
       "source": "sns",
       "sub_source": "Zenn",
@@ -6683,6 +6725,20 @@
       ],
       "date": "Tue, 24 Nov 2026 08:51:41 GMT",
       "hatena_count": 0
+    },
+    {
+      "id": "zenn-34af77c367",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Claude Code の /ship を図解する",
+      "url": "https://zenn.dev/peoplex_blog/articles/claude-code-ship",
+      "score": 1,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 24 Nov 2026 06:30:06 GMT",
+      "hatena_count": 1
     },
     {
       "id": "zenn-45778b8a56",
@@ -6755,34 +6811,6 @@
       "hatena_count": 0
     },
     {
-      "id": "zenn-3afbce3141",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "コーディングエージェントが変えたOSS開発のプロセスと喜び",
-      "url": "https://zenn.dev/cybergarage/articles/5ee7ac6b3b0565",
-      "score": 2,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 23 Nov 2026 17:37:18 GMT",
-      "hatena_count": 2
-    },
-    {
-      "id": "zenn-15ea3706fa",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "S3 Vectors は RAG のベクトルストアに使えるか（40問で検証＋ハイブリッド検索に関する追記）",
-      "url": "https://zenn.dev/shino_i/articles/faeef70f08124c",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 23 Nov 2026 15:57:58 GMT",
-      "hatena_count": 0
-    },
-    {
       "id": "zenn-1637feae6f",
       "source": "sns",
       "sub_source": "Zenn",
@@ -6797,46 +6825,18 @@
       "hatena_count": 1
     },
     {
-      "id": "zenn-cb596d4ea3",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "iOSエンジニアのための OAuth 2.0 + PKCE 入門 ― 仕組みを理解してから、Swiftで実装する",
-      "url": "https://zenn.dev/mobile_app_tec/articles/ios-oauth2-pkce-native-app",
-      "score": 1,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 23 Nov 2026 13:56:35 GMT",
-      "hatena_count": 1
-    },
-    {
-      "id": "zenn-6019d3215b",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "【技術書典21】17人の開発者と作った合同誌『AI キャラクター開発 十人十色』、会場50部が完売しました！！！",
-      "url": "https://zenn.dev/mei999/articles/33f2965b3c021c",
-      "score": 1,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 23 Nov 2026 12:52:08 GMT",
-      "hatena_count": 1
-    },
-    {
       "id": "zenn-19d0b5888e",
       "source": "sns",
       "sub_source": "Zenn",
       "title": "JSConf JP 2026 公開資料・Xアカウントリンクまとめ",
       "url": "https://zenn.dev/h_yoshikawa0724/articles/2026-11-23-jsconf-jp-2026",
-      "score": 13,
+      "score": 14,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 23 Nov 2026 05:38:39 GMT",
-      "hatena_count": 13
+      "hatena_count": 14
     },
     {
       "id": "zenn-5ee0680a16",
@@ -6956,7 +6956,7 @@
       "source": "techracho",
       "title": "Rails: 37signalsのコード品質を支える独自のエンジニアリング戦略（翻訳）",
       "url": "https://techracho.bpsinc.jp/hachi8833/2026_11_24/161424",
-      "score": 18,
+      "score": 24,
       "author": "Techracho",
       "tags": [
         "Ruby",
@@ -6964,7 +6964,7 @@
         "日本語"
       ],
       "date": "Tue, 24 Nov 2026 08:30:04 +0000",
-      "hatena_count": 18
+      "hatena_count": 24
     },
     {
       "id": "techracho-6ad2ba5da6",
