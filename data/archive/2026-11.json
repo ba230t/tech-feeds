@@ -21,13 +21,13 @@
       "sub_source": "Zenn",
       "title": "寝てる間に自動で動くAIエージェントを誰でも作れる：10分でわかる pstack 実践ガイド",
       "url": "https://zenn.dev/canly/articles/ca6875cd79539f",
-      "score": 571,
+      "score": 572,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 20 Nov 2026 09:04:40 GMT",
-      "hatena_count": 571
+      "hatena_count": 572
     },
     {
       "id": "zenn-1e6b48599b",
@@ -35,13 +35,13 @@
       "sub_source": "Zenn",
       "title": "自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス",
       "url": "https://zenn.dev/nttdata_tech/articles/9562962cc181a1",
-      "score": 321,
+      "score": 322,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 19 Nov 2026 07:28:27 GMT",
-      "hatena_count": 321
+      "hatena_count": 322
     },
     {
       "id": "zenn-06b280eb58",
@@ -64,13 +64,13 @@
       "sub_source": "Zenn",
       "title": "著名なRust製OSSをLean 4で形式検証してみたら、めちゃめちゃバグが見つかった話",
       "url": "https://zenn.dev/koukyosyumei/articles/31c8fcf4da45b7",
-      "score": 185,
+      "score": 199,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 23 Nov 2026 05:17:05 GMT",
-      "hatena_count": 185
+      "hatena_count": 199
     },
     {
       "id": "zenn-97c7090c40",
@@ -92,13 +92,13 @@
       "sub_source": "Zenn",
       "title": "なぜ今形式検証なのか",
       "url": "https://zenn.dev/ncdc/articles/dcec80b0c067b0",
-      "score": 124,
+      "score": 126,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 18 Nov 2026 23:00:05 GMT",
-      "hatena_count": 124
+      "hatena_count": 126
     },
     {
       "id": "ipa-7afa9de38c",
@@ -205,6 +205,20 @@
       "hatena_count": 12
     },
     {
+      "id": "zenn-8c80d51c70",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Googleが実践するSTAMP/STPAとは何か？ 私たちのSREにも使えるのか",
+      "url": "https://zenn.dev/maruloop/articles/7ff108e29741b5",
+      "score": 3,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 23 Nov 2026 06:56:43 GMT",
+      "hatena_count": 3
+    },
+    {
       "id": "zenn-19d0b5888e",
       "source": "sns",
       "sub_source": "Zenn",
@@ -276,20 +290,6 @@
       ],
       "date": "Thu, 05 Nov 2026 08:30:46 +0000",
       "hatena_count": 3
-    },
-    {
-      "id": "zenn-8c80d51c70",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Googleが実践するSTAMP/STPAとは何か？ 私たちのSREにも使えるのか",
-      "url": "https://zenn.dev/maruloop/articles/7ff108e29741b5",
-      "score": 2,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 23 Nov 2026 06:56:43 GMT",
-      "hatena_count": 2
     },
     {
       "id": "techracho-b23695913c",
