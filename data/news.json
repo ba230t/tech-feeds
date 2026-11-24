@@ -1,7 +1,49 @@
 {
-  "updated_at": "2026-11-24T20:05:22.967000+00:00",
+  "updated_at": "2026-11-24T20:33:41.729772+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "qiita-0fed6332c7",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "ECR/S3からのimage pullの仕組みを深掘りする",
+      "url": "https://qiita.com/har1101/items/a6e5f0d2039bd0932511?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-25T00:28:45+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-4106961272",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "cdkd deploy実行した時のリソースごとのデプロイ時間見たいなぁ...ん？見れるんかいっ！",
+      "url": "https://qiita.com/kuracchi_enj/items/2e911d5a8b1253dd4b6e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-24T22:46:10+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-a8932eec13",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "心理的安全性の4象限とは？ サムい職場・キツい職場・ヌルい職場 ― 石井遼介に学ぶ日本の現場のつくり方",
+      "url": "https://qiita.com/teppei19980914/items/9f68a1ce1aebd1944f76?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-24T18:48:47+09:00",
+      "hatena_count": 0
+    },
     {
       "id": "qiita-9ded9ae0ed",
       "source": "sns",
@@ -28,6 +70,20 @@
         "Qiita"
       ],
       "date": "2026-11-24T12:41:09+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-55c89ea7c5",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "生成AI着せ替え体験 2026秋田編の振り返り＠JAWS FESTA 2026 in AKITA",
+      "url": "https://qiita.com/riz3f7/items/0cd185d945286ebe9192?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-24T12:17:14+09:00",
       "hatena_count": 0
     },
     {
@@ -84,6 +140,34 @@
         "Qiita"
       ],
       "date": "2026-11-24T10:47:09+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-81328d1afa",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "技術書典21（オフライン開催）に参加しました！",
+      "url": "https://qiita.com/koyo52611798/items/cc0af9346c8ca5b56390?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-24T10:04:40+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-75fc033a53",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "Oracle AI Database Agent Engineで、在庫問い合わせエージェントを作ってみた",
+      "url": "https://qiita.com/sy10/items/e998ef0b69902c3bd5bb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-24T10:00:11+09:00",
       "hatena_count": 0
     },
     {
@@ -184,6 +268,20 @@
       ],
       "date": "2026-11-23T22:41:11+09:00",
       "severity": "critical",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-27fdd4e735",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "agf導入でAIエージェントのセッション検索、クラウド実行では0件になった理由",
+      "url": "https://qiita.com/kai_kou/items/2925b5388cc7724d50c9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-23T20:10:28+09:00",
       "hatena_count": 0
     },
     {
@@ -6303,107 +6401,6 @@
       "hatena_count": 0
     },
     {
-      "id": "jpcert-c66d830b6b",
-      "source": "jpcert",
-      "title": "Weekly Report: 複数のApple製品に脆弱性",
-      "url": "https://www.jpcert.or.jp/wr/2026/wr261105.html#13",
-      "score": 0,
-      "author": "JPCERT/CC",
-      "tags": [
-        "JPCERT",
-        "セキュリティ"
-      ],
-      "severity": "info",
-      "date": "2026-11-05T09:52+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "jpcert-caf75d3e35",
-      "source": "jpcert",
-      "title": "Weekly Report: Rubyに複数の脆弱性",
-      "url": "https://www.jpcert.or.jp/wr/2026/wr261105.html#14",
-      "score": 0,
-      "author": "JPCERT/CC",
-      "tags": [
-        "JPCERT",
-        "セキュリティ"
-      ],
-      "severity": "info",
-      "date": "2026-11-05T09:52+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "jpcert-6c9fd472e0",
-      "source": "jpcert",
-      "title": "Weekly Report: BrotliのC言語実装における境界外書き込みの脆弱性（CVE-2026-111497）に関する注意喚起",
-      "url": "https://www.jpcert.or.jp/wr/2026/wr261105.html#15",
-      "score": 0,
-      "author": "JPCERT/CC",
-      "tags": [
-        "JPCERT",
-        "セキュリティ"
-      ],
-      "severity": "high",
-      "date": "2026-11-05T09:52+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-f0b9c62d1d",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "2026年11月5日 今日のQiitaトレンド記事をポッドキャストで聴こう！",
-      "url": "https://qiita.com/ennagara128/items/bec153471d577eb808ea?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-05T09:44:16+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-f6c5cc509d",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "Could not find ... in locally installed gems Run bundle install ... to install missing gems. エラー",
-      "url": "https://qiita.com/yukmaru/items/3ebed13a96d8a442dd77?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-05T09:26:24+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-a0200c593a",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "【マンガ】はじめてのインデータベースAI～ベクトル検索・RAGからAIエージェントまで～（コミカライズ版）",
-      "url": "https://qiita.com/yuji-arakawa/items/1c6d0ae4400ca2b4bae3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-05T08:04:01+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-e1e3e5c4f8",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "New Relic公式MCPをChatGPTから使いたくて、自分専用Pluginを構築できるOSSを作った",
-      "url": "https://qiita.com/harupython/items/79e3db64a02f705f9612?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-05T06:55:39+09:00",
-      "hatena_count": 0
-    },
-    {
       "id": "ipa-ee45d6bd49",
       "source": "ipa",
       "title": "更新：PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell)",
@@ -6959,7 +6956,7 @@
       "source": "techracho",
       "title": "Rails: 37signalsのコード品質を支える独自のエンジニアリング戦略（翻訳）",
       "url": "https://techracho.bpsinc.jp/hachi8833/2026_11_24/161424",
-      "score": 3,
+      "score": 5,
       "author": "Techracho",
       "tags": [
         "Ruby",
@@ -6967,7 +6964,7 @@
         "日本語"
       ],
       "date": "Tue, 24 Nov 2026 08:30:04 +0000",
-      "hatena_count": 3
+      "hatena_count": 5
     },
     {
       "id": "techracho-6ad2ba5da6",

@@ -3,16 +3,16 @@
   "total_articles": 483,
   "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (4件)**\n\n1. 相次ぐOSSの脆弱性に、とりあえずクラウドWAF入れるだけでだいぶ違う話+Rootlessコンテナもいいぞ\n\n2. NGINXの複数の脆弱性対策について（CVE-2026-123007、CVE-2026-123633等）\n\n3. Oracle Java の脆弱性対策について(2026年11月)\n\n4. 更新：PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell)\n\n**AI・機械学習動向 (4件)**\n\n1. 寝てる間に自動で動くAIエージェントを誰でも作れる：10分でわかる pstack 実践ガイド\n\n2. 自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス\n\n3. 【TLA+】AIにテストケースを書かせるな。ルールを書け\n\n4. Rails: DHHがRails World 2026キーノートで「語らなかった」部分とは（翻訳）\n\n**技術トレンド (2件)**\n\n1. 著名なRust製OSSをLean 4で形式検証してみたら、めちゃめちゃバグが見つかった話\n\n2. なぜ今形式検証なのか",
   "source_counts": {
-    "sns": 411,
+    "sns": 414,
     "ipa": 7,
-    "jpcert": 55,
+    "jpcert": 52,
     "techracho": 10
   },
   "severity_counts": {
     "medium": 7,
     "critical": 2,
-    "high": 14,
-    "info": 52
+    "high": 13,
+    "info": 50
   },
   "top_articles": [
     {
@@ -205,6 +205,21 @@
       "hatena_count": 12
     },
     {
+      "id": "techracho-10e1220cbf",
+      "source": "techracho",
+      "title": "Rails: 37signalsのコード品質を支える独自のエンジニアリング戦略（翻訳）",
+      "url": "https://techracho.bpsinc.jp/hachi8833/2026_11_24/161424",
+      "score": 5,
+      "author": "Techracho",
+      "tags": [
+        "Ruby",
+        "Rails",
+        "日本語"
+      ],
+      "date": "Tue, 24 Nov 2026 08:30:04 +0000",
+      "hatena_count": 5
+    },
+    {
       "id": "zenn-3ee1c2d061",
       "source": "sns",
       "sub_source": "Zenn",
@@ -217,21 +232,6 @@
       ],
       "date": "Sat, 21 Nov 2026 15:14:13 GMT",
       "hatena_count": 4
-    },
-    {
-      "id": "techracho-10e1220cbf",
-      "source": "techracho",
-      "title": "Rails: 37signalsのコード品質を支える独自のエンジニアリング戦略（翻訳）",
-      "url": "https://techracho.bpsinc.jp/hachi8833/2026_11_24/161424",
-      "score": 3,
-      "author": "Techracho",
-      "tags": [
-        "Ruby",
-        "Rails",
-        "日本語"
-      ],
-      "date": "Tue, 24 Nov 2026 08:30:04 +0000",
-      "hatena_count": 3
     },
     {
       "id": "techracho-511973acbf",
@@ -532,21 +532,6 @@
       ],
       "date": "2026-11-08T18:00:22+09:00",
       "severity": "high",
-      "hatena_count": 0
-    },
-    {
-      "id": "jpcert-6c9fd472e0",
-      "source": "jpcert",
-      "title": "Weekly Report: BrotliのC言語実装における境界外書き込みの脆弱性（CVE-2026-111497）に関する注意喚起",
-      "url": "https://www.jpcert.or.jp/wr/2026/wr261105.html#15",
-      "score": 0,
-      "author": "JPCERT/CC",
-      "tags": [
-        "JPCERT",
-        "セキュリティ"
-      ],
-      "severity": "high",
-      "date": "2026-11-05T09:52+09:00",
       "hatena_count": 0
     }
   ]
