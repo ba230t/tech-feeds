@@ -161,6 +161,21 @@
       "hatena_count": 21
     },
     {
+      "id": "techracho-10e1220cbf",
+      "source": "techracho",
+      "title": "Rails: 37signalsのコード品質を支える独自のエンジニアリング戦略（翻訳）",
+      "url": "https://techracho.bpsinc.jp/hachi8833/2026_11_24/161424",
+      "score": 18,
+      "author": "Techracho",
+      "tags": [
+        "Ruby",
+        "Rails",
+        "日本語"
+      ],
+      "date": "Tue, 24 Nov 2026 08:30:04 +0000",
+      "hatena_count": 18
+    },
+    {
       "id": "ipa-155c365440",
       "source": "ipa",
       "title": "【事前準備のお願い】PHPのセキュリティリリース公開予定について（11月）",
@@ -203,21 +218,6 @@
       "severity": "high",
       "date": "2026-11-20T13:40+09:00",
       "hatena_count": 12
-    },
-    {
-      "id": "techracho-10e1220cbf",
-      "source": "techracho",
-      "title": "Rails: 37signalsのコード品質を支える独自のエンジニアリング戦略（翻訳）",
-      "url": "https://techracho.bpsinc.jp/hachi8833/2026_11_24/161424",
-      "score": 6,
-      "author": "Techracho",
-      "tags": [
-        "Ruby",
-        "Rails",
-        "日本語"
-      ],
-      "date": "Tue, 24 Nov 2026 08:30:04 +0000",
-      "hatena_count": 6
     },
     {
       "id": "zenn-3ee1c2d061",
