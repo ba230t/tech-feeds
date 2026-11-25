@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T01:34:35.489736+00:00",
+  "updated_at": "2026-11-25T02:07:48.904328+00:00",
   "count": 500,
   "items": [
     {
@@ -6844,13 +6844,13 @@
       "sub_source": "Zenn",
       "title": "著名なRust製OSSをLean 4で形式検証してみたら、めちゃめちゃバグが見つかった話",
       "url": "https://zenn.dev/koukyosyumei/articles/31c8fcf4da45b7",
-      "score": 248,
+      "score": 249,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 23 Nov 2026 05:17:05 GMT",
-      "hatena_count": 248
+      "hatena_count": 249
     },
     {
       "id": "zenn-537a0ffdf3",
@@ -6928,14 +6928,14 @@
       "sub_source": "Zenn",
       "title": "相次ぐOSSの脆弱性に、とりあえずクラウドWAF入れるだけでだいぶ違う話+Rootlessコンテナもいいぞ",
       "url": "https://zenn.dev/kusuke/articles/98e178e6824cac",
-      "score": 200,
+      "score": 201,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 19 Nov 2026 01:34:24 GMT",
       "severity": "high",
-      "hatena_count": 200
+      "hatena_count": 201
     },
     {
       "id": "zenn-15458fc334",
@@ -6956,7 +6956,7 @@
       "source": "techracho",
       "title": "Rails: 37signalsのコード品質を支える独自のエンジニアリング戦略（翻訳）",
       "url": "https://techracho.bpsinc.jp/hachi8833/2026_11_24/161424",
-      "score": 34,
+      "score": 38,
       "author": "Techracho",
       "tags": [
         "Ruby",
@@ -6964,7 +6964,7 @@
         "日本語"
       ],
       "date": "Tue, 24 Nov 2026 08:30:04 +0000",
-      "hatena_count": 34
+      "hatena_count": 38
     },
     {
       "id": "techracho-6ad2ba5da6",
