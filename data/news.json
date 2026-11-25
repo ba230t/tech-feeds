@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T12:37:44.895990+00:00",
+  "updated_at": "2026-11-25T13:05:54.099548+00:00",
   "count": 500,
   "items": [
     {
@@ -6706,13 +6706,13 @@
       "sub_source": "Zenn",
       "title": "マーダーミステリーのシナリオを形式手法で検証しようとしたら、バグと曖昧さが見つかった",
       "url": "https://zenn.dev/henteko/articles/ed8d1458246d7a",
-      "score": 29,
+      "score": 50,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 24 Nov 2026 16:45:47 GMT",
-      "hatena_count": 29
+      "hatena_count": 50
     },
     {
       "id": "zenn-58ac9b9ffc",
@@ -6762,13 +6762,13 @@
       "sub_source": "Zenn",
       "title": "公表資料から読む2026年10〜11月の情報漏えい23件：侵入経路はどこだったのか",
       "url": "https://zenn.dev/shirochan/articles/f579abb8be4b1e",
-      "score": 0,
+      "score": 1,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 24 Nov 2026 11:22:50 GMT",
-      "hatena_count": 0
+      "hatena_count": 1
     },
     {
       "id": "zenn-0ea4aa436e",
@@ -6832,13 +6832,13 @@
       "sub_source": "Zenn",
       "title": "Claude Code の /ship を図解する",
       "url": "https://zenn.dev/peoplex_blog/articles/claude-code-ship",
-      "score": 21,
+      "score": 25,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 24 Nov 2026 06:30:06 GMT",
-      "hatena_count": 21
+      "hatena_count": 25
     },
     {
       "id": "zenn-89c61f23bd",
@@ -6846,13 +6846,13 @@
       "sub_source": "Zenn",
       "title": "Claude Code を5〜8個並べても迷わないように、自分用のダッシュボードをバイブコーディングで作った",
       "url": "https://zenn.dev/nexta_/articles/a3ff76a9f98f1c",
-      "score": 22,
+      "score": 31,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 24 Nov 2026 02:30:05 GMT",
-      "hatena_count": 22
+      "hatena_count": 31
     },
     {
       "id": "zenn-3afbce3141",
@@ -6930,13 +6930,13 @@
       "sub_source": "Zenn",
       "title": "寝てる間に自動で動くAIエージェントを誰でも作れる：10分でわかる pstack 実践ガイド",
       "url": "https://zenn.dev/canly/articles/ca6875cd79539f",
-      "score": 575,
+      "score": 576,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 20 Nov 2026 09:04:40 GMT",
-      "hatena_count": 575
+      "hatena_count": 576
     },
     {
       "id": "techracho-1b08ae4a11",

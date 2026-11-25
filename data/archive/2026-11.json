@@ -21,13 +21,13 @@
       "sub_source": "Zenn",
       "title": "寝てる間に自動で動くAIエージェントを誰でも作れる：10分でわかる pstack 実践ガイド",
       "url": "https://zenn.dev/canly/articles/ca6875cd79539f",
-      "score": 575,
+      "score": 576,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 20 Nov 2026 09:04:40 GMT",
-      "hatena_count": 575
+      "hatena_count": 576
     },
     {
       "id": "zenn-5ee0680a16",
@@ -57,6 +57,20 @@
       "severity": "medium",
       "date": "2026-11-19T00:00:00+09:00",
       "hatena_count": 56
+    },
+    {
+      "id": "zenn-2c95d41a68",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "マーダーミステリーのシナリオを形式手法で検証しようとしたら、バグと曖昧さが見つかった",
+      "url": "https://zenn.dev/henteko/articles/ed8d1458246d7a",
+      "score": 50,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 24 Nov 2026 16:45:47 GMT",
+      "hatena_count": 50
     },
     {
       "id": "techracho-10e1220cbf",
@@ -104,32 +118,32 @@
       "hatena_count": 31
     },
     {
-      "id": "zenn-2c95d41a68",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "マーダーミステリーのシナリオを形式手法で検証しようとしたら、バグと曖昧さが見つかった",
-      "url": "https://zenn.dev/henteko/articles/ed8d1458246d7a",
-      "score": 29,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 24 Nov 2026 16:45:47 GMT",
-      "hatena_count": 29
-    },
-    {
       "id": "zenn-89c61f23bd",
       "source": "sns",
       "sub_source": "Zenn",
       "title": "Claude Code を5〜8個並べても迷わないように、自分用のダッシュボードをバイブコーディングで作った",
       "url": "https://zenn.dev/nexta_/articles/a3ff76a9f98f1c",
-      "score": 22,
+      "score": 31,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 24 Nov 2026 02:30:05 GMT",
-      "hatena_count": 22
+      "hatena_count": 31
+    },
+    {
+      "id": "zenn-34af77c367",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Claude Code の /ship を図解する",
+      "url": "https://zenn.dev/peoplex_blog/articles/claude-code-ship",
+      "score": 25,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 24 Nov 2026 06:30:06 GMT",
+      "hatena_count": 25
     },
     {
       "id": "ipa-ee45d6bd49",
@@ -144,20 +158,6 @@
       ],
       "severity": "medium",
       "date": "2026-11-02T00:00:00+09:00",
-      "hatena_count": 21
-    },
-    {
-      "id": "zenn-34af77c367",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Claude Code の /ship を図解する",
-      "url": "https://zenn.dev/peoplex_blog/articles/claude-code-ship",
-      "score": 21,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 24 Nov 2026 06:30:06 GMT",
       "hatena_count": 21
     },
     {
