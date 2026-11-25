@@ -49,13 +49,13 @@
       "sub_source": "Zenn",
       "title": "マーダーミステリーのシナリオを形式手法で検証しようとしたら、バグと曖昧さが見つかった",
       "url": "https://zenn.dev/henteko/articles/ed8d1458246d7a",
-      "score": 64,
+      "score": 75,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 24 Nov 2026 16:45:47 GMT",
-      "hatena_count": 64
+      "hatena_count": 75
     },
     {
       "id": "ipa-7afa9de38c",
@@ -93,13 +93,13 @@
       "sub_source": "Zenn",
       "title": "Claude Code を5〜8個並べても迷わないように、自分用のダッシュボードをバイブコーディングで作った",
       "url": "https://zenn.dev/nexta_/articles/a3ff76a9f98f1c",
-      "score": 34,
+      "score": 35,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 24 Nov 2026 02:30:05 GMT",
-      "hatena_count": 34
+      "hatena_count": 35
     },
     {
       "id": "techracho-4b67c39e4f",
@@ -137,13 +137,13 @@
       "sub_source": "Zenn",
       "title": "Claude Code の /ship を図解する",
       "url": "https://zenn.dev/peoplex_blog/articles/claude-code-ship",
-      "score": 26,
+      "score": 27,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 24 Nov 2026 06:30:06 GMT",
-      "hatena_count": 26
+      "hatena_count": 27
     },
     {
       "id": "ipa-ee45d6bd49",
@@ -292,17 +292,17 @@
       "hatena_count": 2
     },
     {
-      "id": "zenn-12364f8de6",
+      "id": "zenn-3afbce3141",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "エンジニア20人の組織を、デザイナー1人と AI で支える仕組み",
-      "url": "https://zenn.dev/rimo/articles/c25919207b1cde",
+      "title": "コーディングエージェントが変えたOSS開発のプロセスと喜び",
+      "url": "https://zenn.dev/cybergarage/articles/5ee7ac6b3b0565",
       "score": 2,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Tue, 24 Nov 2026 08:24:00 GMT",
+      "date": "Mon, 23 Nov 2026 17:37:18 GMT",
       "hatena_count": 2
     }
   ],
