@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T05:05:51.305283+00:00",
+  "updated_at": "2026-11-25T05:33:21.155489+00:00",
   "count": 500,
   "items": [
     {
@@ -6671,17 +6671,74 @@
       "hatena_count": 38
     },
     {
-      "id": "zenn-f0ee1cb473",
+      "id": "zenn-c18190d52e",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "MCPの記録ツールを追記だけで作ると、訂正のたびに重複が残る。AIは「消せない」と正直に言うが、集計は間違える",
-      "url": "https://zenn.dev/kentaro_tak/articles/mcp-logger-append-only-corrections",
+      "title": "Corpus2Skillに近づけた「階層ナビゲーション型RAG」と、ベクトルDB版RAGを「どの段階で失敗したか」まで比べてみた",
+      "url": "https://zenn.dev/aiforall/articles/133752ce2d97ad",
       "score": 0,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Tue, 24 Nov 2026 14:04:27 GMT",
+      "date": "Wed, 25 Nov 2026 02:35:47 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-36db506c59",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Agentforce エージェントから外部 MCP サーバー（Asana）のツールを使う",
+      "url": "https://zenn.dev/hrendoh/articles/agentforce-external-mcp-asana",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 25 Nov 2026 01:41:04 GMT",
+      "severity": "critical",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-ebeaaaf361",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Personal Agent Protocol (Poppy) が解く問題と仕組み",
+      "url": "https://zenn.dev/sierra_japan/articles/0b9ba590232345",
+      "score": 2,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 24 Nov 2026 23:30:05 GMT",
+      "hatena_count": 2
+    },
+    {
+      "id": "zenn-cd67c8ba18",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "モデルの性能が出ないのは AI ゲートウェイのせいかもしれない",
+      "url": "https://zenn.dev/google_cloud_jp/articles/7e29a9acf06557",
+      "score": 1,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 24 Nov 2026 22:22:23 GMT",
+      "hatena_count": 1
+    },
+    {
+      "id": "zenn-2c95d41a68",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "マーダーミステリーのシナリオを形式手法で検証しようとしたら、バグと曖昧さが見つかった",
+      "url": "https://zenn.dev/henteko/articles/ed8d1458246d7a",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 24 Nov 2026 16:45:47 GMT",
       "hatena_count": 0
     },
     {
@@ -6727,6 +6784,20 @@
       "hatena_count": 0
     },
     {
+      "id": "zenn-12364f8de6",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "エンジニア20人の組織を、デザイナー1人と AI で支える仕組み",
+      "url": "https://zenn.dev/rimo/articles/c25919207b1cde",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 24 Nov 2026 08:24:00 GMT",
+      "hatena_count": 0
+    },
+    {
       "id": "zenn-34af77c367",
       "source": "sns",
       "sub_source": "Zenn",
@@ -6741,17 +6812,31 @@
       "hatena_count": 3
     },
     {
-      "id": "zenn-45778b8a56",
+      "id": "zenn-1ceb172f8b",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "Microsoft Foundry で AI エージェントを設計するときに決める5つのこと",
-      "url": "https://zenn.dev/microsoft/articles/daedf42c8463b8",
+      "title": "Lambda の GPU 関数で、vLLM のコールドスタートをどこまで削れるか試す",
+      "url": "https://zenn.dev/aws_japan/articles/lambda-gpu-vllm-coldstart",
+      "score": 1,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 24 Nov 2026 05:30:02 GMT",
+      "hatena_count": 1
+    },
+    {
+      "id": "zenn-24d03ee6fa",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "0.3秒で答えるAIは、暗算でつまずく ― Jev・OpenAI・Geminiの判断APIを165問で比べた",
+      "url": "https://zenn.dev/rehabforjapan/articles/decision-api-comparison",
       "score": 0,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Tue, 24 Nov 2026 02:59:05 GMT",
+      "date": "Tue, 24 Nov 2026 05:01:28 GMT",
       "hatena_count": 0
     },
     {
@@ -6769,60 +6854,18 @@
       "hatena_count": 2
     },
     {
-      "id": "zenn-52ca7d08b7",
+      "id": "zenn-3afbce3141",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "Alpamayo は Jetson でリアルタイム推論できるか？ R1 から 2 Edge まで、H100 プロファイルからの実行時間推定",
-      "url": "https://zenn.dev/fixstars/articles/alpamayo-h100",
-      "score": 0,
+      "title": "コーディングエージェントが変えたOSS開発のプロセスと喜び",
+      "url": "https://zenn.dev/cybergarage/articles/5ee7ac6b3b0565",
+      "score": 2,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Mon, 23 Nov 2026 23:07:40 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-97a10088a5",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "「コードを書く」から「迷わず判断する」へ——AIエージェント時代の開発ワークフローを自作ツールで再設計した話",
-      "url": "https://zenn.dev/syarihu/articles/ba25f243ca79ed",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 23 Nov 2026 23:00:05 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-60ac27ff92",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "コードを全部は読まずにClaude Codeで本番リリースするためにしたこと",
-      "url": "https://zenn.dev/teradox_blog/articles/8ec76cc0d9e2bb",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 23 Nov 2026 21:20:30 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-1637feae6f",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "JSConf JP 2026に参加記録・初登壇の反省など",
-      "url": "https://zenn.dev/igrep/articles/2026-11-jsconfjp",
-      "score": 1,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 23 Nov 2026 15:08:26 GMT",
-      "hatena_count": 1
+      "date": "Mon, 23 Nov 2026 17:37:18 GMT",
+      "hatena_count": 2
     },
     {
       "id": "zenn-19d0b5888e",
@@ -6881,20 +6924,6 @@
       "hatena_count": 4
     },
     {
-      "id": "zenn-97c7090c40",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "【TLA+】AIにテストケースを書かせるな。ルールを書け",
-      "url": "https://zenn.dev/karamage/articles/73027ee36796dc",
-      "score": 162,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 21 Nov 2026 02:12:39 GMT",
-      "hatena_count": 162
-    },
-    {
       "id": "zenn-a0ddabc90e",
       "source": "sns",
       "sub_source": "Zenn",
@@ -6921,35 +6950,6 @@
       ],
       "date": "Thu, 19 Nov 2026 07:28:27 GMT",
       "hatena_count": 326
-    },
-    {
-      "id": "zenn-06b280eb58",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "相次ぐOSSの脆弱性に、とりあえずクラウドWAF入れるだけでだいぶ違う話+Rootlessコンテナもいいぞ",
-      "url": "https://zenn.dev/kusuke/articles/98e178e6824cac",
-      "score": 201,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 19 Nov 2026 01:34:24 GMT",
-      "severity": "high",
-      "hatena_count": 201
-    },
-    {
-      "id": "zenn-15458fc334",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "なぜ今形式検証なのか",
-      "url": "https://zenn.dev/ncdc/articles/dcec80b0c067b0",
-      "score": 144,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 18 Nov 2026 23:00:05 GMT",
-      "hatena_count": 144
     },
     {
       "id": "techracho-10e1220cbf",
