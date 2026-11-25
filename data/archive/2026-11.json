@@ -49,13 +49,13 @@
       "sub_source": "Zenn",
       "title": "マーダーミステリーのシナリオを形式手法で検証しようとしたら、バグと曖昧さが見つかった",
       "url": "https://zenn.dev/henteko/articles/ed8d1458246d7a",
-      "score": 79,
+      "score": 85,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 24 Nov 2026 16:45:47 GMT",
-      "hatena_count": 79
+      "hatena_count": 85
     },
     {
       "id": "ipa-7afa9de38c",
@@ -233,6 +233,20 @@
       "hatena_count": 3
     },
     {
+      "id": "zenn-3afbce3141",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "コーディングエージェントが変えたOSS開発のプロセスと喜び",
+      "url": "https://zenn.dev/cybergarage/articles/5ee7ac6b3b0565",
+      "score": 3,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 23 Nov 2026 17:37:18 GMT",
+      "hatena_count": 3
+    },
+    {
       "id": "techracho-511973acbf",
       "source": "techracho",
       "title": "RubyistがGoに挑む: ポケモンAPIクライアントを書いてみた（翻訳）",
@@ -289,20 +303,6 @@
         "Zenn"
       ],
       "date": "Tue, 24 Nov 2026 23:30:05 GMT",
-      "hatena_count": 2
-    },
-    {
-      "id": "zenn-3afbce3141",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "コーディングエージェントが変えたOSS開発のプロセスと喜び",
-      "url": "https://zenn.dev/cybergarage/articles/5ee7ac6b3b0565",
-      "score": 2,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 23 Nov 2026 17:37:18 GMT",
       "hatena_count": 2
     }
   ],
