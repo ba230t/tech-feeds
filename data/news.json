@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T00:13:12.773374+00:00",
+  "updated_at": "2026-11-25T00:47:45.078516+00:00",
   "count": 500,
   "items": [
     {
@@ -6760,13 +6760,13 @@
       "sub_source": "Zenn",
       "title": "Claude Code を5〜8個並べても迷わないように、自分用のダッシュボードをバイブコーディングで作った",
       "url": "https://zenn.dev/nexta_/articles/a3ff76a9f98f1c",
-      "score": 1,
+      "score": 2,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 24 Nov 2026 02:30:05 GMT",
-      "hatena_count": 1
+      "hatena_count": 2
     },
     {
       "id": "zenn-52ca7d08b7",
@@ -6886,13 +6886,13 @@
       "sub_source": "Zenn",
       "title": "【TLA+】AIにテストケースを書かせるな。ルールを書け",
       "url": "https://zenn.dev/karamage/articles/73027ee36796dc",
-      "score": 161,
+      "score": 162,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sat, 21 Nov 2026 02:12:39 GMT",
-      "hatena_count": 161
+      "hatena_count": 162
     },
     {
       "id": "zenn-a0ddabc90e",
@@ -6956,7 +6956,7 @@
       "source": "techracho",
       "title": "Rails: 37signalsのコード品質を支える独自のエンジニアリング戦略（翻訳）",
       "url": "https://techracho.bpsinc.jp/hachi8833/2026_11_24/161424",
-      "score": 24,
+      "score": 30,
       "author": "Techracho",
       "tags": [
         "Ruby",
@@ -6964,7 +6964,7 @@
         "日本語"
       ],
       "date": "Tue, 24 Nov 2026 08:30:04 +0000",
-      "hatena_count": 24
+      "hatena_count": 30
     },
     {
       "id": "techracho-6ad2ba5da6",

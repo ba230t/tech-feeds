@@ -78,13 +78,13 @@
       "sub_source": "Zenn",
       "title": "【TLA+】AIにテストケースを書かせるな。ルールを書け",
       "url": "https://zenn.dev/karamage/articles/73027ee36796dc",
-      "score": 161,
+      "score": 162,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Sat, 21 Nov 2026 02:12:39 GMT",
-      "hatena_count": 161
+      "hatena_count": 162
     },
     {
       "id": "zenn-15458fc334",
@@ -150,7 +150,7 @@
       "source": "techracho",
       "title": "Rails: 37signalsのコード品質を支える独自のエンジニアリング戦略（翻訳）",
       "url": "https://techracho.bpsinc.jp/hachi8833/2026_11_24/161424",
-      "score": 24,
+      "score": 30,
       "author": "Techracho",
       "tags": [
         "Ruby",
@@ -158,7 +158,7 @@
         "日本語"
       ],
       "date": "Tue, 24 Nov 2026 08:30:04 +0000",
-      "hatena_count": 24
+      "hatena_count": 30
     },
     {
       "id": "ipa-ee45d6bd49",
@@ -279,6 +279,20 @@
       "hatena_count": 3
     },
     {
+      "id": "zenn-89c61f23bd",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Claude Code を5〜8個並べても迷わないように、自分用のダッシュボードをバイブコーディングで作った",
+      "url": "https://zenn.dev/nexta_/articles/a3ff76a9f98f1c",
+      "score": 2,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 24 Nov 2026 02:30:05 GMT",
+      "hatena_count": 2
+    },
+    {
       "id": "ipa-af5a912847",
       "source": "ipa",
       "title": "VMware製品の脆弱性対策について(CVE-2026-123890)",
@@ -291,21 +305,6 @@
       ],
       "severity": "medium",
       "date": "2026-11-24T00:00:00+09:00",
-      "hatena_count": 1
-    },
-    {
-      "id": "ipa-f9b4febdfb",
-      "source": "ipa",
-      "title": "PHPの脆弱性対策について（2026年11月）",
-      "url": "https://www.ipa.go.jp/security/security-alert/2026/alert20261120.html",
-      "score": 1,
-      "author": "IPA",
-      "tags": [
-        "IPA",
-        "セキュリティ"
-      ],
-      "severity": "medium",
-      "date": "2026-11-20T00:00:00+09:00",
       "hatena_count": 1
     }
   ],
