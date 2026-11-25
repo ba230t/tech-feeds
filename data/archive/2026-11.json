@@ -77,7 +77,7 @@
       "source": "techracho",
       "title": "Rails: 37signalsのコード品質を支える独自のエンジニアリング戦略（翻訳）",
       "url": "https://techracho.bpsinc.jp/hachi8833/2026_11_24/161424",
-      "score": 43,
+      "score": 45,
       "author": "Techracho",
       "tags": [
         "Ruby",
@@ -85,7 +85,7 @@
         "日本語"
       ],
       "date": "Tue, 24 Nov 2026 08:30:04 +0000",
-      "hatena_count": 43
+      "hatena_count": 45
     },
     {
       "id": "techracho-4b67c39e4f",
@@ -182,13 +182,13 @@
       "sub_source": "Zenn",
       "title": "Claude Code の /ship を図解する",
       "url": "https://zenn.dev/peoplex_blog/articles/claude-code-ship",
-      "score": 4,
+      "score": 7,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 24 Nov 2026 06:30:06 GMT",
-      "hatena_count": 4
+      "hatena_count": 7
     },
     {
       "id": "zenn-3ee1c2d061",
