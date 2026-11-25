@@ -49,13 +49,13 @@
       "sub_source": "Zenn",
       "title": "マーダーミステリーのシナリオを形式手法で検証しようとしたら、バグと曖昧さが見つかった",
       "url": "https://zenn.dev/henteko/articles/ed8d1458246d7a",
-      "score": 96,
+      "score": 97,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 24 Nov 2026 16:45:47 GMT",
-      "hatena_count": 96
+      "hatena_count": 97
     },
     {
       "id": "ipa-7afa9de38c",
@@ -210,13 +210,27 @@
       "sub_source": "Zenn",
       "title": "【自動化】Muse のサイドチャットへ Webhook を届ける MuseKnock の仕組み",
       "url": "https://zenn.dev/codehex/articles/33bc6ee330b880",
-      "score": 6,
+      "score": 8,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 25 Nov 2026 06:12:03 GMT",
-      "hatena_count": 6
+      "hatena_count": 8
+    },
+    {
+      "id": "zenn-93700ffb17",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "アウトプットの「質」ってじゃあなんなんだよ",
+      "url": "https://zenn.dev/watany/articles/1efe3adea67dd5",
+      "score": 5,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 25 Nov 2026 11:31:18 GMT",
+      "hatena_count": 5
     },
     {
       "id": "zenn-3ee1c2d061",
@@ -231,20 +245,6 @@
       ],
       "date": "Sat, 21 Nov 2026 15:14:13 GMT",
       "hatena_count": 5
-    },
-    {
-      "id": "zenn-93700ffb17",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "アウトプットの「質」ってじゃあなんなんだよ",
-      "url": "https://zenn.dev/watany/articles/1efe3adea67dd5",
-      "score": 4,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 25 Nov 2026 11:31:18 GMT",
-      "hatena_count": 4
     },
     {
       "id": "zenn-0ea4aa436e",

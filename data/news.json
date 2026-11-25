@@ -1,7 +1,105 @@
 {
-  "updated_at": "2026-11-25T20:05:21.253959+00:00",
+  "updated_at": "2026-11-25T20:33:24.333074+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "qiita-ad53c38bdc",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "VS Code 1.148：エージェント専用の Dev Container と Sandbox profiles。「隔離」の3種類を使い分ける",
+      "url": "https://qiita.com/shahin0809/items/05a6c7431ee7e5b6e520?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-26T00:19:26+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-bd572acf85",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "【技術書典21】Claudeと作った同人誌で初出展しました。部数の決め方と当日の売れ方の記録",
+      "url": "https://qiita.com/minorun365/items/4416bd940ca0cd3aaabc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-25T20:57:51+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-f58b9c9b51",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "海外で話題！「VS Codeが重い」を軽くする方法。まず測って、効く順に削る（2026年11月版）",
+      "url": "https://qiita.com/shahin0809/items/46b64d3f76c9a4440298?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-25T20:24:47+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-88494e0d40",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "VS Code 1.147：エージェントへの依頼を予約できる！？Send Later と Drafts を整理した",
+      "url": "https://qiita.com/shahin0809/items/e6cbd71914171b8b6b49?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-25T20:13:58+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-fc522aa012",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "心理的安全性を現場で育てる ― 「なんで？」をやめただけで2チーム統合リーダーの現場が変わった話",
+      "url": "https://qiita.com/teppei19980914/items/205353ed847956c45dd2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-25T19:03:41+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-a28b8de403",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "1年ぶりに出す、AWS re:Invent 2025 旅行記",
+      "url": "https://qiita.com/har1101/items/58ee6392cfda0d92521e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-25T18:17:24+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-b456bd1228",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "【個人開発】AIでバトルロイヤルゲームを作ってみた",
+      "url": "https://qiita.com/yangon/items/4b0e3752764eb13f15be?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-25T17:14:14+09:00",
+      "hatena_count": 0
+    },
     {
       "id": "qiita-2fe2e47fa1",
       "source": "sns",
@@ -31,6 +129,20 @@
       "hatena_count": 0
     },
     {
+      "id": "qiita-798a59c5a3",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "AIでGmail作ってみた【個人開発】",
+      "url": "https://qiita.com/yangon/items/2d7e26f6c306ed255282?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-25T12:24:06+09:00",
+      "hatena_count": 0
+    },
+    {
       "id": "qiita-e8748a85af",
       "source": "sns",
       "sub_source": "Qiita",
@@ -42,6 +154,20 @@
         "Qiita"
       ],
       "date": "2026-11-25T12:08:11+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-7f218a65e5",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "LM Studio経由が10 tok/sなのは --n-gpu-layers 9 が渡されていたから。設定ファイルで gpuStrictVramCap を false にすると24 tok/s（VRAM 8GB・Qwen3.6-35B-A3B・ランタイム2.80.1）",
+      "url": "https://qiita.com/mukai3/items/4194902b97d0955f2c0f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-25T11:58:34+09:00",
       "hatena_count": 0
     },
     {
@@ -283,6 +409,20 @@
       "hatena_count": 0
     },
     {
+      "id": "qiita-018ed6d513",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "複数のAI(Claude/ChatGPT/Codex/Gemini)の「いまどこまで」を、Python標準ライブラリだけで1枚のNOW.mdにまとめる",
+      "url": "https://qiita.com/kanazawa_teppei/items/dc79f1974244a2f08232?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-24T11:59:33+09:00",
+      "hatena_count": 0
+    },
+    {
       "id": "qiita-1f08f50336",
       "source": "sns",
       "sub_source": "Qiita",
@@ -478,6 +618,20 @@
         "Qiita"
       ],
       "date": "2026-11-23T20:10:28+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-897a9b6f92",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "【JavaScript】イテレータを文字列に変換できるよ！",
+      "url": "https://qiita.com/rana_kualu/items/1bb54c15ab8d1b97d77e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-23T19:48:48+09:00",
       "hatena_count": 0
     },
     {
@@ -6235,160 +6389,6 @@
       "hatena_count": 0
     },
     {
-      "id": "qiita-9df8672383",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "Stored Procedureはじめました。データベースのパフォーマンスリスクを可視化するDB360がついにGA！",
-      "url": "https://qiita.com/nr_ishibashi/items/20fd011c21cd671ffb54?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-05T16:38:27+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-d870b5557e",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "New Relic Autopilotの応答言語を日本語に設定する方法",
-      "url": "https://qiita.com/nr_ishibashi/items/7aa84d87723196bf37f1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-05T16:37:56+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-53d89a4f8e",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "M365 Copilot Agent BuilderにSKILL.mdを登録してみた",
-      "url": "https://qiita.com/rhaya/items/2ea7620235c7199db852?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-05T15:48:25+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-3157a82b2d",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "JavaScriptとReactの学習として、それぞれでTodoアプリを作りました。",
-      "url": "https://qiita.com/Tukirukiki/items/9af8c76c9c08fe6bf785?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-05T14:08:06+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-017b7ca72d",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "フィードバックループの遮断 ― バグ報告を受け付けないシステム : システム設計視点の行動経済学 (56)",
-      "url": "https://qiita.com/maskot1977/items/ab0d450e5499f2291369?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-05T13:52:55+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-3968ec5cf8",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "Claude Code の CLAUDE.md / rules / skills / commands / hooks を使い分ける",
-      "url": "https://qiita.com/taquangku/items/cb89818a44f11d92e4ce?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-05T13:35:47+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-b1233d6dee",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "Codexに「Claudeにレビューを頼んで」と言ったら、Claude Codeを自動起動してレビューまで完了した話",
-      "url": "https://qiita.com/ma2738/items/ee63da706aa64f3784a9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-05T12:02:32+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-d810c191d2",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "ServiceNowのPDI（個人用開発インスタンス）の取り方と最初の初期設定",
-      "url": "https://qiita.com/hataraku_hito/items/c2a13d5e0650a0fd7bca?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-05T12:00:08+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-28d0766e0d",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "flatMapで配列が残る・undefinedが入る理由：戻り値の形と1段だけの展開をNode.jsで実測",
-      "url": "https://qiita.com/ennagara128/items/2b69aeae5cddaeaf2879?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-05T11:55:30+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-eb16101f0f",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "LaravelのログをCloudWatch Logsへ送信する — CloudWatch Logs連携の後編",
-      "url": "https://qiita.com/usui0623/items/731067009dd5f80a9753?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-05T11:54:29+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-c35c356eff",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "SLMを作ってみる",
-      "url": "https://qiita.com/y_abe_bc/items/fced7f7cf2766c56b073?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-05T11:22:49+09:00",
-      "hatena_count": 0
-    },
-    {
       "id": "ipa-ee45d6bd49",
       "source": "ipa",
       "title": "更新：PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell)",
@@ -6664,13 +6664,13 @@
       "sub_source": "Zenn",
       "title": "アウトプットの「質」ってじゃあなんなんだよ",
       "url": "https://zenn.dev/watany/articles/1efe3adea67dd5",
-      "score": 4,
+      "score": 5,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 25 Nov 2026 11:31:18 GMT",
-      "hatena_count": 4
+      "hatena_count": 5
     },
     {
       "id": "zenn-320ea5804d",
@@ -6706,13 +6706,13 @@
       "sub_source": "Zenn",
       "title": "【自動化】Muse のサイドチャットへ Webhook を届ける MuseKnock の仕組み",
       "url": "https://zenn.dev/codehex/articles/33bc6ee330b880",
-      "score": 6,
+      "score": 8,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 25 Nov 2026 06:12:03 GMT",
-      "hatena_count": 6
+      "hatena_count": 8
     },
     {
       "id": "zenn-3df00cca6f",
@@ -6805,13 +6805,13 @@
       "sub_source": "Zenn",
       "title": "マーダーミステリーのシナリオを形式手法で検証しようとしたら、バグと曖昧さが見つかった",
       "url": "https://zenn.dev/henteko/articles/ed8d1458246d7a",
-      "score": 96,
+      "score": 97,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 24 Nov 2026 16:45:47 GMT",
-      "hatena_count": 96
+      "hatena_count": 97
     },
     {
       "id": "zenn-0ea4aa436e",
