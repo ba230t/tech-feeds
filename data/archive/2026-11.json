@@ -49,13 +49,13 @@
       "sub_source": "Zenn",
       "title": "マーダーミステリーのシナリオを形式手法で検証しようとしたら、バグと曖昧さが見つかった",
       "url": "https://zenn.dev/henteko/articles/ed8d1458246d7a",
-      "score": 60,
+      "score": 64,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 24 Nov 2026 16:45:47 GMT",
-      "hatena_count": 60
+      "hatena_count": 64
     },
     {
       "id": "ipa-7afa9de38c",
@@ -292,17 +292,17 @@
       "hatena_count": 2
     },
     {
-      "id": "zenn-3afbce3141",
+      "id": "zenn-12364f8de6",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "コーディングエージェントが変えたOSS開発のプロセスと喜び",
-      "url": "https://zenn.dev/cybergarage/articles/5ee7ac6b3b0565",
+      "title": "エンジニア20人の組織を、デザイナー1人と AI で支える仕組み",
+      "url": "https://zenn.dev/rimo/articles/c25919207b1cde",
       "score": 2,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Mon, 23 Nov 2026 17:37:18 GMT",
+      "date": "Tue, 24 Nov 2026 08:24:00 GMT",
       "hatena_count": 2
     }
   ],
