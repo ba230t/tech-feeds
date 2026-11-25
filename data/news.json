@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T19:04:12.557585+00:00",
+  "updated_at": "2026-11-25T19:32:58.403608+00:00",
   "count": 500,
   "items": [
     {
@@ -6673,6 +6673,20 @@
       "hatena_count": 4
     },
     {
+      "id": "zenn-320ea5804d",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "RustでFiberを用いたJob Systemを実装したらReleaseビルドでバグが発生した",
+      "url": "https://zenn.dev/otinpan/articles/082f6178eb1472",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 25 Nov 2026 10:24:41 GMT",
+      "hatena_count": 0
+    },
+    {
       "id": "zenn-4ab8a1658a",
       "source": "sns",
       "sub_source": "Zenn",
@@ -6692,13 +6706,13 @@
       "sub_source": "Zenn",
       "title": "【自動化】Muse のサイドチャットへ Webhook を届ける MuseKnock の仕組み",
       "url": "https://zenn.dev/codehex/articles/33bc6ee330b880",
-      "score": 3,
+      "score": 5,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 25 Nov 2026 06:12:03 GMT",
-      "hatena_count": 3
+      "hatena_count": 5
     },
     {
       "id": "zenn-3df00cca6f",
@@ -6726,6 +6740,21 @@
         "Zenn"
       ],
       "date": "Wed, 25 Nov 2026 02:35:47 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-36db506c59",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Agentforce エージェントから外部 MCP サーバー（Asana）のツールを使う",
+      "url": "https://zenn.dev/hrendoh/articles/agentforce-external-mcp-asana",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 25 Nov 2026 01:41:04 GMT",
+      "severity": "critical",
       "hatena_count": 0
     },
     {
@@ -6776,27 +6805,13 @@
       "sub_source": "Zenn",
       "title": "マーダーミステリーのシナリオを形式手法で検証しようとしたら、バグと曖昧さが見つかった",
       "url": "https://zenn.dev/henteko/articles/ed8d1458246d7a",
-      "score": 91,
+      "score": 95,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 24 Nov 2026 16:45:47 GMT",
-      "hatena_count": 91
-    },
-    {
-      "id": "zenn-58ac9b9ffc",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "【ドパガキ向け】AI 時代の要求管理 ハンドブックを読もう",
-      "url": "https://zenn.dev/muroshima/articles/be47515ff9c16e",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 24 Nov 2026 16:36:20 GMT",
-      "hatena_count": 0
+      "hatena_count": 95
     },
     {
       "id": "zenn-0ea4aa436e",
@@ -6853,20 +6868,6 @@
       ],
       "date": "Tue, 24 Nov 2026 02:30:05 GMT",
       "hatena_count": 36
-    },
-    {
-      "id": "zenn-3afbce3141",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "コーディングエージェントが変えたOSS開発のプロセスと喜び",
-      "url": "https://zenn.dev/cybergarage/articles/5ee7ac6b3b0565",
-      "score": 3,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 23 Nov 2026 17:37:18 GMT",
-      "hatena_count": 3
     },
     {
       "id": "zenn-19d0b5888e",

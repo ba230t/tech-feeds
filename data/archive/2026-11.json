@@ -10,7 +10,7 @@
   },
   "severity_counts": {
     "medium": 7,
-    "critical": 2,
+    "critical": 3,
     "high": 12,
     "info": 38
   },
@@ -49,13 +49,13 @@
       "sub_source": "Zenn",
       "title": "マーダーミステリーのシナリオを形式手法で検証しようとしたら、バグと曖昧さが見つかった",
       "url": "https://zenn.dev/henteko/articles/ed8d1458246d7a",
-      "score": 91,
+      "score": 95,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 24 Nov 2026 16:45:47 GMT",
-      "hatena_count": 91
+      "hatena_count": 95
     },
     {
       "id": "ipa-7afa9de38c",
@@ -205,6 +205,20 @@
       "hatena_count": 12
     },
     {
+      "id": "zenn-61230c546e",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "【自動化】Muse のサイドチャットへ Webhook を届ける MuseKnock の仕組み",
+      "url": "https://zenn.dev/codehex/articles/33bc6ee330b880",
+      "score": 5,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 25 Nov 2026 06:12:03 GMT",
+      "hatena_count": 5
+    },
+    {
       "id": "zenn-3ee1c2d061",
       "source": "sns",
       "sub_source": "Zenn",
@@ -233,20 +247,6 @@
       "hatena_count": 4
     },
     {
-      "id": "zenn-61230c546e",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "【自動化】Muse のサイドチャットへ Webhook を届ける MuseKnock の仕組み",
-      "url": "https://zenn.dev/codehex/articles/33bc6ee330b880",
-      "score": 3,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 25 Nov 2026 06:12:03 GMT",
-      "hatena_count": 3
-    },
-    {
       "id": "zenn-0ea4aa436e",
       "source": "sns",
       "sub_source": "Zenn",
@@ -258,20 +258,6 @@
         "Zenn"
       ],
       "date": "Tue, 24 Nov 2026 09:24:58 GMT",
-      "hatena_count": 3
-    },
-    {
-      "id": "zenn-3afbce3141",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "コーディングエージェントが変えたOSS開発のプロセスと喜び",
-      "url": "https://zenn.dev/cybergarage/articles/5ee7ac6b3b0565",
-      "score": 3,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 23 Nov 2026 17:37:18 GMT",
       "hatena_count": 3
     },
     {
@@ -303,9 +289,39 @@
       ],
       "date": "Mon, 09 Nov 2026 08:30:25 +0000",
       "hatena_count": 3
+    },
+    {
+      "id": "techracho-3ff1a08033",
+      "source": "techracho",
+      "title": "Shopifyの Rubydex linter でRubyプロジェクトに構造的lintを導入しよう（翻訳）",
+      "url": "https://techracho.bpsinc.jp/hachi8833/2026_11_05/160032",
+      "score": 3,
+      "author": "Techracho",
+      "tags": [
+        "Ruby",
+        "Rails",
+        "日本語"
+      ],
+      "date": "Thu, 05 Nov 2026 08:30:46 +0000",
+      "hatena_count": 3
     }
   ],
   "security_highlights": [
+    {
+      "id": "zenn-36db506c59",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Agentforce エージェントから外部 MCP サーバー（Asana）のツールを使う",
+      "url": "https://zenn.dev/hrendoh/articles/agentforce-external-mcp-asana",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 25 Nov 2026 01:41:04 GMT",
+      "severity": "critical",
+      "hatena_count": 0
+    },
     {
       "id": "qiita-889e41a718",
       "source": "sns",
