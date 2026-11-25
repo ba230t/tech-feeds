@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T02:07:48.904328+00:00",
+  "updated_at": "2026-11-25T02:34:44.761695+00:00",
   "count": 500,
   "items": [
     {
@@ -6690,13 +6690,13 @@
       "sub_source": "Zenn",
       "title": "Copilot Studioのエージェント開発をClaude Codeにどこまで任せられるか試した",
       "url": "https://zenn.dev/upgradetech/articles/a9a1637d3071c1",
-      "score": 1,
+      "score": 2,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 24 Nov 2026 09:24:58 GMT",
-      "hatena_count": 1
+      "hatena_count": 2
     },
     {
       "id": "zenn-264e7a6cd2",
@@ -6900,13 +6900,13 @@
       "sub_source": "Zenn",
       "title": "寝てる間に自動で動くAIエージェントを誰でも作れる：10分でわかる pstack 実践ガイド",
       "url": "https://zenn.dev/canly/articles/ca6875cd79539f",
-      "score": 576,
+      "score": 575,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 20 Nov 2026 09:04:40 GMT",
-      "hatena_count": 576
+      "hatena_count": 575
     },
     {
       "id": "zenn-1e6b48599b",
@@ -6956,7 +6956,7 @@
       "source": "techracho",
       "title": "Rails: 37signalsのコード品質を支える独自のエンジニアリング戦略（翻訳）",
       "url": "https://techracho.bpsinc.jp/hachi8833/2026_11_24/161424",
-      "score": 38,
+      "score": 39,
       "author": "Techracho",
       "tags": [
         "Ruby",
@@ -6964,7 +6964,7 @@
         "日本語"
       ],
       "date": "Tue, 24 Nov 2026 08:30:04 +0000",
-      "hatena_count": 38
+      "hatena_count": 39
     },
     {
       "id": "techracho-6ad2ba5da6",
