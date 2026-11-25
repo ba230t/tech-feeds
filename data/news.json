@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T16:33:16.892597+00:00",
+  "updated_at": "2026-11-25T17:04:25.209686+00:00",
   "count": 500,
   "items": [
     {
@@ -6659,6 +6659,20 @@
       "hatena_count": 38
     },
     {
+      "id": "zenn-93700ffb17",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "アウトプットの「質」ってじゃあなんなんだよ",
+      "url": "https://zenn.dev/watany/articles/1efe3adea67dd5",
+      "score": 3,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 25 Nov 2026 11:31:18 GMT",
+      "hatena_count": 3
+    },
+    {
       "id": "zenn-61230c546e",
       "source": "sns",
       "sub_source": "Zenn",
@@ -6687,34 +6701,6 @@
       "hatena_count": 0
     },
     {
-      "id": "zenn-c18190d52e",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Corpus2Skillに近づけた「階層ナビゲーション型RAG」と、ベクトルDB版RAGを「どの段階で失敗したか」まで比べてみた",
-      "url": "https://zenn.dev/aiforall/articles/133752ce2d97ad",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 25 Nov 2026 02:35:47 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-0bcf1f522d",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "体験ドリブンのすすめ ― AIで作れる時代に、何で差がつくか",
-      "url": "https://zenn.dev/mediaforce/articles/2fef9933aae9e7",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 25 Nov 2026 02:28:01 GMT",
-      "hatena_count": 0
-    },
-    {
       "id": "zenn-ebeaaaf361",
       "source": "sns",
       "sub_source": "Zenn",
@@ -6734,13 +6720,13 @@
       "sub_source": "Zenn",
       "title": "なんとなくgrill-meしている人に伝えたい、作者本人から学んだSkillsの使い方",
       "url": "https://zenn.dev/mediaforce/articles/27df1f22a00546",
-      "score": 0,
+      "score": 1,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 24 Nov 2026 22:30:05 GMT",
-      "hatena_count": 0
+      "hatena_count": 1
     },
     {
       "id": "zenn-cd67c8ba18",
@@ -6748,13 +6734,13 @@
       "sub_source": "Zenn",
       "title": "モデルの性能が出ないのは AI ゲートウェイのせいかもしれない",
       "url": "https://zenn.dev/google_cloud_jp/articles/7e29a9acf06557",
-      "score": 1,
+      "score": 2,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 24 Nov 2026 22:22:23 GMT",
-      "hatena_count": 1
+      "hatena_count": 2
     },
     {
       "id": "zenn-2c95d41a68",
@@ -6762,13 +6748,13 @@
       "sub_source": "Zenn",
       "title": "マーダーミステリーのシナリオを形式手法で検証しようとしたら、バグと曖昧さが見つかった",
       "url": "https://zenn.dev/henteko/articles/ed8d1458246d7a",
-      "score": 85,
+      "score": 91,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 24 Nov 2026 16:45:47 GMT",
-      "hatena_count": 85
+      "hatena_count": 91
     },
     {
       "id": "zenn-58ac9b9ffc",
@@ -6827,6 +6813,20 @@
       "hatena_count": 3
     },
     {
+      "id": "zenn-aa865468e1",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Gemini 4 Neon を API で叩いて Claude Code・Codex CLI と比べた：65万トークンの超長文、費用、失敗",
+      "url": "https://zenn.dev/canly/articles/40e773759da8f8",
+      "score": 2,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 24 Nov 2026 08:51:41 GMT",
+      "hatena_count": 2
+    },
+    {
       "id": "zenn-34af77c367",
       "source": "sns",
       "sub_source": "Zenn",
@@ -6846,13 +6846,13 @@
       "sub_source": "Zenn",
       "title": "Claude Code を5〜8個並べても迷わないように、自分用のダッシュボードをバイブコーディングで作った",
       "url": "https://zenn.dev/nexta_/articles/a3ff76a9f98f1c",
-      "score": 35,
+      "score": 36,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 24 Nov 2026 02:30:05 GMT",
-      "hatena_count": 35
+      "hatena_count": 36
     },
     {
       "id": "zenn-3afbce3141",

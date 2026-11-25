@@ -49,13 +49,13 @@
       "sub_source": "Zenn",
       "title": "マーダーミステリーのシナリオを形式手法で検証しようとしたら、バグと曖昧さが見つかった",
       "url": "https://zenn.dev/henteko/articles/ed8d1458246d7a",
-      "score": 85,
+      "score": 91,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 24 Nov 2026 16:45:47 GMT",
-      "hatena_count": 85
+      "hatena_count": 91
     },
     {
       "id": "ipa-7afa9de38c",
@@ -93,13 +93,13 @@
       "sub_source": "Zenn",
       "title": "Claude Code を5〜8個並べても迷わないように、自分用のダッシュボードをバイブコーディングで作った",
       "url": "https://zenn.dev/nexta_/articles/a3ff76a9f98f1c",
-      "score": 35,
+      "score": 36,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 24 Nov 2026 02:30:05 GMT",
-      "hatena_count": 35
+      "hatena_count": 36
     },
     {
       "id": "techracho-4b67c39e4f",
@@ -219,6 +219,20 @@
       "hatena_count": 5
     },
     {
+      "id": "zenn-93700ffb17",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "アウトプットの「質」ってじゃあなんなんだよ",
+      "url": "https://zenn.dev/watany/articles/1efe3adea67dd5",
+      "score": 3,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 25 Nov 2026 11:31:18 GMT",
+      "hatena_count": 3
+    },
+    {
       "id": "zenn-0ea4aa436e",
       "source": "sns",
       "sub_source": "Zenn",
@@ -290,20 +304,6 @@
       ],
       "date": "Thu, 05 Nov 2026 08:30:46 +0000",
       "hatena_count": 3
-    },
-    {
-      "id": "zenn-ebeaaaf361",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Personal Agent Protocol (Poppy) が解く問題と仕組み",
-      "url": "https://zenn.dev/sierra_japan/articles/0b9ba590232345",
-      "score": 2,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 24 Nov 2026 23:30:05 GMT",
-      "hatena_count": 2
     }
   ],
   "security_highlights": [
