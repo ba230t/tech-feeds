@@ -120,7 +120,7 @@
       "source": "techracho",
       "title": "Rails: 37signalsのコード品質を支える独自のエンジニアリング戦略（翻訳）",
       "url": "https://techracho.bpsinc.jp/hachi8833/2026_11_24/161424",
-      "score": 39,
+      "score": 40,
       "author": "Techracho",
       "tags": [
         "Ruby",
@@ -128,7 +128,7 @@
         "日本語"
       ],
       "date": "Tue, 24 Nov 2026 08:30:04 +0000",
-      "hatena_count": 39
+      "hatena_count": 40
     },
     {
       "id": "techracho-4b67c39e4f",
@@ -234,6 +234,20 @@
       "hatena_count": 4
     },
     {
+      "id": "zenn-34af77c367",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Claude Code の /ship を図解する",
+      "url": "https://zenn.dev/peoplex_blog/articles/claude-code-ship",
+      "score": 3,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 24 Nov 2026 06:30:06 GMT",
+      "hatena_count": 3
+    },
+    {
       "id": "techracho-511973acbf",
       "source": "techracho",
       "title": "RubyistがGoに挑む: ポケモンAPIクライアントを書いてみた（翻訳）",
@@ -290,20 +304,6 @@
         "Zenn"
       ],
       "date": "Tue, 24 Nov 2026 09:24:58 GMT",
-      "hatena_count": 2
-    },
-    {
-      "id": "zenn-34af77c367",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Claude Code の /ship を図解する",
-      "url": "https://zenn.dev/peoplex_blog/articles/claude-code-ship",
-      "score": 2,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 24 Nov 2026 06:30:06 GMT",
       "hatena_count": 2
     }
   ],
