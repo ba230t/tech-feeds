@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T21:05:31.377573+00:00",
+  "updated_at": "2026-11-25T21:33:19.288200+00:00",
   "count": 500,
   "items": [
     {
@@ -6673,6 +6673,20 @@
       "hatena_count": 5
     },
     {
+      "id": "zenn-320ea5804d",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "RustでFiberを用いたJob Systemを実装したらReleaseビルドでバグが発生した",
+      "url": "https://zenn.dev/otinpan/articles/082f6178eb1472",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 25 Nov 2026 10:24:41 GMT",
+      "hatena_count": 0
+    },
+    {
       "id": "zenn-4ab8a1658a",
       "source": "sns",
       "sub_source": "Zenn",
@@ -6699,20 +6713,6 @@
       ],
       "date": "Wed, 25 Nov 2026 06:12:03 GMT",
       "hatena_count": 8
-    },
-    {
-      "id": "zenn-dcedfbde36",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "AIエージェントのMemory設計 ― 会話履歴・業務データ・長期Memoryの使い分け",
-      "url": "https://zenn.dev/taru_neko/articles/ai-agent-memory-architecture-2026",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 25 Nov 2026 05:23:27 GMT",
-      "hatena_count": 0
     },
     {
       "id": "zenn-3df00cca6f",
@@ -6805,13 +6805,13 @@
       "sub_source": "Zenn",
       "title": "マーダーミステリーのシナリオを形式手法で検証しようとしたら、バグと曖昧さが見つかった",
       "url": "https://zenn.dev/henteko/articles/ed8d1458246d7a",
-      "score": 99,
+      "score": 97,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 24 Nov 2026 16:45:47 GMT",
-      "hatena_count": 99
+      "hatena_count": 97
     },
     {
       "id": "zenn-0ea4aa436e",
