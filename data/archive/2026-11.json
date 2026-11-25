@@ -1,7 +1,7 @@
 {
   "month": "2026-11",
   "total_articles": 483,
-  "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (4件)**\n\n1. NGINXの複数の脆弱性対策について（CVE-2026-123007、CVE-2026-123633等）\n\n2. Oracle Java の脆弱性対策について(2026年11月)\n\n3. 更新：PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell)\n\n4. 【事前準備のお願い】PHPのセキュリティリリース公開予定について（11月）\n\n**AI・機械学習動向 (4件)**\n\n1. 寝てる間に自動で動くAIエージェントを誰でも作れる：10分でわかる pstack 実践ガイド\n\n2. 自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス\n\n3. Rails: 37signalsのコード品質を支える独自のエンジニアリング戦略（翻訳）\n\n4. Rails: DHHがRails World 2026キーノートで「語らなかった」部分とは（翻訳）\n\n**技術トレンド (2件)**\n\n1. 著名なRust製OSSをLean 4で形式検証してみたら、めちゃめちゃバグが見つかった話\n\n2. JSConf JP 2026 公開資料・Xアカウントリンクまとめ",
+  "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (5件)**\n\n1. NGINXの複数の脆弱性対策について（CVE-2026-123007、CVE-2026-123633等）\n\n2. Oracle Java の脆弱性対策について(2026年11月)\n\n3. 更新：PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell)\n\n4. 【事前準備のお願い】PHPのセキュリティリリース公開予定について（11月）\n\n5. 注意喚起: PHPにおける複数の脆弱性（CVE-2026-109618、CVE-2026-109619）に関する注意喚起  (更新)\n\n**AI・機械学習動向 (3件)**\n\n1. Rails: 37signalsのコード品質を支える独自のエンジニアリング戦略（翻訳）\n\n2. Rails: DHHがRails World 2026キーノートで「語らなかった」部分とは（翻訳）\n\n3. 「RailsはJITコンパイラだ！」（翻訳）\n\n**技術トレンド (2件)**\n\n1. RubyistがGoに挑む: ポケモンAPIクライアントを書いてみた（翻訳）\n\n2. Shopifyの Rubydex linter でRubyプロジェクトに構造的lintを導入しよう（翻訳）",
   "source_counts": {
     "sns": 414,
     "ipa": 7,
@@ -15,48 +15,6 @@
     "info": 50
   },
   "top_articles": [
-    {
-      "id": "zenn-a0ddabc90e",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "寝てる間に自動で動くAIエージェントを誰でも作れる：10分でわかる pstack 実践ガイド",
-      "url": "https://zenn.dev/canly/articles/ca6875cd79539f",
-      "score": 575,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 20 Nov 2026 09:04:40 GMT",
-      "hatena_count": 575
-    },
-    {
-      "id": "zenn-1e6b48599b",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス",
-      "url": "https://zenn.dev/nttdata_tech/articles/9562962cc181a1",
-      "score": 326,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 19 Nov 2026 07:28:27 GMT",
-      "hatena_count": 326
-    },
-    {
-      "id": "zenn-5ee0680a16",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "著名なRust製OSSをLean 4で形式検証してみたら、めちゃめちゃバグが見つかった話",
-      "url": "https://zenn.dev/koukyosyumei/articles/31c8fcf4da45b7",
-      "score": 251,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 23 Nov 2026 05:17:05 GMT",
-      "hatena_count": 251
-    },
     {
       "id": "ipa-7afa9de38c",
       "source": "ipa",
@@ -77,7 +35,7 @@
       "source": "techracho",
       "title": "Rails: 37signalsのコード品質を支える独自のエンジニアリング戦略（翻訳）",
       "url": "https://techracho.bpsinc.jp/hachi8833/2026_11_24/161424",
-      "score": 45,
+      "score": 47,
       "author": "Techracho",
       "tags": [
         "Ruby",
@@ -85,7 +43,7 @@
         "日本語"
       ],
       "date": "Tue, 24 Nov 2026 08:30:04 +0000",
-      "hatena_count": 45
+      "hatena_count": 47
     },
     {
       "id": "techracho-4b67c39e4f",
@@ -148,20 +106,6 @@
       "hatena_count": 14
     },
     {
-      "id": "zenn-19d0b5888e",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "JSConf JP 2026 公開資料・Xアカウントリンクまとめ",
-      "url": "https://zenn.dev/h_yoshikawa0724/articles/2026-11-23-jsconf-jp-2026",
-      "score": 14,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 23 Nov 2026 05:38:39 GMT",
-      "hatena_count": 14
-    },
-    {
       "id": "jpcert-30cd0d7475",
       "source": "jpcert",
       "title": "注意喚起: PHPにおける複数の脆弱性（CVE-2026-109618、CVE-2026-109619）に関する注意喚起  (更新)",
@@ -175,62 +119,6 @@
       "severity": "high",
       "date": "2026-11-20T13:40+09:00",
       "hatena_count": 12
-    },
-    {
-      "id": "zenn-34af77c367",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Claude Code の /ship を図解する",
-      "url": "https://zenn.dev/peoplex_blog/articles/claude-code-ship",
-      "score": 11,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 24 Nov 2026 06:30:06 GMT",
-      "hatena_count": 11
-    },
-    {
-      "id": "zenn-89c61f23bd",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Claude Code を5〜8個並べても迷わないように、自分用のダッシュボードをバイブコーディングで作った",
-      "url": "https://zenn.dev/nexta_/articles/a3ff76a9f98f1c",
-      "score": 5,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 24 Nov 2026 02:30:05 GMT",
-      "hatena_count": 5
-    },
-    {
-      "id": "zenn-3ee1c2d061",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Orca Botsが良さそう、何ができるのか",
-      "url": "https://zenn.dev/kg_motors_mibot/articles/orca-bot-intro",
-      "score": 4,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 21 Nov 2026 15:14:13 GMT",
-      "hatena_count": 4
-    },
-    {
-      "id": "zenn-0ea4aa436e",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Copilot Studioのエージェント開発をClaude Codeにどこまで任せられるか試した",
-      "url": "https://zenn.dev/upgradetech/articles/a9a1637d3071c1",
-      "score": 3,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 24 Nov 2026 09:24:58 GMT",
-      "hatena_count": 3
     },
     {
       "id": "techracho-511973acbf",
@@ -278,6 +166,20 @@
       "hatena_count": 3
     },
     {
+      "id": "zenn-0ea4aa436e",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Copilot Studioのエージェント開発をClaude Codeにどこまで任せられるか試した",
+      "url": "https://zenn.dev/upgradetech/articles/a9a1637d3071c1",
+      "score": 3,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 24 Nov 2026 09:24:58 GMT",
+      "hatena_count": 3
+    },
+    {
       "id": "zenn-ebeaaaf361",
       "source": "sns",
       "sub_source": "Zenn",
@@ -292,18 +194,120 @@
       "hatena_count": 2
     },
     {
-      "id": "zenn-3afbce3141",
+      "id": "zenn-2c95d41a68",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "コーディングエージェントが変えたOSS開発のプロセスと喜び",
-      "url": "https://zenn.dev/cybergarage/articles/5ee7ac6b3b0565",
+      "title": "マーダーミステリーのシナリオを形式手法で検証しようとしたら、バグと曖昧さが見つかった",
+      "url": "https://zenn.dev/henteko/articles/ed8d1458246d7a",
       "score": 2,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Mon, 23 Nov 2026 17:37:18 GMT",
+      "date": "Tue, 24 Nov 2026 16:45:47 GMT",
       "hatena_count": 2
+    },
+    {
+      "id": "ipa-af5a912847",
+      "source": "ipa",
+      "title": "VMware製品の脆弱性対策について(CVE-2026-123890)",
+      "url": "https://www.ipa.go.jp/security/security-alert/2026/alert20261124.html",
+      "score": 1,
+      "author": "IPA",
+      "tags": [
+        "IPA",
+        "セキュリティ"
+      ],
+      "severity": "medium",
+      "date": "2026-11-24T00:00:00+09:00",
+      "hatena_count": 1
+    },
+    {
+      "id": "ipa-f9b4febdfb",
+      "source": "ipa",
+      "title": "PHPの脆弱性対策について（2026年11月）",
+      "url": "https://www.ipa.go.jp/security/security-alert/2026/alert20261120.html",
+      "score": 1,
+      "author": "IPA",
+      "tags": [
+        "IPA",
+        "セキュリティ"
+      ],
+      "severity": "medium",
+      "date": "2026-11-20T00:00:00+09:00",
+      "hatena_count": 1
+    },
+    {
+      "id": "qiita-9b64da4059",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "【自動修復AI】脆弱性を自動検知・修正する「CodeMender」とAIエージェント時代のセキュリティ基盤",
+      "url": "https://qiita.com/tomokoro/items/64a762de9e5bdf3e8f00?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 1,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-19T10:43:56+09:00",
+      "severity": "high",
+      "hatena_count": 1
+    },
+    {
+      "id": "qiita-bad496ddd8",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "今話題のMuseってなに？どんなことができる？※この記事はMuseが書いて自動で投稿しています",
+      "url": "https://qiita.com/inoyu-qiita/items/05f9c10adc1a398d6ff5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 1,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-18T17:13:37+09:00",
+      "hatena_count": 1
+    },
+    {
+      "id": "qiita-f4c5c8e0a1",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "AIっぽい日本語を直すスキル yomiyasu-mini を Microsoft Copilot の色々なところで使ってみた",
+      "url": "https://qiita.com/Oyu3m/items/8efff0925c0994dda6ee?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 1,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-17T22:52:59+09:00",
+      "hatena_count": 1
+    },
+    {
+      "id": "qiita-c2a965d741",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "部下がClaudeっぽいスライドしか出してこなくてウンザリしてる上司はこれを使わせなさい",
+      "url": "https://qiita.com/nuco_d/items/b279477cbcdbe5921abd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 1,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-17T09:58:19+09:00",
+      "hatena_count": 1
+    },
+    {
+      "id": "qiita-f141bfba0d",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "今週中に対応すべき脆弱性 6 つ。Outlook・Chrome・Edge・VPN 機器は悪用あり、iPhone・Mac・SonicWall は今週が期限（11/16〜11/22）",
+      "url": "https://qiita.com/songchong/items/75bf50a67ca5370ec6bf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 1,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-16T03:58:36+09:00",
+      "severity": "high",
+      "hatena_count": 1
     }
   ],
   "security_highlights": [
