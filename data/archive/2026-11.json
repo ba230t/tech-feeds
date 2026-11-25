@@ -1,7 +1,7 @@
 {
   "month": "2026-11",
   "total_articles": 483,
-  "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (4件)**\n\n1. NGINXの複数の脆弱性対策について（CVE-2026-123007、CVE-2026-123633等）\n\n2. Oracle Java の脆弱性対策について(2026年11月)\n\n3. 更新：PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell)\n\n4. 【事前準備のお願い】PHPのセキュリティリリース公開予定について（11月）\n\n**AI・機械学習動向 (5件)**\n\n1. 寝てる間に自動で動くAIエージェントを誰でも作れる：10分でわかる pstack 実践ガイド\n\n2. 自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス\n\n3. Rails: 37signalsのコード品質を支える独自のエンジニアリング戦略（翻訳）\n\n4. Rails: DHHがRails World 2026キーノートで「語らなかった」部分とは（翻訳）\n\n5. Claude Code の /ship を図解する\n\n**技術トレンド (1件)**\n\n1. 著名なRust製OSSをLean 4で形式検証してみたら、めちゃめちゃバグが見つかった話",
+  "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (3件)**\n\n1. NGINXの複数の脆弱性対策について（CVE-2026-123007、CVE-2026-123633等）\n\n2. Oracle Java の脆弱性対策について(2026年11月)\n\n3. 更新：PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell)\n\n**AI・機械学習動向 (6件)**\n\n1. 寝てる間に自動で動くAIエージェントを誰でも作れる：10分でわかる pstack 実践ガイド\n\n2. 自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス\n\n3. Rails: 37signalsのコード品質を支える独自のエンジニアリング戦略（翻訳）\n\n4. Rails: DHHがRails World 2026キーノートで「語らなかった」部分とは（翻訳）\n\n5. Claude Code の /ship を図解する\n\n6. Claude Code を5〜8個並べても迷わないように、自分用のダッシュボードをバイブコーディングで作った\n\n**技術トレンド (1件)**\n\n1. 著名なRust製OSSをLean 4で形式検証してみたら、めちゃめちゃバグが見つかった話",
   "source_counts": {
     "sns": 426,
     "ipa": 7,
@@ -138,13 +138,27 @@
       "sub_source": "Zenn",
       "title": "Claude Code の /ship を図解する",
       "url": "https://zenn.dev/peoplex_blog/articles/claude-code-ship",
-      "score": 16,
+      "score": 20,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 24 Nov 2026 06:30:06 GMT",
-      "hatena_count": 16
+      "hatena_count": 20
+    },
+    {
+      "id": "zenn-89c61f23bd",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Claude Code を5〜8個並べても迷わないように、自分用のダッシュボードをバイブコーディングで作った",
+      "url": "https://zenn.dev/nexta_/articles/a3ff76a9f98f1c",
+      "score": 15,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 24 Nov 2026 02:30:05 GMT",
+      "hatena_count": 15
     },
     {
       "id": "ipa-155c365440",
@@ -191,18 +205,18 @@
       "hatena_count": 12
     },
     {
-      "id": "zenn-89c61f23bd",
+      "id": "zenn-2c95d41a68",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "Claude Code を5〜8個並べても迷わないように、自分用のダッシュボードをバイブコーディングで作った",
-      "url": "https://zenn.dev/nexta_/articles/a3ff76a9f98f1c",
-      "score": 6,
+      "title": "マーダーミステリーのシナリオを形式手法で検証しようとしたら、バグと曖昧さが見つかった",
+      "url": "https://zenn.dev/henteko/articles/ed8d1458246d7a",
+      "score": 9,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Tue, 24 Nov 2026 02:30:05 GMT",
-      "hatena_count": 6
+      "date": "Tue, 24 Nov 2026 16:45:47 GMT",
+      "hatena_count": 9
     },
     {
       "id": "zenn-3ee1c2d061",
@@ -217,20 +231,6 @@
       ],
       "date": "Sat, 21 Nov 2026 15:14:13 GMT",
       "hatena_count": 5
-    },
-    {
-      "id": "zenn-2c95d41a68",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "マーダーミステリーのシナリオを形式手法で検証しようとしたら、バグと曖昧さが見つかった",
-      "url": "https://zenn.dev/henteko/articles/ed8d1458246d7a",
-      "score": 3,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 24 Nov 2026 16:45:47 GMT",
-      "hatena_count": 3
     },
     {
       "id": "zenn-0ea4aa436e",
