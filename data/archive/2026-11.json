@@ -133,6 +133,20 @@
       "hatena_count": 21
     },
     {
+      "id": "zenn-34af77c367",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Claude Code の /ship を図解する",
+      "url": "https://zenn.dev/peoplex_blog/articles/claude-code-ship",
+      "score": 16,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 24 Nov 2026 06:30:06 GMT",
+      "hatena_count": 16
+    },
+    {
       "id": "ipa-155c365440",
       "source": "ipa",
       "title": "【事前準備のお願い】PHPのセキュリティリリース公開予定について（11月）",
@@ -145,20 +159,6 @@
       ],
       "severity": "medium",
       "date": "2026-11-19T00:00:00+09:00",
-      "hatena_count": 14
-    },
-    {
-      "id": "zenn-34af77c367",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Claude Code の /ship を図解する",
-      "url": "https://zenn.dev/peoplex_blog/articles/claude-code-ship",
-      "score": 14,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 24 Nov 2026 06:30:06 GMT",
       "hatena_count": 14
     },
     {
@@ -196,13 +196,13 @@
       "sub_source": "Zenn",
       "title": "Claude Code を5〜8個並べても迷わないように、自分用のダッシュボードをバイブコーディングで作った",
       "url": "https://zenn.dev/nexta_/articles/a3ff76a9f98f1c",
-      "score": 5,
+      "score": 6,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 24 Nov 2026 02:30:05 GMT",
-      "hatena_count": 5
+      "hatena_count": 6
     },
     {
       "id": "zenn-3ee1c2d061",
