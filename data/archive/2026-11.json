@@ -1,7 +1,7 @@
 {
   "month": "2026-11",
   "total_articles": 483,
-  "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (2件)**\n\n1. NGINXの複数の脆弱性対策について（CVE-2026-123007、CVE-2026-123633等）\n\n2. Oracle Java の脆弱性対策について(2026年11月)\n\n**AI・機械学習動向 (4件)**\n\n1. 寝てる間に自動で動くAIエージェントを誰でも作れる：10分でわかる pstack 実践ガイド\n\n2. Rails: 37signalsのコード品質を支える独自のエンジニアリング戦略（翻訳）\n\n3. Claude Code を5〜8個並べても迷わないように、自分用のダッシュボードをバイブコーディングで作った\n\n4. Rails: DHHがRails World 2026キーノートで「語らなかった」部分とは（翻訳）\n\n**技術トレンド (4件)**\n\n1. 著名なRust製OSSをLean 4で形式検証してみたら、めちゃめちゃバグが見つかった話\n\n2. マーダーミステリーのシナリオを形式手法で検証しようとしたら、バグと曖昧さが見つかった\n\n3. 【自動化】Muse のサイドチャットへ Webhook を届ける MuseKnock の仕組み\n\n4. アウトプットの「質」ってじゃあなんなんだよ",
+  "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (2件)**\n\n1. NGINXの複数の脆弱性対策について（CVE-2026-123007、CVE-2026-123633等）\n\n2. Oracle Java の脆弱性対策について(2026年11月)\n\n**AI・機械学習動向 (4件)**\n\n1. Rails: 37signalsのコード品質を支える独自のエンジニアリング戦略（翻訳）\n\n2. Claude Code を5〜8個並べても迷わないように、自分用のダッシュボードをバイブコーディングで作った\n\n3. Rails: DHHがRails World 2026キーノートで「語らなかった」部分とは（翻訳）\n\n4. Claude Code の /ship を図解する\n\n**技術トレンド (4件)**\n\n1. 著名なRust製OSSをLean 4で形式検証してみたら、めちゃめちゃバグが見つかった話\n\n2. マーダーミステリーのシナリオを形式手法で検証しようとしたら、バグと曖昧さが見つかった\n\n3. 【自動化】Muse のサイドチャットへ Webhook を届ける MuseKnock の仕組み\n\n4. アウトプットの「質」ってじゃあなんなんだよ",
   "source_counts": {
     "sns": 404,
     "jpcert": 62,
@@ -15,20 +15,6 @@
     "critical": 2
   },
   "top_articles": [
-    {
-      "id": "zenn-a0ddabc90e",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "寝てる間に自動で動くAIエージェントを誰でも作れる：10分でわかる pstack 実践ガイド",
-      "url": "https://zenn.dev/canly/articles/ca6875cd79539f",
-      "score": 579,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 20 Nov 2026 09:04:40 GMT",
-      "hatena_count": 579
-    },
     {
       "id": "zenn-5ee0680a16",
       "source": "sns",
@@ -63,13 +49,13 @@
       "sub_source": "Zenn",
       "title": "【自動化】Muse のサイドチャットへ Webhook を届ける MuseKnock の仕組み",
       "url": "https://zenn.dev/codehex/articles/33bc6ee330b880",
-      "score": 58,
+      "score": 59,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 25 Nov 2026 06:12:03 GMT",
-      "hatena_count": 58
+      "hatena_count": 59
     },
     {
       "id": "ipa-7afa9de38c",
@@ -107,13 +93,13 @@
       "sub_source": "Zenn",
       "title": "Claude Code を5〜8個並べても迷わないように、自分用のダッシュボードをバイブコーディングで作った",
       "url": "https://zenn.dev/nexta_/articles/a3ff76a9f98f1c",
-      "score": 44,
+      "score": 46,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 24 Nov 2026 02:30:05 GMT",
-      "hatena_count": 44
+      "hatena_count": 46
     },
     {
       "id": "techracho-4b67c39e4f",
@@ -233,18 +219,18 @@
       "hatena_count": 12
     },
     {
-      "id": "zenn-aa865468e1",
+      "id": "zenn-3ee1c2d061",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "Gemini 4 Neon を API で叩いて Claude Code・Codex CLI と比べた：65万トークンの超長文、費用、失敗",
-      "url": "https://zenn.dev/canly/articles/40e773759da8f8",
-      "score": 7,
+      "title": "Orca Botsが良さそう、何ができるのか",
+      "url": "https://zenn.dev/kg_motors_mibot/articles/orca-bot-intro",
+      "score": 5,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Tue, 24 Nov 2026 08:51:41 GMT",
-      "hatena_count": 7
+      "date": "Sat, 21 Nov 2026 15:14:13 GMT",
+      "hatena_count": 5
     },
     {
       "id": "techracho-1b08ae4a11",
@@ -276,20 +262,6 @@
       "hatena_count": 3
     },
     {
-      "id": "zenn-12364f8de6",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "エンジニア20人の組織を、デザイナー1人と AI で支える仕組み",
-      "url": "https://zenn.dev/rimo/articles/c25919207b1cde",
-      "score": 3,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 24 Nov 2026 08:24:00 GMT",
-      "hatena_count": 3
-    },
-    {
       "id": "techracho-511973acbf",
       "source": "techracho",
       "title": "RubyistがGoに挑む: ポケモンAPIクライアントを書いてみた（翻訳）",
@@ -303,6 +275,35 @@
       ],
       "date": "Tue, 10 Nov 2026 08:30:16 +0000",
       "hatena_count": 3
+    },
+    {
+      "id": "techracho-f68eade31b",
+      "source": "techracho",
+      "title": "「RailsはJITコンパイラだ！」（翻訳）",
+      "url": "https://techracho.bpsinc.jp/hachi8833/2026_11_09/160947",
+      "score": 3,
+      "author": "Techracho",
+      "tags": [
+        "Ruby",
+        "Rails",
+        "日本語"
+      ],
+      "date": "Mon, 09 Nov 2026 08:30:25 +0000",
+      "hatena_count": 3
+    },
+    {
+      "id": "zenn-e7f018a2b7",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "型チェックが重かったので、クエリの型推論を手放してみた",
+      "url": "https://zenn.dev/dress_code/articles/88b55221eea4e0",
+      "score": 2,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 26 Nov 2026 02:15:05 GMT",
+      "hatena_count": 2
     }
   ],
   "security_highlights": [
