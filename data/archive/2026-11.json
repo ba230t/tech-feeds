@@ -219,6 +219,20 @@
       "hatena_count": 12
     },
     {
+      "id": "zenn-3ee1c2d061",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Orca Botsが良さそう、何ができるのか",
+      "url": "https://zenn.dev/kg_motors_mibot/articles/orca-bot-intro",
+      "score": 5,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 21 Nov 2026 15:14:13 GMT",
+      "hatena_count": 5
+    },
+    {
       "id": "techracho-1b08ae4a11",
       "source": "techracho",
       "title": "Ruby のインストールとバージョン管理を rbenv から rv に切り替えた（翻訳）",
@@ -289,20 +303,6 @@
         "Zenn"
       ],
       "date": "Thu, 26 Nov 2026 02:15:05 GMT",
-      "hatena_count": 2
-    },
-    {
-      "id": "zenn-ba630da2a4",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Claude CodeとLLM Wikiで全国の自治体の入札参加資格を、一人で回す",
-      "url": "https://zenn.dev/wisevine/articles/97b7ba8db70657",
-      "score": 2,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 25 Nov 2026 00:00:07 GMT",
       "hatena_count": 2
     }
   ],
