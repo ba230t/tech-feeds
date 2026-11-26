@@ -1,7 +1,21 @@
 {
-  "updated_at": "2026-11-26T20:05:42.515510+00:00",
+  "updated_at": "2026-11-26T20:33:18.359153+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "qiita-b485bbd907",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "耳で聞く！ システム設計 視点の 行動経済学 12",
+      "url": "https://qiita.com/maskot1977/items/9f7bf8854eb609f52a15?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-26T17:24:21+09:00",
+      "hatena_count": 0
+    },
     {
       "id": "qiita-d941a93627",
       "source": "sns",
@@ -14,6 +28,20 @@
         "Qiita"
       ],
       "date": "2026-11-26T16:42:47+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-0f49b0f7fe",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "AIコーディングで再び出会うTDD・BDD・仕様駆動開発",
+      "url": "https://qiita.com/figueiredoluiz/items/be77af87766215ef1055?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-26T15:47:52+09:00",
       "hatena_count": 0
     },
     {
@@ -42,6 +70,20 @@
         "Qiita"
       ],
       "date": "2026-11-26T11:33:28+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-2bacf77454",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "「git push が通らないので調べて」と頼むと、Codex は作業フォルダの外の ~/.ssh を読んだ。Claude Code と Gemini CLI は確認なしでは読まなかった（偽の鍵で60回）",
+      "url": "https://qiita.com/suwa_nobu/items/3bcba393673985c9b8ed?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-26T09:57:58+09:00",
       "hatena_count": 0
     },
     {
@@ -529,6 +571,20 @@
       "hatena_count": 0
     },
     {
+      "id": "qiita-3180f61c7e",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "Exastro Agentic AIの仕組み：ExastroのAIアシスタントで自然言語の依頼を統制された自動化につなぐ",
+      "url": "https://qiita.com/Exastro-community/items/de9f36b73d004415c041?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-25T18:12:46+09:00",
+      "hatena_count": 0
+    },
+    {
       "id": "qiita-b456bd1228",
       "source": "sns",
       "sub_source": "Qiita",
@@ -540,6 +596,20 @@
         "Qiita"
       ],
       "date": "2026-11-25T17:14:14+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-287eec74c1",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "AI コーディングエージェントは、作った会社の製品を勧めるのか。会社を指定せずに125回頼んだら、Codex は全部 OpenAI、Claude は埋め込み以外は全部 Anthropic、Gemini CLI は OpenAI も選んだ",
+      "url": "https://qiita.com/suwa_nobu/items/4eb41b9b2215a2849f4e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-25T15:53:30+09:00",
       "hatena_count": 0
     },
     {
@@ -6339,76 +6409,6 @@
         "Qiita"
       ],
       "date": "2026-11-07T22:03:02+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-3fdcf91927",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "React学習過程整理tips(備考)",
-      "url": "https://qiita.com/polymetisoutis/items/9e6a8e16f11e7e8f834c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-07T20:14:30+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-ee5878e51e",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "Reactで学習記録アプリを作ってみた",
-      "url": "https://qiita.com/Tukirukiki/items/caf31e82f1fb28affa4c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-07T18:32:35+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-1474e3cfd4",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "【公式】Pyxel 3.0リリース！世界初（？）レトロ3Dゲームエンジン機能を搭載！",
-      "url": "https://qiita.com/kitao/items/af92619297d5563f2a0e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-07T18:11:57+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-75db3d9760",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "SSA ベースの .NET IL 最適化コンパイラーを作ってみた",
-      "url": "https://qiita.com/hez2010/items/70fe879c1a37379f020c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-07T16:25:48+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-975f40bcfa",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "OCI Database ServicesのマネージドMCPサーバーをCodexから使ってみた",
-      "url": "https://qiita.com/mo__mo/items/4a8b7100b6b65a582889?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-07T13:47:45+09:00",
       "hatena_count": 0
     },
     {
