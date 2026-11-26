@@ -12,7 +12,7 @@
     "info": 60,
     "high": 13,
     "medium": 7,
-    "critical": 2
+    "critical": 3
   },
   "top_articles": [
     {
@@ -35,13 +35,13 @@
       "sub_source": "Zenn",
       "title": "マーダーミステリーのシナリオを形式手法で検証しようとしたら、バグと曖昧さが見つかった",
       "url": "https://zenn.dev/henteko/articles/ed8d1458246d7a",
-      "score": 132,
+      "score": 133,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 24 Nov 2026 16:45:47 GMT",
-      "hatena_count": 132
+      "hatena_count": 133
     },
     {
       "id": "zenn-61230c546e",
@@ -307,6 +307,21 @@
     }
   ],
   "security_highlights": [
+    {
+      "id": "zenn-e0aa7d061f",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Agentforce エージェントからユーザー単位の認証で外部 MCP サーバーに接続する",
+      "url": "https://zenn.dev/hrendoh/articles/agentforce-mcp-per-user-auth",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 26 Nov 2026 11:22:02 GMT",
+      "severity": "critical",
+      "hatena_count": 0
+    },
     {
       "id": "qiita-aef77f328d",
       "source": "sns",
