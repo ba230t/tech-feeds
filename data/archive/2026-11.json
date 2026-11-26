@@ -11,7 +11,7 @@
   "severity_counts": {
     "info": 60,
     "medium": 7,
-    "critical": 2,
+    "critical": 3,
     "high": 12
   },
   "top_articles": [
@@ -73,20 +73,6 @@
       "hatena_count": 56
     },
     {
-      "id": "zenn-61230c546e",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "【自動化】Muse のサイドチャットへ Webhook を届ける MuseKnock の仕組み",
-      "url": "https://zenn.dev/codehex/articles/33bc6ee330b880",
-      "score": 47,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 25 Nov 2026 06:12:03 GMT",
-      "hatena_count": 47
-    },
-    {
       "id": "techracho-10e1220cbf",
       "source": "techracho",
       "title": "Rails: 37signalsのコード品質を支える独自のエンジニアリング戦略（翻訳）",
@@ -100,6 +86,20 @@
       ],
       "date": "Tue, 24 Nov 2026 08:30:04 +0000",
       "hatena_count": 47
+    },
+    {
+      "id": "zenn-61230c546e",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "【自動化】Muse のサイドチャットへ Webhook を届ける MuseKnock の仕組み",
+      "url": "https://zenn.dev/codehex/articles/33bc6ee330b880",
+      "score": 44,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 25 Nov 2026 06:12:03 GMT",
+      "hatena_count": 44
     },
     {
       "id": "zenn-89c61f23bd",
@@ -180,13 +180,13 @@
       "sub_source": "Zenn",
       "title": "アウトプットの「質」ってじゃあなんなんだよ",
       "url": "https://zenn.dev/watany/articles/1efe3adea67dd5",
-      "score": 17,
+      "score": 16,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 25 Nov 2026 11:31:18 GMT",
-      "hatena_count": 17
+      "hatena_count": 16
     },
     {
       "id": "ipa-155c365440",
@@ -307,6 +307,21 @@
     }
   ],
   "security_highlights": [
+    {
+      "id": "zenn-36db506c59",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Agentforce エージェントから外部 MCP サーバー（Asana）のツールを使う",
+      "url": "https://zenn.dev/hrendoh/articles/agentforce-external-mcp-asana",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 25 Nov 2026 01:41:04 GMT",
+      "severity": "critical",
+      "hatena_count": 0
+    },
     {
       "id": "qiita-889e41a718",
       "source": "sns",
