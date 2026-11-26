@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T19:04:17.234100+00:00",
+  "updated_at": "2026-11-26T19:33:24.112144+00:00",
   "count": 500,
   "items": [
     {
@@ -6682,17 +6682,31 @@
       "hatena_count": 38
     },
     {
-      "id": "zenn-cfa9c3dc11",
+      "id": "zenn-a46e3fe0e4",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "RTX 5070 と Foundry Local でハイブリッド LLM のローカル側を実測：容量・品質と障害時の切り替え",
-      "url": "https://zenn.dev/hlt/articles/c2e3ed8ff9ddb8",
+      "title": "迷惑メール対策をしているのに、なぜ詐欺メールは届くのか",
+      "url": "https://zenn.dev/akagumi/articles/catch-all-phishing-invisible-chars",
       "score": 0,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Thu, 26 Nov 2026 11:10:15 GMT",
+      "date": "Thu, 26 Nov 2026 14:08:33 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-56bd4ab479",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Quadro P2200(VRAM 5GB)でMoE LLMを2種類動かしてみた",
+      "url": "https://zenn.dev/nooop/articles/00cde2e1a825ad",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 26 Nov 2026 11:41:19 GMT",
       "hatena_count": 0
     },
     {
@@ -6710,18 +6724,18 @@
       "hatena_count": 1
     },
     {
-      "id": "zenn-0d5ee9a626",
+      "id": "zenn-53ac49b403",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "Snowflake AIMのデスクトップアプリでTeradataからの移行を検証してみた",
-      "url": "https://zenn.dev/snowflakejp/articles/snowflake-aim-app-teradata",
-      "score": 0,
+      "title": "個人の目標設定に悩んでいたら、アジャイルが言葉を定義し直すきっかけをくれた話",
+      "url": "https://zenn.dev/yoshipon_tech/articles/a0e13c3dbd2f7d",
+      "score": 1,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Thu, 26 Nov 2026 04:07:23 GMT",
-      "hatena_count": 0
+      "date": "Thu, 26 Nov 2026 05:35:21 GMT",
+      "hatena_count": 1
     },
     {
       "id": "zenn-1bbb89adf7",
@@ -6946,20 +6960,6 @@
       ],
       "date": "Mon, 23 Nov 2026 05:17:05 GMT",
       "hatena_count": 251
-    },
-    {
-      "id": "zenn-3ee1c2d061",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Orca Botsが良さそう、何ができるのか",
-      "url": "https://zenn.dev/kg_motors_mibot/articles/orca-bot-intro",
-      "score": 5,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 21 Nov 2026 15:14:13 GMT",
-      "hatena_count": 5
     },
     {
       "id": "techracho-b051f66e09",
