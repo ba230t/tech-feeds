@@ -21,13 +21,13 @@
       "sub_source": "Zenn",
       "title": "寝てる間に自動で動くAIエージェントを誰でも作れる：10分でわかる pstack 実践ガイド",
       "url": "https://zenn.dev/canly/articles/ca6875cd79539f",
-      "score": 577,
+      "score": 578,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 20 Nov 2026 09:04:40 GMT",
-      "hatena_count": 577
+      "hatena_count": 578
     },
     {
       "id": "zenn-5ee0680a16",
@@ -49,13 +49,13 @@
       "sub_source": "Zenn",
       "title": "マーダーミステリーのシナリオを形式手法で検証しようとしたら、バグと曖昧さが見つかった",
       "url": "https://zenn.dev/henteko/articles/ed8d1458246d7a",
-      "score": 122,
+      "score": 126,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 24 Nov 2026 16:45:47 GMT",
-      "hatena_count": 122
+      "hatena_count": 126
     },
     {
       "id": "ipa-7afa9de38c",
@@ -78,13 +78,13 @@
       "sub_source": "Zenn",
       "title": "【自動化】Muse のサイドチャットへ Webhook を届ける MuseKnock の仕組み",
       "url": "https://zenn.dev/codehex/articles/33bc6ee330b880",
-      "score": 47,
+      "score": 51,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 25 Nov 2026 06:12:03 GMT",
-      "hatena_count": 47
+      "hatena_count": 51
     },
     {
       "id": "techracho-10e1220cbf",
@@ -107,13 +107,13 @@
       "sub_source": "Zenn",
       "title": "Claude Code を5〜8個並べても迷わないように、自分用のダッシュボードをバイブコーディングで作った",
       "url": "https://zenn.dev/nexta_/articles/a3ff76a9f98f1c",
-      "score": 41,
+      "score": 43,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 24 Nov 2026 02:30:05 GMT",
-      "hatena_count": 41
+      "hatena_count": 43
     },
     {
       "id": "techracho-4b67c39e4f",
@@ -160,6 +160,20 @@
       "hatena_count": 28
     },
     {
+      "id": "zenn-93700ffb17",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "アウトプットの「質」ってじゃあなんなんだよ",
+      "url": "https://zenn.dev/watany/articles/1efe3adea67dd5",
+      "score": 25,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 25 Nov 2026 11:31:18 GMT",
+      "hatena_count": 25
+    },
+    {
       "id": "ipa-ee45d6bd49",
       "source": "ipa",
       "title": "更新：PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell)",
@@ -173,20 +187,6 @@
       "severity": "medium",
       "date": "2026-11-02T00:00:00+09:00",
       "hatena_count": 21
-    },
-    {
-      "id": "zenn-93700ffb17",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "アウトプットの「質」ってじゃあなんなんだよ",
-      "url": "https://zenn.dev/watany/articles/1efe3adea67dd5",
-      "score": 17,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 25 Nov 2026 11:31:18 GMT",
-      "hatena_count": 17
     },
     {
       "id": "ipa-155c365440",
@@ -261,6 +261,21 @@
       "hatena_count": 4
     },
     {
+      "id": "techracho-1b08ae4a11",
+      "source": "techracho",
+      "title": "Ruby のインストールとバージョン管理を rbenv から rv に切り替えた（翻訳）",
+      "url": "https://techracho.bpsinc.jp/hachi8833/2026_11_25/159868",
+      "score": 3,
+      "author": "Techracho",
+      "tags": [
+        "Ruby",
+        "Rails",
+        "日本語"
+      ],
+      "date": "Wed, 25 Nov 2026 08:30:22 +0000",
+      "hatena_count": 3
+    },
+    {
       "id": "techracho-511973acbf",
       "source": "techracho",
       "title": "RubyistがGoに挑む: ポケモンAPIクライアントを書いてみた（翻訳）",
@@ -288,21 +303,6 @@
         "日本語"
       ],
       "date": "Mon, 09 Nov 2026 08:30:25 +0000",
-      "hatena_count": 3
-    },
-    {
-      "id": "techracho-3ff1a08033",
-      "source": "techracho",
-      "title": "Shopifyの Rubydex linter でRubyプロジェクトに構造的lintを導入しよう（翻訳）",
-      "url": "https://techracho.bpsinc.jp/hachi8833/2026_11_05/160032",
-      "score": 3,
-      "author": "Techracho",
-      "tags": [
-        "Ruby",
-        "Rails",
-        "日本語"
-      ],
-      "date": "Thu, 05 Nov 2026 08:30:46 +0000",
       "hatena_count": 3
     }
   ],
