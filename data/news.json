@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T11:05:07.797821+00:00",
+  "updated_at": "2026-11-26T11:33:26.616108+00:00",
   "count": 500,
   "items": [
     {
@@ -6799,13 +6799,13 @@
       "sub_source": "Zenn",
       "title": "【自動化】Muse のサイドチャットへ Webhook を届ける MuseKnock の仕組み",
       "url": "https://zenn.dev/codehex/articles/33bc6ee330b880",
-      "score": 59,
+      "score": 60,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 25 Nov 2026 06:12:03 GMT",
-      "hatena_count": 59
+      "hatena_count": 60
     },
     {
       "id": "zenn-3df00cca6f",
