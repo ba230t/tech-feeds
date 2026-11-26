@@ -49,13 +49,13 @@
       "sub_source": "Zenn",
       "title": "マーダーミステリーのシナリオを形式手法で検証しようとしたら、バグと曖昧さが見つかった",
       "url": "https://zenn.dev/henteko/articles/ed8d1458246d7a",
-      "score": 126,
+      "score": 127,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 24 Nov 2026 16:45:47 GMT",
-      "hatena_count": 126
+      "hatena_count": 127
     },
     {
       "id": "ipa-7afa9de38c",
@@ -78,13 +78,13 @@
       "sub_source": "Zenn",
       "title": "【自動化】Muse のサイドチャットへ Webhook を届ける MuseKnock の仕組み",
       "url": "https://zenn.dev/codehex/articles/33bc6ee330b880",
-      "score": 53,
+      "score": 54,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 25 Nov 2026 06:12:03 GMT",
-      "hatena_count": 53
+      "hatena_count": 54
     },
     {
       "id": "techracho-10e1220cbf",
@@ -107,13 +107,13 @@
       "sub_source": "Zenn",
       "title": "Claude Code を5〜8個並べても迷わないように、自分用のダッシュボードをバイブコーディングで作った",
       "url": "https://zenn.dev/nexta_/articles/a3ff76a9f98f1c",
-      "score": 43,
+      "score": 44,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 24 Nov 2026 02:30:05 GMT",
-      "hatena_count": 43
+      "hatena_count": 44
     },
     {
       "id": "techracho-4b67c39e4f",
@@ -151,13 +151,13 @@
       "sub_source": "Zenn",
       "title": "Claude Code の /ship を図解する",
       "url": "https://zenn.dev/peoplex_blog/articles/claude-code-ship",
-      "score": 28,
+      "score": 29,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 24 Nov 2026 06:30:06 GMT",
-      "hatena_count": 28
+      "hatena_count": 29
     },
     {
       "id": "zenn-93700ffb17",
@@ -165,13 +165,13 @@
       "sub_source": "Zenn",
       "title": "アウトプットの「質」ってじゃあなんなんだよ",
       "url": "https://zenn.dev/watany/articles/1efe3adea67dd5",
-      "score": 25,
+      "score": 26,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 25 Nov 2026 11:31:18 GMT",
-      "hatena_count": 25
+      "hatena_count": 26
     },
     {
       "id": "ipa-ee45d6bd49",
@@ -233,32 +233,46 @@
       "hatena_count": 12
     },
     {
-      "id": "zenn-3ee1c2d061",
+      "id": "zenn-753757425f",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "Orca Botsが良さそう、何ができるのか",
-      "url": "https://zenn.dev/kg_motors_mibot/articles/orca-bot-intro",
-      "score": 5,
+      "title": "なんとなくgrill-meしている人に伝えたい、作者本人から学んだSkillsの使い方",
+      "url": "https://zenn.dev/mediaforce/articles/27df1f22a00546",
+      "score": 3,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Sat, 21 Nov 2026 15:14:13 GMT",
-      "hatena_count": 5
+      "date": "Tue, 24 Nov 2026 22:30:05 GMT",
+      "hatena_count": 3
     },
     {
-      "id": "zenn-0ea4aa436e",
+      "id": "zenn-aa865468e1",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "Copilot Studioのエージェント開発をClaude Codeにどこまで任せられるか試した",
-      "url": "https://zenn.dev/upgradetech/articles/a9a1637d3071c1",
-      "score": 4,
+      "title": "Gemini 4 Neon を API で叩いて Claude Code・Codex CLI と比べた：65万トークンの超長文、費用、失敗",
+      "url": "https://zenn.dev/canly/articles/40e773759da8f8",
+      "score": 3,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Tue, 24 Nov 2026 09:24:58 GMT",
-      "hatena_count": 4
+      "date": "Tue, 24 Nov 2026 08:51:41 GMT",
+      "hatena_count": 3
+    },
+    {
+      "id": "zenn-12364f8de6",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "エンジニア20人の組織を、デザイナー1人と AI で支える仕組み",
+      "url": "https://zenn.dev/rimo/articles/c25919207b1cde",
+      "score": 3,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 24 Nov 2026 08:24:00 GMT",
+      "hatena_count": 3
     },
     {
       "id": "techracho-1b08ae4a11",
@@ -288,21 +302,6 @@
         "日本語"
       ],
       "date": "Tue, 10 Nov 2026 08:30:16 +0000",
-      "hatena_count": 3
-    },
-    {
-      "id": "techracho-f68eade31b",
-      "source": "techracho",
-      "title": "「RailsはJITコンパイラだ！」（翻訳）",
-      "url": "https://techracho.bpsinc.jp/hachi8833/2026_11_09/160947",
-      "score": 3,
-      "author": "Techracho",
-      "tags": [
-        "Ruby",
-        "Rails",
-        "日本語"
-      ],
-      "date": "Mon, 09 Nov 2026 08:30:25 +0000",
       "hatena_count": 3
     }
   ],
