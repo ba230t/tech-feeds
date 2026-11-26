@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T06:40:45.820378+00:00",
+  "updated_at": "2026-11-26T07:06:14.943908+00:00",
   "count": 500,
   "items": [
     {
@@ -6737,32 +6737,18 @@
       "hatena_count": 0
     },
     {
-      "id": "zenn-e9d2b23f8d",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "AIを使った開発に「敵対的検証」を取り入れてみた",
-      "url": "https://zenn.dev/visionarray/articles/26b316ff128513",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 25 Nov 2026 06:55:45 GMT",
-      "hatena_count": 0
-    },
-    {
       "id": "zenn-61230c546e",
       "source": "sns",
       "sub_source": "Zenn",
       "title": "【自動化】Muse のサイドチャットへ Webhook を届ける MuseKnock の仕組み",
       "url": "https://zenn.dev/codehex/articles/33bc6ee330b880",
-      "score": 55,
+      "score": 57,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 25 Nov 2026 06:12:03 GMT",
-      "hatena_count": 55
+      "hatena_count": 57
     },
     {
       "id": "zenn-dcedfbde36",
@@ -6784,13 +6770,27 @@
       "sub_source": "Zenn",
       "title": "Claude Code のセキュリティ、2026年11月時点のベストプラクティス（サンドボックス・権限・MCP）",
       "url": "https://zenn.dev/happy_elements/articles/27e14ff6754044",
-      "score": 0,
+      "score": 1,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 25 Nov 2026 03:53:12 GMT",
-      "hatena_count": 0
+      "hatena_count": 1
+    },
+    {
+      "id": "zenn-ba630da2a4",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Claude CodeとLLM Wikiで全国の自治体の入札参加資格を、一人で回す",
+      "url": "https://zenn.dev/wisevine/articles/97b7ba8db70657",
+      "score": 2,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 25 Nov 2026 00:00:07 GMT",
+      "hatena_count": 2
     },
     {
       "id": "zenn-ebeaaaf361",
@@ -6854,13 +6854,13 @@
       "sub_source": "Zenn",
       "title": "Gemini 4 Neon を API で叩いて Claude Code・Codex CLI と比べた：65万トークンの超長文、費用、失敗",
       "url": "https://zenn.dev/canly/articles/40e773759da8f8",
-      "score": 5,
+      "score": 7,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 24 Nov 2026 08:51:41 GMT",
-      "hatena_count": 5
+      "hatena_count": 7
     },
     {
       "id": "zenn-12364f8de6",

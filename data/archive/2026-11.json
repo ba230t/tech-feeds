@@ -58,6 +58,20 @@
       "hatena_count": 129
     },
     {
+      "id": "zenn-61230c546e",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "【自動化】Muse のサイドチャットへ Webhook を届ける MuseKnock の仕組み",
+      "url": "https://zenn.dev/codehex/articles/33bc6ee330b880",
+      "score": 57,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 25 Nov 2026 06:12:03 GMT",
+      "hatena_count": 57
+    },
+    {
       "id": "ipa-7afa9de38c",
       "source": "ipa",
       "title": "NGINXの複数の脆弱性対策について（CVE-2026-123007、CVE-2026-123633等）",
@@ -71,20 +85,6 @@
       "severity": "medium",
       "date": "2026-11-19T00:00:00+09:00",
       "hatena_count": 56
-    },
-    {
-      "id": "zenn-61230c546e",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "【自動化】Muse のサイドチャットへ Webhook を届ける MuseKnock の仕組み",
-      "url": "https://zenn.dev/codehex/articles/33bc6ee330b880",
-      "score": 55,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 25 Nov 2026 06:12:03 GMT",
-      "hatena_count": 55
     },
     {
       "id": "techracho-10e1220cbf",
@@ -238,13 +238,13 @@
       "sub_source": "Zenn",
       "title": "Gemini 4 Neon を API で叩いて Claude Code・Codex CLI と比べた：65万トークンの超長文、費用、失敗",
       "url": "https://zenn.dev/canly/articles/40e773759da8f8",
-      "score": 5,
+      "score": 7,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 24 Nov 2026 08:51:41 GMT",
-      "hatena_count": 5
+      "hatena_count": 7
     },
     {
       "id": "zenn-753757425f",
