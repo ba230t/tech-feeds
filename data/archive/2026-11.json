@@ -63,13 +63,13 @@
       "sub_source": "Zenn",
       "title": "【自動化】Muse のサイドチャットへ Webhook を届ける MuseKnock の仕組み",
       "url": "https://zenn.dev/codehex/articles/33bc6ee330b880",
-      "score": 57,
+      "score": 58,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 25 Nov 2026 06:12:03 GMT",
-      "hatena_count": 57
+      "hatena_count": 58
     },
     {
       "id": "ipa-7afa9de38c",
@@ -247,6 +247,21 @@
       "hatena_count": 7
     },
     {
+      "id": "techracho-1b08ae4a11",
+      "source": "techracho",
+      "title": "Ruby のインストールとバージョン管理を rbenv から rv に切り替えた（翻訳）",
+      "url": "https://techracho.bpsinc.jp/hachi8833/2026_11_25/159868",
+      "score": 4,
+      "author": "Techracho",
+      "tags": [
+        "Ruby",
+        "Rails",
+        "日本語"
+      ],
+      "date": "Wed, 25 Nov 2026 08:30:22 +0000",
+      "hatena_count": 4
+    },
+    {
       "id": "zenn-753757425f",
       "source": "sns",
       "sub_source": "Zenn",
@@ -272,21 +287,6 @@
         "Zenn"
       ],
       "date": "Tue, 24 Nov 2026 08:24:00 GMT",
-      "hatena_count": 3
-    },
-    {
-      "id": "techracho-1b08ae4a11",
-      "source": "techracho",
-      "title": "Ruby のインストールとバージョン管理を rbenv から rv に切り替えた（翻訳）",
-      "url": "https://techracho.bpsinc.jp/hachi8833/2026_11_25/159868",
-      "score": 3,
-      "author": "Techracho",
-      "tags": [
-        "Ruby",
-        "Rails",
-        "日本語"
-      ],
-      "date": "Wed, 25 Nov 2026 08:30:22 +0000",
       "hatena_count": 3
     },
     {
