@@ -11,7 +11,7 @@
   "severity_counts": {
     "info": 60,
     "medium": 7,
-    "critical": 2,
+    "critical": 3,
     "high": 12
   },
   "top_articles": [
@@ -49,13 +49,13 @@
       "sub_source": "Zenn",
       "title": "マーダーミステリーのシナリオを形式手法で検証しようとしたら、バグと曖昧さが見つかった",
       "url": "https://zenn.dev/henteko/articles/ed8d1458246d7a",
-      "score": 120,
+      "score": 122,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 24 Nov 2026 16:45:47 GMT",
-      "hatena_count": 120
+      "hatena_count": 122
     },
     {
       "id": "ipa-7afa9de38c",
@@ -93,13 +93,13 @@
       "sub_source": "Zenn",
       "title": "【自動化】Muse のサイドチャットへ Webhook を届ける MuseKnock の仕組み",
       "url": "https://zenn.dev/codehex/articles/33bc6ee330b880",
-      "score": 43,
+      "score": 44,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 25 Nov 2026 06:12:03 GMT",
-      "hatena_count": 43
+      "hatena_count": 44
     },
     {
       "id": "zenn-89c61f23bd",
@@ -252,13 +252,13 @@
       "sub_source": "Zenn",
       "title": "Copilot Studioのエージェント開発をClaude Codeにどこまで任せられるか試した",
       "url": "https://zenn.dev/upgradetech/articles/a9a1637d3071c1",
-      "score": 3,
+      "score": 4,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 24 Nov 2026 09:24:58 GMT",
-      "hatena_count": 3
+      "hatena_count": 4
     },
     {
       "id": "techracho-511973acbf",
@@ -307,6 +307,21 @@
     }
   ],
   "security_highlights": [
+    {
+      "id": "zenn-36db506c59",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Agentforce エージェントから外部 MCP サーバー（Asana）のツールを使う",
+      "url": "https://zenn.dev/hrendoh/articles/agentforce-external-mcp-asana",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 25 Nov 2026 01:41:04 GMT",
+      "severity": "critical",
+      "hatena_count": 0
+    },
     {
       "id": "qiita-889e41a718",
       "source": "sns",

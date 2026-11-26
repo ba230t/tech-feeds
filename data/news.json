@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T01:05:58.167760+00:00",
+  "updated_at": "2026-11-26T01:34:25.003466+00:00",
   "count": 500,
   "items": [
     {
@@ -6681,20 +6681,6 @@
       "hatena_count": 38
     },
     {
-      "id": "zenn-a9a69da1f8",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "specは実装後に8割削除しよう",
-      "url": "https://zenn.dev/ruri/articles/distill-specs-after-implementation",
-      "score": 1,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 25 Nov 2026 11:33:06 GMT",
-      "hatena_count": 1
-    },
-    {
       "id": "zenn-93700ffb17",
       "source": "sns",
       "sub_source": "Zenn",
@@ -6728,13 +6714,13 @@
       "sub_source": "Zenn",
       "title": "【自動化】Muse のサイドチャットへ Webhook を届ける MuseKnock の仕組み",
       "url": "https://zenn.dev/codehex/articles/33bc6ee330b880",
-      "score": 43,
+      "score": 44,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 25 Nov 2026 06:12:03 GMT",
-      "hatena_count": 43
+      "hatena_count": 44
     },
     {
       "id": "zenn-dcedfbde36",
@@ -6765,31 +6751,32 @@
       "hatena_count": 0
     },
     {
-      "id": "zenn-d5012befbb",
+      "id": "zenn-c18190d52e",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "moejsはSobekの半分以下、正規表現を使う処理ではgo-quickjsが逆転： pure Go製JSエンジン3種を同じプラグインで比較",
-      "url": "https://zenn.dev/nonejp/articles/3bbffb1db9c4ce",
+      "title": "Corpus2Skillに近づけた「階層ナビゲーション型RAG」と、ベクトルDB版RAGを「どの段階で失敗したか」まで比べてみた",
+      "url": "https://zenn.dev/aiforall/articles/133752ce2d97ad",
       "score": 0,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Wed, 25 Nov 2026 01:00:51 GMT",
+      "date": "Wed, 25 Nov 2026 02:35:47 GMT",
       "hatena_count": 0
     },
     {
-      "id": "zenn-ba630da2a4",
+      "id": "zenn-36db506c59",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "Claude CodeとLLM Wikiで全国の自治体の入札参加資格を、一人で回す",
-      "url": "https://zenn.dev/wisevine/articles/97b7ba8db70657",
+      "title": "Agentforce エージェントから外部 MCP サーバー（Asana）のツールを使う",
+      "url": "https://zenn.dev/hrendoh/articles/agentforce-external-mcp-asana",
       "score": 0,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Wed, 25 Nov 2026 00:00:07 GMT",
+      "date": "Wed, 25 Nov 2026 01:41:04 GMT",
+      "severity": "critical",
       "hatena_count": 0
     },
     {
@@ -6805,6 +6792,20 @@
       ],
       "date": "Tue, 24 Nov 2026 23:30:05 GMT",
       "hatena_count": 2
+    },
+    {
+      "id": "zenn-753757425f",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "なんとなくgrill-meしている人に伝えたい、作者本人から学んだSkillsの使い方",
+      "url": "https://zenn.dev/mediaforce/articles/27df1f22a00546",
+      "score": 1,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 24 Nov 2026 22:30:05 GMT",
+      "hatena_count": 1
     },
     {
       "id": "zenn-cd67c8ba18",
@@ -6826,13 +6827,13 @@
       "sub_source": "Zenn",
       "title": "マーダーミステリーのシナリオを形式手法で検証しようとしたら、バグと曖昧さが見つかった",
       "url": "https://zenn.dev/henteko/articles/ed8d1458246d7a",
-      "score": 120,
+      "score": 122,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 24 Nov 2026 16:45:47 GMT",
-      "hatena_count": 120
+      "hatena_count": 122
     },
     {
       "id": "zenn-0ea4aa436e",
@@ -6840,13 +6841,13 @@
       "sub_source": "Zenn",
       "title": "Copilot Studioのエージェント開発をClaude Codeにどこまで任せられるか試した",
       "url": "https://zenn.dev/upgradetech/articles/a9a1637d3071c1",
-      "score": 3,
+      "score": 4,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 24 Nov 2026 09:24:58 GMT",
-      "hatena_count": 3
+      "hatena_count": 4
     },
     {
       "id": "zenn-aa865468e1",
