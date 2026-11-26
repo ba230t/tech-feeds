@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T22:33:17.455992+00:00",
+  "updated_at": "2026-11-26T23:05:01.621468+00:00",
   "count": 500,
   "items": [
     {
@@ -6799,13 +6799,13 @@
       "sub_source": "Zenn",
       "title": "結局「オントロジー」って何なのさ 〜概念と良さを4つのレイヤーで整理する〜",
       "url": "https://zenn.dev/algomatic/articles/ece749a7e3cb24",
-      "score": 1,
+      "score": 2,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 25 Nov 2026 09:23:05 GMT",
-      "hatena_count": 1
+      "hatena_count": 2
     },
     {
       "id": "zenn-61230c546e",
@@ -6841,13 +6841,13 @@
       "sub_source": "Zenn",
       "title": "Claude CodeとLLM Wikiで全国の自治体の入札参加資格を、一人で回す",
       "url": "https://zenn.dev/wisevine/articles/97b7ba8db70657",
-      "score": 2,
+      "score": 3,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 25 Nov 2026 00:00:07 GMT",
-      "hatena_count": 2
+      "hatena_count": 3
     },
     {
       "id": "zenn-ebeaaaf361",
