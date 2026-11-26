@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T04:33:11.758552+00:00",
+  "updated_at": "2026-11-26T05:05:34.926532+00:00",
   "count": 500,
   "items": [
     {
@@ -6737,32 +6737,18 @@
       "hatena_count": 0
     },
     {
-      "id": "zenn-e9d2b23f8d",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "AIを使った開発に「敵対的検証」を取り入れてみた",
-      "url": "https://zenn.dev/visionarray/articles/26b316ff128513",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 25 Nov 2026 06:55:45 GMT",
-      "hatena_count": 0
-    },
-    {
       "id": "zenn-61230c546e",
       "source": "sns",
       "sub_source": "Zenn",
       "title": "【自動化】Muse のサイドチャットへ Webhook を届ける MuseKnock の仕組み",
       "url": "https://zenn.dev/codehex/articles/33bc6ee330b880",
-      "score": 54,
+      "score": 55,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 25 Nov 2026 06:12:03 GMT",
-      "hatena_count": 54
+      "hatena_count": 55
     },
     {
       "id": "zenn-dcedfbde36",
@@ -6791,6 +6777,20 @@
       ],
       "date": "Wed, 25 Nov 2026 03:53:12 GMT",
       "hatena_count": 0
+    },
+    {
+      "id": "zenn-ba630da2a4",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Claude CodeとLLM Wikiで全国の自治体の入札参加資格を、一人で回す",
+      "url": "https://zenn.dev/wisevine/articles/97b7ba8db70657",
+      "score": 2,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 25 Nov 2026 00:00:07 GMT",
+      "hatena_count": 2
     },
     {
       "id": "zenn-ebeaaaf361",
@@ -6840,13 +6840,13 @@
       "sub_source": "Zenn",
       "title": "マーダーミステリーのシナリオを形式手法で検証しようとしたら、バグと曖昧さが見つかった",
       "url": "https://zenn.dev/henteko/articles/ed8d1458246d7a",
-      "score": 127,
+      "score": 128,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Tue, 24 Nov 2026 16:45:47 GMT",
-      "hatena_count": 127
+      "hatena_count": 128
     },
     {
       "id": "zenn-aa865468e1",
