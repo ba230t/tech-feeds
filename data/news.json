@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T17:33:34.056377+00:00",
+  "updated_at": "2026-11-26T18:06:10.678892+00:00",
   "count": 500,
   "items": [
     {
@@ -6682,17 +6682,17 @@
       "hatena_count": 38
     },
     {
-      "id": "zenn-cfa9c3dc11",
+      "id": "zenn-a46e3fe0e4",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "RTX 5070 と Foundry Local でハイブリッド LLM のローカル側を実測：容量・品質と障害時の切り替え",
-      "url": "https://zenn.dev/hlt/articles/c2e3ed8ff9ddb8",
+      "title": "迷惑メール対策をしているのに、なぜ詐欺メールは届くのか",
+      "url": "https://zenn.dev/akagumi/articles/catch-all-phishing-invisible-chars",
       "score": 0,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Thu, 26 Nov 2026 11:10:15 GMT",
+      "date": "Thu, 26 Nov 2026 14:08:33 GMT",
       "hatena_count": 0
     },
     {
@@ -6708,20 +6708,6 @@
       ],
       "date": "Thu, 26 Nov 2026 08:00:08 GMT",
       "hatena_count": 1
-    },
-    {
-      "id": "zenn-0d5ee9a626",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Snowflake AIMのデスクトップアプリでTeradataからの移行を検証してみた",
-      "url": "https://zenn.dev/snowflakejp/articles/snowflake-aim-app-teradata",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 26 Nov 2026 04:07:23 GMT",
-      "hatena_count": 0
     },
     {
       "id": "zenn-1bbb89adf7",
@@ -6752,6 +6738,20 @@
       "hatena_count": 2
     },
     {
+      "id": "zenn-203f750d91",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "人の判断を切り出すAgent Skillsの設計（v7.0.2）",
+      "url": "https://zenn.dev/jayt/articles/agent-skills-judgment-extraction",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 26 Nov 2026 02:05:57 GMT",
+      "hatena_count": 0
+    },
+    {
       "id": "zenn-179d2b9823",
       "source": "sns",
       "sub_source": "Zenn",
@@ -6764,6 +6764,20 @@
       ],
       "date": "Thu, 26 Nov 2026 01:36:47 GMT",
       "hatena_count": 0
+    },
+    {
+      "id": "zenn-a9a69da1f8",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "specは実装後に8割削除しよう",
+      "url": "https://zenn.dev/ruri/articles/distill-specs-after-implementation",
+      "score": 1,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 25 Nov 2026 11:33:06 GMT",
+      "hatena_count": 1
     },
     {
       "id": "zenn-93700ffb17",
@@ -6946,20 +6960,6 @@
       ],
       "date": "Mon, 23 Nov 2026 05:17:05 GMT",
       "hatena_count": 251
-    },
-    {
-      "id": "zenn-3ee1c2d061",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Orca Botsが良さそう、何ができるのか",
-      "url": "https://zenn.dev/kg_motors_mibot/articles/orca-bot-intro",
-      "score": 5,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 21 Nov 2026 15:14:13 GMT",
-      "hatena_count": 5
     },
     {
       "id": "techracho-b051f66e09",
