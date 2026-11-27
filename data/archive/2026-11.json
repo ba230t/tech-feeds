@@ -10,7 +10,7 @@
   },
   "severity_counts": {
     "info": 60,
-    "high": 13,
+    "high": 12,
     "medium": 7,
     "critical": 2
   },
@@ -191,6 +191,20 @@
       "hatena_count": 12
     },
     {
+      "id": "zenn-a46e3fe0e4",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "迷惑メール対策をしているのに、なぜ詐欺メールは届くのか",
+      "url": "https://zenn.dev/akagumi/articles/catch-all-phishing-invisible-chars",
+      "score": 4,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 26 Nov 2026 14:08:33 GMT",
+      "hatena_count": 4
+    },
+    {
       "id": "zenn-753757425f",
       "source": "sns",
       "sub_source": "Zenn",
@@ -276,20 +290,6 @@
       ],
       "date": "Mon, 09 Nov 2026 08:30:25 +0000",
       "hatena_count": 3
-    },
-    {
-      "id": "zenn-a46e3fe0e4",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "迷惑メール対策をしているのに、なぜ詐欺メールは届くのか",
-      "url": "https://zenn.dev/akagumi/articles/catch-all-phishing-invisible-chars",
-      "score": 2,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 26 Nov 2026 14:08:33 GMT",
-      "hatena_count": 2
     },
     {
       "id": "zenn-cd67c8ba18",
@@ -514,21 +514,6 @@
         "Qiita"
       ],
       "date": "2026-11-09T04:10:12+09:00",
-      "severity": "high",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-a5ea1fc81b",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "脆弱性の情報は間に合っている？ 英語は 2 時間以内、悪用は 4 割が 1 日以内、日本語は中央値 4.6 日後。悪用された 74 件を調べて分かった",
-      "url": "https://qiita.com/songchong/items/b3c6c879f03f9bb665d3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-08T18:00:22+09:00",
       "severity": "high",
       "hatena_count": 0
     }
