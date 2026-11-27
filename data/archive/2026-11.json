@@ -21,13 +21,13 @@
       "sub_source": "Zenn",
       "title": "著名なRust製OSSをLean 4で形式検証してみたら、めちゃめちゃバグが見つかった話",
       "url": "https://zenn.dev/koukyosyumei/articles/31c8fcf4da45b7",
-      "score": 252,
+      "score": 253,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 23 Nov 2026 05:17:05 GMT",
-      "hatena_count": 252
+      "hatena_count": 253
     },
     {
       "id": "zenn-2c95d41a68",
@@ -248,20 +248,6 @@
       "hatena_count": 3
     },
     {
-      "id": "zenn-ba630da2a4",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Claude CodeとLLM Wikiで全国の自治体の入札参加資格を、一人で回す",
-      "url": "https://zenn.dev/wisevine/articles/97b7ba8db70657",
-      "score": 3,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 25 Nov 2026 00:00:07 GMT",
-      "hatena_count": 3
-    },
-    {
       "id": "zenn-753757425f",
       "source": "sns",
       "sub_source": "Zenn",
@@ -304,6 +290,20 @@
       ],
       "date": "Mon, 09 Nov 2026 08:30:25 +0000",
       "hatena_count": 3
+    },
+    {
+      "id": "zenn-e7f018a2b7",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "型チェックが重かったので、クエリの型推論を手放してみた",
+      "url": "https://zenn.dev/dress_code/articles/88b55221eea4e0",
+      "score": 2,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 26 Nov 2026 02:15:05 GMT",
+      "hatena_count": 2
     }
   ],
   "security_highlights": [
