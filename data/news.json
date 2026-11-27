@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T08:34:25.562699+00:00",
+  "updated_at": "2026-11-27T09:05:54.022321+00:00",
   "count": 500,
   "items": [
     {
@@ -6742,13 +6742,13 @@
       "sub_source": "Zenn",
       "title": "迷惑メール対策をしているのに、なぜ詐欺メールは届くのか",
       "url": "https://zenn.dev/akagumi/articles/catch-all-phishing-invisible-chars",
-      "score": 4,
+      "score": 6,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 26 Nov 2026 14:08:33 GMT",
-      "hatena_count": 4
+      "hatena_count": 6
     },
     {
       "id": "zenn-b350a4a309",
@@ -6854,13 +6854,13 @@
       "sub_source": "Zenn",
       "title": "アウトプットの「質」ってじゃあなんなんだよ",
       "url": "https://zenn.dev/watany/articles/1efe3adea67dd5",
-      "score": 29,
+      "score": 30,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 25 Nov 2026 11:31:18 GMT",
-      "hatena_count": 29
+      "hatena_count": 30
     },
     {
       "id": "zenn-4ab8a1658a",
