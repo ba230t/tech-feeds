@@ -292,17 +292,17 @@
       "hatena_count": 3
     },
     {
-      "id": "zenn-cd67c8ba18",
+      "id": "zenn-e7f018a2b7",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "モデルの性能が出ないのは AI ゲートウェイのせいかもしれない",
-      "url": "https://zenn.dev/google_cloud_jp/articles/7e29a9acf06557",
+      "title": "型チェックが重かったので、クエリの型推論を手放してみた",
+      "url": "https://zenn.dev/dress_code/articles/88b55221eea4e0",
       "score": 2,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Tue, 24 Nov 2026 22:22:23 GMT",
+      "date": "Thu, 26 Nov 2026 02:15:05 GMT",
       "hatena_count": 2
     }
   ],

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T05:33:42.711422+00:00",
+  "updated_at": "2026-11-27T06:08:58.240538+00:00",
   "count": 500,
   "items": [
     {
@@ -6682,20 +6682,6 @@
       "hatena_count": 38
     },
     {
-      "id": "zenn-9d4ed83e42",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "止められないDBをAWS DMSで移行してハマったこと（RDS for Oracle）",
-      "url": "https://zenn.dev/kiri0728/articles/c8d5f349b047dd",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 27 Nov 2026 02:37:34 GMT",
-      "hatena_count": 0
-    },
-    {
       "id": "zenn-a46e3fe0e4",
       "source": "sns",
       "sub_source": "Zenn",
@@ -6708,20 +6694,6 @@
       ],
       "date": "Thu, 26 Nov 2026 14:08:33 GMT",
       "hatena_count": 1
-    },
-    {
-      "id": "zenn-cfa9c3dc11",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "RTX 5070 と Foundry Local でハイブリッド LLM のローカル側を実測：容量・品質と障害時の切り替え",
-      "url": "https://zenn.dev/hlt/articles/c2e3ed8ff9ddb8",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 26 Nov 2026 11:10:15 GMT",
-      "hatena_count": 0
     },
     {
       "id": "zenn-9f2f53b9aa",
@@ -6794,18 +6766,46 @@
       "hatena_count": 0
     },
     {
-      "id": "zenn-a9a69da1f8",
+      "id": "zenn-cc1bca50a8",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "specは実装後に8割削除しよう",
-      "url": "https://zenn.dev/ruri/articles/distill-specs-after-implementation",
-      "score": 1,
+      "title": "既存のExcelを自動で編集したい──AIに書かせたOffice ScriptsとCopilot Studioで試してみた",
+      "url": "https://zenn.dev/upgradetech/articles/1bed37bcbf0732",
+      "score": 0,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Wed, 25 Nov 2026 11:33:06 GMT",
-      "hatena_count": 1
+      "date": "Thu, 26 Nov 2026 03:37:56 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-e7f018a2b7",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "型チェックが重かったので、クエリの型推論を手放してみた",
+      "url": "https://zenn.dev/dress_code/articles/88b55221eea4e0",
+      "score": 2,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 26 Nov 2026 02:15:05 GMT",
+      "hatena_count": 2
+    },
+    {
+      "id": "zenn-203f750d91",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "人の判断を切り出すAgent Skillsの設計（v7.0.2）",
+      "url": "https://zenn.dev/jayt/articles/agent-skills-judgment-extraction",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 26 Nov 2026 02:05:57 GMT",
+      "hatena_count": 0
     },
     {
       "id": "zenn-93700ffb17",
