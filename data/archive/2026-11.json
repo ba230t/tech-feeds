@@ -1,7 +1,7 @@
 {
   "month": "2026-11",
   "total_articles": 483,
-  "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (2件)**\n\n1. NGINXの複数の脆弱性対策について（CVE-2026-123007、CVE-2026-123633等）\n\n2. Oracle Java の脆弱性対策について(2026年11月)\n\n**AI・機械学習動向 (4件)**\n\n1. Claude Code を5〜8個並べても迷わないように、自分用のダッシュボードをバイブコーディングで作った\n\n2. Rails: 37signalsのコード品質を支える独自のエンジニアリング戦略（翻訳）\n\n3. Rails: DHHがRails World 2026キーノートで「語らなかった」部分とは（翻訳）\n\n4. Claude Code の /ship を図解する\n\n**技術トレンド (4件)**\n\n1. 著名なRust製OSSをLean 4で形式検証してみたら、めちゃめちゃバグが見つかった話\n\n2. 【自動化】Muse のサイドチャットへ Webhook を届ける MuseKnock の仕組み\n\n3. アウトプットの「質」ってじゃあなんなんだよ\n\n4. GitHub ActionsからPATもGitHub App Private Keyも駆逐する",
+  "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (3件)**\n\n1. NGINXの複数の脆弱性対策について（CVE-2026-123007、CVE-2026-123633等）\n\n2. Oracle Java の脆弱性対策について(2026年11月)\n\n3. 更新：PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell)\n\n**AI・機械学習動向 (3件)**\n\n1. Claude Code を5〜8個並べても迷わないように、自分用のダッシュボードをバイブコーディングで作った\n\n2. Rails: 37signalsのコード品質を支える独自のエンジニアリング戦略（翻訳）\n\n3. Rails: DHHがRails World 2026キーノートで「語らなかった」部分とは（翻訳）\n\n**技術トレンド (4件)**\n\n1. 著名なRust製OSSをLean 4で形式検証してみたら、めちゃめちゃバグが見つかった話\n\n2. 【自動化】Muse のサイドチャットへ Webhook を届ける MuseKnock の仕組み\n\n3. アウトプットの「質」ってじゃあなんなんだよ\n\n4. GitHub ActionsからPATもGitHub App Private Keyも駆逐する",
   "source_counts": {
     "sns": 404,
     "jpcert": 62,
@@ -132,20 +132,6 @@
       "hatena_count": 30
     },
     {
-      "id": "zenn-34af77c367",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Claude Code の /ship を図解する",
-      "url": "https://zenn.dev/peoplex_blog/articles/claude-code-ship",
-      "score": 29,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 24 Nov 2026 06:30:06 GMT",
-      "hatena_count": 29
-    },
-    {
       "id": "zenn-fcbb3f70ae",
       "source": "sns",
       "sub_source": "Zenn",
@@ -204,20 +190,6 @@
       "hatena_count": 14
     },
     {
-      "id": "zenn-19d0b5888e",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "JSConf JP 2026 公開資料・Xアカウントリンクまとめ",
-      "url": "https://zenn.dev/h_yoshikawa0724/articles/2026-11-23-jsconf-jp-2026",
-      "score": 14,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 23 Nov 2026 05:38:39 GMT",
-      "hatena_count": 14
-    },
-    {
       "id": "jpcert-30cd0d7475",
       "source": "jpcert",
       "title": "注意喚起: PHPにおける複数の脆弱性（CVE-2026-109618、CVE-2026-109619）に関する注意喚起  (更新)",
@@ -231,20 +203,6 @@
       "severity": "high",
       "date": "2026-11-20T13:40+09:00",
       "hatena_count": 12
-    },
-    {
-      "id": "zenn-ba630da2a4",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Claude CodeとLLM Wikiで全国の自治体の入札参加資格を、一人で回す",
-      "url": "https://zenn.dev/wisevine/articles/97b7ba8db70657",
-      "score": 5,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 25 Nov 2026 00:00:07 GMT",
-      "hatena_count": 5
     },
     {
       "id": "zenn-753757425f",
@@ -303,6 +261,49 @@
       ],
       "date": "Tue, 10 Nov 2026 08:30:16 +0000",
       "hatena_count": 3
+    },
+    {
+      "id": "techracho-f68eade31b",
+      "source": "techracho",
+      "title": "「RailsはJITコンパイラだ！」（翻訳）",
+      "url": "https://techracho.bpsinc.jp/hachi8833/2026_11_09/160947",
+      "score": 3,
+      "author": "Techracho",
+      "tags": [
+        "Ruby",
+        "Rails",
+        "日本語"
+      ],
+      "date": "Mon, 09 Nov 2026 08:30:25 +0000",
+      "hatena_count": 3
+    },
+    {
+      "id": "zenn-135cc7070a",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "自宅PCを格安ファイルサーバーとして構築してみた",
+      "url": "https://zenn.dev/nextbeat/articles/7c820845a91d7d",
+      "score": 2,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 27 Nov 2026 02:09:30 GMT",
+      "hatena_count": 2
+    },
+    {
+      "id": "zenn-cd67c8ba18",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "モデルの性能が出ないのは AI ゲートウェイのせいかもしれない",
+      "url": "https://zenn.dev/google_cloud_jp/articles/7e29a9acf06557",
+      "score": 2,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 24 Nov 2026 22:22:23 GMT",
+      "hatena_count": 2
     }
   ],
   "security_highlights": [
