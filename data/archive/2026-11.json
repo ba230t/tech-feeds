@@ -49,13 +49,13 @@
       "sub_source": "Zenn",
       "title": "【自動化】Muse のサイドチャットへ Webhook を届ける MuseKnock の仕組み",
       "url": "https://zenn.dev/codehex/articles/33bc6ee330b880",
-      "score": 61,
+      "score": 62,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 25 Nov 2026 06:12:03 GMT",
-      "hatena_count": 61
+      "hatena_count": 62
     },
     {
       "id": "ipa-7afa9de38c",
@@ -190,20 +190,6 @@
       "hatena_count": 14
     },
     {
-      "id": "zenn-19d0b5888e",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "JSConf JP 2026 公開資料・Xアカウントリンクまとめ",
-      "url": "https://zenn.dev/h_yoshikawa0724/articles/2026-11-23-jsconf-jp-2026",
-      "score": 14,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 23 Nov 2026 05:38:39 GMT",
-      "hatena_count": 14
-    },
-    {
       "id": "jpcert-30cd0d7475",
       "source": "jpcert",
       "title": "注意喚起: PHPにおける複数の脆弱性（CVE-2026-109618、CVE-2026-109619）に関する注意喚起  (更新)",
@@ -290,6 +276,20 @@
       ],
       "date": "Mon, 09 Nov 2026 08:30:25 +0000",
       "hatena_count": 3
+    },
+    {
+      "id": "zenn-fcbb3f70ae",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "GitHub ActionsからPATもGitHub App Private Keyも駆逐する",
+      "url": "https://zenn.dev/tmknom/articles/github-app-token-exchange-system",
+      "score": 2,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 27 Nov 2026 02:51:13 GMT",
+      "hatena_count": 2
     },
     {
       "id": "zenn-cd67c8ba18",
