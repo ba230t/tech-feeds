@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T14:33:42.911394+00:00",
+  "updated_at": "2026-11-27T15:05:18.460158+00:00",
   "count": 500,
   "items": [
     {
@@ -6714,13 +6714,13 @@
       "sub_source": "Zenn",
       "title": "GitHub ActionsからPATもGitHub App Private Keyも駆逐する",
       "url": "https://zenn.dev/tmknom/articles/github-app-token-exchange-system",
-      "score": 15,
+      "score": 18,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 27 Nov 2026 02:51:13 GMT",
-      "hatena_count": 15
+      "hatena_count": 18
     },
     {
       "id": "zenn-ff679b22bf",
@@ -6770,13 +6770,13 @@
       "sub_source": "Zenn",
       "title": "自宅PCを格安ファイルサーバーとして構築してみた",
       "url": "https://zenn.dev/nextbeat/articles/7c820845a91d7d",
-      "score": 1,
+      "score": 2,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 27 Nov 2026 02:09:30 GMT",
-      "hatena_count": 1
+      "hatena_count": 2
     },
     {
       "id": "zenn-7ccce28a6d",
@@ -6798,13 +6798,13 @@
       "sub_source": "Zenn",
       "title": "迷惑メール対策をしているのに、なぜ詐欺メールは届くのか",
       "url": "https://zenn.dev/akagumi/articles/catch-all-phishing-invisible-chars",
-      "score": 15,
+      "score": 18,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 26 Nov 2026 14:08:33 GMT",
-      "hatena_count": 15
+      "hatena_count": 18
     },
     {
       "id": "zenn-b350a4a309",
@@ -6819,20 +6819,6 @@
       ],
       "date": "Thu, 26 Nov 2026 13:50:13 GMT",
       "hatena_count": 0
-    },
-    {
-      "id": "zenn-f6c54e8dc7",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "「日本語で」と書いても AI が英語に戻るので、Stop フックで止めた",
-      "url": "https://zenn.dev/hitori_pm/articles/cc955887656339",
-      "score": 1,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 26 Nov 2026 13:22:44 GMT",
-      "hatena_count": 1
     },
     {
       "id": "zenn-9f2f53b9aa",
@@ -6896,13 +6882,27 @@
       "sub_source": "Zenn",
       "title": "【自動化】Muse のサイドチャットへ Webhook を届ける MuseKnock の仕組み",
       "url": "https://zenn.dev/codehex/articles/33bc6ee330b880",
-      "score": 64,
+      "score": 65,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 25 Nov 2026 06:12:03 GMT",
-      "hatena_count": 64
+      "hatena_count": 65
+    },
+    {
+      "id": "zenn-3df00cca6f",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Claude Code のセキュリティ、2026年11月時点のベストプラクティス（サンドボックス・権限・MCP）",
+      "url": "https://zenn.dev/happy_elements/articles/27e14ff6754044",
+      "score": 1,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 25 Nov 2026 03:53:12 GMT",
+      "hatena_count": 1
     },
     {
       "id": "zenn-753757425f",
