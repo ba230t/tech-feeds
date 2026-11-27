@@ -161,6 +161,20 @@
       "hatena_count": 21
     },
     {
+      "id": "zenn-a46e3fe0e4",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "迷惑メール対策をしているのに、なぜ詐欺メールは届くのか",
+      "url": "https://zenn.dev/akagumi/articles/catch-all-phishing-invisible-chars",
+      "score": 15,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 26 Nov 2026 14:08:33 GMT",
+      "hatena_count": 15
+    },
+    {
       "id": "ipa-155c365440",
       "source": "ipa",
       "title": "【事前準備のお願い】PHPのセキュリティリリース公開予定について（11月）",
@@ -176,18 +190,18 @@
       "hatena_count": 14
     },
     {
-      "id": "zenn-a46e3fe0e4",
+      "id": "zenn-fcbb3f70ae",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "迷惑メール対策をしているのに、なぜ詐欺メールは届くのか",
-      "url": "https://zenn.dev/akagumi/articles/catch-all-phishing-invisible-chars",
-      "score": 14,
+      "title": "GitHub ActionsからPATもGitHub App Private Keyも駆逐する",
+      "url": "https://zenn.dev/tmknom/articles/github-app-token-exchange-system",
+      "score": 13,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Thu, 26 Nov 2026 14:08:33 GMT",
-      "hatena_count": 14
+      "date": "Fri, 27 Nov 2026 02:51:13 GMT",
+      "hatena_count": 13
     },
     {
       "id": "jpcert-30cd0d7475",
@@ -203,20 +217,6 @@
       "severity": "high",
       "date": "2026-11-20T13:40+09:00",
       "hatena_count": 12
-    },
-    {
-      "id": "zenn-fcbb3f70ae",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "GitHub ActionsからPATもGitHub App Private Keyも駆逐する",
-      "url": "https://zenn.dev/tmknom/articles/github-app-token-exchange-system",
-      "score": 11,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 27 Nov 2026 02:51:13 GMT",
-      "hatena_count": 11
     },
     {
       "id": "zenn-753757425f",
