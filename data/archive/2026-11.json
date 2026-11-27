@@ -132,6 +132,20 @@
       "hatena_count": 30
     },
     {
+      "id": "zenn-fcbb3f70ae",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "GitHub ActionsからPATもGitHub App Private Keyも駆逐する",
+      "url": "https://zenn.dev/tmknom/articles/github-app-token-exchange-system",
+      "score": 22,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 27 Nov 2026 02:51:13 GMT",
+      "hatena_count": 22
+    },
+    {
       "id": "ipa-ee45d6bd49",
       "source": "ipa",
       "title": "更新：PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell)",
@@ -145,20 +159,6 @@
       "severity": "medium",
       "date": "2026-11-02T00:00:00+09:00",
       "hatena_count": 21
-    },
-    {
-      "id": "zenn-fcbb3f70ae",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "GitHub ActionsからPATもGitHub App Private Keyも駆逐する",
-      "url": "https://zenn.dev/tmknom/articles/github-app-token-exchange-system",
-      "score": 20,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 27 Nov 2026 02:51:13 GMT",
-      "hatena_count": 20
     },
     {
       "id": "zenn-a46e3fe0e4",
