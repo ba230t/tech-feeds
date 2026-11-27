@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T19:03:57.440062+00:00",
+  "updated_at": "2026-11-27T19:33:26.685376+00:00",
   "count": 500,
   "items": [
     {
@@ -6765,20 +6765,6 @@
       "hatena_count": 2
     },
     {
-      "id": "zenn-8edeafbf9b",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "AIエージェントにWebのファイルを取得させるリスクについて考える",
-      "url": "https://zenn.dev/layerx/articles/65b4828efcaee2",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 27 Nov 2026 01:48:19 GMT",
-      "hatena_count": 0
-    },
-    {
       "id": "zenn-a46e3fe0e4",
       "source": "sns",
       "sub_source": "Zenn",
@@ -6875,6 +6861,20 @@
       ],
       "date": "Wed, 25 Nov 2026 03:53:12 GMT",
       "hatena_count": 1
+    },
+    {
+      "id": "zenn-ba630da2a4",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Claude CodeとLLM Wikiで全国の自治体の入札参加資格を、一人で回す",
+      "url": "https://zenn.dev/wisevine/articles/97b7ba8db70657",
+      "score": 5,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 25 Nov 2026 00:00:07 GMT",
+      "hatena_count": 5
     },
     {
       "id": "zenn-753757425f",
