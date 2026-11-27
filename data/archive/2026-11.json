@@ -234,6 +234,20 @@
       "hatena_count": 4
     },
     {
+      "id": "zenn-4ab8a1658a",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "結局「オントロジー」って何なのさ 〜概念と良さを4つのレイヤーで整理する〜",
+      "url": "https://zenn.dev/algomatic/articles/ece749a7e3cb24",
+      "score": 3,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 25 Nov 2026 09:23:05 GMT",
+      "hatena_count": 3
+    },
+    {
       "id": "zenn-ba630da2a4",
       "source": "sns",
       "sub_source": "Zenn",
@@ -290,20 +304,6 @@
       ],
       "date": "Mon, 09 Nov 2026 08:30:25 +0000",
       "hatena_count": 3
-    },
-    {
-      "id": "zenn-e7f018a2b7",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "型チェックが重かったので、クエリの型推論を手放してみた",
-      "url": "https://zenn.dev/dress_code/articles/88b55221eea4e0",
-      "score": 2,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 26 Nov 2026 02:15:05 GMT",
-      "hatena_count": 2
     }
   ],
   "security_highlights": [
