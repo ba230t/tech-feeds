@@ -10,7 +10,7 @@
   },
   "severity_counts": {
     "info": 60,
-    "high": 12,
+    "high": 11,
     "medium": 7,
     "critical": 2
   },
@@ -500,21 +500,6 @@
       "severity": "high",
       "date": "2026-11-11T11:20+09:00",
       "hatena_count": 1
-    },
-    {
-      "id": "qiita-eabdafc557",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "部品の脆弱性は、どこまで広がるのか？ 主要 64 製品と 8 部品の依存関係をたどったら、OpenSSL は 20、SQLite は 16、PHP は 11 だった",
-      "url": "https://qiita.com/songchong/items/41a88eb41845af761b19?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-09T04:10:12+09:00",
-      "severity": "high",
-      "hatena_count": 0
     }
   ]
 }
