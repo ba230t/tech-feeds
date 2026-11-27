@@ -219,6 +219,20 @@
       "hatena_count": 12
     },
     {
+      "id": "zenn-753757425f",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "なんとなくgrill-meしている人に伝えたい、作者本人から学んだSkillsの使い方",
+      "url": "https://zenn.dev/mediaforce/articles/27df1f22a00546",
+      "score": 4,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 24 Nov 2026 22:30:05 GMT",
+      "hatena_count": 4
+    },
+    {
       "id": "techracho-1b08ae4a11",
       "source": "techracho",
       "title": "Ruby のインストールとバージョン管理を rbenv から rv に切り替えた（翻訳）",
@@ -259,20 +273,6 @@
         "Zenn"
       ],
       "date": "Wed, 25 Nov 2026 00:00:07 GMT",
-      "hatena_count": 3
-    },
-    {
-      "id": "zenn-753757425f",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "なんとなくgrill-meしている人に伝えたい、作者本人から学んだSkillsの使い方",
-      "url": "https://zenn.dev/mediaforce/articles/27df1f22a00546",
-      "score": 3,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 24 Nov 2026 22:30:05 GMT",
       "hatena_count": 3
     },
     {
