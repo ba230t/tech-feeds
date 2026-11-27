@@ -233,20 +233,6 @@
       "hatena_count": 12
     },
     {
-      "id": "zenn-ba630da2a4",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Claude CodeとLLM Wikiで全国の自治体の入札参加資格を、一人で回す",
-      "url": "https://zenn.dev/wisevine/articles/97b7ba8db70657",
-      "score": 5,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 25 Nov 2026 00:00:07 GMT",
-      "hatena_count": 5
-    },
-    {
       "id": "zenn-753757425f",
       "source": "sns",
       "sub_source": "Zenn",
@@ -302,6 +288,21 @@
         "日本語"
       ],
       "date": "Tue, 10 Nov 2026 08:30:16 +0000",
+      "hatena_count": 3
+    },
+    {
+      "id": "techracho-f68eade31b",
+      "source": "techracho",
+      "title": "「RailsはJITコンパイラだ！」（翻訳）",
+      "url": "https://techracho.bpsinc.jp/hachi8833/2026_11_09/160947",
+      "score": 3,
+      "author": "Techracho",
+      "tags": [
+        "Ruby",
+        "Rails",
+        "日本語"
+      ],
+      "date": "Mon, 09 Nov 2026 08:30:25 +0000",
       "hatena_count": 3
     }
   ],
