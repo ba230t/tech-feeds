@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T00:47:07.926801+00:00",
+  "updated_at": "2026-11-27T01:06:12.073796+00:00",
   "count": 500,
   "items": [
     {
@@ -6724,17 +6724,17 @@
       "hatena_count": 1
     },
     {
-      "id": "zenn-1bbb89adf7",
+      "id": "zenn-1bd1cb88ba",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "TenkaCloudSimulator 開発日記：ChatGPTのDotで開発が自律的に続く仕組みをつくる",
-      "url": "https://zenn.dev/bull/articles/tenkacloud-simulator-devlog-20261126",
+      "title": "作業を止めずに進めるClaude Codeの/btw・/fork・/rewindなどの使い分け",
+      "url": "https://zenn.dev/nextbeat/articles/b0ccca979da06b",
       "score": 0,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Thu, 26 Nov 2026 03:59:02 GMT",
+      "date": "Thu, 26 Nov 2026 07:01:54 GMT",
       "hatena_count": 0
     },
     {
@@ -6813,13 +6813,13 @@
       "sub_source": "Zenn",
       "title": "【自動化】Muse のサイドチャットへ Webhook を届ける MuseKnock の仕組み",
       "url": "https://zenn.dev/codehex/articles/33bc6ee330b880",
-      "score": 60,
+      "score": 61,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 25 Nov 2026 06:12:03 GMT",
-      "hatena_count": 60
+      "hatena_count": 61
     },
     {
       "id": "zenn-3df00cca6f",
