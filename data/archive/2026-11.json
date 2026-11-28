@@ -49,13 +49,13 @@
       "sub_source": "Zenn",
       "title": "作業を止めずに進めるClaude Codeの/btw・/fork・/rewindなどの使い分け",
       "url": "https://zenn.dev/nextbeat/articles/b0ccca979da06b",
-      "score": 81,
+      "score": 86,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 26 Nov 2026 07:01:54 GMT",
-      "hatena_count": 81
+      "hatena_count": 86
     },
     {
       "id": "zenn-890eef02e6",
@@ -63,14 +63,14 @@
       "sub_source": "Zenn",
       "title": "古い PHP / Laravel の脆弱性対応は、Rector と AI でだいたい簡単に終わる",
       "url": "https://zenn.dev/miraizuk/articles/ae8db2bc3ff561",
-      "score": 71,
+      "score": 75,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 27 Nov 2026 16:15:44 GMT",
       "severity": "high",
-      "hatena_count": 71
+      "hatena_count": 75
     },
     {
       "id": "zenn-61230c546e",
@@ -92,13 +92,13 @@
       "sub_source": "Zenn",
       "title": "自宅PCを格安ファイルサーバーとして構築してみた",
       "url": "https://zenn.dev/nextbeat/articles/7c820845a91d7d",
-      "score": 57,
+      "score": 58,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 27 Nov 2026 02:09:30 GMT",
-      "hatena_count": 57
+      "hatena_count": 58
     },
     {
       "id": "ipa-7afa9de38c",
@@ -164,13 +164,13 @@
       "sub_source": "Zenn",
       "title": "GitHub ActionsからPATもGitHub App Private Keyも駆逐する",
       "url": "https://zenn.dev/tmknom/articles/github-app-token-exchange-system",
-      "score": 37,
+      "score": 38,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 27 Nov 2026 02:51:13 GMT",
-      "hatena_count": 37
+      "hatena_count": 38
     },
     {
       "id": "techracho-4b67c39e4f",
@@ -262,6 +262,20 @@
       "hatena_count": 12
     },
     {
+      "id": "zenn-897a380800",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "1時間で作るPerlOS: Yet Another Perl Computer",
+      "url": "https://zenn.dev/takesako/articles/8623cbed6c1bb6",
+      "score": 7,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 27 Nov 2026 23:32:57 GMT",
+      "hatena_count": 7
+    },
+    {
       "id": "techracho-1b08ae4a11",
       "source": "techracho",
       "title": "Ruby のインストールとバージョン管理を rbenv から rv に切り替えた（翻訳）",
@@ -277,32 +291,18 @@
       "hatena_count": 5
     },
     {
-      "id": "zenn-753757425f",
+      "id": "zenn-8711019395",
       "source": "sns",
       "sub_source": "Zenn",
-      "title": "なんとなくgrill-meしている人に伝えたい、作者本人から学んだSkillsの使い方",
-      "url": "https://zenn.dev/mediaforce/articles/27df1f22a00546",
+      "title": "パスキーは最強で美しいよ、正しく実装すればね",
+      "url": "https://zenn.dev/kantacky/articles/b5a03eab70c7b1",
       "score": 4,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
-      "date": "Tue, 24 Nov 2026 22:30:05 GMT",
+      "date": "Fri, 27 Nov 2026 23:00:52 GMT",
       "hatena_count": 4
-    },
-    {
-      "id": "zenn-897a380800",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "1時間で作るPerlOS: Yet Another Perl Computer",
-      "url": "https://zenn.dev/takesako/articles/8623cbed6c1bb6",
-      "score": 3,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 27 Nov 2026 23:32:57 GMT",
-      "hatena_count": 3
     }
   ],
   "security_highlights": [
@@ -312,14 +312,14 @@
       "sub_source": "Zenn",
       "title": "古い PHP / Laravel の脆弱性対応は、Rector と AI でだいたい簡単に終わる",
       "url": "https://zenn.dev/miraizuk/articles/ae8db2bc3ff561",
-      "score": 71,
+      "score": 75,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 27 Nov 2026 16:15:44 GMT",
       "severity": "high",
-      "hatena_count": 71
+      "hatena_count": 75
     },
     {
       "id": "qiita-aef77f328d",
