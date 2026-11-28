@@ -1,7 +1,7 @@
 {
   "month": "2026-11",
   "total_articles": 483,
-  "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (1件)**\n\n1. NGINXの複数の脆弱性対策について（CVE-2026-123007、CVE-2026-123633等）\n\n**AI・機械学習動向 (4件)**\n\n1. 作業を止めずに進めるClaude Codeの/btw・/fork・/rewindなどの使い分け\n\n2. 「日本語で」と指示しても英語に戻るClaude Codeに、Stopフックで対処してみた\n\n3. Claude Code を5〜8個並べても迷わないように、自分用のダッシュボードをバイブコーディングで作った\n\n4. Rails: 37signalsのコード品質を支える独自のエンジニアリング戦略（翻訳）\n\n**技術トレンド (5件)**\n\n1. 著名なRust製OSSをLean 4で形式検証してみたら、めちゃめちゃバグが見つかった話\n\n2. 迷惑メール対策をしているのに、なぜ詐欺メールは届くのか\n\n3. 【自動化】Muse のサイドチャットへ Webhook を届ける MuseKnock の仕組み\n\n4. 自宅PCを格安ファイルサーバーとして構築してみた\n\n5. GitHub ActionsからPATもGitHub App Private Keyも駆逐する",
+  "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (2件)**\n\n1. 古い PHP / Laravel の脆弱性対応は、Rector と AI でだいたい簡単に終わる\n\n2. NGINXの複数の脆弱性対策について（CVE-2026-123007、CVE-2026-123633等）\n\n**AI・機械学習動向 (4件)**\n\n1. 作業を止めずに進めるClaude Codeの/btw・/fork・/rewindなどの使い分け\n\n2. 「日本語で」と指示しても英語に戻るClaude Codeに、Stopフックで対処してみた\n\n3. Claude Code を5〜8個並べても迷わないように、自分用のダッシュボードをバイブコーディングで作った\n\n4. Rails: 37signalsのコード品質を支える独自のエンジニアリング戦略（翻訳）\n\n**技術トレンド (4件)**\n\n1. 著名なRust製OSSをLean 4で形式検証してみたら、めちゃめちゃバグが見つかった話\n\n2. 迷惑メール対策をしているのに、なぜ詐欺メールは届くのか\n\n3. 【自動化】Muse のサイドチャットへ Webhook を届ける MuseKnock の仕組み\n\n4. 自宅PCを格安ファイルサーバーとして構築してみた",
   "source_counts": {
     "sns": 404,
     "jpcert": 62,
@@ -10,7 +10,7 @@
   },
   "severity_counts": {
     "info": 60,
-    "high": 11,
+    "high": 12,
     "medium": 7,
     "critical": 2
   },
@@ -49,13 +49,28 @@
       "sub_source": "Zenn",
       "title": "作業を止めずに進めるClaude Codeの/btw・/fork・/rewindなどの使い分け",
       "url": "https://zenn.dev/nextbeat/articles/b0ccca979da06b",
-      "score": 77,
+      "score": 81,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 26 Nov 2026 07:01:54 GMT",
-      "hatena_count": 77
+      "hatena_count": 81
+    },
+    {
+      "id": "zenn-890eef02e6",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "古い PHP / Laravel の脆弱性対応は、Rector と AI でだいたい簡単に終わる",
+      "url": "https://zenn.dev/miraizuk/articles/ae8db2bc3ff561",
+      "score": 71,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 27 Nov 2026 16:15:44 GMT",
+      "severity": "high",
+      "hatena_count": 71
     },
     {
       "id": "zenn-61230c546e",
@@ -72,6 +87,20 @@
       "hatena_count": 66
     },
     {
+      "id": "zenn-135cc7070a",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "自宅PCを格安ファイルサーバーとして構築してみた",
+      "url": "https://zenn.dev/nextbeat/articles/7c820845a91d7d",
+      "score": 57,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 27 Nov 2026 02:09:30 GMT",
+      "hatena_count": 57
+    },
+    {
       "id": "ipa-7afa9de38c",
       "source": "ipa",
       "title": "NGINXの複数の脆弱性対策について（CVE-2026-123007、CVE-2026-123633等）",
@@ -84,20 +113,6 @@
       ],
       "severity": "medium",
       "date": "2026-11-19T00:00:00+09:00",
-      "hatena_count": 56
-    },
-    {
-      "id": "zenn-135cc7070a",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "自宅PCを格安ファイルサーバーとして構築してみた",
-      "url": "https://zenn.dev/nextbeat/articles/7c820845a91d7d",
-      "score": 56,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 27 Nov 2026 02:09:30 GMT",
       "hatena_count": 56
     },
     {
@@ -247,20 +262,6 @@
       "hatena_count": 12
     },
     {
-      "id": "zenn-4ab8a1658a",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "結局「オントロジー」って何なのさ 〜概念と良さを4つのレイヤーで整理する〜",
-      "url": "https://zenn.dev/algomatic/articles/ece749a7e3cb24",
-      "score": 5,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 25 Nov 2026 09:23:05 GMT",
-      "hatena_count": 5
-    },
-    {
       "id": "techracho-1b08ae4a11",
       "source": "techracho",
       "title": "Ruby のインストールとバージョン管理を rbenv から rv に切り替えた（翻訳）",
@@ -305,6 +306,21 @@
     }
   ],
   "security_highlights": [
+    {
+      "id": "zenn-890eef02e6",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "古い PHP / Laravel の脆弱性対応は、Rector と AI でだいたい簡単に終わる",
+      "url": "https://zenn.dev/miraizuk/articles/ae8db2bc3ff561",
+      "score": 71,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 27 Nov 2026 16:15:44 GMT",
+      "severity": "high",
+      "hatena_count": 71
+    },
     {
       "id": "qiita-aef77f328d",
       "source": "sns",
