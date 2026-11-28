@@ -21,13 +21,13 @@
       "sub_source": "Zenn",
       "title": "著名なRust製OSSをLean 4で形式検証してみたら、めちゃめちゃバグが見つかった話",
       "url": "https://zenn.dev/koukyosyumei/articles/31c8fcf4da45b7",
-      "score": 252,
+      "score": 251,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 23 Nov 2026 05:17:05 GMT",
-      "hatena_count": 252
+      "hatena_count": 251
     },
     {
       "id": "zenn-a46e3fe0e4",
@@ -35,13 +35,13 @@
       "sub_source": "Zenn",
       "title": "迷惑メール対策をしているのに、なぜ詐欺メールは届くのか",
       "url": "https://zenn.dev/akagumi/articles/catch-all-phishing-invisible-chars",
-      "score": 82,
+      "score": 90,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 26 Nov 2026 14:08:33 GMT",
-      "hatena_count": 82
+      "hatena_count": 90
     },
     {
       "id": "zenn-61230c546e",
@@ -78,13 +78,13 @@
       "sub_source": "Zenn",
       "title": "「日本語で」と指示しても英語に戻るClaude Codeに、Stopフックで対処してみた",
       "url": "https://zenn.dev/hitori_pm/articles/cc955887656339",
-      "score": 48,
+      "score": 51,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 26 Nov 2026 13:22:44 GMT",
-      "hatena_count": 48
+      "hatena_count": 51
     },
     {
       "id": "zenn-89c61f23bd",
@@ -174,6 +174,20 @@
       "hatena_count": 31
     },
     {
+      "id": "zenn-1bd1cb88ba",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "作業を止めずに進めるClaude Codeの/btw・/fork・/rewindなどの使い分け",
+      "url": "https://zenn.dev/nextbeat/articles/b0ccca979da06b",
+      "score": 30,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 26 Nov 2026 07:01:54 GMT",
+      "hatena_count": 30
+    },
+    {
       "id": "zenn-34af77c367",
       "source": "sns",
       "sub_source": "Zenn",
@@ -186,6 +200,20 @@
       ],
       "date": "Tue, 24 Nov 2026 06:30:06 GMT",
       "hatena_count": 29
+    },
+    {
+      "id": "zenn-135cc7070a",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "自宅PCを格安ファイルサーバーとして構築してみた",
+      "url": "https://zenn.dev/nextbeat/articles/7c820845a91d7d",
+      "score": 24,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 27 Nov 2026 02:09:30 GMT",
+      "hatena_count": 24
     },
     {
       "id": "ipa-ee45d6bd49",
@@ -201,34 +229,6 @@
       "severity": "medium",
       "date": "2026-11-02T00:00:00+09:00",
       "hatena_count": 21
-    },
-    {
-      "id": "zenn-135cc7070a",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "自宅PCを格安ファイルサーバーとして構築してみた",
-      "url": "https://zenn.dev/nextbeat/articles/7c820845a91d7d",
-      "score": 17,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 27 Nov 2026 02:09:30 GMT",
-      "hatena_count": 17
-    },
-    {
-      "id": "zenn-1bd1cb88ba",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "作業を止めずに進めるClaude Codeの/btw・/fork・/rewindなどの使い分け",
-      "url": "https://zenn.dev/nextbeat/articles/b0ccca979da06b",
-      "score": 15,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 26 Nov 2026 07:01:54 GMT",
-      "hatena_count": 15
     },
     {
       "id": "ipa-155c365440",

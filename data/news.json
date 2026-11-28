@@ -1,7 +1,133 @@
 {
-  "updated_at": "2026-11-28T08:06:06.392285+00:00",
+  "updated_at": "2026-11-28T08:33:11.349308+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "qiita-af589a9016",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "300万円で初心者がダイエットアプリ作ってみた【個人開発】",
+      "url": "https://qiita.com/admin2026/items/88d7bf6922da95f2d1c2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-28T14:31:28+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-115a40c9a4",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "高校生がAIと作り直した関数型言語「Zenith」 — 括弧を消すために「レベル」を持たせた話",
+      "url": "https://qiita.com/nezumickey/items/7fe0d1630ecff5000e6a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-28T14:22:51+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-e6059931e2",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "Microsoft Copilot Chat の「フェアユース」 公正使用の制限について",
+      "url": "https://qiita.com/makinono/items/2a224ce24f6674bc27f1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-28T08:06:16+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-f0f55f4b44",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "WebAssemblyに最適な言語は？Rust?C++?アセンブリ?機械語?.wasm生成?",
+      "url": "https://qiita.com/yangon/items/054180b01a7caf4fc735?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-27T22:53:58+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-fd87aa72ee",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "【初心者向け】CrowdStrikeについてわかりやすく解説する",
+      "url": "https://qiita.com/R_Takei/items/17125ea74ff7688649d5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-27T21:36:32+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-24f40ef2a7",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "【Rails初学者向け】Ransackの日付範囲検索で、終了日当日のデータまで取得する仕組みを調べてみた",
+      "url": "https://qiita.com/Iriei/items/1c08ef5a4ba0857d0e9a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-27T21:36:30+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-400a8589c9",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "【JISSEN】ドメイン記述ミニ言語",
+      "url": "https://qiita.com/J-T_ky2g/items/206b9a8d29982ff089c0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-27T20:51:04+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-72811bd403",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "曖昧をなくす AI 専用の言語、AImy をつくったらてんで役に立たなかったでござる",
+      "url": "https://qiita.com/kazuneet/items/ed8974cde032212e97a4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-27T20:24:16+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-2e720f8a2f",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "AIで作った小さなアプリを、人に渡す前に試す9つのテスト",
+      "url": "https://qiita.com/sansakamoto/items/8659f44e061b29d1b27d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-27T19:36:48+09:00",
+      "hatena_count": 0
+    },
     {
       "id": "qiita-81ab39a0ca",
       "source": "sns",
@@ -669,6 +795,20 @@
       "hatena_count": 0
     },
     {
+      "id": "qiita-7174ad2dd5",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "Claude Designに画面設計書とデザインシステムを渡したら、実装を見据えたUIモックを作れるのか？",
+      "url": "https://qiita.com/ShokiSasaki/items/ad82b12f0e51c1f9f5f9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-26T09:04:55+09:00",
+      "hatena_count": 0
+    },
+    {
       "id": "qiita-47cea0f991",
       "source": "sns",
       "sub_source": "Qiita",
@@ -694,6 +834,20 @@
         "Qiita"
       ],
       "date": "2026-11-26T04:17:51+09:00",
+      "hatena_count": 0
+    },
+    {
+      "id": "qiita-d1e98a0959",
+      "source": "sns",
+      "sub_source": "Qiita",
+      "title": "定理証明支援系 Lean で、Web アプリケーションの認可を網羅的に検証する",
+      "url": "https://qiita.com/keleveni/items/ad2aae81f1dd45960bf0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": 0,
+      "author": "Qiita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-11-26T02:02:55+09:00",
       "hatena_count": 0
     },
     {
@@ -6256,160 +6410,6 @@
       "hatena_count": 0
     },
     {
-      "id": "qiita-7713223ae5",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "JaSST'26 Niigata「コードベースE2E自動テストをどう始め、どう続けるか」聴講レポート",
-      "url": "https://qiita.com/nobosemon/items/bbfd35e8e6dd98b32f94?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-09T16:01:10+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-99a450ac22",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "耳で聞く！Python で学ぶ マクロ経済学 入門 42",
-      "url": "https://qiita.com/maskot1977/items/996e36907168b5e9565f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-09T15:45:03+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-15407d0092",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "Claude Code の「許可待ち」を Windows のトースト通知で知る",
-      "url": "https://qiita.com/je-pu-pu/items/b4052bc0b68e3a3f1de2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-09T13:57:45+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-936a4c22c3",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "耳で聞く！ システム設計 視点の 行動経済学 1",
-      "url": "https://qiita.com/maskot1977/items/defa00878b5ab235e66c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-09T13:45:58+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-60e77c09ca",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "【JaSST'26 Niigata参加レポート】QAの「暗黙知」をAIとの比較で見つける",
-      "url": "https://qiita.com/m-sugio/items/46930f95b44e4e3134c1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-09T13:10:38+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-b0e30da16b",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "育成就労制度の設計検証 ― 財源幻想と多文化共生の強制の交差点 : システム設計視点の行動経済学 (59)",
-      "url": "https://qiita.com/maskot1977/items/706817bb6501d322bbb5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-09T12:37:14+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-ba5deb55f2",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "リレーショナル・テーブルを土台にしてプロパティ・グラフを作成し Select AI の精度を高める",
-      "url": "https://qiita.com/tkote/items/51ceb70dd8ee45e4cc84?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-09T12:13:07+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-ff241dc6e1",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "KMPのiOSビルド（XCFramework）を軽くする5つのTips",
-      "url": "https://qiita.com/naormt/items/a8f57727c5a35f1ca620?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-09T11:18:29+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-18be0d3ce1",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "集中力散漫＆過集中持ちエンジニアがAWS DEAを突破した「過集中スイッチ」の入れ方",
-      "url": "https://qiita.com/kohYoung_I/items/cce40cb5b9cdfc1f8787?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-09T08:21:58+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-9d42170812",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "【魔法少女マンガ】データのそばに、AIを！ ～ベクトル検索からエージェントまで～",
-      "url": "https://qiita.com/yuji-arakawa/items/0c98326c8ffdfc6260a2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-09T08:11:01+09:00",
-      "hatena_count": 0
-    },
-    {
-      "id": "qiita-23b0b2e9bb",
-      "source": "sns",
-      "sub_source": "Qiita",
-      "title": "モデル駆動型アプリ内で Dataverse の選択肢に SharePoint Lists みたいな選択肢ごとの背景色をつける",
-      "url": "https://qiita.com/YurimyMiyu/items/43e1926e18d6c7d4fd40?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": 0,
-      "author": "Qiita",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-11-09T08:01:10+09:00",
-      "hatena_count": 0
-    },
-    {
       "id": "ipa-ee45d6bd49",
       "source": "ipa",
       "title": "更新：PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell)",
@@ -6685,13 +6685,13 @@
       "sub_source": "Zenn",
       "title": "1時間で作るPerlOS: Yet Another Perl Computer",
       "url": "https://zenn.dev/takesako/articles/8623cbed6c1bb6",
-      "score": 0,
+      "score": 1,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 27 Nov 2026 23:32:57 GMT",
-      "hatena_count": 0
+      "hatena_count": 1
     },
     {
       "id": "zenn-ab9ad8c2b6",
@@ -6727,13 +6727,13 @@
       "sub_source": "Zenn",
       "title": "AIのレバレッジはカスタマーフロントから設計する",
       "url": "https://zenn.dev/knowledge_graph/articles/ai-leverage-customer-front",
-      "score": 0,
+      "score": 1,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 27 Nov 2026 09:48:29 GMT",
-      "hatena_count": 0
+      "hatena_count": 1
     },
     {
       "id": "zenn-2222db5e67",
@@ -6797,13 +6797,13 @@
       "sub_source": "Zenn",
       "title": "自宅PCを格安ファイルサーバーとして構築してみた",
       "url": "https://zenn.dev/nextbeat/articles/7c820845a91d7d",
-      "score": 17,
+      "score": 24,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 27 Nov 2026 02:09:30 GMT",
-      "hatena_count": 17
+      "hatena_count": 24
     },
     {
       "id": "zenn-a46e3fe0e4",
@@ -6811,13 +6811,13 @@
       "sub_source": "Zenn",
       "title": "迷惑メール対策をしているのに、なぜ詐欺メールは届くのか",
       "url": "https://zenn.dev/akagumi/articles/catch-all-phishing-invisible-chars",
-      "score": 82,
+      "score": 90,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 26 Nov 2026 14:08:33 GMT",
-      "hatena_count": 82
+      "hatena_count": 90
     },
     {
       "id": "zenn-f6c54e8dc7",
@@ -6825,13 +6825,13 @@
       "sub_source": "Zenn",
       "title": "「日本語で」と指示しても英語に戻るClaude Codeに、Stopフックで対処してみた",
       "url": "https://zenn.dev/hitori_pm/articles/cc955887656339",
-      "score": 48,
+      "score": 51,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 26 Nov 2026 13:22:44 GMT",
-      "hatena_count": 48
+      "hatena_count": 51
     },
     {
       "id": "zenn-9f2f53b9aa",
@@ -6853,13 +6853,13 @@
       "sub_source": "Zenn",
       "title": "作業を止めずに進めるClaude Codeの/btw・/fork・/rewindなどの使い分け",
       "url": "https://zenn.dev/nextbeat/articles/b0ccca979da06b",
-      "score": 15,
+      "score": 30,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 26 Nov 2026 07:01:54 GMT",
-      "hatena_count": 15
+      "hatena_count": 30
     },
     {
       "id": "zenn-93700ffb17",
@@ -6951,13 +6951,13 @@
       "sub_source": "Zenn",
       "title": "著名なRust製OSSをLean 4で形式検証してみたら、めちゃめちゃバグが見つかった話",
       "url": "https://zenn.dev/koukyosyumei/articles/31c8fcf4da45b7",
-      "score": 252,
+      "score": 251,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 23 Nov 2026 05:17:05 GMT",
-      "hatena_count": 252
+      "hatena_count": 251
     },
     {
       "id": "techracho-b051f66e09",
