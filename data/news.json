@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28T01:05:48.447069+00:00",
+  "updated_at": "2026-11-28T01:34:26.940382+00:00",
   "count": 500,
   "items": [
     {
@@ -6699,13 +6699,13 @@
       "sub_source": "Zenn",
       "title": "GitHub ActionsからPATもGitHub App Private Keyも駆逐する",
       "url": "https://zenn.dev/tmknom/articles/github-app-token-exchange-system",
-      "score": 32,
+      "score": 34,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 27 Nov 2026 02:51:13 GMT",
-      "hatena_count": 32
+      "hatena_count": 34
     },
     {
       "id": "zenn-ff679b22bf",
@@ -6783,13 +6783,13 @@
       "sub_source": "Zenn",
       "title": "迷惑メール対策をしているのに、なぜ詐欺メールは届くのか",
       "url": "https://zenn.dev/akagumi/articles/catch-all-phishing-invisible-chars",
-      "score": 30,
+      "score": 31,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 26 Nov 2026 14:08:33 GMT",
-      "hatena_count": 30
+      "hatena_count": 31
     },
     {
       "id": "zenn-9f2f53b9aa",
@@ -6839,13 +6839,13 @@
       "sub_source": "Zenn",
       "title": "結局「オントロジー」って何なのさ 〜概念と良さを4つのレイヤーで整理する〜",
       "url": "https://zenn.dev/algomatic/articles/ece749a7e3cb24",
-      "score": 3,
+      "score": 4,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 25 Nov 2026 09:23:05 GMT",
-      "hatena_count": 3
+      "hatena_count": 4
     },
     {
       "id": "zenn-61230c546e",

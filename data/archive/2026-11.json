@@ -1,7 +1,7 @@
 {
   "month": "2026-11",
   "total_articles": 483,
-  "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (2件)**\n\n1. NGINXの複数の脆弱性対策について（CVE-2026-123007、CVE-2026-123633等）\n\n2. Oracle Java の脆弱性対策について(2026年11月)\n\n**AI・機械学習動向 (3件)**\n\n1. Claude Code を5〜8個並べても迷わないように、自分用のダッシュボードをバイブコーディングで作った\n\n2. Rails: 37signalsのコード品質を支える独自のエンジニアリング戦略（翻訳）\n\n3. Rails: DHHがRails World 2026キーノートで「語らなかった」部分とは（翻訳）\n\n**技術トレンド (5件)**\n\n1. 著名なRust製OSSをLean 4で形式検証してみたら、めちゃめちゃバグが見つかった話\n\n2. 【自動化】Muse のサイドチャットへ Webhook を届ける MuseKnock の仕組み\n\n3. GitHub ActionsからPATもGitHub App Private Keyも駆逐する\n\n4. アウトプットの「質」ってじゃあなんなんだよ\n\n5. 迷惑メール対策をしているのに、なぜ詐欺メールは届くのか",
+  "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (2件)**\n\n1. NGINXの複数の脆弱性対策について（CVE-2026-123007、CVE-2026-123633等）\n\n2. Oracle Java の脆弱性対策について(2026年11月)\n\n**AI・機械学習動向 (3件)**\n\n1. Claude Code を5〜8個並べても迷わないように、自分用のダッシュボードをバイブコーディングで作った\n\n2. Rails: 37signalsのコード品質を支える独自のエンジニアリング戦略（翻訳）\n\n3. Rails: DHHがRails World 2026キーノートで「語らなかった」部分とは（翻訳）\n\n**技術トレンド (5件)**\n\n1. 著名なRust製OSSをLean 4で形式検証してみたら、めちゃめちゃバグが見つかった話\n\n2. 【自動化】Muse のサイドチャットへ Webhook を届ける MuseKnock の仕組み\n\n3. GitHub ActionsからPATもGitHub App Private Keyも駆逐する\n\n4. 迷惑メール対策をしているのに、なぜ詐欺メールは届くのか\n\n5. アウトプットの「質」ってじゃあなんなんだよ",
   "source_counts": {
     "sns": 404,
     "jpcert": 62,
@@ -88,6 +88,20 @@
       "hatena_count": 47
     },
     {
+      "id": "zenn-fcbb3f70ae",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "GitHub ActionsからPATもGitHub App Private Keyも駆逐する",
+      "url": "https://zenn.dev/tmknom/articles/github-app-token-exchange-system",
+      "score": 34,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 27 Nov 2026 02:51:13 GMT",
+      "hatena_count": 34
+    },
+    {
       "id": "techracho-4b67c39e4f",
       "source": "techracho",
       "title": "Rails: DHHがRails World 2026キーノートで「語らなかった」部分とは（翻訳）",
@@ -101,20 +115,6 @@
       ],
       "date": "Thu, 12 Nov 2026 08:30:57 +0000",
       "hatena_count": 33
-    },
-    {
-      "id": "zenn-fcbb3f70ae",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "GitHub ActionsからPATもGitHub App Private Keyも駆逐する",
-      "url": "https://zenn.dev/tmknom/articles/github-app-token-exchange-system",
-      "score": 32,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 27 Nov 2026 02:51:13 GMT",
-      "hatena_count": 32
     },
     {
       "id": "ipa-3630a63272",
@@ -132,6 +132,20 @@
       "hatena_count": 31
     },
     {
+      "id": "zenn-a46e3fe0e4",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "迷惑メール対策をしているのに、なぜ詐欺メールは届くのか",
+      "url": "https://zenn.dev/akagumi/articles/catch-all-phishing-invisible-chars",
+      "score": 31,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 26 Nov 2026 14:08:33 GMT",
+      "hatena_count": 31
+    },
+    {
       "id": "zenn-93700ffb17",
       "source": "sns",
       "sub_source": "Zenn",
@@ -144,20 +158,6 @@
       ],
       "date": "Wed, 25 Nov 2026 11:31:18 GMT",
       "hatena_count": 31
-    },
-    {
-      "id": "zenn-a46e3fe0e4",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "迷惑メール対策をしているのに、なぜ詐欺メールは届くのか",
-      "url": "https://zenn.dev/akagumi/articles/catch-all-phishing-invisible-chars",
-      "score": 30,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 26 Nov 2026 14:08:33 GMT",
-      "hatena_count": 30
     },
     {
       "id": "zenn-34af77c367",
@@ -233,6 +233,20 @@
       "hatena_count": 12
     },
     {
+      "id": "zenn-4ab8a1658a",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "結局「オントロジー」って何なのさ 〜概念と良さを4つのレイヤーで整理する〜",
+      "url": "https://zenn.dev/algomatic/articles/ece749a7e3cb24",
+      "score": 4,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 25 Nov 2026 09:23:05 GMT",
+      "hatena_count": 4
+    },
+    {
       "id": "zenn-753757425f",
       "source": "sns",
       "sub_source": "Zenn",
@@ -273,20 +287,6 @@
         "Zenn"
       ],
       "date": "Fri, 27 Nov 2026 02:09:30 GMT",
-      "hatena_count": 3
-    },
-    {
-      "id": "zenn-4ab8a1658a",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "結局「オントロジー」って何なのさ 〜概念と良さを4つのレイヤーで整理する〜",
-      "url": "https://zenn.dev/algomatic/articles/ece749a7e3cb24",
-      "score": 3,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 25 Nov 2026 09:23:05 GMT",
       "hatena_count": 3
     },
     {
