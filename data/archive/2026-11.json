@@ -1,7 +1,7 @@
 {
   "month": "2026-11",
   "total_articles": 483,
-  "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (2件)**\n\n1. NGINXの複数の脆弱性対策について（CVE-2026-123007、CVE-2026-123633等）\n\n2. Oracle Java の脆弱性対策について(2026年11月)\n\n**AI・機械学習動向 (3件)**\n\n1. Claude Code を5〜8個並べても迷わないように、自分用のダッシュボードをバイブコーディングで作った\n\n2. Rails: 37signalsのコード品質を支える独自のエンジニアリング戦略（翻訳）\n\n3. Rails: DHHがRails World 2026キーノートで「語らなかった」部分とは（翻訳）\n\n**技術トレンド (5件)**\n\n1. 著名なRust製OSSをLean 4で形式検証してみたら、めちゃめちゃバグが見つかった話\n\n2. 【自動化】Muse のサイドチャットへ Webhook を届ける MuseKnock の仕組み\n\n3. GitHub ActionsからPATもGitHub App Private Keyも駆逐する\n\n4. 迷惑メール対策をしているのに、なぜ詐欺メールは届くのか\n\n5. アウトプットの「質」ってじゃあなんなんだよ",
+  "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (2件)**\n\n1. NGINXの複数の脆弱性対策について（CVE-2026-123007、CVE-2026-123633等）\n\n2. Oracle Java の脆弱性対策について(2026年11月)\n\n**AI・機械学習動向 (3件)**\n\n1. Claude Code を5〜8個並べても迷わないように、自分用のダッシュボードをバイブコーディングで作った\n\n2. Rails: 37signalsのコード品質を支える独自のエンジニアリング戦略（翻訳）\n\n3. Rails: DHHがRails World 2026キーノートで「語らなかった」部分とは（翻訳）\n\n**技術トレンド (5件)**\n\n1. 著名なRust製OSSをLean 4で形式検証してみたら、めちゃめちゃバグが見つかった話\n\n2. 【自動化】Muse のサイドチャットへ Webhook を届ける MuseKnock の仕組み\n\n3. 迷惑メール対策をしているのに、なぜ詐欺メールは届くのか\n\n4. GitHub ActionsからPATもGitHub App Private Keyも駆逐する\n\n5. アウトプットの「質」ってじゃあなんなんだよ",
   "source_counts": {
     "sns": 404,
     "jpcert": 62,
@@ -88,18 +88,32 @@
       "hatena_count": 47
     },
     {
+      "id": "zenn-a46e3fe0e4",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "迷惑メール対策をしているのに、なぜ詐欺メールは届くのか",
+      "url": "https://zenn.dev/akagumi/articles/catch-all-phishing-invisible-chars",
+      "score": 40,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 26 Nov 2026 14:08:33 GMT",
+      "hatena_count": 40
+    },
+    {
       "id": "zenn-fcbb3f70ae",
       "source": "sns",
       "sub_source": "Zenn",
       "title": "GitHub ActionsからPATもGitHub App Private Keyも駆逐する",
       "url": "https://zenn.dev/tmknom/articles/github-app-token-exchange-system",
-      "score": 35,
+      "score": 36,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 27 Nov 2026 02:51:13 GMT",
-      "hatena_count": 35
+      "hatena_count": 36
     },
     {
       "id": "techracho-4b67c39e4f",
@@ -115,20 +129,6 @@
       ],
       "date": "Thu, 12 Nov 2026 08:30:57 +0000",
       "hatena_count": 33
-    },
-    {
-      "id": "zenn-a46e3fe0e4",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "迷惑メール対策をしているのに、なぜ詐欺メールは届くのか",
-      "url": "https://zenn.dev/akagumi/articles/catch-all-phishing-invisible-chars",
-      "score": 32,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 26 Nov 2026 14:08:33 GMT",
-      "hatena_count": 32
     },
     {
       "id": "ipa-3630a63272",
@@ -233,6 +233,20 @@
       "hatena_count": 12
     },
     {
+      "id": "zenn-135cc7070a",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "自宅PCを格安ファイルサーバーとして構築してみた",
+      "url": "https://zenn.dev/nextbeat/articles/7c820845a91d7d",
+      "score": 5,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 27 Nov 2026 02:09:30 GMT",
+      "hatena_count": 5
+    },
+    {
       "id": "zenn-4ab8a1658a",
       "source": "sns",
       "sub_source": "Zenn",
@@ -259,20 +273,6 @@
       ],
       "date": "Wed, 25 Nov 2026 00:00:07 GMT",
       "hatena_count": 5
-    },
-    {
-      "id": "zenn-135cc7070a",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "自宅PCを格安ファイルサーバーとして構築してみた",
-      "url": "https://zenn.dev/nextbeat/articles/7c820845a91d7d",
-      "score": 4,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 27 Nov 2026 02:09:30 GMT",
-      "hatena_count": 4
     },
     {
       "id": "zenn-753757425f",
