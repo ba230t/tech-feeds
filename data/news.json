@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28T14:04:58.594507+00:00",
+  "updated_at": "2026-11-28T14:32:59.871400+00:00",
   "count": 500,
   "items": [
     {
@@ -6680,18 +6680,32 @@
       "hatena_count": 38
     },
     {
+      "id": "zenn-e62ffd66d5",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "[tauri] Android で端末内のメディアファイルの一覧を読み取る",
+      "url": "https://zenn.dev/oka_yu/articles/7da254086a2986",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 28 Nov 2026 09:19:15 GMT",
+      "hatena_count": 0
+    },
+    {
       "id": "zenn-897a380800",
       "source": "sns",
       "sub_source": "Zenn",
       "title": "1時間で作るPerlOS: Yet Another Perl Computer",
       "url": "https://zenn.dev/takesako/articles/8623cbed6c1bb6",
-      "score": 7,
+      "score": 9,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 27 Nov 2026 23:32:57 GMT",
-      "hatena_count": 7
+      "hatena_count": 9
     },
     {
       "id": "zenn-8711019395",
@@ -6699,13 +6713,13 @@
       "sub_source": "Zenn",
       "title": "パスキーは最強で美しいよ、正しく実装すればね",
       "url": "https://zenn.dev/kantacky/articles/b5a03eab70c7b1",
-      "score": 4,
+      "score": 12,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 27 Nov 2026 23:00:52 GMT",
-      "hatena_count": 4
+      "hatena_count": 12
     },
     {
       "id": "zenn-890eef02e6",
@@ -6713,14 +6727,14 @@
       "sub_source": "Zenn",
       "title": "古い PHP / Laravel の脆弱性対応は、Rector と AI でだいたい簡単に終わる",
       "url": "https://zenn.dev/miraizuk/articles/ae8db2bc3ff561",
-      "score": 75,
+      "score": 79,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 27 Nov 2026 16:15:44 GMT",
       "severity": "high",
-      "hatena_count": 75
+      "hatena_count": 79
     },
     {
       "id": "zenn-0199caaa64",
@@ -6735,48 +6749,6 @@
       ],
       "date": "Fri, 27 Nov 2026 11:52:05 GMT",
       "hatena_count": 0
-    },
-    {
-      "id": "zenn-ab9ad8c2b6",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "思いのままに変換したい〜日本語入力のためのVimプラグインCaskkを作った",
-      "url": "https://zenn.dev/ni57721/articles/vim-caskk-ime",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 27 Nov 2026 11:00:00 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-5b3efc61b0",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Claude Code で KiCad 基板を設計して JLCPCB に発注し、Codex とも同じ条件で比べた",
-      "url": "https://zenn.dev/kzchd/articles/ai-kicad-pihat-claude-codex",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 27 Nov 2026 10:30:05 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-851fc34ec2",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "AIのレバレッジはカスタマーフロントから設計する",
-      "url": "https://zenn.dev/knowledge_graph/articles/ai-leverage-customer-front",
-      "score": 1,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 27 Nov 2026 09:48:29 GMT",
-      "hatena_count": 1
     },
     {
       "id": "zenn-7b78597240",
@@ -6798,13 +6770,13 @@
       "sub_source": "Zenn",
       "title": "GitHub ActionsからPATもGitHub App Private Keyも駆逐する",
       "url": "https://zenn.dev/tmknom/articles/github-app-token-exchange-system",
-      "score": 38,
+      "score": 39,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 27 Nov 2026 02:51:13 GMT",
-      "hatena_count": 38
+      "hatena_count": 39
     },
     {
       "id": "zenn-ff679b22bf",
@@ -6826,13 +6798,27 @@
       "sub_source": "Zenn",
       "title": "自宅PCを格安ファイルサーバーとして構築してみた",
       "url": "https://zenn.dev/nextbeat/articles/7c820845a91d7d",
-      "score": 58,
+      "score": 60,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 27 Nov 2026 02:09:30 GMT",
-      "hatena_count": 58
+      "hatena_count": 60
+    },
+    {
+      "id": "zenn-8edeafbf9b",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "AIエージェントにWebのファイルを取得させるリスクについて考える",
+      "url": "https://zenn.dev/layerx/articles/65b4828efcaee2",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 27 Nov 2026 01:48:19 GMT",
+      "hatena_count": 0
     },
     {
       "id": "zenn-a46e3fe0e4",
@@ -6854,13 +6840,13 @@
       "sub_source": "Zenn",
       "title": "「日本語で」と指示しても英語に戻るClaude Codeに、Stopフックで対処してみた",
       "url": "https://zenn.dev/hitori_pm/articles/cc955887656339",
-      "score": 56,
+      "score": 58,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 26 Nov 2026 13:22:44 GMT",
-      "hatena_count": 56
+      "hatena_count": 58
     },
     {
       "id": "zenn-1bd1cb88ba",
@@ -6868,13 +6854,13 @@
       "sub_source": "Zenn",
       "title": "作業を止めずに進めるClaude Codeの/btw・/fork・/rewindなどの使い分け",
       "url": "https://zenn.dev/nextbeat/articles/b0ccca979da06b",
-      "score": 86,
+      "score": 91,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 26 Nov 2026 07:01:54 GMT",
-      "hatena_count": 86
+      "hatena_count": 91
     },
     {
       "id": "zenn-93700ffb17",
@@ -6931,6 +6917,20 @@
       ],
       "date": "Tue, 24 Nov 2026 22:30:05 GMT",
       "hatena_count": 4
+    },
+    {
+      "id": "zenn-cd67c8ba18",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "モデルの性能が出ないのは AI ゲートウェイのせいかもしれない",
+      "url": "https://zenn.dev/google_cloud_jp/articles/7e29a9acf06557",
+      "score": 2,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 24 Nov 2026 22:22:23 GMT",
+      "hatena_count": 2
     },
     {
       "id": "zenn-89c61f23bd",
