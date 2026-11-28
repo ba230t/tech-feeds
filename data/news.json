@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28T15:04:52.492517+00:00",
+  "updated_at": "2026-11-28T15:33:18.069687+00:00",
   "count": 500,
   "items": [
     {
@@ -6694,18 +6694,46 @@
       "hatena_count": 0
     },
     {
+      "id": "zenn-2a181b3770",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Amazon CloudFrontで固定IPあるいは証明書を持つユーザーのみのアクセスを許可する構成",
+      "url": "https://zenn.dev/aws_japan/articles/cloudfront-mtls-ip-or-cert",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 28 Nov 2026 02:37:47 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-567ad2e061",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Frosty Friday Live Challenge まとめ Vol.10〜Vol.19",
+      "url": "https://zenn.dev/frostyfriday_jp/articles/frosty-friday-live-vol10-19",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 28 Nov 2026 00:54:30 GMT",
+      "hatena_count": 0
+    },
+    {
       "id": "zenn-897a380800",
       "source": "sns",
       "sub_source": "Zenn",
       "title": "1時間で作るPerlOS: Yet Another Perl Computer",
       "url": "https://zenn.dev/takesako/articles/8623cbed6c1bb6",
-      "score": 11,
+      "score": 13,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 27 Nov 2026 23:32:57 GMT",
-      "hatena_count": 11
+      "hatena_count": 13
     },
     {
       "id": "zenn-8711019395",
@@ -6713,13 +6741,27 @@
       "sub_source": "Zenn",
       "title": "パスキーは最強で美しいよ、正しく実装すればね",
       "url": "https://zenn.dev/kantacky/articles/b5a03eab70c7b1",
-      "score": 21,
+      "score": 28,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 27 Nov 2026 23:00:52 GMT",
-      "hatena_count": 21
+      "hatena_count": 28
+    },
+    {
+      "id": "zenn-d2fbce973d",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "ZennのHTML埋め込みを試してみた",
+      "url": "https://zenn.dev/tyanakaz/articles/3577887b9d2d57",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 27 Nov 2026 23:00:06 GMT",
+      "hatena_count": 0
     },
     {
       "id": "zenn-890eef02e6",
@@ -6727,28 +6769,14 @@
       "sub_source": "Zenn",
       "title": "古い PHP / Laravel の脆弱性対応は、Rector と AI でだいたい簡単に終わる",
       "url": "https://zenn.dev/miraizuk/articles/ae8db2bc3ff561",
-      "score": 82,
+      "score": 83,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 27 Nov 2026 16:15:44 GMT",
       "severity": "high",
-      "hatena_count": 82
-    },
-    {
-      "id": "zenn-0199caaa64",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "[JSC] 数値で構成される配列に対して Array.prototype.flat を高速にした",
-      "url": "https://zenn.dev/itsu_dev/articles/1942c82c2f2e27",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 27 Nov 2026 11:52:05 GMT",
-      "hatena_count": 0
+      "hatena_count": 83
     },
     {
       "id": "zenn-7b78597240",
@@ -6798,13 +6826,13 @@
       "sub_source": "Zenn",
       "title": "自宅PCを格安ファイルサーバーとして構築してみた",
       "url": "https://zenn.dev/nextbeat/articles/7c820845a91d7d",
-      "score": 61,
+      "score": 64,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 27 Nov 2026 02:09:30 GMT",
-      "hatena_count": 61
+      "hatena_count": 64
     },
     {
       "id": "zenn-8edeafbf9b",
@@ -6833,20 +6861,6 @@
       ],
       "date": "Thu, 26 Nov 2026 14:08:33 GMT",
       "hatena_count": 122
-    },
-    {
-      "id": "zenn-f6c54e8dc7",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "「日本語で」と指示しても英語に戻るClaude Codeに、Stopフックで対処してみた",
-      "url": "https://zenn.dev/hitori_pm/articles/cc955887656339",
-      "score": 58,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 26 Nov 2026 13:22:44 GMT",
-      "hatena_count": 58
     },
     {
       "id": "zenn-1bd1cb88ba",
@@ -6889,20 +6903,6 @@
       ],
       "date": "Wed, 25 Nov 2026 06:12:03 GMT",
       "hatena_count": 66
-    },
-    {
-      "id": "zenn-3df00cca6f",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Claude Code のセキュリティ、2026年11月時点のベストプラクティス（サンドボックス・権限・MCP）",
-      "url": "https://zenn.dev/happy_elements/articles/27e14ff6754044",
-      "score": 1,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 25 Nov 2026 03:53:12 GMT",
-      "hatena_count": 1
     },
     {
       "id": "zenn-753757425f",

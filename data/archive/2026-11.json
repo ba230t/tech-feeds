@@ -1,7 +1,7 @@
 {
   "month": "2026-11",
   "total_articles": 483,
-  "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (2件)**\n\n1. 古い PHP / Laravel の脆弱性対応は、Rector と AI でだいたい簡単に終わる\n\n2. NGINXの複数の脆弱性対策について（CVE-2026-123007、CVE-2026-123633等）\n\n**AI・機械学習動向 (4件)**\n\n1. 作業を止めずに進めるClaude Codeの/btw・/fork・/rewindなどの使い分け\n\n2. 「日本語で」と指示しても英語に戻るClaude Codeに、Stopフックで対処してみた\n\n3. Claude Code を5〜8個並べても迷わないように、自分用のダッシュボードをバイブコーディングで作った\n\n4. Rails: 37signalsのコード品質を支える独自のエンジニアリング戦略（翻訳）\n\n**技術トレンド (4件)**\n\n1. 著名なRust製OSSをLean 4で形式検証してみたら、めちゃめちゃバグが見つかった話\n\n2. 迷惑メール対策をしているのに、なぜ詐欺メールは届くのか\n\n3. 【自動化】Muse のサイドチャットへ Webhook を届ける MuseKnock の仕組み\n\n4. 自宅PCを格安ファイルサーバーとして構築してみた",
+  "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (2件)**\n\n1. 古い PHP / Laravel の脆弱性対応は、Rector と AI でだいたい簡単に終わる\n\n2. NGINXの複数の脆弱性対策について（CVE-2026-123007、CVE-2026-123633等）\n\n**AI・機械学習動向 (3件)**\n\n1. 作業を止めずに進めるClaude Codeの/btw・/fork・/rewindなどの使い分け\n\n2. Claude Code を5〜8個並べても迷わないように、自分用のダッシュボードをバイブコーディングで作った\n\n3. Rails: 37signalsのコード品質を支える独自のエンジニアリング戦略（翻訳）\n\n**技術トレンド (5件)**\n\n1. 著名なRust製OSSをLean 4で形式検証してみたら、めちゃめちゃバグが見つかった話\n\n2. 迷惑メール対策をしているのに、なぜ詐欺メールは届くのか\n\n3. 【自動化】Muse のサイドチャットへ Webhook を届ける MuseKnock の仕組み\n\n4. 自宅PCを格安ファイルサーバーとして構築してみた\n\n5. GitHub ActionsからPATもGitHub App Private Keyも駆逐する",
   "source_counts": {
     "sns": 404,
     "jpcert": 62,
@@ -63,14 +63,14 @@
       "sub_source": "Zenn",
       "title": "古い PHP / Laravel の脆弱性対応は、Rector と AI でだいたい簡単に終わる",
       "url": "https://zenn.dev/miraizuk/articles/ae8db2bc3ff561",
-      "score": 82,
+      "score": 83,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 27 Nov 2026 16:15:44 GMT",
       "severity": "high",
-      "hatena_count": 82
+      "hatena_count": 83
     },
     {
       "id": "zenn-61230c546e",
@@ -92,27 +92,13 @@
       "sub_source": "Zenn",
       "title": "自宅PCを格安ファイルサーバーとして構築してみた",
       "url": "https://zenn.dev/nextbeat/articles/7c820845a91d7d",
-      "score": 61,
+      "score": 64,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 27 Nov 2026 02:09:30 GMT",
-      "hatena_count": 61
-    },
-    {
-      "id": "zenn-f6c54e8dc7",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "「日本語で」と指示しても英語に戻るClaude Codeに、Stopフックで対処してみた",
-      "url": "https://zenn.dev/hitori_pm/articles/cc955887656339",
-      "score": 58,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 26 Nov 2026 13:22:44 GMT",
-      "hatena_count": 58
+      "hatena_count": 64
     },
     {
       "id": "ipa-7afa9de38c",
@@ -217,6 +203,20 @@
       "hatena_count": 31
     },
     {
+      "id": "zenn-8711019395",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "パスキーは最強で美しいよ、正しく実装すればね",
+      "url": "https://zenn.dev/kantacky/articles/b5a03eab70c7b1",
+      "score": 28,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 27 Nov 2026 23:00:52 GMT",
+      "hatena_count": 28
+    },
+    {
       "id": "ipa-ee45d6bd49",
       "source": "ipa",
       "title": "更新：PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell)",
@@ -229,20 +229,6 @@
       ],
       "severity": "medium",
       "date": "2026-11-02T00:00:00+09:00",
-      "hatena_count": 21
-    },
-    {
-      "id": "zenn-8711019395",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "パスキーは最強で美しいよ、正しく実装すればね",
-      "url": "https://zenn.dev/kantacky/articles/b5a03eab70c7b1",
-      "score": 21,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 27 Nov 2026 23:00:52 GMT",
       "hatena_count": 21
     },
     {
@@ -261,6 +247,20 @@
       "hatena_count": 14
     },
     {
+      "id": "zenn-897a380800",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "1時間で作るPerlOS: Yet Another Perl Computer",
+      "url": "https://zenn.dev/takesako/articles/8623cbed6c1bb6",
+      "score": 13,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 27 Nov 2026 23:32:57 GMT",
+      "hatena_count": 13
+    },
+    {
       "id": "jpcert-30cd0d7475",
       "source": "jpcert",
       "title": "注意喚起: PHPにおける複数の脆弱性（CVE-2026-109618、CVE-2026-109619）に関する注意喚起  (更新)",
@@ -276,20 +276,6 @@
       "hatena_count": 12
     },
     {
-      "id": "zenn-897a380800",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "1時間で作るPerlOS: Yet Another Perl Computer",
-      "url": "https://zenn.dev/takesako/articles/8623cbed6c1bb6",
-      "score": 11,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 27 Nov 2026 23:32:57 GMT",
-      "hatena_count": 11
-    },
-    {
       "id": "techracho-1b08ae4a11",
       "source": "techracho",
       "title": "Ruby のインストールとバージョン管理を rbenv から rv に切り替えた（翻訳）",
@@ -303,6 +289,20 @@
       ],
       "date": "Wed, 25 Nov 2026 08:30:22 +0000",
       "hatena_count": 5
+    },
+    {
+      "id": "zenn-753757425f",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "なんとなくgrill-meしている人に伝えたい、作者本人から学んだSkillsの使い方",
+      "url": "https://zenn.dev/mediaforce/articles/27df1f22a00546",
+      "score": 4,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 24 Nov 2026 22:30:05 GMT",
+      "hatena_count": 4
     }
   ],
   "security_highlights": [
@@ -312,14 +312,14 @@
       "sub_source": "Zenn",
       "title": "古い PHP / Laravel の脆弱性対応は、Rector と AI でだいたい簡単に終わる",
       "url": "https://zenn.dev/miraizuk/articles/ae8db2bc3ff561",
-      "score": 82,
+      "score": 83,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 27 Nov 2026 16:15:44 GMT",
       "severity": "high",
-      "hatena_count": 82
+      "hatena_count": 83
     },
     {
       "id": "qiita-aef77f328d",
