@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28T11:04:34.747194+00:00",
+  "updated_at": "2026-11-28T11:33:19.620187+00:00",
   "count": 500,
   "items": [
     {
@@ -6811,13 +6811,13 @@
       "sub_source": "Zenn",
       "title": "自宅PCを格安ファイルサーバーとして構築してみた",
       "url": "https://zenn.dev/nextbeat/articles/7c820845a91d7d",
-      "score": 40,
+      "score": 44,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 27 Nov 2026 02:09:30 GMT",
-      "hatena_count": 40
+      "hatena_count": 44
     },
     {
       "id": "zenn-a46e3fe0e4",
@@ -6867,13 +6867,13 @@
       "sub_source": "Zenn",
       "title": "作業を止めずに進めるClaude Codeの/btw・/fork・/rewindなどの使い分け",
       "url": "https://zenn.dev/nextbeat/articles/b0ccca979da06b",
-      "score": 59,
+      "score": 64,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 26 Nov 2026 07:01:54 GMT",
-      "hatena_count": 59
+      "hatena_count": 64
     },
     {
       "id": "zenn-93700ffb17",
