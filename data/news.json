@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28T02:33:17.416475+00:00",
+  "updated_at": "2026-11-28T03:05:48.827544+00:00",
   "count": 500,
   "items": [
     {
@@ -6736,20 +6736,6 @@
       "hatena_count": 0
     },
     {
-      "id": "zenn-873ed328b4",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "日本語のFull-duplex音声対話モデルを実際に動かしてみた話",
-      "url": "https://zenn.dev/knowledgework/articles/12a80d8cd4b21f",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 27 Nov 2026 02:27:39 GMT",
-      "hatena_count": 0
-    },
-    {
       "id": "zenn-135cc7070a",
       "source": "sns",
       "sub_source": "Zenn",
@@ -6874,6 +6860,20 @@
       ],
       "date": "Wed, 25 Nov 2026 03:53:12 GMT",
       "hatena_count": 1
+    },
+    {
+      "id": "zenn-ba630da2a4",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Claude CodeとLLM Wikiで全国の自治体の入札参加資格を、一人で回す",
+      "url": "https://zenn.dev/wisevine/articles/97b7ba8db70657",
+      "score": 5,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 25 Nov 2026 00:00:07 GMT",
+      "hatena_count": 5
     },
     {
       "id": "zenn-753757425f",

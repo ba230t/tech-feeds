@@ -247,6 +247,20 @@
       "hatena_count": 5
     },
     {
+      "id": "zenn-ba630da2a4",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Claude CodeとLLM Wikiで全国の自治体の入札参加資格を、一人で回す",
+      "url": "https://zenn.dev/wisevine/articles/97b7ba8db70657",
+      "score": 5,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 25 Nov 2026 00:00:07 GMT",
+      "hatena_count": 5
+    },
+    {
       "id": "zenn-753757425f",
       "source": "sns",
       "sub_source": "Zenn",
@@ -287,20 +301,6 @@
         "Zenn"
       ],
       "date": "Fri, 27 Nov 2026 02:09:30 GMT",
-      "hatena_count": 3
-    },
-    {
-      "id": "zenn-1bd1cb88ba",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "作業を止めずに進めるClaude Codeの/btw・/fork・/rewindなどの使い分け",
-      "url": "https://zenn.dev/nextbeat/articles/b0ccca979da06b",
-      "score": 3,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 26 Nov 2026 07:01:54 GMT",
       "hatena_count": 3
     }
   ],
