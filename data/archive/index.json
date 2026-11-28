@@ -3,7 +3,7 @@
     {
       "month": "2026-11",
       "total_articles": 483,
-      "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (2件)**\n\n1. 古い PHP / Laravel の脆弱性対応は、Rector と AI でだいたい簡単に終わる\n\n2. NGINXの複数の脆弱性対策について（CVE-2026-123007、CVE-2026-123633等）\n\n**AI・機械学習動向 (4件)**\n\n1. 作業を止めずに進めるClaude Codeの/btw・/fork・/rewindなどの使い分け\n\n2. 「日本語で」と指示しても英語に戻るClaude Codeに、Stopフックで対処してみた\n\n3. Claude Code を5〜8個並べても迷わないように、自分用のダッシュボードをバイブコーディングで作った\n\n4. Rails: 37signalsのコード品質を支える独自のエンジニアリング戦略（翻訳）\n\n**技術トレンド (4件)**\n\n1. 著名なRust製OSSをLean 4で形式検証してみたら、めちゃめちゃバグが見つかった話\n\n2. 迷惑メール対策をしているのに、なぜ詐欺メールは届くのか\n\n3. 【自動化】Muse のサイドチャットへ Webhook を届ける MuseKnock の仕組み\n\n4. 自宅PCを格安ファイルサーバーとして構築してみた",
+      "summary": "# 2026-11の技術動向レポート\n\n**セキュリティ動向 (1件)**\n\n1. NGINXの複数の脆弱性対策について（CVE-2026-123007、CVE-2026-123633等）\n\n**AI・機械学習動向 (4件)**\n\n1. 作業を止めずに進めるClaude Codeの/btw・/fork・/rewindなどの使い分け\n\n2. 「日本語で」と指示しても英語に戻るClaude Codeに、Stopフックで対処してみた\n\n3. Claude Code を5〜8個並べても迷わないように、自分用のダッシュボードをバイブコーディングで作った\n\n4. Rails: 37signalsのコード品質を支える独自のエンジニアリング戦略（翻訳）\n\n**技術トレンド (5件)**\n\n1. 著名なRust製OSSをLean 4で形式検証してみたら、めちゃめちゃバグが見つかった話\n\n2. 迷惑メール対策をしているのに、なぜ詐欺メールは届くのか\n\n3. 【自動化】Muse のサイドチャットへ Webhook を届ける MuseKnock の仕組み\n\n4. 自宅PCを格安ファイルサーバーとして構築してみた\n\n5. GitHub ActionsからPATもGitHub App Private Keyも駆逐する",
       "file": "2026-11.json",
       "html_file": "2026-11.html",
       "compressed": false
