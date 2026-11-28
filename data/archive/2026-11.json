@@ -44,6 +44,20 @@
       "hatena_count": 66
     },
     {
+      "id": "zenn-a46e3fe0e4",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "迷惑メール対策をしているのに、なぜ詐欺メールは届くのか",
+      "url": "https://zenn.dev/akagumi/articles/catch-all-phishing-invisible-chars",
+      "score": 62,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 26 Nov 2026 14:08:33 GMT",
+      "hatena_count": 62
+    },
+    {
       "id": "ipa-7afa9de38c",
       "source": "ipa",
       "title": "NGINXの複数の脆弱性対策について（CVE-2026-123007、CVE-2026-123633等）",
@@ -57,20 +71,6 @@
       "severity": "medium",
       "date": "2026-11-19T00:00:00+09:00",
       "hatena_count": 56
-    },
-    {
-      "id": "zenn-a46e3fe0e4",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "迷惑メール対策をしているのに、なぜ詐欺メールは届くのか",
-      "url": "https://zenn.dev/akagumi/articles/catch-all-phishing-invisible-chars",
-      "score": 55,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 26 Nov 2026 14:08:33 GMT",
-      "hatena_count": 55
     },
     {
       "id": "zenn-89c61f23bd",
@@ -107,13 +107,13 @@
       "sub_source": "Zenn",
       "title": "GitHub ActionsからPATもGitHub App Private Keyも駆逐する",
       "url": "https://zenn.dev/tmknom/articles/github-app-token-exchange-system",
-      "score": 37,
+      "score": 38,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 27 Nov 2026 02:51:13 GMT",
-      "hatena_count": 37
+      "hatena_count": 38
     },
     {
       "id": "techracho-4b67c39e4f",
@@ -238,13 +238,13 @@
       "sub_source": "Zenn",
       "title": "自宅PCを格安ファイルサーバーとして構築してみた",
       "url": "https://zenn.dev/nextbeat/articles/7c820845a91d7d",
-      "score": 5,
+      "score": 6,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 27 Nov 2026 02:09:30 GMT",
-      "hatena_count": 5
+      "hatena_count": 6
     },
     {
       "id": "zenn-4ab8a1658a",

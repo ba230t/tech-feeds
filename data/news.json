@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28T05:33:34.555234+00:00",
+  "updated_at": "2026-11-28T06:08:04.719563+00:00",
   "count": 500,
   "items": [
     {
@@ -6680,6 +6680,34 @@
       "hatena_count": 38
     },
     {
+      "id": "zenn-ab9ad8c2b6",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "思いのままに変換したい〜日本語入力のためのVimプラグインCaskkを作った",
+      "url": "https://zenn.dev/ni57721/articles/vim-caskk-ime",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 27 Nov 2026 11:00:00 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-2222db5e67",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "Agentic CX Designer のアプリケーションを SDK でコード管理してみた",
+      "url": "https://zenn.dev/aws_japan/articles/92ccd59867575d",
+      "score": 1,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 27 Nov 2026 08:48:37 GMT",
+      "hatena_count": 1
+    },
+    {
       "id": "zenn-7b78597240",
       "source": "sns",
       "sub_source": "Zenn",
@@ -6699,13 +6727,13 @@
       "sub_source": "Zenn",
       "title": "GitHub ActionsからPATもGitHub App Private Keyも駆逐する",
       "url": "https://zenn.dev/tmknom/articles/github-app-token-exchange-system",
-      "score": 37,
+      "score": 38,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 27 Nov 2026 02:51:13 GMT",
-      "hatena_count": 37
+      "hatena_count": 38
     },
     {
       "id": "zenn-ff679b22bf",
@@ -6722,60 +6750,18 @@
       "hatena_count": 0
     },
     {
-      "id": "zenn-9d4ed83e42",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "止められないDBをAWS DMSで移行してハマったこと（RDS for Oracle）",
-      "url": "https://zenn.dev/kiri0728/articles/c8d5f349b047dd",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 27 Nov 2026 02:37:34 GMT",
-      "hatena_count": 0
-    },
-    {
-      "id": "zenn-873ed328b4",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "日本語のFull-duplex音声対話モデルを実際に動かしてみた話",
-      "url": "https://zenn.dev/knowledgework/articles/12a80d8cd4b21f",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 27 Nov 2026 02:27:39 GMT",
-      "hatena_count": 0
-    },
-    {
       "id": "zenn-135cc7070a",
       "source": "sns",
       "sub_source": "Zenn",
       "title": "自宅PCを格安ファイルサーバーとして構築してみた",
       "url": "https://zenn.dev/nextbeat/articles/7c820845a91d7d",
-      "score": 5,
+      "score": 6,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 27 Nov 2026 02:09:30 GMT",
-      "hatena_count": 5
-    },
-    {
-      "id": "zenn-8edeafbf9b",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "AIエージェントにWebのファイルを取得させるリスクについて考える",
-      "url": "https://zenn.dev/layerx/articles/65b4828efcaee2",
-      "score": 0,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 27 Nov 2026 01:48:19 GMT",
-      "hatena_count": 0
+      "hatena_count": 6
     },
     {
       "id": "zenn-a46e3fe0e4",
@@ -6783,13 +6769,13 @@
       "sub_source": "Zenn",
       "title": "迷惑メール対策をしているのに、なぜ詐欺メールは届くのか",
       "url": "https://zenn.dev/akagumi/articles/catch-all-phishing-invisible-chars",
-      "score": 55,
+      "score": 62,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 26 Nov 2026 14:08:33 GMT",
-      "hatena_count": 55
+      "hatena_count": 62
     },
     {
       "id": "zenn-9f2f53b9aa",
@@ -6818,6 +6804,20 @@
       ],
       "date": "Thu, 26 Nov 2026 07:01:54 GMT",
       "hatena_count": 3
+    },
+    {
+      "id": "zenn-53ac49b403",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "個人の目標設定に悩んでいたら、アジャイルが言葉を定義し直すきっかけをくれた話",
+      "url": "https://zenn.dev/yoshipon_tech/articles/a0e13c3dbd2f7d",
+      "score": 1,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 26 Nov 2026 05:35:21 GMT",
+      "hatena_count": 1
     },
     {
       "id": "zenn-93700ffb17",
