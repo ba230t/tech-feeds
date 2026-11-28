@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28T05:05:28.763589+00:00",
+  "updated_at": "2026-11-28T05:33:34.555234+00:00",
   "count": 500,
   "items": [
     {
@@ -6699,13 +6699,13 @@
       "sub_source": "Zenn",
       "title": "GitHub ActionsからPATもGitHub App Private Keyも駆逐する",
       "url": "https://zenn.dev/tmknom/articles/github-app-token-exchange-system",
-      "score": 36,
+      "score": 37,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 27 Nov 2026 02:51:13 GMT",
-      "hatena_count": 36
+      "hatena_count": 37
     },
     {
       "id": "zenn-ff679b22bf",
@@ -6733,6 +6733,20 @@
         "Zenn"
       ],
       "date": "Fri, 27 Nov 2026 02:37:34 GMT",
+      "hatena_count": 0
+    },
+    {
+      "id": "zenn-873ed328b4",
+      "source": "sns",
+      "sub_source": "Zenn",
+      "title": "日本語のFull-duplex音声対話モデルを実際に動かしてみた話",
+      "url": "https://zenn.dev/knowledgework/articles/12a80d8cd4b21f",
+      "score": 0,
+      "author": "Zenn",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 27 Nov 2026 02:27:39 GMT",
       "hatena_count": 0
     },
     {
@@ -6769,13 +6783,13 @@
       "sub_source": "Zenn",
       "title": "迷惑メール対策をしているのに、なぜ詐欺メールは届くのか",
       "url": "https://zenn.dev/akagumi/articles/catch-all-phishing-invisible-chars",
-      "score": 40,
+      "score": 55,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 26 Nov 2026 14:08:33 GMT",
-      "hatena_count": 40
+      "hatena_count": 55
     },
     {
       "id": "zenn-9f2f53b9aa",
@@ -6860,20 +6874,6 @@
       ],
       "date": "Wed, 25 Nov 2026 03:53:12 GMT",
       "hatena_count": 1
-    },
-    {
-      "id": "zenn-ba630da2a4",
-      "source": "sns",
-      "sub_source": "Zenn",
-      "title": "Claude CodeとLLM Wikiで全国の自治体の入札参加資格を、一人で回す",
-      "url": "https://zenn.dev/wisevine/articles/97b7ba8db70657",
-      "score": 5,
-      "author": "Zenn",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 25 Nov 2026 00:00:07 GMT",
-      "hatena_count": 5
     },
     {
       "id": "zenn-753757425f",
@@ -6979,7 +6979,7 @@
       "source": "techracho",
       "title": "Ruby のインストールとバージョン管理を rbenv から rv に切り替えた（翻訳）",
       "url": "https://techracho.bpsinc.jp/hachi8833/2026_11_25/159868",
-      "score": 4,
+      "score": 5,
       "author": "Techracho",
       "tags": [
         "Ruby",
@@ -6987,7 +6987,7 @@
         "日本語"
       ],
       "date": "Wed, 25 Nov 2026 08:30:22 +0000",
-      "hatena_count": 4
+      "hatena_count": 5
     },
     {
       "id": "techracho-10e1220cbf",
