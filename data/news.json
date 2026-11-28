@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28T06:38:48.910845+00:00",
+  "updated_at": "2026-11-28T07:05:31.362310+00:00",
   "count": 500,
   "items": [
     {
@@ -6755,13 +6755,13 @@
       "sub_source": "Zenn",
       "title": "自宅PCを格安ファイルサーバーとして構築してみた",
       "url": "https://zenn.dev/nextbeat/articles/7c820845a91d7d",
-      "score": 6,
+      "score": 14,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Fri, 27 Nov 2026 02:09:30 GMT",
-      "hatena_count": 6
+      "hatena_count": 14
     },
     {
       "id": "zenn-a46e3fe0e4",
@@ -6769,13 +6769,13 @@
       "sub_source": "Zenn",
       "title": "迷惑メール対策をしているのに、なぜ詐欺メールは届くのか",
       "url": "https://zenn.dev/akagumi/articles/catch-all-phishing-invisible-chars",
-      "score": 62,
+      "score": 76,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 26 Nov 2026 14:08:33 GMT",
-      "hatena_count": 62
+      "hatena_count": 76
     },
     {
       "id": "zenn-9f2f53b9aa",
@@ -6797,13 +6797,13 @@
       "sub_source": "Zenn",
       "title": "作業を止めずに進めるClaude Codeの/btw・/fork・/rewindなどの使い分け",
       "url": "https://zenn.dev/nextbeat/articles/b0ccca979da06b",
-      "score": 3,
+      "score": 6,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 26 Nov 2026 07:01:54 GMT",
-      "hatena_count": 3
+      "hatena_count": 6
     },
     {
       "id": "zenn-53ac49b403",
