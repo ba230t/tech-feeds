@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28T02:07:02.390451+00:00",
+  "updated_at": "2026-11-28T02:33:17.416475+00:00",
   "count": 500,
   "items": [
     {
@@ -6811,13 +6811,13 @@
       "sub_source": "Zenn",
       "title": "作業を止めずに進めるClaude Codeの/btw・/fork・/rewindなどの使い分け",
       "url": "https://zenn.dev/nextbeat/articles/b0ccca979da06b",
-      "score": 2,
+      "score": 3,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Thu, 26 Nov 2026 07:01:54 GMT",
-      "hatena_count": 2
+      "hatena_count": 3
     },
     {
       "id": "zenn-93700ffb17",
@@ -6839,13 +6839,13 @@
       "sub_source": "Zenn",
       "title": "結局「オントロジー」って何なのさ 〜概念と良さを4つのレイヤーで整理する〜",
       "url": "https://zenn.dev/algomatic/articles/ece749a7e3cb24",
-      "score": 4,
+      "score": 5,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Wed, 25 Nov 2026 09:23:05 GMT",
-      "hatena_count": 4
+      "hatena_count": 5
     },
     {
       "id": "zenn-61230c546e",
@@ -6937,13 +6937,13 @@
       "sub_source": "Zenn",
       "title": "JSConf JP 2026 公開資料・Xアカウントリンクまとめ",
       "url": "https://zenn.dev/h_yoshikawa0724/articles/2026-11-23-jsconf-jp-2026",
-      "score": 14,
+      "score": 15,
       "author": "Zenn",
       "tags": [
         "Zenn"
       ],
       "date": "Mon, 23 Nov 2026 05:38:39 GMT",
-      "hatena_count": 14
+      "hatena_count": 15
     },
     {
       "id": "zenn-5ee0680a16",
